@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_321">Пенсия</string>
+    <string name="word_translate_322">Пенсионер</string>
+    <string name="word_translate_323">Прибыль</string>
+    <string name="word_translate_324">Счёт</string>
+    <string name="word_translate_325">Налог</string>
+    <string name="word_translate_326">Страхование</string>
+    <string name="word_translate_327">платить</string>
+    <string name="word_translate_328">Зарплата</string>
+    <string name="word_translate_329">Контрак</string>
+    <string name="word_translate_330">подписывать</string>
+    <string name="word_translate_331">Расход</string>
+    <string name="word_translate_332">Сдача</string>
+    <string name="word_translate_333">Монета</string>
+    <string name="word_translate_334">Банкнота</string>
+    <string name="word_translate_335">Мелочь</string>
+    <string name="word_translate_336">Премия</string>
+    <string name="word_translate_337">Перевод</string>
+    <string name="word_translate_338">заработать</string>
+    <string name="word_translate_339">Карман</string>
+    <string name="word_translate_340">красть</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_321">Сколько у Вас пенсия?</string>
+    <string name="phrase_translate_322">Он уже пенсонер.</string>
+    <string name="phrase_translate_323">Я получил большую прибыль.</string>
+    <string name="phrase_translate_324">Я открыл счет в банке.</string>
+    <string name="phrase_translate_325">Я плачу много налогов.</string>
+    <string name="phrase_translate_326">У вас есть страховка?</string>
+    <string name="phrase_translate_327">Она платит за меня.</string>
+    <string name="phrase_translate_328">Какая у тебя зарплата?</string>
+    <string name="phrase_translate_329">Он подписал контракт.</string>
+    <string name="phrase_translate_330">Он подписал контракт.</string>
+    <string name="phrase_translate_331">Каковы ваши ежемесячные расходы?</string>
+    <string name="phrase_translate_332">Он оставил сдачу.</string>
+    <string name="phrase_translate_333">У меня очень много монет.</string>
+    <string name="phrase_translate_334">Банкомат не принимает банкноты.</string>
+    <string name="phrase_translate_335">У тебя есть мелочь?</string>
+    <string name="phrase_translate_336">Я получил премию.</string>
+    <string name="phrase_translate_337">Мне нужно сделать денежный перевод.</string>
+    <string name="phrase_translate_338">Я заработал много денег.</string>
+    <string name="phrase_translate_339">Я положил кошелек в карман.</string>
+    <string name="phrase_translate_340">Он украл что-то.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_321">Деревня</string>
+    <string name="word_LT_322">Пенсионер</string>
+    <string name="word_LT_323">Остров</string>
+    <string name="word_LT_324">Зарплата</string>
+    <string name="word_LT_325">Зарплата</string>
+    <string name="word_LT_326">Страхование</string>
+    <string name="word_LT_327">купить</string>
+    <string name="word_LT_328">Месяц</string>
+    <string name="word_LT_329">Контрак</string>
+    <string name="word_LT_330">ездить</string>
+    <string name="word_LT_331">Мэрия</string>
+    <string name="word_LT_332">Документ</string>
+    <string name="word_LT_333">Лето</string>
+    <string name="word_LT_334">Банкнота</string>
+    <string name="word_LT_335">Время</string>
+    <string name="word_LT_336">Зарплата</string>
+    <string name="word_LT_337">Деревня</string>
+    <string name="word_LT_338">продать</string>
+    <string name="word_LT_339">Штаны</string>
+    <string name="word_LT_340">красть</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_321">Универмаг</string>
+    <string name="word_RT_322">Лес</string>
+    <string name="word_RT_323">Лошадь</string>
+    <string name="word_RT_324">Ворота</string>
+    <string name="word_RT_325">Налог</string>
+    <string name="word_RT_326">Счёт</string>
+    <string name="word_RT_327">заработать</string>
+    <string name="word_RT_328">Деньги</string>
+    <string name="word_RT_329">Магазин</string>
+    <string name="word_RT_330">красть</string>
+    <string name="word_RT_331">Стадион</string>
+    <string name="word_RT_332">Животное</string>
+    <string name="word_RT_333">Суббота</string>
+    <string name="word_RT_334">Зима</string>
+    <string name="word_RT_335">Мелочь</string>
+    <string name="word_RT_336">Премия</string>
+    <string name="word_RT_337">Перевод</string>
+    <string name="word_RT_338">купить</string>
+    <string name="word_RT_339">Очки</string>
+    <string name="word_RT_340">подписывать</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_321">Пенсия</string>
+    <string name="word_LB_322">Ночь</string>
+    <string name="word_LB_323">Прибыль</string>
+    <string name="word_LB_324">Счёт</string>
+    <string name="word_LB_325">Остановка</string>
+    <string name="word_LB_326">Мяч</string>
+    <string name="word_LB_327">продать</string>
+    <string name="word_LB_328">Зарплата</string>
+    <string name="word_LB_329">Холод</string>
+    <string name="word_LB_330">подписывать</string>
+    <string name="word_LB_331">Расход</string>
+    <string name="word_LB_332">Звук</string>
+    <string name="word_LB_333">Монета</string>
+    <string name="word_LB_334">Стакан</string>
+    <string name="word_LB_335">Песок</string>
+    <string name="word_LB_336">Деньги</string>
+    <string name="word_LB_337">Город</string>
+    <string name="word_LB_338">заработать</string>
+    <string name="word_LB_339">Карман</string>
+    <string name="word_LB_340">упасть</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_321">Дерево</string>
+    <string name="word_RB_322">Пенсия</string>
+    <string name="word_RB_323">Игра</string>
+    <string name="word_RB_324">Налог</string>
+    <string name="word_RB_325">Музыка</string>
+    <string name="word_RB_326">Кошелек</string>
+    <string name="word_RB_327">платить</string>
+    <string name="word_RB_328">Налог</string>
+    <string name="word_RB_329">Забор</string>
+    <string name="word_RB_330">упасть</string>
+    <string name="word_RB_331">Доход</string>
+    <string name="word_RB_332">Сдача</string>
+    <string name="word_RB_333">Зима</string>
+    <string name="word_RB_334">Осень</string>
+    <string name="word_RB_335">Снег</string>
+    <string name="word_RB_336">Стакан</string>
+    <string name="word_RB_337">Пенсия</string>
+    <string name="word_RB_338">красть</string>
+    <string name="word_RB_339">Игра</string>
+    <string name="word_RB_340">ездить</string>
+    <!-- END -->
+</resources>

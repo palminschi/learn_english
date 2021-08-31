@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_281">Холод</string>
+    <string name="word_translate_282">Мороз</string>
+    <string name="word_translate_283">Облако</string>
+    <string name="word_translate_284">Иней</string>
+    <string name="word_translate_285">Ветер</string>
+    <string name="word_translate_286">Погода</string>
+    <string name="word_translate_287">мокрый</string>
+    <string name="word_translate_288">ветреный</string>
+    <string name="word_translate_289">солнечный</string>
+    <string name="word_translate_290">светить</string>
+    <string name="word_translate_291">таять</string>
+    <string name="word_translate_292">облачный</string>
+    <string name="word_translate_293">пасмурный</string>
+    <string name="word_translate_294">замерзать</string>
+    <string name="word_translate_295">просыпаться</string>
+    <string name="word_translate_296">Время года</string>
+    <string name="word_translate_297">Осень</string>
+    <string name="word_translate_298">Весна</string>
+    <string name="word_translate_299">тёмный</string>
+    <string name="word_translate_300">светлый</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_281">Невыносимый холод.</string>
+    <string name="phrase_translate_282">Назавтра обещают мороз.</string>
+    <string name="phrase_translate_283">Облака плывут по небу.</string>
+    <string name="phrase_translate_284">Иней покрывает деревья и луга.</string>
+    <string name="phrase_translate_285">Дует сильный ветер.</string>
+    <string name="phrase_translate_286">Погода сегодня хорошая.</string>
+    <string name="phrase_translate_287">Моя обувь мокрая.</string>
+    <string name="phrase_translate_288">На море всегда ветрено.</string>
+    <string name="phrase_translate_289">Сегодня солнечно.</string>
+    <string name="phrase_translate_290">Солнце светило весь день.</string>
+    <string name="phrase_translate_291">Снег растаял.</string>
+    <string name="phrase_translate_292">Погода будет от ясной до облачной.</string>
+    <string name="phrase_translate_293">Пасмурный день.</string>
+    <string name="phrase_translate_294">Озёра и реки замёрзли.</string>
+    <string name="phrase_translate_295">Весной природа просыпается.</string>
+    <string name="phrase_translate_296">Моё любимое время года — лето.</string>
+    <string name="phrase_translate_297">Осенью часто идёт дождь.</string>
+    <string name="phrase_translate_298">Весной всё красиво.</string>
+    <string name="phrase_translate_299">Медленно темнеет.</string>
+    <string name="phrase_translate_300">светлым днём</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_281">Холод</string>
+    <string name="word_LT_282">Лето</string>
+    <string name="word_LT_283">Вода</string>
+    <string name="word_LT_284">Иней</string>
+    <string name="word_LT_285">Ответ</string>
+    <string name="word_LT_286">Дождь</string>
+    <string name="word_LT_287">тепло</string>
+    <string name="word_LT_288">облачный</string>
+    <string name="word_LT_289">сегодня</string>
+    <string name="word_LT_290">думать</string>
+    <string name="word_LT_291">искать</string>
+    <string name="word_LT_292">холодно</string>
+    <string name="word_LT_293">тёмный</string>
+    <string name="word_LT_294">замерзать</string>
+    <string name="word_LT_295">лечить</string>
+    <string name="word_LT_296">Время года</string>
+    <string name="word_LT_297">Облако</string>
+    <string name="word_LT_298">Лес</string>
+    <string name="word_LT_299">тёмный</string>
+    <string name="word_LT_300">мокрый</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_281">Солнце</string>
+    <string name="word_RT_282">Мороз</string>
+    <string name="word_RT_283">Зима</string>
+    <string name="word_RT_284">Погода</string>
+    <string name="word_RT_285">Ветер</string>
+    <string name="word_RT_286">Правила</string>
+    <string name="word_RT_287">холодно</string>
+    <string name="word_RT_288">ветреный</string>
+    <string name="word_RT_289">холодно</string>
+    <string name="word_RT_290">кушать</string>
+    <string name="word_RT_291">таять</string>
+    <string name="word_RT_292">солнечный</string>
+    <string name="word_RT_293">пасмурный</string>
+    <string name="word_RT_294">получать</string>
+    <string name="word_RT_295">просыпаться</string>
+    <string name="word_RT_296">Парк</string>
+    <string name="word_RT_297">Осень</string>
+    <string name="word_RT_298">Холод</string>
+    <string name="word_RT_299">жёлтый</string>
+    <string name="word_RT_300">ветреный</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_281">Лето</string>
+    <string name="word_LB_282">Сын</string>
+    <string name="word_LB_283">Облако</string>
+    <string name="word_LB_284">Песок</string>
+    <string name="word_LB_285">Лед</string>
+    <string name="word_LB_286">Замок</string>
+    <string name="word_LB_287">мокрый</string>
+    <string name="word_LB_288">пасмурный</string>
+    <string name="word_LB_289">солнечный</string>
+    <string name="word_LB_290">светить</string>
+    <string name="word_LB_291">работать</string>
+    <string name="word_LB_292">пасмурный</string>
+    <string name="word_LB_293">мокрый</string>
+    <string name="word_LB_294">отправить</string>
+    <string name="word_LB_295">светить</string>
+    <string name="word_LB_296">Болезнь</string>
+    <string name="word_LB_297">Весна</string>
+    <string name="word_LB_298">Время года</string>
+    <string name="word_LB_299">зелёный</string>
+    <string name="word_LB_300">светлый</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_281">Море</string>
+    <string name="word_RB_282">Зима</string>
+    <string name="word_RB_283">Осень</string>
+    <string name="word_RB_284">Снег</string>
+    <string name="word_RB_285">Вопрос</string>
+    <string name="word_RB_286">Погода</string>
+    <string name="word_RB_287">медлено</string>
+    <string name="word_RB_288">мокрый</string>
+    <string name="word_RB_289">тепло</string>
+    <string name="word_RB_290">путешествовать</string>
+    <string name="word_RB_291">любить</string>
+    <string name="word_RB_292">облачный</string>
+    <string name="word_RB_293">тепло</string>
+    <string name="word_RB_294">лечить</string>
+    <string name="word_RB_295">замерзать</string>
+    <string name="word_RB_296">Лес</string>
+    <string name="word_RB_297">Мороз</string>
+    <string name="word_RB_298">Весна</string>
+    <string name="word_RB_299">розовый</string>
+    <string name="word_RB_300">тёмный</string>
+    <!-- END -->
+</resources>

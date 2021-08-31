@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_241">Повар</string>
+    <string name="word_translate_242">Лапша</string>
+    <string name="word_translate_243">Суп</string>
+    <string name="word_translate_244">Мука</string>
+    <string name="word_translate_245">вкусный</string>
+    <string name="word_translate_246">готовить</string>
+    <string name="word_translate_247">Вкус</string>
+    <string name="word_translate_248">Диета</string>
+    <string name="word_translate_249">Десерт</string>
+    <string name="word_translate_250">Мороженое</string>
+    <string name="word_translate_251">Сладости</string>
+    <string name="word_translate_252">Колбаса</string>
+    <string name="word_translate_253">Котлета</string>
+    <string name="word_translate_254">Грибы</string>
+    <string name="word_translate_255">Каша</string>
+    <string name="word_translate_256">Молоко</string>
+    <string name="word_translate_257">Морковь</string>
+    <string name="word_translate_258">сладкий</string>
+    <string name="word_translate_259">острый</string>
+    <string name="word_translate_260">Перец</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_241">Он работает поваром.</string>
+    <string name="phrase_translate_242">Я приготовил лапшу.</string>
+    <string name="phrase_translate_243">Суп вкусный</string>
+    <string name="phrase_translate_244">Мне нужно купить муку.</string>
+    <string name="phrase_translate_245">Она готовит вкусно.</string>
+    <string name="phrase_translate_246">Мне не нравится готовить.</string>
+    <string name="phrase_translate_247">Какой вкус?</string>
+    <string name="phrase_translate_248">Я держу диету.</string>
+    <string name="phrase_translate_249">Что будет на десерт?</string>
+    <string name="phrase_translate_250">Я ем мороженое.</string>
+    <string name="phrase_translate_251">Дети любят сладости.</string>
+    <string name="phrase_translate_252">Я купил колбасу.</string>
+    <string name="phrase_translate_253">Лапша с котлетой</string>
+    <string name="phrase_translate_254">Мы ищем грибы.</string>
+    <string name="phrase_translate_255">По утрам я ем кашу.</string>
+    <string name="phrase_translate_256">Кофе с молоком</string>
+    <string name="phrase_translate_257">Морковки вкусные.</string>
+    <string name="phrase_translate_258">Морожное слишком сладкое.</string>
+    <string name="phrase_translate_259">Пицца была острой.</string>
+    <string name="phrase_translate_260">без переца, пожалуйста</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_241">Повар</string>
+    <string name="word_LT_242">Вода</string>
+    <string name="word_LT_243">Суп</string>
+    <string name="word_LT_244">Салфетка</string>
+    <string name="word_LT_245">вкусный</string>
+    <string name="word_LT_246">играть</string>
+    <string name="word_LT_247">Салфетка</string>
+    <string name="word_LT_248">Ужин</string>
+    <string name="word_LT_249">Завтрак</string>
+    <string name="word_LT_250">Еда</string>
+    <string name="word_LT_251">Нож</string>
+    <string name="word_LT_252">Официант</string>
+    <string name="word_LT_253">Ложка</string>
+    <string name="word_LT_254">Грибы</string>
+    <string name="word_LT_255">Ресторан</string>
+    <string name="word_LT_256">Молоко</string>
+    <string name="word_LT_257">Дом</string>
+    <string name="word_LT_258">маленький</string>
+    <string name="word_LT_259">сильный</string>
+    <string name="word_LT_260">Звезда</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_241">Официант</string>
+    <string name="word_RT_242">Лапша</string>
+    <string name="word_RT_243">Чайник</string>
+    <string name="word_RT_244">Бутылка</string>
+    <string name="word_RT_245">слабый</string>
+    <string name="word_RT_246">петь</string>
+    <string name="word_RT_247">Тарелка</string>
+    <string name="word_RT_248">Обед</string>
+    <string name="word_RT_249">Десерт</string>
+    <string name="word_RT_250">Салфетка</string>
+    <string name="word_RT_251">Рот</string>
+    <string name="word_RT_252">Колбаса</string>
+    <string name="word_RT_253">Вилка</string>
+    <string name="word_RT_254">Бутылка</string>
+    <string name="word_RT_255">Подвал</string>
+    <string name="word_RT_256">Официант</string>
+    <string name="word_RT_257">Деньги</string>
+    <string name="word_RT_258">большой</string>
+    <string name="word_RT_259">острый</string>
+    <string name="word_RT_260">Чаевые</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_241">Музыка</string>
+    <string name="word_LB_242">Напиток</string>
+    <string name="word_LB_243">Счёт</string>
+    <string name="word_LB_244">Ложка</string>
+    <string name="word_LB_245">большой</string>
+    <string name="word_LB_246">готовить</string>
+    <string name="word_LB_247">Еда</string>
+    <string name="word_LB_248">Вечер</string>
+    <string name="word_LB_249">Чайник</string>
+    <string name="word_LB_250">Нож</string>
+    <string name="word_LB_251">Сладости</string>
+    <string name="word_LB_252">Вилка</string>
+    <string name="word_LB_253">Магазин</string>
+    <string name="word_LB_254">Самолет</string>
+    <string name="word_LB_255">Каша</string>
+    <string name="word_LB_256">Цветок</string>
+    <string name="word_LB_257">Морковь</string>
+    <string name="word_LB_258">быстрый</string>
+    <string name="word_LB_259">большой</string>
+    <string name="word_LB_260">Сила</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_241">Самолет</string>
+    <string name="word_RB_242">Чай</string>
+    <string name="word_RB_243">Одежда</string>
+    <string name="word_RB_244">Мука</string>
+    <string name="word_RB_245">медленный</string>
+    <string name="word_RB_246">дарить</string>
+    <string name="word_RB_247">Вкус</string>
+    <string name="word_RB_248">Диета</string>
+    <string name="word_RB_249">Обед</string>
+    <string name="word_RB_250">Мороженое</string>
+    <string name="word_RB_251">Ложка</string>
+    <string name="word_RB_252">Тарелка</string>
+    <string name="word_RB_253">Котлета</string>
+    <string name="word_RB_254">Фотография</string>
+    <string name="word_RB_255">Деньги</string>
+    <string name="word_RB_256">Чайник</string>
+    <string name="word_RB_257">Люди</string>
+    <string name="word_RB_258">сладкий</string>
+    <string name="word_RB_259">медленный</string>
+    <string name="word_RB_260">Перец</string>
+    <!-- END -->
+</resources>

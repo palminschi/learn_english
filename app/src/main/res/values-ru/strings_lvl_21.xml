@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_401">Вилка</string>
+    <string name="word_translate_402">Раковина</string>
+    <string name="word_translate_403">похожий</string>
+    <string name="word_translate_404">сломанный</string>
+    <string name="word_translate_405">Микроволновка</string>
+    <string name="word_translate_406">Посудомойка</string>
+    <string name="word_translate_407">Мусорное ведро</string>
+    <string name="word_translate_408">заказывать</string>
+    <string name="word_translate_409">знать</string>
+    <string name="word_translate_410">Банка</string>
+    <string name="word_translate_411">тёмный</string>
+    <string name="word_translate_412">светлый</string>
+    <string name="word_translate_413">дорогой</string>
+    <string name="word_translate_414">совсем</string>
+    <string name="word_translate_415">достаточно</string>
+    <string name="word_translate_416">Учебник</string>
+    <string name="word_translate_417">Медсестра</string>
+    <string name="word_translate_418">Человек</string>
+    <string name="word_translate_419">Бассейн</string>
+    <string name="word_translate_420">плавать</string>
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_401">Я вынул вилку из розетки.</string>
+    <string name="phrase_translate_402">Он моет руки в раковине</string>
+    <string name="phrase_translate_403">Они очень похожи.</string>
+    <string name="phrase_translate_404">Моя машина сломалась.</string>
+    <string name="phrase_translate_405">Я поставил еду в микровалновку.</string>
+    <string name="phrase_translate_406">Я купил посудомойку.</string>
+    <string name="phrase_translate_407">Я бросаю мусор в мусорном ведре.</string>
+    <string name="phrase_translate_408">Что ты заказал?</string>
+    <string name="phrase_translate_409">Ты его знаешь?</string>
+    <string name="phrase_translate_410">консервная банка с мясом</string>
+    <string name="phrase_translate_411">Ночью темно.</string>
+    <string name="phrase_translate_412">Машина светло-серого цвета.</string>
+    <string name="phrase_translate_413">Это слишком дорого.</string>
+    <string name="phrase_translate_414">Весь мир</string>
+    <string name="phrase_translate_415">Я покушал достаточно.</string>
+    <string name="phrase_translate_416">Изучаю немецкий из учебника.</string>
+    <string name="phrase_translate_417">Медсестра сделала укол.</string>
+    <string name="phrase_translate_418">Один человек мне помог.</string>
+    <string name="phrase_translate_419">Я часто хожу в бассейн.</string>
+    <string name="phrase_translate_420">Она не умеет плавать.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_401">Молния</string>
+    <string name="word_LT_402">Шкаф</string>
+    <string name="word_LT_403">богатый</string>
+    <string name="word_LT_404">первый</string>
+    <string name="word_LT_405">Магазин</string>
+    <string name="word_LT_406">Суп</string>
+    <string name="word_LT_407">Кухня</string>
+    <string name="word_LT_408">заказывать</string>
+    <string name="word_LT_409">жить</string>
+    <string name="word_LT_410">Стакан</string>
+    <string name="word_LT_411">тёмный</string>
+    <string name="word_LT_412">мокрый</string>
+    <string name="word_LT_413">маленький</string>
+    <string name="word_LT_414">сегодня</string>
+    <string name="word_LT_415">ничего</string>
+    <string name="word_LT_416">Цифра</string>
+    <string name="word_LT_417">Полицейский</string>
+    <string name="word_LT_418">Брат</string>
+    <string name="word_LT_419">Остров</string>
+    <string name="word_LT_420">дарить</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_401">Галстук</string>
+    <string name="word_RT_402">Официант</string>
+    <string name="word_RT_403">золотой</string>
+    <string name="word_RT_404">женатый</string>
+    <string name="word_RT_405">Микроволновка</string>
+    <string name="word_RT_406">Чайник</string>
+    <string name="word_RT_407">Мусорное ведро</string>
+    <string name="word_RT_408">заработать</string>
+    <string name="word_RT_409">искать</string>
+    <string name="word_RT_410">Банка</string>
+    <string name="word_RT_411">жёлтый</string>
+    <string name="word_RT_412">ветреный</string>
+    <string name="word_RT_413">большой</string>
+    <string name="word_RT_414">совсем</string>
+    <string name="word_RT_415">мало</string>
+    <string name="word_RT_416">Учебник</string>
+    <string name="word_RT_417">Медсестра</string>
+    <string name="word_RT_418">Сын</string>
+    <string name="word_RT_419">Бассейн</string>
+    <string name="word_RT_420">чистить</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_401">Вилка</string>
+    <string name="word_LB_402">Музыка</string>
+    <string name="word_LB_403">светлый</string>
+    <string name="word_LB_404">последний</string>
+    <string name="word_LB_405">Суп</string>
+    <string name="word_LB_406">Посудомойка</string>
+    <string name="word_LB_407">Напиток</string>
+    <string name="word_LB_408">продать</string>
+    <string name="word_LB_409">знать</string>
+    <string name="word_LB_410">Вилка</string>
+    <string name="word_LB_411">зелёный</string>
+    <string name="word_LB_412">светлый</string>
+    <string name="word_LB_413">дорогой</string>
+    <string name="word_LB_414">солнечный</string>
+    <string name="word_LB_415">много</string>
+    <string name="word_LB_416">Буква</string>
+    <string name="word_LB_417">Учитель</string>
+    <string name="word_LB_418">Человек</string>
+    <string name="word_LB_419">Цветок</string>
+    <string name="word_LB_420">плавать</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_401">Джинсы</string>
+    <string name="word_RB_402">Раковина</string>
+    <string name="word_RB_403">похожий</string>
+    <string name="word_RB_404">сломанный</string>
+    <string name="word_RB_405">Кастрюля</string>
+    <string name="word_RB_406">Холодильник</string>
+    <string name="word_RB_407">Чай</string>
+    <string name="word_RB_408">платить</string>
+    <string name="word_RB_409">любить</string>
+    <string name="word_RB_410">Нож</string>
+    <string name="word_RB_411">розовый</string>
+    <string name="word_RB_412">тёмный</string>
+    <string name="word_RB_413">сладкий</string>
+    <string name="word_RB_414">тепло</string>
+    <string name="word_RB_415">достаточно</string>
+    <string name="word_RB_416">Слово</string>
+    <string name="word_RB_417">Строитель</string>
+    <string name="word_RB_418">Солнце</string>
+    <string name="word_RB_419">Автомобиль</string>
+    <string name="word_RB_420">готовить</string>
+    <!-- END -->
+</resources>

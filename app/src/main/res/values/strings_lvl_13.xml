@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_title_241" translatable="false">el cocinero</string>
+    <string name="word_title_242" translatable="false">Los fideos</string>
+    <string name="word_title_243" translatable="false">la sopa</string>
+    <string name="word_title_244" translatable="false">la harina</string>
+    <string name="word_title_245" translatable="false">sabroso</string>
+    <string name="word_title_246" translatable="false">cocinar</string>
+    <string name="word_title_247" translatable="false">el sabor</string>
+    <string name="word_title_248" translatable="false">la dieta</string>
+    <string name="word_title_249" translatable="false">el postre</string>
+    <string name="word_title_250" translatable="false">el helado</string>
+    <string name="word_title_251" translatable="false">los dulces</string>
+    <string name="word_title_252" translatable="false">la salchicha</string>
+    <string name="word_title_253" translatable="false">la chuleta</string>
+    <string name="word_title_254" translatable="false">el hongo</string>
+    <string name="word_title_255" translatable="false">la papilla</string>
+    <string name="word_title_256" translatable="false">La leche</string>
+    <string name="word_title_257" translatable="false">la zanahoria</string>
+    <string name="word_title_258" translatable="false">dulce</string>
+    <string name="word_title_259" translatable="false">picante</string>
+    <string name="word_title_260" translatable="false">el chile</string>
+
+    <string name="word_translate_241">cook</string>
+    <string name="word_translate_242">noodles</string>
+    <string name="word_translate_243">soup</string>
+    <string name="word_translate_244">flour</string>
+    <string name="word_translate_245">delicious</string>
+    <string name="word_translate_246">to cook</string>
+    <string name="word_translate_247">taste</string>
+    <string name="word_translate_248">diet</string>
+    <string name="word_translate_249">dessert</string>
+    <string name="word_translate_250">ice cream</string>
+    <string name="word_translate_251">sweets</string>
+    <string name="word_translate_252">sausage</string>
+    <string name="word_translate_253">cutlet</string>
+    <string name="word_translate_254">mushroom</string>
+    <string name="word_translate_255">porridge</string>
+    <string name="word_translate_256">milk</string>
+    <string name="word_translate_257">carrot</string>
+    <string name="word_translate_258">sweet</string>
+    <string name="word_translate_259">spicy</string>
+    <string name="word_translate_260">pepper</string>
+    <!-- END -->
+
+    <!-- PHRASE + TRANSLATE -->
+    <string name="phrase_241" translatable="false">Trabaja como cocinero.</string>
+    <string name="phrase_translate_241">He works as a cook.</string>
+
+    <string name="phrase_242" translatable="false">He cocinado fideos.</string>
+    <string name="phrase_translate_242">I have cooked noodles.</string>
+
+    <string name="phrase_243" translatable="false">La sopa está deliciosa.</string>
+    <string name="phrase_translate_243">The soup is delicious.</string>
+
+    <string name="phrase_244" translatable="false">Tengo que comprar harina.</string>
+    <string name="phrase_translate_244">I have to buy flour.</string>
+
+    <string name="phrase_245" translatable="false">Ella cocina muy deliciosa.</string>
+    <string name="phrase_translate_245">She cooks very delicious.</string>
+
+    <string name="phrase_246" translatable="false">No me gusta cocinar.</string>
+    <string name="phrase_translate_246">I don\'t like cooking.</string>
+
+    <string name="phrase_247" translatable="false">¿Que sabor?</string>
+    <string name="phrase_translate_247">What taste?</string>
+
+    <string name="phrase_248" translatable="false">Estoy a dieta.</string>
+    <string name="phrase_translate_248">I am on a diet.</string>
+
+    <string name="phrase_249" translatable="false">¿Que hay de postre?</string>
+    <string name="phrase_translate_249">What\'s for dessert?</string>
+
+    <string name="phrase_250" translatable="false">Estoy comiendo helado.</string>
+    <string name="phrase_translate_250">I\'m eating ice cream.</string>
+
+    <string name="phrase_251" translatable="false">A los niños les encantan los dulces.</string>
+    <string name="phrase_translate_251">Children love sweets.</string>
+
+    <string name="phrase_252" translatable="false">Compré una salchicha.</string>
+    <string name="phrase_translate_252">I\'ve bought a sausage.</string>
+
+    <string name="phrase_253" translatable="false">Pasta con chuleta</string>
+    <string name="phrase_translate_253">Pasta with cutlet</string>
+
+    <string name="phrase_254" translatable="false">Buscamos hongos.</string>
+    <string name="phrase_translate_254">We are searching for mushrooms.</string>
+
+    <string name="phrase_255" translatable="false">Como papilla por la mañana.</string>
+    <string name="phrase_translate_255">I eat porridge in the morning.</string>
+
+    <string name="phrase_256" translatable="false">Café con leche.</string>
+    <string name="phrase_translate_256">Coffee with milk.</string>
+
+    <string name="phrase_257" translatable="false">Las zanahorias están riquísimas.</string>
+    <string name="phrase_translate_257">The carrots are delicious.</string>
+
+    <string name="phrase_258" translatable="false">El helado es demasiado dulce.</string>
+    <string name="phrase_translate_258">The ice cream is too sweet.</string>
+
+    <string name="phrase_259" translatable="false">La pizza estaba picante.</string>
+    <string name="phrase_translate_259">The pizza was spicy.</string>
+
+    <string name="phrase_260" translatable="false">Sin pimienta, por favor.</string>
+    <string name="phrase_translate_260">Without pepper, please.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_241">cook</string>
+    <string name="word_LT_242">water</string>
+    <string name="word_LT_243">soup</string>
+    <string name="word_LT_244">napkin</string>
+    <string name="word_LT_245">delicious</string>
+    <string name="word_LT_246">to play</string>
+    <string name="word_LT_247">napkin</string>
+    <string name="word_LT_248">dinner</string>
+    <string name="word_LT_249">breakfast</string>
+    <string name="word_LT_250">food</string>
+    <string name="word_LT_251">knife</string>
+    <string name="word_LT_252">waiter</string>
+    <string name="word_LT_253">spoon</string>
+    <string name="word_LT_254">mushroom</string>
+    <string name="word_LT_255">restaurant</string>
+    <string name="word_LT_256">milk</string>
+    <string name="word_LT_257">house</string>
+    <string name="word_LT_258">little</string>
+    <string name="word_LT_259">strong</string>
+    <string name="word_LT_260">star</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_241">waiter</string>
+    <string name="word_RT_242">noodles</string>
+    <string name="word_RT_243">kettle</string>
+    <string name="word_RT_244">bottle</string>
+    <string name="word_RT_245">weak</string>
+    <string name="word_RT_246">to sing</string>
+    <string name="word_RT_247">plate</string>
+    <string name="word_RT_248">lunch</string>
+    <string name="word_RT_249">dessert</string>
+    <string name="word_RT_250">napkin</string>
+    <string name="word_RT_251">mouth</string>
+    <string name="word_RT_252">sausage</string>
+    <string name="word_RT_253">fork</string>
+    <string name="word_RT_254">bottle</string>
+    <string name="word_RT_255">basement</string>
+    <string name="word_RT_256">waiter</string>
+    <string name="word_RT_257">money</string>
+    <string name="word_RT_258">big</string>
+    <string name="word_RT_259">spicy</string>
+    <string name="word_RT_260">tip</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_241">music</string>
+    <string name="word_LB_242">drink</string>
+    <string name="word_LB_243">bill</string>
+    <string name="word_LB_244">spoon</string>
+    <string name="word_LB_245">big</string>
+    <string name="word_LB_246">to cook</string>
+    <string name="word_LB_247">food</string>
+    <string name="word_LB_248">evening</string>
+    <string name="word_LB_249">kettle</string>
+    <string name="word_LB_250">knife</string>
+    <string name="word_LB_251">sweets</string>
+    <string name="word_LB_252">fork</string>
+    <string name="word_LB_253">shop</string>
+    <string name="word_LB_254">plane</string>
+    <string name="word_LB_255">porridge</string>
+    <string name="word_LB_256">flower</string>
+    <string name="word_LB_257">carrot</string>
+    <string name="word_LB_258">fast</string>
+    <string name="word_LB_259">big</string>
+    <string name="word_LB_260">strength</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_241">plane</string>
+    <string name="word_RB_242">tea</string>
+    <string name="word_RB_243">clothing</string>
+    <string name="word_RB_244">flour</string>
+    <string name="word_RB_245">slow</string>
+    <string name="word_RB_246">to give</string>
+    <string name="word_RB_247">taste</string>
+    <string name="word_RB_248">diet</string>
+    <string name="word_RB_249">lunch</string>
+    <string name="word_RB_250">ice cream</string>
+    <string name="word_RB_251">spoon</string>
+    <string name="word_RB_252">taste</string>
+    <string name="word_RB_253">cutlet</string>
+    <string name="word_RB_254">photo</string>
+    <string name="word_RB_255">money</string>
+    <string name="word_RB_256">kettle</string>
+    <string name="word_RB_257">people</string>
+    <string name="word_RB_258">sweet</string>
+    <string name="word_RB_259">slow</string>
+    <string name="word_RB_260">pepper</string>
+    <!-- END -->
+</resources>

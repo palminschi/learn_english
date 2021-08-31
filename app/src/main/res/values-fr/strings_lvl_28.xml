@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_541">trouver</string>
+    <string name="word_translate_542">le Trésor</string>
+    <string name="word_translate_543">chercher</string>
+    <string name="word_translate_544">la recherche</string>
+    <string name="word_translate_545">la prison</string>
+    <string name="word_translate_546">le criminel</string>
+    <string name="word_translate_547">le pistolet</string>
+    <string name="word_translate_548">tuer</string>
+    <string name="word_translate_549">casser</string>
+    <string name="word_translate_550">l\'amende</string>
+    <string name="word_translate_551">punir</string>
+    <string name="word_translate_552">la peur</string>
+    <string name="word_translate_554">sauver</string>
+    <string name="word_translate_555">la roue</string>
+    <string name="word_translate_556">le pneu</string>
+    <string name="word_translate_557">la roue</string>
+    <string name="word_translate_558">la batterie</string>
+    <string name="word_translate_559">le coffre</string>
+    <string name="word_translate_560">l\'embouteillage</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_541">Je n\'arrive pas à te trouver.</string>
+    <string name="phrase_translate_542">Vous avez trouvé le trésor.</string>
+    <string name="phrase_translate_543">Il cherche un travail.</string>
+    <string name="phrase_translate_544">Il cherche le bonheur.</string>
+    <string name="phrase_translate_545">Il est en prison.</string>
+    <string name="phrase_translate_546">La police recherche le criminel.</string>
+    <string name="phrase_translate_547">Il a une arme.</string>
+    <string name="phrase_translate_548">Il n\'a tué personne.</string>
+    <string name="phrase_translate_549">Le chauffeur a enfreint les règles.</string>
+    <string name="phrase_translate_550">Elle a reçu une amende.</string>
+    <string name="phrase_translate_551">Ils le punissent d\'une amende</string>
+    <string name="phrase_translate_552">Il a peur.</string>
+    <string name="phrase_translate_553">S\'amuser!</string>
+    <string name="phrase_translate_554">Je l\'ai sauvé.</string>
+    <string name="phrase_translate_555">La voiture a quatre roues.</string>
+    <string name="phrase_translate_556">J\'ai acheté des pneus hiver.</string>
+    <string name="phrase_translate_557">Je tiens le volant.</string>
+    <string name="phrase_translate_558">La batterie est vide.</string>
+    <string name="phrase_translate_559">Mettez le sac dans le coffre.</string>
+    <string name="phrase_translate_560">Il y a un embouteillage.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_541">attendre</string>
+    <string name="word_LT_542">le Trésor</string>
+    <string name="word_LT_543">vivre</string>
+    <string name="word_LT_544">le soin</string>
+    <string name="word_LT_545">la course</string>
+    <string name="word_LT_546">le policier</string>
+    <string name="word_LT_547">le pistolet</string>
+    <string name="word_LT_548">oublier</string>
+    <string name="word_LT_549">casser</string>
+    <string name="word_LT_550">la pensée</string>
+    <string name="word_LT_551">casser</string>
+    <string name="word_LT_552">la peur</string>
+    <string name="word_LT_553">le plaisir</string>
+    <string name="word_LT_554">donner</string>
+    <string name="word_LT_555">le train</string>
+    <string name="word_LT_556">l\'appartement</string>
+    <string name="word_LT_557">La terre</string>
+    <string name="word_LT_558">le parc</string>
+    <string name="word_LT_559">l\'Ile</string>
+    <string name="word_LT_560">l\'embouteillage</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_541">oublier</string>
+    <string name="word_RT_542">les cheveux</string>
+    <string name="word_RT_543">chercher</string>
+    <string name="word_RT_544">l\'aide</string>
+    <string name="word_RT_545">la salle de bain</string>
+    <string name="word_RT_546">le producteur</string>
+    <string name="word_RT_547">la bouilloire</string>
+    <string name="word_RT_548">chercher</string>
+    <string name="word_RT_549">manger</string>
+    <string name="word_RT_550">la pièce</string>
+    <string name="word_RT_551">tester</string>
+    <string name="word_RT_552">la joie</string>
+    <string name="word_RT_553">la musique</string>
+    <string name="word_RT_554">jouer</string>
+    <string name="word_RT_555">la roue</string>
+    <string name="word_RT_556">le pneu</string>
+    <string name="word_RT_557">la bicyclette</string>
+    <string name="word_RT_558">le train</string>
+    <string name="word_RT_559">le coffre</string>
+    <string name="word_RT_560">la formation</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_541">contrôller</string>
+    <string name="word_LB_542">le capuchon</string>
+    <string name="word_LB_543">aller</string>
+    <string name="word_LB_544">l\'affaire</string>
+    <string name="word_LB_545">le chien</string>
+    <string name="word_LB_546">l\'acteur</string>
+    <string name="word_LB_547">la chasse</string>
+    <string name="word_LB_548">à savoir</string>
+    <string name="word_LB_549">traverser</string>
+    <string name="word_LB_550">l\'amende</string>
+    <string name="word_LB_551">guérir</string>
+    <string name="word_LB_552">le jouet</string>
+    <string name="word_LB_553">le restaurant</string>
+    <string name="word_LB_554">féliciter</string>
+    <string name="word_LB_555">l\'avion</string>
+    <string name="word_LB_556">le tracteur</string>
+    <string name="word_LB_557">l\'autoroute</string>
+    <string name="word_LB_558">la batterie</string>
+    <string name="word_LB_559">les vacances</string>
+    <string name="word_LB_560">l\'autoroute</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_541">trouver</string>
+    <string name="word_RB_542">la liste</string>
+    <string name="word_RB_543">aimer</string>
+    <string name="word_RB_544">la recherche</string>
+    <string name="word_RB_545">la prison</string>
+    <string name="word_RB_546">le criminel</string>
+    <string name="word_RB_547">l\'habillement</string>
+    <string name="word_RB_548">tuer</string>
+    <string name="word_RB_549">voyager</string>
+    <string name="word_RB_550">l\'âme</string>
+    <string name="word_RB_551">punir</string>
+    <string name="word_RB_552">la boutique</string>
+    <string name="word_RB_553">le papillon</string>
+    <string name="word_RB_554">sauver</string>
+    <string name="word_RB_555">les escaliers</string>
+    <string name="word_RB_556">station-essence</string>
+    <string name="word_RB_557">la roue</string>
+    <string name="word_RB_558">la musique</string>
+    <string name="word_RB_559">la mer</string>
+    <string name="word_RB_560">station-essence</string>
+    <!-- END -->
+</resources>

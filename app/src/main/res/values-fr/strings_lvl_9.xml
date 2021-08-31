@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_161">le serveur</string>
+    <string name="word_translate_162">le pourboire</string>
+    <string name="word_translate_163">l\'addition</string>
+    <string name="word_translate_164">la remise</string>
+    <string name="word_translate_165">l\'argent</string>
+    <string name="word_translate_166">le prix</string>
+    <string name="word_translate_167">le repas</string>
+    <string name="word_translate_168">le dîner</string>
+    <string name="word_translate_169">le déjeuner</string>
+    <string name="word_translate_170">la serviette</string>
+    <string name="word_translate_171">le couteau</string>
+    <string name="word_translate_172">la plaque</string>
+    <string name="word_translate_173">la cuillère</string>
+    <string name="word_translate_174">la bouteille</string>
+    <string name="word_translate_175">le vin</string>
+    <string name="word_translate_176">la bouilloire</string>
+    <string name="word_translate_177">la taille</string>
+    <string name="word_translate_178">peu</string>
+    <string name="word_translate_179">grand</string>
+    <string name="word_translate_180">la force</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_161">Je travaille comme serveur.</string>
+    <string name="phrase_translate_162">Il a laissé un pourboire.</string>
+    <string name="phrase_translate_163">L\'addition s\'il vous plait!</string>
+    <string name="phrase_translate_164">Beaucoup de réductions aujourd\'hui.</string>
+    <string name="phrase_translate_165">Je n\'ai que de l\'argent liquide.</string>
+    <string name="phrase_translate_166">Le prix est trop élevé.</string>
+    <string name="phrase_translate_167">Bon appétit!</string>
+    <string name="phrase_translate_168">Dîner au restaurant</string>
+    <string name="phrase_translate_169">Le repas est prêt.</string>
+    <string name="phrase_translate_170">Puis-je avoir une autre serviette ?</string>
+    <string name="phrase_translate_171">Le couteau ne coupe pas.</string>
+    <string name="phrase_translate_172">Apportez l\'assiette, s\'il vous plaît.</string>
+    <string name="phrase_translate_173">Je mange ça avec une cuillère.</string>
+    <string name="phrase_translate_174">Une bouteille de lait.</string>
+    <string name="phrase_translate_175">Nous boirons du vin.</string>
+    <string name="phrase_translate_176">La bouilloire est en train de bouillir.</string>
+    <string name="phrase_translate_177">Quelle taille de chaussures avez-vous ?</string>
+    <string name="phrase_translate_178">Il est encore petit.</string>
+    <string name="phrase_translate_179">Le pantalon est trop grand pour moi.</string>
+    <string name="phrase_translate_180">Il est très fort.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_161">le sous-sol</string>
+    <string name="word_LT_162">l\'eau</string>
+    <string name="word_LT_163">le train</string>
+    <string name="word_LT_164">la serviette</string>
+    <string name="word_LT_165">l\'argent</string>
+    <string name="word_LT_166">la nourriture</string>
+    <string name="word_LT_167">la serviette</string>
+    <string name="word_LT_168">le dîner</string>
+    <string name="word_LT_169">le petit déjeuner</string>
+    <string name="word_LT_170">la nourriture</string>
+    <string name="word_LT_171">le couteau</string>
+    <string name="word_LT_172">le serveur</string>
+    <string name="word_LT_173">la cuillère</string>
+    <string name="word_LT_174">la fleur</string>
+    <string name="word_LT_175">le restaurant</string>
+    <string name="word_LT_176">l\'argent</string>
+    <string name="word_LT_177">la maison</string>
+    <string name="word_LT_178">peu</string>
+    <string name="word_LT_179">fort</string>
+    <string name="word_LT_180">l\'étoile</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_161">le serveur</string>
+    <string name="word_RT_162">le pourboire</string>
+    <string name="word_RT_163">la bouilloire</string>
+    <string name="word_RT_164">la bouteille</string>
+    <string name="word_RT_165">la musique</string>
+    <string name="word_RT_166">le prix</string>
+    <string name="word_RT_167">la plaque</string>
+    <string name="word_RT_168">le déjeuner</string>
+    <string name="word_RT_169">le couteau</string>
+    <string name="word_RT_170">la serviette</string>
+    <string name="word_RT_171">la bouche</string>
+    <string name="word_RT_172">la cuillère</string>
+    <string name="word_RT_173">la fourchette</string>
+    <string name="word_RT_174">la bouteille</string>
+    <string name="word_RT_175">le sous-sol</string>
+    <string name="word_RT_176">le serveur</string>
+    <string name="word_RT_177">l\'argent</string>
+    <string name="word_RT_178">grand</string>
+    <string name="word_RT_179">faible</string>
+    <string name="word_RT_180">le pourboire</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_161">la musique</string>
+    <string name="word_LB_162">la boisson</string>
+    <string name="word_LB_163">l\'addition</string>
+    <string name="word_LB_164">la cuillère</string>
+    <string name="word_LB_165">l\'argent</string>
+    <string name="word_LB_166">le projet de loi</string>
+    <string name="word_LB_167">le repas</string>
+    <string name="word_LB_168">le soir</string>
+    <string name="word_LB_169">la théière</string>
+    <string name="word_LB_170">le couteau</string>
+    <string name="word_LB_171">La poubelle</string>
+    <string name="word_LB_172">la fourchette</string>
+    <string name="word_LB_173">la boutique</string>
+    <string name="word_LB_174">l\'avion</string>
+    <string name="word_LB_175">le vin</string>
+    <string name="word_LB_176">la fleur</string>
+    <string name="word_LB_177">la taille</string>
+    <string name="word_LB_178">vite</string>
+    <string name="word_LB_179">grand</string>
+    <string name="word_LB_180">la force</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_161">l\'avion</string>
+    <string name="word_RB_162">le thé</string>
+    <string name="word_RB_163">l\'habillement</string>
+    <string name="word_RB_164">la remise</string>
+    <string name="word_RB_165">la bouteille</string>
+    <string name="word_RB_166">la remise</string>
+    <string name="word_RB_167">la cuillère</string>
+    <string name="word_RB_168">le petit déjeuner</string>
+    <string name="word_RB_169">le déjeuner</string>
+    <string name="word_RB_170">la bouilloire</string>
+    <string name="word_RB_171">la cuillère</string>
+    <string name="word_RB_172">la plaque</string>
+    <string name="word_RB_173">les escaliers</string>
+    <string name="word_RB_174">la photo</string>
+    <string name="word_RB_175">l\'argent</string>
+    <string name="word_RB_176">la bouilloire</string>
+    <string name="word_RB_177">les personnes</string>
+    <string name="word_RB_178">loin</string>
+    <string name="word_RB_179">ralentir</string>
+    <string name="word_RB_180">la remise</string>
+    <!-- END -->
+</resources>

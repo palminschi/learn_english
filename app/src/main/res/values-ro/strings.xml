@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">English în 30 zile</string>
+
+    <string name="btn_start">Începe</string>
+    <string name="btn_next">Continuă</string>
+    <string name="btn_endLevel">Sfârșit</string>
+    <string name="skip">Treci peste</string>
+    <string name="editText">Scrie cuvântul</string>
+    <string name="tv_endLevel">Scrieţi cuvintele sau propozițiile,\ncare le-ați memorat</string>
+    <string name="toastSelectDay">Treci nivelul trecut</string>
+    <string name="selectDay">Selectează ziua:</string>
+    <string name="selectDayEnd">Până când nu-i disponibil</string>
+    <string name="start_level_title">Cuvintele, care le învățați azi:</string>
+
+
+
+    <!-- Main Activity -->
+    <string name="words_learned">Cuvinte învățate</string>
+    <string name="num_words">0</string>
+    <string name="main_title_1">Învață după zile</string>
+    <string name="main_sub_title_1">Trece-ți câte o lecție pe zi</string>
+    <string name="main_title_2">Antrenează-te</string>
+    <string name="main_sub_title_2">Regulat repetă cuvintele învățate</string>
+    <string name="main_title_3">Jocuri</string>
+    <string name="main_sub_title_3">Jocuri pentru memorizarea cuvintelor</string>
+    <string name="toastExitApp">Apasă încă odata p/u a ieși</string>
+    <string name="toastRepeat">Mai intai, finalizați nivelul 1</string>
+    <!-- Main Activity END -->
+
+    <!-- Shop -->
+    <string name="shop_title">Magazin</string>
+    <string name="btn_buy">Închide publicitatea = 1,99€ (EUR)</string>
+    <string name="btn_purchased">Cumpărat!</string>
+    <string name="btn_like">Apreciază aplicația</string>
+    <string name="buy_details">*Faceți clic pentru a vedea prețul in valuta dvs.</string>
+    <!-- Shop END-->
+
+    <!-- Settings -->
+    <string name="settings_title">Setări</string>
+    <string name="btn_lang">Selectează limba</string>
+    <string name="btn_other">Aplicațiile noastre</string>
+    <string name="btn_promocode">Cod promoțional</string>
+    <string name="btn_help">Ajutor</string>
+    <string name="btn_policy">Politica de Conf.</string>
+
+    <string name="promo_title">Cod promoțional</string>
+    <string name="promo_subtitle">Introduce-ți codul promoțional:</string>
+
+    <!-- Settings END-->
+
+    <!-- Dialogs strings -->
+    <string name="dialog_end_title">Nivel trecut!</string>
+    <string name="repeat_dialog_end_title">Trecut!</string>
+    <string name="dialog_end_sub_title">Antrenează-te regulat!\nMai repeți alte 10 cuvinte?</string>
+    <string name="repeat_dialog_end_sub_title">Doriți să repetați\nîncă 10 cuvinte?</string>
+    <string name="dialog_end_exit">Ieși</string>
+    <string name="dialog_end_repeat">Repetă</string>
+    <string name="dialog_exit_title">Vreai să ieși?</string>
+    <string name="dialog_exit_sub_title">Procesul nu va\nfi salvat.</string>
+    <string name="dialog_exit_btn_yes">Da</string>
+    <string name="dialog_exit_btn_no">Continuă</string>
+    <!-- Dialogs strings END -->
+
+    <!-- Games -->
+    <string name="name_game01">Ploaie din cuvinte</string>
+    <string name="name_game02">Audiere</string>
+    <string name="name_game03">Spânzurătoare</string>
+    <string name="sel_game_more">Încă…</string>
+    <string name="more_onclick">Până când nu-i disponibil</string>
+    <string name="win">Câștig!</string>
+    <string name="right">Corect!</string>
+    <string name="lose">Ați pierdut!</string>
+    <string name="incorrect">Greșit!</string>
+    <string name="leftLives">Vieți rămase:</string>
+    <string name="bestScore">Cel mai bun scor:</string>
+    <string name="games_wordNum">Cuvântul №</string>
+    <string name="game03_text_help">Ascultă, apoi\nscrie ce ai auzit</string>
+    <!-- Games -->
+
+    <!-- Lang -->
+    <string name="languages">Limbi</string>
+    <!-- Lang -->
+</resources>

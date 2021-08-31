@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_461">l\'expérience</string>
+    <string name="word_translate_462">la mémoire</string>
+    <string name="word_translate_463">la mémoire</string>
+    <string name="word_translate_464">oublier</string>
+    <string name="word_translate_465">le bénéfice</string>
+    <string name="word_translate_466">l\'avantage</string>
+    <string name="word_translate_467">la connaissance</string>
+    <string name="word_translate_468">l\'âme</string>
+    <string name="word_translate_470">les moyens</string>
+    <string name="word_translate_471">le miracle</string>
+    <string name="word_translate_472">se demander</string>
+    <string name="word_translate_473">le feu</string>
+    <string name="word_translate_474">les pompiers</string>
+    <string name="word_translate_475">le briquet</string>
+    <string name="word_translate_476">fumer</string>
+    <string name="word_translate_477">l\'affaire</string>
+    <string name="word_translate_478">la pensée</string>
+    <string name="word_translate_479">le choix</string>
+    <string name="word_translate_480">choisir</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_461">J\'ai donc beaucoup d\'expérience.</string>
+    <string name="phrase_translate_462">Il a perdu la mémoire.</string>
+    <string name="phrase_translate_463">J\'ai beaucoup de souvenirs ici.</string>
+    <string name="phrase_translate_464">J\'ai oublié mon sac à dos.</string>
+    <string name="phrase_translate_465">Le sport apporte des bienfaits</string>
+    <string name="phrase_translate_466">La première équipe a l\'avantage.</string>
+    <string name="phrase_translate_467">La connaissance est le pouvoir.</string>
+    <string name="phrase_translate_468">Il a une bonne âme.</string>
+    <string name="phrase_translate_469">C\'est une habitude pour moi.</string>
+    <string name="phrase_translate_470">le détergent</string>
+    <string name="phrase_translate_471">Je ne crois pas aux miracles.</string>
+    <string name="phrase_translate_472">Il me demande.</string>
+    <string name="phrase_translate_473">J\'ai fait un feu.</string>
+    <string name="phrase_translate_474">Nous devons appeler les pompiers.</string>
+    <string name="phrase_translate_475">Avez-vous un briquet?</string>
+    <string name="phrase_translate_476">Je ne fume pas.</string>
+    <string name="phrase_translate_477">dans tous les cas</string>
+    <string name="phrase_translate_478">j\'ai eu une pensée</string>
+    <string name="phrase_translate_479">Nous devons faire un choix.</string>
+    <string name="phrase_translate_480">Je choisis la deuxième variante.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_461">le village</string>
+    <string name="word_LT_462">la mémoire</string>
+    <string name="word_LT_463">le retraité</string>
+    <string name="word_LT_464">oublier</string>
+    <string name="word_LT_465">le document</string>
+    <string name="word_LT_466">l\'assurance</string>
+    <string name="word_LT_467">l\'expérience</string>
+    <string name="word_LT_468">le mois</string>
+    <string name="word_LT_469">le contrat</string>
+    <string name="word_LT_470">les moyens</string>
+    <string name="word_LT_471">la mairie</string>
+    <string name="word_LT_472">pour donner</string>
+    <string name="word_LT_473">L\'été</string>
+    <string name="word_LT_474">les pompiers</string>
+    <string name="word_LT_475">le temps</string>
+    <string name="word_LT_476">voler</string>
+    <string name="word_LT_477">le village</string>
+    <string name="word_LT_478">la pensée</string>
+    <string name="word_LT_479">le pantalon</string>
+    <string name="word_LT_480">commander</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_461">l\'expérience</string>
+    <string name="word_RT_462">le cheval</string>
+    <string name="word_RT_463">la mémoire</string>
+    <string name="word_RT_464">chercher</string>
+    <string name="word_RT_465">l\'animal</string>
+    <string name="word_RT_466">la facture</string>
+    <string name="word_RT_467">la mémoire</string>
+    <string name="word_RT_468">le bénéfice</string>
+    <string name="word_RT_469">la boutique</string>
+    <string name="word_RT_470">la fourchette</string>
+    <string name="word_RT_471">le stade</string>
+    <string name="word_RT_472">célébrer</string>
+    <string name="word_RT_473">le samedi</string>
+    <string name="word_RT_474">l\'hiver</string>
+    <string name="word_RT_475">le briquet</string>
+    <string name="word_RT_476">signer</string>
+    <string name="word_RT_477">le transfert</string>
+    <string name="word_RT_478">la prime</string>
+    <string name="word_RT_479">les lunettes</string>
+    <string name="word_RT_480">choisir</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_461">la retraite</string>
+    <string name="word_LB_462">le profit</string>
+    <string name="word_LB_463">la nuit</string>
+    <string name="word_LB_464">à savoir</string>
+    <string name="word_LB_465">le bénéfice</string>
+    <string name="word_LB_466">le ballon</string>
+    <string name="word_LB_467">les souvenirs</string>
+    <string name="word_LB_468">l\'âme</string>
+    <string name="word_LB_469">le froid</string>
+    <string name="word_LB_470">le poêle</string>
+    <string name="word_LB_471">le miracle</string>
+    <string name="word_LB_472">se demander</string>
+    <string name="word_LB_473">le feu</string>
+    <string name="word_LB_474">le verre</string>
+    <string name="word_LB_475">le sable</string>
+    <string name="word_LB_476">tomber</string>
+    <string name="word_LB_477">l\'affaire</string>
+    <string name="word_LB_478">l\'argent</string>
+    <string name="word_LB_479">le choix</string>
+    <string name="word_LB_480">vendre</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_461">l\'arbre</string>
+    <string name="word_RB_462">le jeu</string>
+    <string name="word_RB_463">la retraite</string>
+    <string name="word_RB_464">aimer</string>
+    <string name="word_RB_465">le changement</string>
+    <string name="word_RB_466">l\'avantage</string>
+    <string name="word_RB_467">la connaissance</string>
+    <string name="word_RB_468">La taxe</string>
+    <string name="word_RB_469">l\'habitude</string>
+    <string name="word_RB_470">l\'oignon</string>
+    <string name="word_RB_471">la connaissance</string>
+    <string name="word_RB_472">jouer</string>
+    <string name="word_RB_473">l\'hiver</string>
+    <string name="word_RB_474">l\'automne</string>
+    <string name="word_RB_475">la neige</string>
+    <string name="word_RB_476">fumer</string>
+    <string name="word_RB_477">la retraite</string>
+    <string name="word_RB_478">l\'âme</string>
+    <string name="word_RB_479">le jeu</string>
+    <string name="word_RB_480">payer</string>
+    <!-- END -->
+</resources>

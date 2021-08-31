@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_title_441" translatable="false">el grifo</string>
+    <string name="word_title_442" translatable="false">la cortina</string>
+    <string name="word_title_443" translatable="false">el tubo</string>
+    <string name="word_title_444" translatable="false">el espejo</string>
+    <string name="word_title_445" translatable="false">el horno</string>
+    <string name="word_title_446" translatable="false">hornear</string>
+    <string name="word_title_447" translatable="false">las galletas</string>
+    <string name="word_title_448" translatable="false">el pastel</string>
+    <string name="word_title_449" translatable="false">La cocina</string>
+    <string name="word_title_450" translatable="false">el microondas</string>
+    <string name="word_title_451" translatable="false">la estufa</string>
+    <string name="word_title_452" translatable="false">el embutido</string>
+    <string name="word_title_453" translatable="false">la salchicha</string>
+    <string name="word_title_454" translatable="false">la papilla</string>
+    <string name="word_title_455" translatable="false">el maiz</string>
+    <string name="word_title_456" translatable="false">el pepino</string>
+    <string name="word_title_457" translatable="false">la col</string>
+    <string name="word_title_458" translatable="false">el fruto</string>
+    <string name="word_title_459" translatable="false">los vegetales</string>
+    <string name="word_title_460" translatable="false">la cebolla</string>
+
+    <string name="word_translate_441">tap</string>
+    <string name="word_translate_442">curtain</string>
+    <string name="word_translate_443">pipe</string>
+    <string name="word_translate_444">mirror</string>
+    <string name="word_translate_445">oven</string>
+    <string name="word_translate_446">to bake</string>
+    <string name="word_translate_447">cookies</string>
+    <string name="word_translate_448">cake</string>
+    <string name="word_translate_449">kitchen</string>
+    <string name="word_translate_450">microwave</string>
+    <string name="word_translate_451">stove</string>
+    <string name="word_translate_452">sausage</string>
+    <string name="word_translate_453">small sausage</string>
+    <string name="word_translate_454">mush</string>
+    <string name="word_translate_455">corn</string>
+    <string name="word_translate_456">cucumber</string>
+    <string name="word_translate_457">cabbage</string>
+    <string name="word_translate_458">fruit</string>
+    <string name="word_translate_459">vegetables</string>
+    <string name="word_translate_460">onion</string>
+    <!-- END -->
+
+    <!-- PHRASE + TRANSLATE -->
+    <string name="phrase_441" translatable="false">El agua fluye del grifo.</string>
+    <string name="phrase_translate_441">The water flows from the tap.</string>
+
+    <string name="phrase_442" translatable="false">Cerró las cortinas.</string>
+    <string name="phrase_translate_442">He closed the curtains.</string>
+
+    <string name="phrase_443" translatable="false">La tubería está alquitranada.</string>
+    <string name="phrase_translate_443">The pipe is tarred.</string>
+
+    <string name="phrase_444" translatable="false">Me miro en el espejo y me veo.</string>
+    <string name="phrase_translate_444">I look in the mirror and see myself.</string>
+
+    <string name="phrase_445" translatable="false">Ella pone el pastel en el horno.</string>
+    <string name="phrase_translate_445">She puts the cake in the oven.</string>
+
+    <string name="phrase_446" translatable="false">¿Qué estás horneando?</string>
+    <string name="phrase_translate_446">What are you baking?</string>
+
+    <string name="phrase_447" translatable="false">Me gustan las galletas.</string>
+    <string name="phrase_translate_447">I like cookies.</string>
+
+    <string name="phrase_448" translatable="false">Comemos pastel.</string>
+    <string name="phrase_translate_448">We eat cake.</string>
+
+    <string name="phrase_449" translatable="false">Ella trabaja en la cocina.</string>
+    <string name="phrase_translate_449">She works in the kitchen.</string>
+
+    <string name="phrase_450" translatable="false">Pongo la comida en el microondas.</string>
+    <string name="phrase_translate_450">I put the food in the microwave.</string>
+
+    <string name="phrase_451" translatable="false">La olla está en la estufa.</string>
+    <string name="phrase_translate_451">The pot is on the stove.</string>
+
+    <string name="phrase_452" translatable="false">¿Quieres una salchicha?</string>
+    <string name="phrase_translate_452">Do you want a sausage?</string>
+
+    <string name="phrase_453" translatable="false">Al gato le gustan mucho las salchichas pequeñas.</string>
+    <string name="phrase_translate_453">The cat likes small sausages very much.</string>
+
+    <string name="phrase_454" translatable="false">Como papilla por la mañana.</string>
+    <string name="phrase_translate_454">I eat mush in the morning.</string>
+
+    <string name="phrase_455" translatable="false">El maíz crece en el campo.</string>
+    <string name="phrase_translate_455">Corn grows in the field.</string>
+
+    <string name="phrase_456" translatable="false">Ensalada de pepino.</string>
+    <string name="phrase_translate_456">Cucumber salad.</string>
+
+    <string name="phrase_457" translatable="false">El repollo es bueno para la salud.</string>
+    <string name="phrase_translate_457">Cabbage is good for your health.</string>
+
+    <string name="phrase_458" translatable="false">Ella come un montón de fruta.</string>
+    <string name="phrase_translate_458">She eats a lot of fruit.</string>
+
+    <string name="phrase_459" translatable="false">Comer verduras es saludable.</string>
+    <string name="phrase_translate_459">Eating vegetables is healthy.</string>
+
+    <string name="phrase_460" translatable="false">Olvidé comprar cebollas.</string>
+    <string name="phrase_translate_460">I forgot to buy onions.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_441">cupboard</string>
+    <string name="word_LT_442">shelf</string>
+    <string name="word_LT_443">oven</string>
+    <string name="word_LT_444">flower</string>
+    <string name="word_LT_445">soup</string>
+    <string name="word_LT_446">to give</string>
+    <string name="word_LT_447">napkin</string>
+    <string name="word_LT_448">flour</string>
+    <string name="word_LT_449">kitchen</string>
+    <string name="word_LT_450">shop</string>
+    <string name="word_LT_451">spoon</string>
+    <string name="word_LT_452">mushroom</string>
+    <string name="word_LT_453">restaurant</string>
+    <string name="word_LT_454">ice cream</string>
+    <string name="word_LT_455">corn</string>
+    <string name="word_LT_456">cucumber</string>
+    <string name="word_LT_457">dinner</string>
+    <string name="word_LT_458">food</string>
+    <string name="word_LT_459">mushroom</string>
+    <string name="word_LT_460">spoon</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_441">waiter</string>
+    <string name="word_RT_442">bottle</string>
+    <string name="word_RT_443">tap</string>
+    <string name="word_RT_444">cat</string>
+    <string name="word_RT_445">kettle</string>
+    <string name="word_RT_446">to clean</string>
+    <string name="word_RT_447">cookies</string>
+    <string name="word_RT_448">sausage</string>
+    <string name="word_RT_449">noodles</string>
+    <string name="word_RT_450">microwave</string>
+    <string name="word_RT_451">fork</string>
+    <string name="word_RT_452">bottle</string>
+    <string name="word_RT_453">basement</string>
+    <string name="word_RT_454">mush</string>
+    <string name="word_RT_455">cream</string>
+    <string name="word_RT_456">sausage</string>
+    <string name="word_RT_457">cabbage</string>
+    <string name="word_RT_458">napkin</string>
+    <string name="word_RT_459">bottle</string>
+    <string name="word_RT_460">fork</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_441">tap</string>
+    <string name="word_LB_442">curtain</string>
+    <string name="word_LB_443">sink</string>
+    <string name="word_LB_444">garden</string>
+    <string name="word_LB_445">oven</string>
+    <string name="word_LB_446">to fry</string>
+    <string name="word_LB_447">spoon</string>
+    <string name="word_LB_448">cake</string>
+    <string name="word_LB_449">drink</string>
+    <string name="word_LB_450">soup</string>
+    <string name="word_LB_451">stove</string>
+    <string name="word_LB_452">sausage</string>
+    <string name="word_LB_453">porridge</string>
+    <string name="word_LB_454">flower</string>
+    <string name="word_LB_455">carrot</string>
+    <string name="word_LB_456">fork</string>
+    <string name="word_LB_457">beans</string>
+    <string name="word_LB_458">knife</string>
+    <string name="word_LB_459">plane</string>
+    <string name="word_LB_460">shop</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_441">sink</string>
+    <string name="word_RB_442">flour</string>
+    <string name="word_RB_443">pipe</string>
+    <string name="word_RB_444">mirror</string>
+    <string name="word_RB_445">fridge</string>
+    <string name="word_RB_446">to bake</string>
+    <string name="word_RB_447">flour</string>
+    <string name="word_RB_448">cookies</string>
+    <string name="word_RB_449">tea</string>
+    <string name="word_RB_450">pan</string>
+    <string name="word_RB_451">onion</string>
+    <string name="word_RB_452">vegetables</string>
+    <string name="word_RB_453">small sausage</string>
+    <string name="word_RB_454">kettle</string>
+    <string name="word_RB_455">people</string>
+    <string name="word_RB_456">plate</string>
+    <string name="word_RB_457">diet</string>
+    <string name="word_RB_458">fruit</string>
+    <string name="word_RB_459">vegetables</string>
+    <string name="word_RB_460">onion</string>
+    <!-- END -->
+</resources>

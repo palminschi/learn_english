@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_181">l\'anniversaire</string>
+    <string name="word_translate_182">le cadeau</string>
+    <string name="word_translate_183">donner</string>
+    <string name="word_translate_184">féliciter</string>
+    <string name="word_translate_185">l\'invité</string>
+    <string name="word_translate_186">la fête</string>
+    <string name="word_translate_187">célébrer</string>
+    <string name="word_translate_188">être ivre</string>
+    <string name="word_translate_189">le club</string>
+    <string name="word_translate_190">la joie</string>
+    <string name="word_translate_191">vouloir</string>
+    <string name="word_translate_192">le gâteau</string>
+    <string name="word_translate_193">Le champagne</string>
+    <string name="word_translate_194">inviter</string>
+    <string name="word_translate_195">le doux</string>
+    <string name="word_translate_196">jouer</string>
+    <string name="word_translate_197">le jouet</string>
+    <string name="word_translate_198">le piano</string>
+    <string name="word_translate_199">la guitare</string>
+    <string name="word_translate_200">chanter</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_181">C\'est son anniversaire aujourd\'hui.</string>
+    <string name="phrase_translate_182">Merci pour le cadeau!</string>
+    <string name="phrase_translate_183">Qu\'avez-vous donné ici ?</string>
+    <string name="phrase_translate_184">Nous l\'avons félicité.</string>
+    <string name="phrase_translate_185">J\'ai des invités aujourd\'hui.</string>
+    <string name="phrase_translate_186">Le samedi, il y aura une fête.</string>
+    <string name="phrase_translate_187">Je fête mon anniversaire.</string>
+    <string name="phrase_translate_188">Il est ivre.</string>
+    <string name="phrase_translate_189">Je vais au club ce soir.</string>
+    <string name="phrase_translate_190">Je suis très heureux.</string>
+    <string name="phrase_translate_191">Je te souhaite également bonne chance.</string>
+    <string name="phrase_translate_192">Nous mangeons un gâteau.</string>
+    <string name="phrase_translate_193">Ils boivent du champagne.</string>
+    <string name="phrase_translate_194">Il ne m\'a pas invité.</string>
+    <string name="phrase_translate_195">Les enfants adorent les sucreries.</string>
+    <string name="phrase_translate_196">L\'enfant joue avec un jouet.</string>
+    <string name="phrase_translate_197">Le jouet est cassé.</string>
+    <string name="phrase_translate_198">Je joue du piano.</string>
+    <string name="phrase_translate_199">Je ne sais pas jouer de la guitare.</string>
+    <string name="phrase_translate_200">Elle chante à merveille.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_181">le serveur</string>
+    <string name="word_LT_182">le jouet</string>
+    <string name="word_LT_183">donner</string>
+    <string name="word_LT_184">inviter</string>
+    <string name="word_LT_185">l\'argent</string>
+    <string name="word_LT_186">la boutique</string>
+    <string name="word_LT_187">pour donner</string>
+    <string name="word_LT_188">être ivre</string>
+    <string name="word_LT_189">le club</string>
+    <string name="word_LT_190">station-essence</string>
+    <string name="word_LT_191">inviter</string>
+    <string name="word_LT_192">la bouteille</string>
+    <string name="word_LT_193">Le champagne</string>
+    <string name="word_LT_194">pour donner</string>
+    <string name="word_LT_195">station-essence</string>
+    <string name="word_LT_196">travailler</string>
+    <string name="word_LT_197">le doux</string>
+    <string name="word_LT_198">la musique</string>
+    <string name="word_LT_199">la boutique</string>
+    <string name="word_LT_200">chanter</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_181">le cadeau</string>
+    <string name="word_RT_182">le restaurant</string>
+    <string name="word_RT_183">jouer</string>
+    <string name="word_RT_184">féliciter</string>
+    <string name="word_RT_185">la musique</string>
+    <string name="word_RT_186">le jouet</string>
+    <string name="word_RT_187">célébrer</string>
+    <string name="word_RT_188">manger</string>
+    <string name="word_RT_189">le restaurant</string>
+    <string name="word_RT_190">la joie</string>
+    <string name="word_RT_191">chanter</string>
+    <string name="word_RT_192">la bonne chance</string>
+    <string name="word_RT_193">la musique</string>
+    <string name="word_RT_194">inviter</string>
+    <string name="word_RT_195">le restaurant</string>
+    <string name="word_RT_196">jouer</string>
+    <string name="word_RT_197">le papillon</string>
+    <string name="word_RT_198">la bouteille</string>
+    <string name="word_RT_199">la guitare</string>
+    <string name="word_RT_200">jouer</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_181">la cuillère</string>
+    <string name="word_LB_182">le cadeau</string>
+    <string name="word_LB_183">féliciter</string>
+    <string name="word_LB_184">célébrer</string>
+    <string name="word_LB_185">l\'invité</string>
+    <string name="word_LB_186">la musique</string>
+    <string name="word_LB_187">boire</string>
+    <string name="word_LB_188">jouer</string>
+    <string name="word_LB_189">le vin</string>
+    <string name="word_LB_190">le jouet</string>
+    <string name="word_LB_191">vouloir</string>
+    <string name="word_LB_192">la boutique</string>
+    <string name="word_LB_193">le restaurant</string>
+    <string name="word_LB_194">vouloir</string>
+    <string name="word_LB_195">le doux</string>
+    <string name="word_LB_196">sauter</string>
+    <string name="word_LB_197">le gâteau</string>
+    <string name="word_LB_198">le doux</string>
+    <string name="word_LB_199">la musique</string>
+    <string name="word_LB_200">travailler</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_181">l\'anniversaire</string>
+    <string name="word_RB_182">l\'argent</string>
+    <string name="word_RB_183">chanter</string>
+    <string name="word_RB_184">boire</string>
+    <string name="word_RB_185">la bouteille</string>
+    <string name="word_RB_186">la fête</string>
+    <string name="word_RB_187">jouer</string>
+    <string name="word_RB_188">travailler</string>
+    <string name="word_RB_189">l\'argent</string>
+    <string name="word_RB_190">la boutique</string>
+    <string name="word_RB_191">pour donner</string>
+    <string name="word_RB_192">le gâteau</string>
+    <string name="word_RB_193">le papillon</string>
+    <string name="word_RB_194">chanter</string>
+    <string name="word_RB_195">le papillon</string>
+    <string name="word_RB_196">chanter</string>
+    <string name="word_RB_197">le jouet</string>
+    <string name="word_RB_198">le piano</string>
+    <string name="word_RB_199">la bouteille</string>
+    <string name="word_RB_200">sauter</string>
+    <!-- END -->
+</resources>

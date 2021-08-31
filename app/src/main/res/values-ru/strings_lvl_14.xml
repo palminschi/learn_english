@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_261">Кошка</string>
+    <string name="word_translate_262">Собака</string>
+    <string name="word_translate_263">гавкать</string>
+    <string name="word_translate_264">Волк</string>
+    <string name="word_translate_265">Лиса</string>
+    <string name="word_translate_266">Лошадь</string>
+    <string name="word_translate_267">бегать</string>
+    <string name="word_translate_268">Рыба</string>
+    <string name="word_translate_269">Рыбалка</string>
+    <string name="word_translate_270">Охота</string>
+    <string name="word_translate_271">охотиться</string>
+    <string name="word_translate_272">Животное</string>
+    <string name="word_translate_273">Медведь</string>
+    <string name="word_translate_274">Утка</string>
+    <string name="word_translate_275">Ружьё</string>
+    <string name="word_translate_276">Удочка</string>
+    <string name="word_translate_277">ловить</string>
+    <string name="word_translate_278">рыбачить</string>
+    <string name="word_translate_279">Заяц</string>
+    <string name="word_translate_280">Птица</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_261">У нее три кошки.</string>
+    <string name="phrase_translate_262">Моя собака уже старая.</string>
+    <string name="phrase_translate_263">Собака лает</string>
+    <string name="phrase_translate_264">В лесу есть волки.</string>
+    <string name="phrase_translate_265">Лиса красивая.</string>
+    <string name="phrase_translate_266">Я не умею ездить на лошади.</string>
+    <string name="phrase_translate_267">Ты очень быстро бегаешь.</string>
+    <string name="phrase_translate_268">Я поймал рыбу.</string>
+    <string name="phrase_translate_269">Мы на рыбалке.</string>
+    <string name="phrase_translate_270">Он был на охоте.</string>
+    <string name="phrase_translate_271">Они охотятся на животных</string>
+    <string name="phrase_translate_272">Нам нужно беспокоиться о животных.</string>
+    <string name="phrase_translate_273">Медведь ест рыбу.</string>
+    <string name="phrase_translate_274">В озере плавают утки.</string>
+    <string name="phrase_translate_275">У солдатов есть оружие.</string>
+    <string name="phrase_translate_276">Я бросил удочку в воду.</string>
+    <string name="phrase_translate_277">Я ловлю рыбу</string>
+    <string name="phrase_translate_278">Ты рыбачишь</string>
+    <string name="phrase_translate_279">Заяц бежит в поле.</string>
+    <string name="phrase_translate_280">Весной поют птицы.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_261">Цветок</string>
+    <string name="word_LT_262">Самолет</string>
+    <string name="word_LT_263">гулять</string>
+    <string name="word_LT_264">Волк</string>
+    <string name="word_LT_265">Парк</string>
+    <string name="word_LT_266">Остров</string>
+    <string name="word_LT_267">бегать</string>
+    <string name="word_LT_268">Игрушка</string>
+    <string name="word_LT_269">Рыбалка</string>
+    <string name="word_LT_270">Суп</string>
+    <string name="word_LT_271">летать</string>
+    <string name="word_LT_272">Дерево</string>
+    <string name="word_LT_273">Ночь</string>
+    <string name="word_LT_274">Животное</string>
+    <string name="word_LT_275">Одежда</string>
+    <string name="word_LT_276">Цветок</string>
+    <string name="word_LT_277">брать</string>
+    <string name="word_LT_278">охотиться</string>
+    <string name="word_LT_279">Заяц</string>
+    <string name="word_LT_280">Дерево</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_261">Кошка</string>
+    <string name="word_RT_262">Бабочка</string>
+    <string name="word_RT_263">бегать</string>
+    <string name="word_RT_264">Гора</string>
+    <string name="word_RT_265">Поезд</string>
+    <string name="word_RT_266">Лошадь</string>
+    <string name="word_RT_267">петь</string>
+    <string name="word_RT_268">Конфета</string>
+    <string name="word_RT_269">Дерево</string>
+    <string name="word_RT_270">Чайник</string>
+    <string name="word_RT_271">петь</string>
+    <string name="word_RT_272">Животное</string>
+    <string name="word_RT_273">Бабочка</string>
+    <string name="word_RT_274">Лес</string>
+    <string name="word_RT_275">Ружьё</string>
+    <string name="word_RT_276">Удочка</string>
+    <string name="word_RT_277">играть</string>
+    <string name="word_RT_278">бегать</string>
+    <string name="word_RT_279">Рождество</string>
+    <string name="word_RT_280">Птица</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_261">Гора</string>
+    <string name="word_LB_262">Пробежка</string>
+    <string name="word_LB_263">гавкать</string>
+    <string name="word_LB_264">Дерево</string>
+    <string name="word_LB_265">Лиса</string>
+    <string name="word_LB_266">Дерево</string>
+    <string name="word_LB_267">готовить</string>
+    <string name="word_LB_268">Гитара</string>
+    <string name="word_LB_269">Отдых</string>
+    <string name="word_LB_270">Охота</string>
+    <string name="word_LB_271">прыгнуть</string>
+    <string name="word_LB_272">Цветок</string>
+    <string name="word_LB_273">Медведь</string>
+    <string name="word_LB_274">Ночь</string>
+    <string name="word_LB_275">Охота</string>
+    <string name="word_LB_276">Самолет</string>
+    <string name="word_LB_277">остаться</string>
+    <string name="word_LB_278">искать</string>
+    <string name="word_LB_279">Бабочка</string>
+    <string name="word_LB_280">Цветок</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_261">Самолет</string>
+    <string name="word_RB_262">Собака</string>
+    <string name="word_RB_263">дарить</string>
+    <string name="word_RB_264">Лес</string>
+    <string name="word_RB_265">Музыка</string>
+    <string name="word_RB_266">Игра</string>
+    <string name="word_RB_267">дарить</string>
+    <string name="word_RB_268">Рыба</string>
+    <string name="word_RB_269">Время</string>
+    <string name="word_RB_270">Одежда</string>
+    <string name="word_RB_271">охотиться</string>
+    <string name="word_RB_272">Отдых</string>
+    <string name="word_RB_273">Зима</string>
+    <string name="word_RB_274">Утка</string>
+    <string name="word_RB_275">Гитара</string>
+    <string name="word_RB_276">Ресторан</string>
+    <string name="word_RB_277">ловить</string>
+    <string name="word_RB_278">рыбачить</string>
+    <string name="word_RB_279">Отдых</string>
+    <string name="word_RB_280">Самолет</string>
+    <!-- END -->
+</resources>

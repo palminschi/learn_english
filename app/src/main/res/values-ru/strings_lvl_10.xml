@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_181">День рождения</string>
+    <string name="word_translate_182">Подарок</string>
+    <string name="word_translate_183">дарить</string>
+    <string name="word_translate_184">поздравлять</string>
+    <string name="word_translate_185">Гость</string>
+    <string name="word_translate_186">Вечеринка</string>
+    <string name="word_translate_187">праздновать</string>
+    <string name="word_translate_188">напиться</string>
+    <string name="word_translate_189">Дискотека</string>
+    <string name="word_translate_190">Счастье</string>
+    <string name="word_translate_191">желать</string>
+    <string name="word_translate_192">Торт</string>
+    <string name="word_translate_193">Шампанское</string>
+    <string name="word_translate_194">приглашать</string>
+    <string name="word_translate_195">Конфета</string>
+    <string name="word_translate_196">играть</string>
+    <string name="word_translate_197">Игрушка</string>
+    <string name="word_translate_198">Пианино</string>
+    <string name="word_translate_199">Гитара</string>
+    <string name="word_translate_200">петь</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_181">У него сегодня день рождения.</string>
+    <string name="phrase_translate_182">Спасибо за подарок!</string>
+    <string name="phrase_translate_183">Что ты ей подарил?</string>
+    <string name="phrase_translate_184">Мы поздравили его.</string>
+    <string name="phrase_translate_185">У меня сегодня гости.</string>
+    <string name="phrase_translate_186">В субботу будет вечеринка.</string>
+    <string name="phrase_translate_187">Я праздную свой день рождения.</string>
+    <string name="phrase_translate_188">Он напился.</string>
+    <string name="phrase_translate_189">Я пойду сегодня вечером на дискотеку.</string>
+    <string name="phrase_translate_190">Я очень счастлив.</string>
+    <string name="phrase_translate_191">Я желаю тебе счастья.</string>
+    <string name="phrase_translate_192">Мы кушаем торт.</string>
+    <string name="phrase_translate_193">Они пьют шампанское.</string>
+    <string name="phrase_translate_194">Он меня не пригласил.</string>
+    <string name="phrase_translate_195">Дети любят конфеты.</string>
+    <string name="phrase_translate_196">Ребенок играет с игрушкой.</string>
+    <string name="phrase_translate_197">Игрушка сломалась.</string>
+    <string name="phrase_translate_198">Я играю на пианино.</string>
+    <string name="phrase_translate_199">Я не могу играть на гитаре.</string>
+    <string name="phrase_translate_200">Она прекрасно поет.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_181">Официант</string>
+    <string name="word_LT_182">Игрушка</string>
+    <string name="word_LT_183">дарить</string>
+    <string name="word_LT_184">приглашать</string>
+    <string name="word_LT_185">Деньги</string>
+    <string name="word_LT_186">Магазин</string>
+    <string name="word_LT_187">дарить</string>
+    <string name="word_LT_188">напиться</string>
+    <string name="word_LT_189">Дискотека</string>
+    <string name="word_LT_190">Заправка</string>
+    <string name="word_LT_191">приглашать</string>
+    <string name="word_LT_192">Бутылка</string>
+    <string name="word_LT_193">Шампанское</string>
+    <string name="word_LT_194">дарить</string>
+    <string name="word_LT_195">Заправка</string>
+    <string name="word_LT_196">работать</string>
+    <string name="word_LT_197">Конфета</string>
+    <string name="word_LT_198">Музыка</string>
+    <string name="word_LT_199">Магазин</string>
+    <string name="word_LT_200">петь</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_181">Подарок</string>
+    <string name="word_RT_182">Ресторан</string>
+    <string name="word_RT_183">играть</string>
+    <string name="word_RT_184">поздравлять</string>
+    <string name="word_RT_185">Музыка</string>
+    <string name="word_RT_186">Игрушка</string>
+    <string name="word_RT_187">праздновать</string>
+    <string name="word_RT_188">кушать</string>
+    <string name="word_RT_189">Ресторан</string>
+    <string name="word_RT_190">Счастье</string>
+    <string name="word_RT_191">петь</string>
+    <string name="word_RT_192">Счастье</string>
+    <string name="word_RT_193">Музыка</string>
+    <string name="word_RT_194">приглашать</string>
+    <string name="word_RT_195">Ресторан</string>
+    <string name="word_RT_196">играть</string>
+    <string name="word_RT_197">Бабочка</string>
+    <string name="word_RT_198">Бутылка</string>
+    <string name="word_RT_199">Гитара</string>
+    <string name="word_RT_200">играть</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_181">Ложка</string>
+    <string name="word_LB_182">Подарок</string>
+    <string name="word_LB_183">поздравлять</string>
+    <string name="word_LB_184">праздновать</string>
+    <string name="word_LB_185">Гость</string>
+    <string name="word_LB_186">Музыка</string>
+    <string name="word_LB_187">пить</string>
+    <string name="word_LB_188">играть</string>
+    <string name="word_LB_189">Вино</string>
+    <string name="word_LB_190">Игрушка</string>
+    <string name="word_LB_191">желать</string>
+    <string name="word_LB_192">Магазин</string>
+    <string name="word_LB_193">Ресторан</string>
+    <string name="word_LB_194">желать</string>
+    <string name="word_LB_195">Конфета</string>
+    <string name="word_LB_196">прыгнуть</string>
+    <string name="word_LB_197">Торт</string>
+    <string name="word_LB_198">Конфета</string>
+    <string name="word_LB_199">Музыка</string>
+    <string name="word_LB_200">работать</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_181">День рождения</string>
+    <string name="word_RB_182">Деньги</string>
+    <string name="word_RB_183">петь</string>
+    <string name="word_RB_184">пить</string>
+    <string name="word_RB_185">Бутылка</string>
+    <string name="word_RB_186">Вечеринка</string>
+    <string name="word_RB_187">играть</string>
+    <string name="word_RB_188">работать</string>
+    <string name="word_RB_189">Деньги</string>
+    <string name="word_RB_190">Магазин</string>
+    <string name="word_RB_191">дарить</string>
+    <string name="word_RB_192">Торт</string>
+    <string name="word_RB_193">Бабочка</string>
+    <string name="word_RB_194">петь</string>
+    <string name="word_RB_195">Бабочка</string>
+    <string name="word_RB_196">петь</string>
+    <string name="word_RB_197">Игрушка</string>
+    <string name="word_RB_198">Пианино</string>
+    <string name="word_RB_199">Бутылка</string>
+    <string name="word_RB_200">прыгнуть</string>
+    <!-- END -->
+</resources>

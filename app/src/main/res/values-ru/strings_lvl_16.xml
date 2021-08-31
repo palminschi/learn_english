@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_301">Замок</string>
+    <string name="word_translate_302">Мост</string>
+    <string name="word_translate_303">Универмаг</string>
+    <string name="word_translate_304">Детсад</string>
+    <string name="word_translate_305">Сад</string>
+    <string name="word_translate_306">Овощи</string>
+    <string name="word_translate_307">Cадовник</string>
+    <string name="word_translate_308">поливать</string>
+    <string name="word_translate_309">Тропа</string>
+    <string name="word_translate_310">Корень</string>
+    <string name="word_translate_311">Ветка</string>
+    <string name="word_translate_312">Мэрия</string>
+    <string name="word_translate_313">Церковь</string>
+    <string name="word_translate_314">Стадион</string>
+    <string name="word_translate_315">Команда</string>
+    <string name="word_translate_316">Футбол</string>
+    <string name="word_translate_317">Бег</string>
+    <string name="word_translate_318">Ворота</string>
+    <string name="word_translate_319">Мяч</string>
+    <string name="word_translate_320">играть</string>
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_301">В Германии много замков.</string>
+    <string name="phrase_translate_302">Мы переехали через мост.</string>
+    <string name="phrase_translate_303">Я иду в универмаг.</string>
+    <string name="phrase_translate_304">Мои дети в детском садике.</string>
+    <string name="phrase_translate_305">У меня много работы в саду.</string>
+    <string name="phrase_translate_306">Нужно купить овощи.</string>
+    <string name="phrase_translate_307">Он работает садовником.</string>
+    <string name="phrase_translate_308">Он поливает цветы.</string>
+    <string name="phrase_translate_309">Здесь тропинка оборвалась.</string>
+    <string name="phrase_translate_310">У этих деревьев много корней</string>
+    <string name="phrase_translate_311">Дерево имеет длинные ветви.</string>
+    <string name="phrase_translate_312">Где находится мэрия?</string>
+    <string name="phrase_translate_313">По воскресеньям она ходит в церковь.</string>
+    <string name="phrase_translate_314">Они играют в футбол на стадионе</string>
+    <string name="phrase_translate_315">Первая команда выиграла.</string>
+    <string name="phrase_translate_316">Он занимается футболом.</string>
+    <string name="phrase_translate_317">Бег полезен для Вашего здоровья.</string>
+    <string name="phrase_translate_318">Мяч в воротах.</string>
+    <string name="phrase_translate_319">Я отдал ему мяч.</string>
+    <string name="phrase_translate_320">Я играю на гитаре.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_301">Деревня</string>
+    <string name="word_LT_302">Дерево</string>
+    <string name="word_LT_303">Деревня</string>
+    <string name="word_LT_304">Остров</string>
+    <string name="word_LT_305">Цветок</string>
+    <string name="word_LT_306">Самолет</string>
+    <string name="word_LT_307">Замок</string>
+    <string name="word_LT_308">спрашивать</string>
+    <string name="word_LT_309">Тропа</string>
+    <string name="word_LT_310">Ванная</string>
+    <string name="word_LT_311">Ветка</string>
+    <string name="word_LT_312">Стул</string>
+    <string name="word_LT_313">Кошелек</string>
+    <string name="word_LT_314">Одежда</string>
+    <string name="word_LT_315">Команда</string>
+    <string name="word_LT_316">Кепка</string>
+    <string name="word_LT_317">Бег</string>
+    <string name="word_LT_318">Рука</string>
+    <string name="word_LT_319">Забор</string>
+    <string name="word_LT_320">играть</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_301">Замок</string>
+    <string name="word_RT_302">Животное</string>
+    <string name="word_RT_303">Универмаг</string>
+    <string name="word_RT_304">Детсад</string>
+    <string name="word_RT_305">Кошка</string>
+    <string name="word_RT_306">Бабочка</string>
+    <string name="word_RT_307">Cадовник</string>
+    <string name="word_RT_308">собирать</string>
+    <string name="word_RT_309">Рука</string>
+    <string name="word_RT_310">Корень</string>
+    <string name="word_RT_311">Звук</string>
+    <string name="word_RT_312">Очки</string>
+    <string name="word_RT_313">Деньги</string>
+    <string name="word_RT_314">Стадион</string>
+    <string name="word_RT_315">Волосы</string>
+    <string name="word_RT_316">Голова</string>
+    <string name="word_RT_317">Лошадь</string>
+    <string name="word_RT_318">Тело</string>
+    <string name="word_RT_319">Остановка</string>
+    <string name="word_RT_320">украсть</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_301">Заправка</string>
+    <string name="word_LB_302">Цветок</string>
+    <string name="word_LB_303">Гора</string>
+    <string name="word_LB_304">Дерево</string>
+    <string name="word_LB_305">Сад</string>
+    <string name="word_LB_306">Овощи</string>
+    <string name="word_LB_307">Забор</string>
+    <string name="word_LB_308">поливать</string>
+    <string name="word_LB_309">Рот</string>
+    <string name="word_LB_310">Гора</string>
+    <string name="word_LB_311">Штаны</string>
+    <string name="word_LB_312">Мэрия</string>
+    <string name="word_LB_313">Шкаф</string>
+    <string name="word_LB_314">Обувь</string>
+    <string name="word_LB_315">Кепка</string>
+    <string name="word_LB_316">Футбол</string>
+    <string name="word_LB_317">Собака</string>
+    <string name="word_LB_318">Одежда</string>
+    <string name="word_LB_319">Голова</string>
+    <string name="word_LB_320">ездить</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_301">Стройка</string>
+    <string name="word_RB_302">Мост</string>
+    <string name="word_RB_303">Дерево</string>
+    <string name="word_RB_304">Игра</string>
+    <string name="word_RB_305">Самолет</string>
+    <string name="word_RB_306">Собака</string>
+    <string name="word_RB_307">Земля</string>
+    <string name="word_RB_308">прыгнуть</string>
+    <string name="word_RB_309">Море</string>
+    <string name="word_RB_310">Лес</string>
+    <string name="word_RB_311">Очки</string>
+    <string name="word_RB_312">Обувь</string>
+    <string name="word_RB_313">Церковь</string>
+    <string name="word_RB_314">Очки</string>
+    <string name="word_RB_315">Шляпа</string>
+    <string name="word_RB_316">Рот</string>
+    <string name="word_RB_317">Шляпа</string>
+    <string name="word_RB_318">Ворота</string>
+    <string name="word_RB_319">Мяч</string>
+    <string name="word_RB_320">мыть</string>
+    <!-- END -->
+</resources>

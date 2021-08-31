@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_title_321" translatable="false">la pension</string>
+    <string name="word_title_322" translatable="false">el pensionista</string>
+    <string name="word_title_323" translatable="false">la ganancia</string>
+    <string name="word_title_324" translatable="false">la cuenta</string>
+    <string name="word_title_325" translatable="false">el impuesto</string>
+    <string name="word_title_326" translatable="false">el seguro</string>
+    <string name="word_title_327" translatable="false">pagar</string>
+    <string name="word_title_328" translatable="false">el sueldo</string>
+    <string name="word_title_329" translatable="false">el contrato</string>
+    <string name="word_title_330" translatable="false">firmar</string>
+    <string name="word_title_331" translatable="false">El gasto</string>
+    <string name="word_title_332" translatable="false">el resto</string>
+    <string name="word_title_333" translatable="false">la moneda</string>
+    <string name="word_title_334" translatable="false">el billete</string>
+    <string name="word_title_335" translatable="false">el cambio</string>
+    <string name="word_title_336" translatable="false">el bono</string>
+    <string name="word_title_337" translatable="false">la transferencia</string>
+    <string name="word_title_338" translatable="false">ganar</string>
+    <string name="word_title_339" translatable="false">el bolsillo</string>
+    <string name="word_title_340" translatable="false">robar</string>
+
+    <string name="word_translate_321">pension</string>
+    <string name="word_translate_322">pensioner</string>
+    <string name="word_translate_323">profit</string>
+    <string name="word_translate_324">account</string>
+    <string name="word_translate_325">tax</string>
+    <string name="word_translate_326">insurance</string>
+    <string name="word_translate_327">to pay</string>
+    <string name="word_translate_328">salary</string>
+    <string name="word_translate_329">contract</string>
+    <string name="word_translate_330">to sign</string>
+    <string name="word_translate_331">expense</string>
+    <string name="word_translate_332">remainder</string>
+    <string name="word_translate_333">coin</string>
+    <string name="word_translate_334">banknote</string>
+    <string name="word_translate_335">change</string>
+    <string name="word_translate_336">bonus</string>
+    <string name="word_translate_337">transfer</string>
+    <string name="word_translate_338">to earn</string>
+    <string name="word_translate_339">pocket</string>
+    <string name="word_translate_340">to steal</string>
+    <!-- END -->
+
+    <!-- PHRASE + TRANSLATE -->
+    <string name="phrase_321" translatable="false">¿A cuánto asciende tu pensión?</string>
+    <string name="phrase_translate_321">How much is your pension?</string>
+
+    <string name="phrase_322" translatable="false">Ya es un jubilado.</string>
+    <string name="phrase_translate_322">He is already a pensioner.</string>
+
+    <string name="phrase_323" translatable="false">Obtuve una gran ganancia.</string>
+    <string name="phrase_translate_323">I made a big profit.</string>
+
+    <string name="phrase_324" translatable="false">Abrí una cuenta bancaria.</string>
+    <string name="phrase_translate_324">I have opened a bank account.</string>
+
+    <string name="phrase_325" translatable="false">Pago muchos impuestos.</string>
+    <string name="phrase_translate_325">I pay a lot of taxes.</string>
+
+    <string name="phrase_326" translatable="false">¿Tienes un seguro?</string>
+    <string name="phrase_translate_326">Do you have an insurance?</string>
+
+    <string name="phrase_327" translatable="false">Ella paga por mí.</string>
+    <string name="phrase_translate_327">She pays for me.</string>
+
+    <string name="phrase_328" translatable="false">¿Cuanto es tu salario?</string>
+    <string name="phrase_translate_328">How much is your salary?</string>
+
+    <string name="phrase_329" translatable="false">Firmó el contrato.</string>
+    <string name="phrase_translate_329">He signed the contract.</string>
+
+    <string name="phrase_330" translatable="false">Firmó el contrato.</string>
+    <string name="phrase_translate_330">He signed the contract.</string>
+
+    <string name="phrase_331" translatable="false">¿Cuáles son sus gastos mensuales?</string>
+    <string name="phrase_translate_331">What are your monthly expenses?</string>
+
+    <string name="phrase_332" translatable="false">Dejó el dinero restante.</string>
+    <string name="phrase_translate_332">He left the remaining money.</string>
+
+    <string name="phrase_333" translatable="false">Tengo muchas monedas.</string>
+    <string name="phrase_translate_333">I have a lot of coins.</string>
+
+    <string name="phrase_334" translatable="false">El cajero automático no acepta monedas.</string>
+    <string name="phrase_translate_334">The ATM doesn\'t accept coins.</string>
+
+    <string name="phrase_335" translatable="false">¿Tienes algún cambio?</string>
+    <string name="phrase_translate_335">Do you have some change?</string>
+
+    <string name="phrase_336" translatable="false">Tengo una bonificación.</string>
+    <string name="phrase_translate_336">I got some bonus.</string>
+
+    <string name="phrase_337" translatable="false">Tengo que hacer una transferencia.</string>
+    <string name="phrase_translate_337">I have to make a transfer.</string>
+
+    <string name="phrase_338" translatable="false">He ganado mucho dinero.</string>
+    <string name="phrase_translate_338">I have earned a lot of money.</string>
+
+    <string name="phrase_339" translatable="false">Guardo la billetera en mi bolsillo.</string>
+    <string name="phrase_translate_339">I put the wallet in my pocket.</string>
+
+    <string name="phrase_340" translatable="false">Ha robado algo.</string>
+    <string name="phrase_translate_340">He has stolen something.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_321">village</string>
+    <string name="word_LT_322">pensioner</string>
+    <string name="word_LT_323">island</string>
+    <string name="word_LT_324">salary</string>
+    <string name="word_LT_325">salary</string>
+    <string name="word_LT_326">insurance</string>
+    <string name="word_LT_327">to buy</string>
+    <string name="word_LT_328">month</string>
+    <string name="word_LT_329">contract</string>
+    <string name="word_LT_330">to drive</string>
+    <string name="word_LT_331">city hall</string>
+    <string name="word_LT_332">document</string>
+    <string name="word_LT_333">summer</string>
+    <string name="word_LT_334">banknote</string>
+    <string name="word_LT_335">time</string>
+    <string name="word_LT_336">salary</string>
+    <string name="word_LT_337">village</string>
+    <string name="word_LT_338">to sell</string>
+    <string name="word_LT_339">pants</string>
+    <string name="word_LT_340">to steal</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_321">store</string>
+    <string name="word_RT_322">forest</string>
+    <string name="word_RT_323">horse</string>
+    <string name="word_RT_324">goal</string>
+    <string name="word_RT_325">tax</string>
+    <string name="word_RT_326">account</string>
+    <string name="word_RT_327">to earn</string>
+    <string name="word_RT_328">money</string>
+    <string name="word_RT_329">shop</string>
+    <string name="word_RT_330">to steal</string>
+    <string name="word_RT_331">stadium</string>
+    <string name="word_RT_332">animal</string>
+    <string name="word_RT_333">saturday</string>
+    <string name="word_RT_334">winter</string>
+    <string name="word_RT_335">change</string>
+    <string name="word_RT_336">bonus</string>
+    <string name="word_RT_337">transfer</string>
+    <string name="word_RT_338">to buy</string>
+    <string name="word_RT_339">glasses</string>
+    <string name="word_RT_340">to sign</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_321">pension</string>
+    <string name="word_LB_322">night</string>
+    <string name="word_LB_323">profit</string>
+    <string name="word_LB_324">account</string>
+    <string name="word_LB_325">stop</string>
+    <string name="word_LB_326">ball</string>
+    <string name="word_LB_327">to sell</string>
+    <string name="word_LB_328">salary</string>
+    <string name="word_LB_329">cold</string>
+    <string name="word_LB_330">to sign</string>
+    <string name="word_LB_331">expense</string>
+    <string name="word_LB_332">sound</string>
+    <string name="word_LB_333">coin</string>
+    <string name="word_LB_334">glass</string>
+    <string name="word_LB_335">sand</string>
+    <string name="word_LB_336">money</string>
+    <string name="word_LB_337">city</string>
+    <string name="word_LB_338">to earn</string>
+    <string name="word_LB_339">pocket</string>
+    <string name="word_LB_340">to fall</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_321">tree</string>
+    <string name="word_RB_322">pension</string>
+    <string name="word_RB_323">game</string>
+    <string name="word_RB_324">tax</string>
+    <string name="word_RB_325">music</string>
+    <string name="word_RB_326">wallet</string>
+    <string name="word_RB_327">to pay</string>
+    <string name="word_RB_328">tax</string>
+    <string name="word_RB_329">fence</string>
+    <string name="word_RB_330">to fall</string>
+    <string name="word_RB_331">income</string>
+    <string name="word_RB_332">remainder</string>
+    <string name="word_RB_333">winter</string>
+    <string name="word_RB_334">autumn</string>
+    <string name="word_RB_335">snow</string>
+    <string name="word_RB_336">glass</string>
+    <string name="word_RB_337">pension</string>
+    <string name="word_RB_338">to steal</string>
+    <string name="word_RB_339">game</string>
+    <string name="word_RB_340">to go</string>
+    <!-- END -->
+</resources>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_61">Profesie</string>
+    <string name="word_translate_62">Instruire</string>
+    <string name="word_translate_63">Lume</string>
+    <string name="word_translate_64">Oameni</string>
+    <string name="word_translate_65">Părinţi</string>
+    <string name="word_translate_66">a locui</string>
+    <string name="word_translate_67">Viaţă</string>
+    <string name="word_translate_68">deja</string>
+    <string name="word_translate_69">frumos</string>
+    <string name="word_translate_70">a iubi</string>
+    <string name="word_translate_71">Ce?</string>
+    <string name="word_translate_72">repede</string>
+    <string name="word_translate_73">însurat</string>
+    <string name="word_translate_74">a trebui</string>
+    <string name="word_translate_75">Apartament</string>
+    <string name="word_translate_76">Odaie</string>
+    <string name="word_translate_77">Pat</string>
+    <string name="word_translate_78">Floare</string>
+    <string name="word_translate_79">Copac</string>
+    <string name="word_translate_80">verde</string>
+    <!-- END -->
+
+    <!-- PHRASE  -->
+    <string name="phrase_translate_61">El este <b>doctor</b> după profesie.</string>
+    <string name="phrase_translate_62">Eu fac acum o <b>instruire</b>.</string>
+    <string name="phrase_translate_63">Eu călătoresc prin toată <b>lumea</b>.</string>
+    <string name="phrase_translate_64">El cunoaşte aici mulţi <b>oameni</b>.</string>
+    <string name="phrase_translate_65">Ce fac <b>părinţii</b> tăi?</string>
+    <string name="phrase_translate_66">Eu <b>locuiesc</b> într-un apartament.</string>
+    <string name="phrase_translate_67">niciodată în <b>viaţă</b></string>
+    <string name="phrase_translate_68">Eu sunt <b>deja</b> aici.</string>
+    <string name="phrase_translate_69">Aceasta îi <b>frumos</b>!</string>
+    <string name="phrase_translate_70">Eu te <b>iubesc</b>!</string>
+    <string name="phrase_translate_71"><b>Ce</b> faci tu?</string>
+    <string name="phrase_translate_72">Tu mergi <b>repede</b>.</string>
+    <string name="phrase_translate_73">Eu sunt <b>însurat</b>.</string>
+    <string name="phrase_translate_74">Eu <b>trebuie</b> să lucrez.</string>
+    <string name="phrase_translate_75">Eu locuiesc în <b>apartament</b>.</string>
+    <string name="phrase_translate_76">Apartamentul meu are două <b>odăi</b>.</string>
+    <string name="phrase_translate_77">a merge în pat</string>
+    <string name="phrase_translate_78">Ei îi plac <b>florile</b>.</string>
+    <string name="phrase_translate_79"><b>Copacul</b> este foarte bătrân.</string>
+    <string name="phrase_translate_80">Maşina mea e <b>verde</b>.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_61">Scrisoare</string>
+    <string name="word_LT_62">Ieşire</string>
+    <string name="word_LT_63">Bani</string>
+    <string name="word_LT_64">Oameni</string>
+    <string name="word_LT_65">Pat</string>
+    <string name="word_LT_66">a locui</string>
+    <string name="word_LT_67">Iubire</string>
+    <string name="word_LT_68">încă</string>
+    <string name="word_LT_69">frumos</string>
+    <string name="word_LT_70">a trăi</string>
+    <string name="word_LT_71">De ce?</string>
+    <string name="word_LT_72">repede</string>
+    <string name="word_LT_73">primul</string>
+    <string name="word_LT_74">a trebui</string>
+    <string name="word_LT_75">Odaie</string>
+    <string name="word_LT_76">Iarnă</string>
+    <string name="word_LT_77">Pat</string>
+    <string name="word_LT_78">Uşă</string>
+    <string name="word_LT_79">Pământ</string>
+    <string name="word_LT_80">verde</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_61">Profesie</string>
+    <string name="word_RT_62">Instruire</string>
+    <string name="word_RT_63">Vacanţă</string>
+    <string name="word_RT_64">Barcă</string>
+    <string name="word_RT_65">Copii</string>
+    <string name="word_RT_66">a ieşi</string>
+    <string name="word_RT_67">Libertate</string>
+    <string name="word_RT_68">deja</string>
+    <string name="word_RT_69">roşu</string>
+    <string name="word_RT_70">a căuta</string>
+    <string name="word_RT_71">Când?</string>
+    <string name="word_RT_72">frig</string>
+    <string name="word_RT_73">însurat</string>
+    <string name="word_RT_74">a spăla</string>
+    <string name="word_RT_75">Pat</string>
+    <string name="word_RT_76">Mare</string>
+    <string name="word_RT_77">Masă</string>
+    <string name="word_RT_78">Copac</string>
+    <string name="word_RT_79">Baie</string>
+    <string name="word_RT_80">sur</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_61">Carte</string>
+    <string name="word_LB_62">Iceberg</string>
+    <string name="word_LB_63">Mare</string>
+    <string name="word_LB_64">Cap</string>
+    <string name="word_LB_65">Părinţi</string>
+    <string name="word_LB_66">a întreba</string>
+    <string name="word_LB_67">Viaţă</string>
+    <string name="word_LB_68">atunci</string>
+    <string name="word_LB_69">repede</string>
+    <string name="word_LB_70">a merge</string>
+    <string name="word_LB_71">Cine?</string>
+    <string name="word_LB_72">încet</string>
+    <string name="word_LB_73">ultimul</string>
+    <string name="word_LB_74">a putea</string>
+    <string name="word_LB_75">Apartament</string>
+    <string name="word_LB_76">Vacanţă</string>
+    <string name="word_LB_77">Scaun</string>
+    <string name="word_LB_78">Floare</string>
+    <string name="word_LB_79">Pat</string>
+    <string name="word_LB_80">galben</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_61">Literă</string>
+    <string name="word_RB_62">Ocean</string>
+    <string name="word_RB_63">Lume</string>
+    <string name="word_RB_64">Copac</string>
+    <string name="word_RB_65">Pat</string>
+    <string name="word_RB_66">a intra</string>
+    <string name="word_RB_67">Casă</string>
+    <string name="word_RB_68">frumos</string>
+    <string name="word_RB_69">încet</string>
+    <string name="word_RB_70">a iubi</string>
+    <string name="word_RB_71">Ce?</string>
+    <string name="word_RB_72">cald</string>
+    <string name="word_RB_73">despărţit</string>
+    <string name="word_RB_74">a dori</string>
+    <string name="word_RB_75">Viaţă</string>
+    <string name="word_RB_76">Odaie</string>
+    <string name="word_RB_77">Uşă</string>
+    <string name="word_RB_78">Pământ</string>
+    <string name="word_RB_79">Copac</string>
+    <string name="word_RB_80">negru</string>
+    <!-- END -->
+</resources>

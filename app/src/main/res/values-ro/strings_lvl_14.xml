@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_261">Pisică</string>
+    <string name="word_translate_262">Câine</string>
+    <string name="word_translate_263">a lătra</string>
+    <string name="word_translate_264">Lup</string>
+    <string name="word_translate_265">Vulpe</string>
+    <string name="word_translate_266">Cal</string>
+    <string name="word_translate_267">a alerga</string>
+    <string name="word_translate_268">Pește</string>
+    <string name="word_translate_269">Pescuit</string>
+    <string name="word_translate_270">Vânătoare</string>
+    <string name="word_translate_271">a vâna</string>
+    <string name="word_translate_272">Animal</string>
+    <string name="word_translate_273">Urs</string>
+    <string name="word_translate_274">Rață</string>
+    <string name="word_translate_275">Armă</string>
+    <string name="word_translate_276">Undiță</string>
+    <string name="word_translate_277">a prinde</string>
+    <string name="word_translate_278">a pescui</string>
+    <string name="word_translate_279">Iepure</string>
+    <string name="word_translate_280">Pasăre</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_261">Ea are trei pisici.</string>
+    <string name="phrase_translate_262">Câinele meu este deja bătrân.</string>
+    <string name="phrase_translate_263">Câinele latră</string>
+    <string name="phrase_translate_264">În pădure sunt lupi.</string>
+    <string name="phrase_translate_265">Vulpea este frumoasă.</string>
+    <string name="phrase_translate_266">Eu nu pot merge pe cal.</string>
+    <string name="phrase_translate_267">Tu alergi foarte repede.</string>
+    <string name="phrase_translate_268">Eu am prins un pește.</string>
+    <string name="phrase_translate_269">Noi suntem la pescuit.</string>
+    <string name="phrase_translate_270">El a fost la vânătoare.</string>
+    <string name="phrase_translate_271">Ei vânează animale</string>
+    <string name="phrase_translate_272">Noi trebuie să avem grijă de animale.</string>
+    <string name="phrase_translate_273">Ursul mănâncă pește.</string>
+    <string name="phrase_translate_274">În iaz inoată răți.</string>
+    <string name="phrase_translate_275">Soldații au arme.</string>
+    <string name="phrase_translate_276">Eu am aruncat undița în apă.</string>
+    <string name="phrase_translate_277">Eu prind pește.</string>
+    <string name="phrase_translate_278">Tu pescuiești</string>
+    <string name="phrase_translate_279">Iepurile aleargă pe deal.</string>
+    <string name="phrase_translate_280">În primăvară ciripesc păsările.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_261">Floare</string>
+    <string name="word_LT_262">Avion</string>
+    <string name="word_LT_263">a te plimba</string>
+    <string name="word_LT_264">Lup</string>
+    <string name="word_LT_265">Parc</string>
+    <string name="word_LT_266">Insulă</string>
+    <string name="word_LT_267">a alerga</string>
+    <string name="word_LT_268">Jucărie</string>
+    <string name="word_LT_269">Pescuit</string>
+    <string name="word_LT_270">Supă</string>
+    <string name="word_LT_271">a zbura</string>
+    <string name="word_LT_272">Copac</string>
+    <string name="word_LT_273">Noapte</string>
+    <string name="word_LT_274">Animal</string>
+    <string name="word_LT_275">Haine</string>
+    <string name="word_LT_276">Floare</string>
+    <string name="word_LT_277">a lua</string>
+    <string name="word_LT_278">a vâna</string>
+    <string name="word_LT_279">Iepure</string>
+    <string name="word_LT_280">Copac</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_261">Pisică</string>
+    <string name="word_RT_262">Fluture</string>
+    <string name="word_RT_263">a alerga</string>
+    <string name="word_RT_264">Munte</string>
+    <string name="word_RT_265">Tren</string>
+    <string name="word_RT_266">Cal</string>
+    <string name="word_RT_267">a cânta</string>
+    <string name="word_RT_268">Bomboană</string>
+    <string name="word_RT_269">Copac</string>
+    <string name="word_RT_270">Ceainic</string>
+    <string name="word_RT_271">a cânta</string>
+    <string name="word_RT_272">Animal</string>
+    <string name="word_RT_273">Fluture</string>
+    <string name="word_RT_274">Pădure</string>
+    <string name="word_RT_275">Armă</string>
+    <string name="word_RT_276">Undiță</string>
+    <string name="word_RT_277">a juca</string>
+    <string name="word_RT_278">a alerga</string>
+    <string name="word_RT_279">Creciun</string>
+    <string name="word_RT_280">Pasăre</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_261">Munte</string>
+    <string name="word_LB_262">Alergare</string>
+    <string name="word_LB_263">a lătra</string>
+    <string name="word_LB_264">Copac</string>
+    <string name="word_LB_265">Vulpe</string>
+    <string name="word_LB_266">Copac</string>
+    <string name="word_LB_267">a găti</string>
+    <string name="word_LB_268">Chitară</string>
+    <string name="word_LB_269">Odihnă</string>
+    <string name="word_LB_270">Vânătoare</string>
+    <string name="word_LB_271">a sări</string>
+    <string name="word_LB_272">Floare</string>
+    <string name="word_LB_273">Urs</string>
+    <string name="word_LB_274">Noapte</string>
+    <string name="word_LB_275">Vânătoare</string>
+    <string name="word_LB_276">Avion</string>
+    <string name="word_LB_277">a rămâne</string>
+    <string name="word_LB_278">a căuta</string>
+    <string name="word_LB_279">Fluture</string>
+    <string name="word_LB_280">Floare</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_261">Avion</string>
+    <string name="word_RB_262">Câine</string>
+    <string name="word_RB_263">a dărui</string>
+    <string name="word_RB_264">Pădure</string>
+    <string name="word_RB_265">Muzică</string>
+    <string name="word_RB_266">Joacă</string>
+    <string name="word_RB_267">a dărui</string>
+    <string name="word_RB_268">Pește</string>
+    <string name="word_RB_269">Timp</string>
+    <string name="word_RB_270">Haine</string>
+    <string name="word_RB_271">a vâna</string>
+    <string name="word_RB_272">Odihnă</string>
+    <string name="word_RB_273">Iarnă</string>
+    <string name="word_RB_274">Rață</string>
+    <string name="word_RB_275">Chitară</string>
+    <string name="word_RB_276">Restaurant</string>
+    <string name="word_RB_277">a prinde</string>
+    <string name="word_RB_278">a pescui</string>
+    <string name="word_RB_279">Odihnă</string>
+    <string name="word_RB_280">Avion</string>
+    <!-- END -->
+</resources>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_301">Castel</string>
+    <string name="word_translate_302">Pod</string>
+    <string name="word_translate_303">Centru comercial</string>
+    <string name="word_translate_304">Grădiniță</string>
+    <string name="word_translate_305">Grădină</string>
+    <string name="word_translate_306">Legume</string>
+    <string name="word_translate_307">Grădinar</string>
+    <string name="word_translate_308">a uda</string>
+    <string name="word_translate_309">Cale</string>
+    <string name="word_translate_310">Rădăcină</string>
+    <string name="word_translate_311">Creangă</string>
+    <string name="word_translate_312">Primărie</string>
+    <string name="word_translate_313">Biserică</string>
+    <string name="word_translate_314">Stadion</string>
+    <string name="word_translate_315">Echipă</string>
+    <string name="word_translate_316">Fotbal</string>
+    <string name="word_translate_317">Alergare</string>
+    <string name="word_translate_318">Poartă</string>
+    <string name="word_translate_319">Minge</string>
+    <string name="word_translate_320">a juca</string>
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_301">În Germania sunt multe castele.</string>
+    <string name="phrase_translate_302">Noi trecusem peste pod.</string>
+    <string name="phrase_translate_303">Eu plec la centru comercial.</string>
+    <string name="phrase_translate_304">Copiii mei sunt la grădiniță.</string>
+    <string name="phrase_translate_305">Eu am mult de lucru în grădină.</string>
+    <string name="phrase_translate_306">Eu trebuie să cumpăr legume.</string>
+    <string name="phrase_translate_307">El lucrează ca grădinar.</string>
+    <string name="phrase_translate_308">El udă florile.</string>
+    <string name="phrase_translate_309">Aici a apărut o cale.</string>
+    <string name="phrase_translate_310">Acești copaci au multe rădăcini.</string>
+    <string name="phrase_translate_311">Copacul are crengi lungi.</string>
+    <string name="phrase_translate_312">Unde-i primăria?</string>
+    <string name="phrase_translate_313">Ea merge duminica la biserică.</string>
+    <string name="phrase_translate_314">Ei joacă fotbal pe stadion.</string>
+    <string name="phrase_translate_315">Prima echipă a câștigat.</string>
+    <string name="phrase_translate_316">El joacă fotbal.</string>
+    <string name="phrase_translate_317">Alergarea este bună pentru sănătate.</string>
+    <string name="phrase_translate_318">Mingea este în poartă</string>
+    <string name="phrase_translate_319">Eu i-am dat mingea.</string>
+    <string name="phrase_translate_320">Eu joc la chitară.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_301">Sat</string>
+    <string name="word_LT_302">Copac</string>
+    <string name="word_LT_303">Sat</string>
+    <string name="word_LT_304">Insulă</string>
+    <string name="word_LT_305">Floare</string>
+    <string name="word_LT_306">Avion</string>
+    <string name="word_LT_307">Castel</string>
+    <string name="word_LT_308">a întreba</string>
+    <string name="word_LT_309">Cale</string>
+    <string name="word_LT_310">Baie</string>
+    <string name="word_LT_311">Creangă</string>
+    <string name="word_LT_312">Scaun</string>
+    <string name="word_LT_313">Portmoneu</string>
+    <string name="word_LT_314">Haine</string>
+    <string name="word_LT_315">Echipă</string>
+    <string name="word_LT_316">Chipiu</string>
+    <string name="word_LT_317">Alergare</string>
+    <string name="word_LT_318">Mâină</string>
+    <string name="word_LT_319">Gard</string>
+    <string name="word_LT_320">a juca</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_301">Castel</string>
+    <string name="word_RT_302">Animal</string>
+    <string name="word_RT_303">Centru comercial</string>
+    <string name="word_RT_304">Grădiniță</string>
+    <string name="word_RT_305">Pisică</string>
+    <string name="word_RT_306">Fluture</string>
+    <string name="word_RT_307">Grădinar</string>
+    <string name="word_RT_308">a strânge</string>
+    <string name="word_RT_309">Mâină</string>
+    <string name="word_RT_310">Rădăcină</string>
+    <string name="word_RT_311">Sunet</string>
+    <string name="word_RT_312">Ochelari</string>
+    <string name="word_RT_313">Bani</string>
+    <string name="word_RT_314">Stadion</string>
+    <string name="word_RT_315">Păr</string>
+    <string name="word_RT_316">Cap</string>
+    <string name="word_RT_317">Cal</string>
+    <string name="word_RT_318">Corp</string>
+    <string name="word_RT_319">Oprire</string>
+    <string name="word_RT_320">a fura</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_301">Benzinărie</string>
+    <string name="word_LB_302">Floare</string>
+    <string name="word_LB_303">Munte</string>
+    <string name="word_LB_304">Copac</string>
+    <string name="word_LB_305">Grădină</string>
+    <string name="word_LB_306">Legume</string>
+    <string name="word_LB_307">Gard</string>
+    <string name="word_LB_308">a uda</string>
+    <string name="word_LB_309">Gură</string>
+    <string name="word_LB_310">Munte</string>
+    <string name="word_LB_311">Blugi</string>
+    <string name="word_LB_312">Primărie</string>
+    <string name="word_LB_313">Dulap</string>
+    <string name="word_LB_314">Încălţăminte</string>
+    <string name="word_LB_315">Chipiu</string>
+    <string name="word_LB_316">Fotbal</string>
+    <string name="word_LB_317">Câine</string>
+    <string name="word_LB_318">Haine</string>
+    <string name="word_LB_319">Cap</string>
+    <string name="word_LB_320">a merge</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_301">Construcție</string>
+    <string name="word_RB_302">Pod</string>
+    <string name="word_RB_303">Copac</string>
+    <string name="word_RB_304">Joacă</string>
+    <string name="word_RB_305">Avion</string>
+    <string name="word_RB_306">Câine</string>
+    <string name="word_RB_307">Pământ</string>
+    <string name="word_RB_308">a sări</string>
+    <string name="word_RB_309">Mare</string>
+    <string name="word_RB_310">Pădure</string>
+    <string name="word_RB_311">Ochelari</string>
+    <string name="word_RB_312">Încălţăminte</string>
+    <string name="word_RB_313">Biserică</string>
+    <string name="word_RB_314">Ochelari</string>
+    <string name="word_RB_315">Pălărie</string>
+    <string name="word_RB_316">Gură</string>
+    <string name="word_RB_317">Pălărie</string>
+    <string name="word_RB_318">Poartă</string>
+    <string name="word_RB_319">Minge</string>
+    <string name="word_RB_320">a spăla</string>
+    <!-- END -->
+</resources>

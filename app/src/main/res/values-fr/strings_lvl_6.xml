@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_101">le pays</string>
+    <string name="word_translate_102">la ville</string>
+    <string name="word_translate_103">la poste</string>
+    <string name="word_translate_104">l\'entrée</string>
+    <string name="word_translate_105">La sortie</string>
+    <string name="word_translate_106">principale</string>
+    <string name="word_translate_107">la station</string>
+    <string name="word_translate_108">le chemin</string>
+    <string name="word_translate_109">le magasin</string>
+    <string name="word_translate_110">La poubelle</string>
+    <string name="word_translate_111">lancer</string>
+    <string name="word_translate_112">Trier</string>
+    <string name="word_translate_113">la montagne</string>
+    <string name="word_translate_114">les escaliers</string>
+    <string name="word_translate_115">monter</string>
+    <string name="word_translate_116">haute</string>
+    <string name="word_translate_117">Haut</string>
+    <string name="word_translate_118">bas</string>
+    <string name="word_translate_119">droite</string>
+    <string name="word_translate_120">la gauche</string>
+
+    <!-- PHRASE  -->
+    <string name="phrase_translate_101">Mon pays est multinational.</string>
+    <string name="phrase_translate_102">Je vis dans une ville.</string>
+    <string name="phrase_translate_103">Le bureau de poste est ouvert.</string>
+    <string name="phrase_translate_104">entrée de la gare</string>
+    <string name="phrase_translate_105">Où est la sortie ?</string>
+    <string name="phrase_translate_106">rue principale</string>
+    <string name="phrase_translate_107">Le train est déjà à la gare.</string>
+    <string name="phrase_translate_108">encore un long chemin</string>
+    <string name="phrase_translate_109">Les magasins sont fermés.</string>
+    <string name="phrase_translate_110">Les ordures doivent être triées.</string>
+    <string name="phrase_translate_111">Je dois jeter mes vieux vêtements.</string>
+    <string name="phrase_translate_112">Triez-vous les ordures?</string>
+    <string name="phrase_translate_113">Une très haute montagne</string>
+    <string name="phrase_translate_114">Je monte les escaliers.</string>
+    <string name="phrase_translate_115">Il gravit les montagnes et les collines.</string>
+    <string name="phrase_translate_116">Le prix est trop élevé.</string>
+    <string name="phrase_translate_117">C\'est au top.</string>
+    <string name="phrase_translate_118">En bas, il y a une signature.</string>
+    <string name="phrase_translate_119">puis à droite</string>
+    <string name="phrase_translate_120">La rue à gauche.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_101">la maison</string>
+    <string name="word_LT_102">le tram</string>
+    <string name="word_LT_103">le port</string>
+    <string name="word_LT_104">les escaliers</string>
+    <string name="word_LT_105">La sortie</string>
+    <string name="word_LT_106">principale</string>
+    <string name="word_LT_107">la Banque</string>
+    <string name="word_LT_108">le pays</string>
+    <string name="word_LT_109">la montagne</string>
+    <string name="word_LT_110">La poubelle</string>
+    <string name="word_LT_111">avitailler</string>
+    <string name="word_LT_112">se tenir debout</string>
+    <string name="word_LT_113">la ville</string>
+    <string name="word_LT_114">le train</string>
+    <string name="word_LT_115">aller</string>
+    <string name="word_LT_116">faible</string>
+    <string name="word_LT_117">Haut</string>
+    <string name="word_LT_118">bas</string>
+    <string name="word_LT_119">la gauche</string>
+    <string name="word_LT_120">entre</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_101">la ville</string>
+    <string name="word_RT_102">la rue</string>
+    <string name="word_RT_103">la station</string>
+    <string name="word_RT_104">l\'entrée</string>
+    <string name="word_RT_105">le coucher du soleil</string>
+    <string name="word_RT_106">vieille</string>
+    <string name="word_RT_107">la station</string>
+    <string name="word_RT_108">l\'appartement</string>
+    <string name="word_RT_109">les légumes</string>
+    <string name="word_RT_110">la mer</string>
+    <string name="word_RT_111">lancer</string>
+    <string name="word_RT_112">Trier</string>
+    <string name="word_RT_113">la forêt</string>
+    <string name="word_RT_114">le papillon</string>
+    <string name="word_RT_115">tomber</string>
+    <string name="word_RT_116">haute</string>
+    <string name="word_RT_117">droite</string>
+    <string name="word_RT_118">entre</string>
+    <string name="word_RT_119">proche</string>
+    <string name="word_RT_120">derrière</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_101">le château</string>
+    <string name="word_LB_102">la ville</string>
+    <string name="word_LB_103">la boutique</string>
+    <string name="word_LB_104">le lever du soleil</string>
+    <string name="word_LB_105">le train</string>
+    <string name="word_LB_106">Nouveau</string>
+    <string name="word_LB_107">l\'entrée</string>
+    <string name="word_LB_108">le chemin</string>
+    <string name="word_LB_109">le fruit</string>
+    <string name="word_LB_110">le port</string>
+    <string name="word_LB_111">à monter</string>
+    <string name="word_LB_112">collecter</string>
+    <string name="word_LB_113">la montagne</string>
+    <string name="word_LB_114">l\'avion</string>
+    <string name="word_LB_115">monter</string>
+    <string name="word_LB_116">longue</string>
+    <string name="word_LB_117">bas</string>
+    <string name="word_LB_118">vite</string>
+    <string name="word_LB_119">droite</string>
+    <string name="word_LB_120">proche</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_101">le pays</string>
+    <string name="word_RB_102">la montagne</string>
+    <string name="word_RB_103">la poste</string>
+    <string name="word_RB_104">l\'autoroute</string>
+    <string name="word_RB_105">le parc</string>
+    <string name="word_RB_106">première</string>
+    <string name="word_RB_107">La sortie</string>
+    <string name="word_RB_108">la vie</string>
+    <string name="word_RB_109">le magasin</string>
+    <string name="word_RB_110">la station</string>
+    <string name="word_RB_111">tomber</string>
+    <string name="word_RB_112">laver</string>
+    <string name="word_RB_113">l\'arbre</string>
+    <string name="word_RB_114">les escaliers</string>
+    <string name="word_RB_115">jouer</string>
+    <string name="word_RB_116">ralentir</string>
+    <string name="word_RB_117">la gauche</string>
+    <string name="word_RB_118">la gauche</string>
+    <string name="word_RB_119">loin</string>
+    <string name="word_RB_120">la gauche</string>
+    <!-- END -->
+</resources>

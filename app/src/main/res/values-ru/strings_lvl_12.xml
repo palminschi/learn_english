@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_221">Паспорт</string>
+    <string name="word_translate_222">Билет</string>
+    <string name="word_translate_223">Остров</string>
+    <string name="word_translate_224">Вылет</string>
+    <string name="word_translate_225">Прибытие</string>
+    <string name="word_translate_226">приземляться</string>
+    <string name="word_translate_227">Багаж</string>
+    <string name="word_translate_228">Бортпроводник</string>
+    <string name="word_translate_229">заплатить</string>
+    <string name="word_translate_230">Полет</string>
+    <string name="word_translate_231">Удостоверение</string>
+    <string name="word_translate_232">Документ</string>
+    <string name="word_translate_233">Океан</string>
+    <string name="word_translate_234">Айсберг</string>
+    <string name="word_translate_235">Корабль</string>
+    <string name="word_translate_236">Лодка</string>
+    <string name="word_translate_237">Кит</string>
+    <string name="word_translate_238">Акула</string>
+    <string name="word_translate_239">Песок</string>
+    <string name="word_translate_240">Озеро</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_221">Я потерял свой паспорт.</string>
+    <string name="phrase_translate_222">Я купил два билета.</string>
+    <string name="phrase_translate_223">Мы на острове</string>
+    <string name="phrase_translate_224">Когда вылет?</string>
+    <string name="phrase_translate_225">Прибытие в 13.00.</string>
+    <string name="phrase_translate_226">Самолет приземляется</string>
+    <string name="phrase_translate_227">У меня нет багажа.</string>
+    <string name="phrase_translate_228">Бортпроводник помог мне.</string>
+    <string name="phrase_translate_229">Сколько я должен заплатить?</string>
+    <string name="phrase_translate_230">Мы уже в полете.</string>
+    <string name="phrase_translate_231">Я не могу найти свое удостоверение.</string>
+    <string name="phrase_translate_232">Я забрал все документы.</string>
+    <string name="phrase_translate_233">Океан очень большой.</string>
+    <string name="phrase_translate_234">В океане есть айсберги.</string>
+    <string name="phrase_translate_235">Мы на корабле.</string>
+    <string name="phrase_translate_236">Лодка плывет в море</string>
+    <string name="phrase_translate_237">Я увидел кита.</string>
+    <string name="phrase_translate_238">Акулы очень опасны.</string>
+    <string name="phrase_translate_239">На пляже много песка.</string>
+    <string name="phrase_translate_240">Он ловит рыбу в озере.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_221">Отдых</string>
+    <string name="word_LT_222">Таможня</string>
+    <string name="word_LT_223">Остров</string>
+    <string name="word_LT_224">Выход</string>
+    <string name="word_LT_225">Прибытие</string>
+    <string name="word_LT_226">летать</string>
+    <string name="word_LT_227">Поезд</string>
+    <string name="word_LT_228">Море</string>
+    <string name="word_LT_229">заплатить</string>
+    <string name="word_LT_230">Дорога</string>
+    <string name="word_LT_231">Отель</string>
+    <string name="word_LT_232">Дерево</string>
+    <string name="word_LT_233">Океан</string>
+    <string name="word_LT_234">Таможня</string>
+    <string name="word_LT_235">Ресторан</string>
+    <string name="word_LT_236">Лодка</string>
+    <string name="word_LT_237">Поезд</string>
+    <string name="word_LT_238">Море</string>
+    <string name="word_LT_239">Песок</string>
+    <string name="word_LT_240">Остров</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_221">Паспорт</string>
+    <string name="word_RT_222">Самолет</string>
+    <string name="word_RT_223">Бутылка</string>
+    <string name="word_RT_224">Таможня</string>
+    <string name="word_RT_225">Чемодан</string>
+    <string name="word_RT_226">бронировать</string>
+    <string name="word_RT_227">Багаж</string>
+    <string name="word_RT_228">Врач</string>
+    <string name="word_RT_229">прыгнуть</string>
+    <string name="word_RT_230">Ресторан</string>
+    <string name="word_RT_231">Удостоверение</string>
+    <string name="word_RT_232">Цветок</string>
+    <string name="word_RT_233">Море</string>
+    <string name="word_RT_234">Айсберг</string>
+    <string name="word_RT_235">Отель</string>
+    <string name="word_RT_236">Поезд</string>
+    <string name="word_RT_237">Цветок</string>
+    <string name="word_RT_238">Самолет</string>
+    <string name="word_RT_239">Таможня</string>
+    <string name="word_RT_240">Озеро</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_221">Таможня</string>
+    <string name="word_LB_222">Дерево</string>
+    <string name="word_LB_223">Цветок</string>
+    <string name="word_LB_224">Вылет</string>
+    <string name="word_LB_225">Игрушка</string>
+    <string name="word_LB_226">петь</string>
+    <string name="word_LB_227">Отдых</string>
+    <string name="word_LB_228">Бортпроводник</string>
+    <string name="word_LB_229">работать</string>
+    <string name="word_LB_230">Полет</string>
+    <string name="word_LB_231">Поезд</string>
+    <string name="word_LB_232">Автомобиль</string>
+    <string name="word_LB_233">Зима</string>
+    <string name="word_LB_234">Отдых</string>
+    <string name="word_LB_235">Корабль</string>
+    <string name="word_LB_236">Самолет</string>
+    <string name="word_LB_237">Отель</string>
+    <string name="word_LB_238">Бутылка</string>
+    <string name="word_LB_239">Цветок</string>
+    <string name="word_LB_240">Отдых</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_221">Море</string>
+    <string name="word_RB_222">Билет</string>
+    <string name="word_RB_223">Автомобиль</string>
+    <string name="word_RB_224">Чемодан</string>
+    <string name="word_RB_225">Вход</string>
+    <string name="word_RB_226">приземляться</string>
+    <string name="word_RB_227">Отель</string>
+    <string name="word_RB_228">Аэропорт</string>
+    <string name="word_RB_229">остаться</string>
+    <string name="word_RB_230">Остров</string>
+    <string name="word_RB_231">Самолет</string>
+    <string name="word_RB_232">Документ</string>
+    <string name="word_RB_233">Отель</string>
+    <string name="word_RB_234">Остров</string>
+    <string name="word_RB_235">Зима</string>
+    <string name="word_RB_236">Ресторан</string>
+    <string name="word_RB_237">Кит</string>
+    <string name="word_RB_238">Акула</string>
+    <string name="word_RB_239">Автомобиль</string>
+    <string name="word_RB_240">Море</string>
+    <!-- END -->
+</resources>

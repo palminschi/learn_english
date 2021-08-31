@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_41">Soare</string>
+    <string name="word_translate_42">Vară</string>
+    <string name="word_translate_43">Iarnă</string>
+    <string name="word_translate_44">Zăpadă</string>
+    <string name="word_translate_45">Întrebare</string>
+    <string name="word_translate_46">Ploaie</string>
+    <string name="word_translate_47">frig</string>
+    <string name="word_translate_48">Mare</string>
+    <string name="word_translate_49">cald</string>
+    <string name="word_translate_50">a călători</string>
+    <string name="word_translate_51">Vacanţă</string>
+    <string name="word_translate_52">a lucra</string>
+    <string name="word_translate_53">a funcţiona</string>
+    <string name="word_translate_54">Răspuns</string>
+    <string name="word_translate_55">Doctor</string>
+    <string name="word_translate_56">Boală</string>
+    <string name="word_translate_57">a lecui</string>
+    <string name="word_translate_58">Cine?</string>
+    <string name="word_translate_59">Spital</string>
+    <string name="word_translate_60">De ce?</string>
+    <!-- END -->
+
+    <!-- PHRASE + TRANSLATE -->
+    <string name="phrase_translate_41"><b>Soarele</b> luminează!</string>
+    <string name="phrase_translate_42"><b>Vara</b> este un anotimp cald.</string>
+    <string name="phrase_translate_43"><b>Iarna</b> este frig.</string>
+    <string name="phrase_translate_44">Cade <b>zăpada</b>.</string>
+    <string name="phrase_translate_45">Eu am <b>o întrebare</b> la Dumneavoastră.</string>
+    <string name="phrase_translate_46">Este <b>ploaie</b>.</string>
+    <string name="phrase_translate_47">Mie îmi este <b>frig</b>.</string>
+    <string name="phrase_translate_48">a merge la <b>mare</b></string>
+    <string name="phrase_translate_49">Ţi-e <b>cald</b>?</string>
+    <string name="phrase_translate_50">Îmi place <b>să călătoresc</b>.</string>
+    <string name="phrase_translate_51">El a fost în <b>vacanţă</b>.</string>
+    <string name="phrase_translate_52">El lucrează <b>mult</b>.</string>
+    <string name="phrase_translate_53">Asta nu funcţionează!</string>
+    <string name="phrase_translate_54">Când voi primi eu<b>un răspuns</b>?</string>
+    <string name="phrase_translate_55">El este <b>doctor</b> după profesie.</string>
+    <string name="phrase_translate_56">El nu are nici o <b>boală</b>.</string>
+    <string name="phrase_translate_57">Doctorul <b>lecuieşte</b> oameni.</string>
+    <string name="phrase_translate_58"><b>Cine</b> eşti tu?</string>
+    <string name="phrase_translate_59">Bolnavul a fost adus la <b>spital</b>.</string>
+    <string name="phrase_translate_60"><b>De ce</b> nu?</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_41">Fiu</string>
+    <string name="word_LT_42">Vară</string>
+    <string name="word_LT_43">Apă</string>
+    <string name="word_LT_44">Timp</string>
+    <string name="word_LT_45">Răspuns</string>
+    <string name="word_LT_46">Ploaie</string>
+    <string name="word_LT_47">cald</string>
+    <string name="word_LT_48">Măr</string>
+    <string name="word_LT_49">azi</string>
+    <string name="word_LT_50">a gândi</string>
+    <string name="word_LT_51">Vacanţă</string>
+    <string name="word_LT_52">a căuta</string>
+    <string name="word_LT_53">a căuta</string>
+    <string name="word_LT_54">Răspuns</string>
+    <string name="word_LT_55">Poliţist</string>
+    <string name="word_LT_56">Spital</string>
+    <string name="word_LT_57">a prelucra</string>
+    <string name="word_LT_58">Cine?</string>
+    <string name="word_LT_59">Soare</string>
+    <string name="word_LT_60">Când?</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_41">Soare</string>
+    <string name="word_RT_42">Sâmbătă</string>
+    <string name="word_RT_43">Iarnă</string>
+    <string name="word_RT_44">Vreme</string>
+    <string name="word_RT_45">Prieten</string>
+    <string name="word_RT_46">Lege</string>
+    <string name="word_RT_47">frig</string>
+    <string name="word_RT_48">Săpun</string>
+    <string name="word_RT_49">frig</string>
+    <string name="word_RT_50">a mânca</string>
+    <string name="word_RT_51">Urs</string>
+    <string name="word_RT_52">a merge</string>
+    <string name="word_RT_53">a funcţiona</string>
+    <string name="word_RT_54">Cuvânt</string>
+    <string name="word_RT_55">Doctor</string>
+    <string name="word_RT_56">Parc</string>
+    <string name="word_RT_57">a primi</string>
+    <string name="word_RT_58">De ce?</string>
+    <string name="word_RT_59">Spital</string>
+    <string name="word_RT_60">De ce?</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_41">Vară</string>
+    <string name="word_LB_42">Fiu</string>
+    <string name="word_LB_43">Păhar</string>
+    <string name="word_LB_44">Nisip</string>
+    <string name="word_LB_45">Gheaţă</string>
+    <string name="word_LB_46">Castel</string>
+    <string name="word_LB_47">repede</string>
+    <string name="word_LB_48">Mare</string>
+    <string name="word_LB_49">demult</string>
+    <string name="word_LB_50">a merge</string>
+    <string name="word_LB_51">Copac</string>
+    <string name="word_LB_52">a lucra</string>
+    <string name="word_LB_53">a socoate</string>
+    <string name="word_LB_54">Formă</string>
+    <string name="word_LB_55">Învăţător</string>
+    <string name="word_LB_56">Boală</string>
+    <string name="word_LB_57">a trimite</string>
+    <string name="word_LB_58">Când?</string>
+    <string name="word_LB_59">Zăpadă</string>
+    <string name="word_LB_60">Cine?</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_41">Mare</string>
+    <string name="word_RB_42">Iarnă</string>
+    <string name="word_RB_43">Tomnă</string>
+    <string name="word_RB_44">Zăpadă</string>
+    <string name="word_RB_45">Întrebare</string>
+    <string name="word_RB_46">Religie</string>
+    <string name="word_RB_47">încet</string>
+    <string name="word_RB_48">Casă</string>
+    <string name="word_RB_49">cald</string>
+    <string name="word_RB_50">a călători</string>
+    <string name="word_RB_51">Ocean</string>
+    <string name="word_RB_52">a iubi</string>
+    <string name="word_RB_53">a găsi</string>
+    <string name="word_RB_54">Întrebare</string>
+    <string name="word_RB_55">Constructor</string>
+    <string name="word_RB_56">Pădure</string>
+    <string name="word_RB_57">a lecui</string>
+    <string name="word_RB_58">Cât?</string>
+    <string name="word_RB_59">Boală</string>
+    <string name="word_RB_60">Cât?</string>
+    <!-- END -->
+</resources>

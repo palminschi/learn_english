@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_281">le froid</string>
+    <string name="word_translate_282">le gel</string>
+    <string name="word_translate_283">le nuage</string>
+    <string name="word_translate_284">le givre</string>
+    <string name="word_translate_285">le vent</string>
+    <string name="word_translate_286">le temps</string>
+    <string name="word_translate_287">mouiller</string>
+    <string name="word_translate_288">venteux</string>
+    <string name="word_translate_289">fiston</string>
+    <string name="word_translate_290">briller</string>
+    <string name="word_translate_291">décongeler</string>
+    <string name="word_translate_292">nuageux</string>
+    <string name="word_translate_293">nuageux</string>
+    <string name="word_translate_294">geler</string>
+    <string name="word_translate_295">se réveiller</string>
+    <string name="word_translate_296">la saison</string>
+    <string name="word_translate_297">l\'automne</string>
+    <string name="word_translate_298">le printemps</string>
+    <string name="word_translate_299">foncé</string>
+    <string name="word_translate_300">léger</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_281">Le froid est insupportable.</string>
+    <string name="phrase_translate_282">Car demain c\'est le gel.</string>
+    <string name="phrase_translate_283">Les nuages ​​se déplacent dans le ciel.</string>
+    <string name="phrase_translate_284">Le givre recouvre les arbres et les prairies.</string>
+    <string name="phrase_translate_285">Il y a un vent fort qui souffle.</string>
+    <string name="phrase_translate_286">Le temps est beau aujourd\'hui.</string>
+    <string name="phrase_translate_287">Mes chaussures sont mouillées.</string>
+    <string name="phrase_translate_288">Près de la mer, il y a toujours du vent.</string>
+    <string name="phrase_translate_289">Aujourd\'hui, il fait beau.</string>
+    <string name="phrase_translate_290">Le soleil brillait toute la journée.</string>
+    <string name="phrase_translate_291">La neige a fondu.</string>
+    <string name="phrase_translate_292">Le temps est clair à nuageux.</string>
+    <string name="phrase_translate_293">Le ciel est nuageux.</string>
+    <string name="phrase_translate_294">Les lacs et les rivières sont gelés.</string>
+    <string name="phrase_translate_295">Au printemps, la nature s\'éveille.</string>
+    <string name="phrase_translate_296">Ma saison préférée est l\'été.</string>
+    <string name="phrase_translate_297">En automne, il pleut beaucoup.</string>
+    <string name="phrase_translate_298">Au printemps tout est beau.</string>
+    <string name="phrase_translate_299">Il commence à faire noir lentement.</string>
+    <string name="phrase_translate_300">En plein jour</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_281">le froid</string>
+    <string name="word_LT_282">L\'été</string>
+    <string name="word_LT_283">l\'eau</string>
+    <string name="word_LT_284">le givre</string>
+    <string name="word_LT_285">la réponse</string>
+    <string name="word_LT_286">la pluie</string>
+    <string name="word_LT_287">chaud</string>
+    <string name="word_LT_288">nuageux</string>
+    <string name="word_LT_289">aujourd\'hui</string>
+    <string name="word_LT_290">penser</string>
+    <string name="word_LT_291">chercher</string>
+    <string name="word_LT_292">du froid</string>
+    <string name="word_LT_293">foncé</string>
+    <string name="word_LT_294">geler</string>
+    <string name="word_LT_295">guérir</string>
+    <string name="word_LT_296">la saison</string>
+    <string name="word_LT_297">le nuage</string>
+    <string name="word_LT_298">la forêt</string>
+    <string name="word_LT_299">foncé</string>
+    <string name="word_LT_300">mouiller</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_281">le soleil</string>
+    <string name="word_RT_282">le gel</string>
+    <string name="word_RT_283">l\'hiver</string>
+    <string name="word_RT_284">le temps</string>
+    <string name="word_RT_285">le vent</string>
+    <string name="word_RT_286">les règles</string>
+    <string name="word_RT_287">du froid</string>
+    <string name="word_RT_288">venteux</string>
+    <string name="word_RT_289">du froid</string>
+    <string name="word_RT_290">manger</string>
+    <string name="word_RT_291">décongeler</string>
+    <string name="word_RT_292">ensoleillé</string>
+    <string name="word_RT_293">nuageux</string>
+    <string name="word_RT_294">pour obtenir</string>
+    <string name="word_RT_295">se réveiller</string>
+    <string name="word_RT_296">le parc</string>
+    <string name="word_RT_297">l\'automne</string>
+    <string name="word_RT_298">le froid</string>
+    <string name="word_RT_299">jaune</string>
+    <string name="word_RT_300">venteux</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_281">L\'été</string>
+    <string name="word_LB_282">le fils</string>
+    <string name="word_LB_283">le nuage</string>
+    <string name="word_LB_284">le sable</string>
+    <string name="word_LB_285">la glace</string>
+    <string name="word_LB_286">le château</string>
+    <string name="word_LB_287">mouiller</string>
+    <string name="word_LB_288">sombre</string>
+    <string name="word_LB_289">fiston</string>
+    <string name="word_LB_290">briller</string>
+    <string name="word_LB_291">travailler</string>
+    <string name="word_LB_292">sombre</string>
+    <string name="word_LB_293">mouiller</string>
+    <string name="word_LB_294">envoyer</string>
+    <string name="word_LB_295">briller</string>
+    <string name="word_LB_296">la maladie</string>
+    <string name="word_LB_297">le printemps</string>
+    <string name="word_LB_298">la saison</string>
+    <string name="word_LB_299">vert</string>
+    <string name="word_LB_300">léger</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_281">la mer</string>
+    <string name="word_RB_282">l\'hiver</string>
+    <string name="word_RB_283">l\'automne</string>
+    <string name="word_RB_284">la neige</string>
+    <string name="word_RB_285">la question</string>
+    <string name="word_RB_286">le temps</string>
+    <string name="word_RB_287">ralentir</string>
+    <string name="word_RB_288">mouiller</string>
+    <string name="word_RB_289">chaud</string>
+    <string name="word_RB_290">voyager</string>
+    <string name="word_RB_291">aimer</string>
+    <string name="word_RB_292">nuageux</string>
+    <string name="word_RB_293">chaud</string>
+    <string name="word_RB_294">guérir</string>
+    <string name="word_RB_295">geler</string>
+    <string name="word_RB_296">la forêt</string>
+    <string name="word_RB_297">le gel</string>
+    <string name="word_RB_298">le printemps</string>
+    <string name="word_RB_299">rose</string>
+    <string name="word_RB_300">foncé</string>
+    <!-- END -->
+</resources>

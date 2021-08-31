@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_161">Kelner</string>
+    <string name="word_translate_162">Napiwek</string>
+    <string name="word_translate_163">Rachunek</string>
+    <string name="word_translate_164">Rabat</string>
+    <string name="word_translate_165">Gotówka</string>
+    <string name="word_translate_166">Cena</string>
+    <string name="word_translate_167">Posiłek</string>
+    <string name="word_translate_168">Kolacja</string>
+    <string name="word_translate_169">Obiad</string>
+    <string name="word_translate_170">Serwetka</string>
+    <string name="word_translate_171">Nóż</string>
+    <string name="word_translate_172">Talerz</string>
+    <string name="word_translate_173">Łyżka</string>
+    <string name="word_translate_174">Butelka</string>
+    <string name="word_translate_175">Wino</string>
+    <string name="word_translate_176">Czajniczek</string>
+    <string name="word_translate_177">Rozmiar</string>
+    <string name="word_translate_178">mały</string>
+    <string name="word_translate_179">duży</string>
+    <string name="word_translate_180">Siła</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_161">Ja pracuję jako kelner.</string>
+    <string name="phrase_translate_162">On zostawił napiwek.</string>
+    <string name="phrase_translate_163">Rachunek, proszę.</string>
+    <string name="phrase_translate_164">Dziś wiele rabatów.</string>
+    <string name="phrase_translate_165">Mam tylko gotówkę.</string>
+    <string name="phrase_translate_166">Cena jest zbyt wysoka.</string>
+    <string name="phrase_translate_167">Smacznego!</string>
+    <string name="phrase_translate_168">Kolacja w restauracji</string>
+    <string name="phrase_translate_169">Obiad jest gotowy.</string>
+    <string name="phrase_translate_170">Mogę dostać jeszcze jedną serwetkę?</string>
+    <string name="phrase_translate_171">Nóż tego nie przebije.</string>
+    <string name="phrase_translate_172">Przynieś talerz, proszę.</string>
+    <string name="phrase_translate_173">Ja jem to łyżką.</string>
+    <string name="phrase_translate_174">butelka z mlekiem</string>
+    <string name="phrase_translate_175">My będziemy pić wino.</string>
+    <string name="phrase_translate_176">Czajnik się zagotował.</string>
+    <string name="phrase_translate_177">Jaki jest twój rozmiar butów?</string>
+    <string name="phrase_translate_178">On jest jeszcze mały.</string>
+    <string name="phrase_translate_179">Spodnie są na mnie za duże</string>
+    <string name="phrase_translate_180">On jest bardzo silny.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_161">Piwnica</string>
+    <string name="word_LT_162">Woda</string>
+    <string name="word_LT_163">Pociąg</string>
+    <string name="word_LT_164">Serwetka</string>
+    <string name="word_LT_165">Gotówka</string>
+    <string name="word_LT_166">Jedzenie</string>
+    <string name="word_LT_167">Serwetka</string>
+    <string name="word_LT_168">Kolacja</string>
+    <string name="word_LT_169">Śniadanie</string>
+    <string name="word_LT_170">Jedzenie</string>
+    <string name="word_LT_171">Nóż</string>
+    <string name="word_LT_172">Kelner</string>
+    <string name="word_LT_173">Łyżka</string>
+    <string name="word_LT_174">Kwiat</string>
+    <string name="word_LT_175">Restauracja</string>
+    <string name="word_LT_176">Pieniądze</string>
+    <string name="word_LT_177">Dom</string>
+    <string name="word_LT_178">mały</string>
+    <string name="word_LT_179">silny</string>
+    <string name="word_LT_180">Gwiazda</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_161">Kelner</string>
+    <string name="word_RT_162">Napiwek</string>
+    <string name="word_RT_163">Czajniczek</string>
+    <string name="word_RT_164">Butelka</string>
+    <string name="word_RT_165">Muzyka</string>
+    <string name="word_RT_166">Cena</string>
+    <string name="word_RT_167">Talerz</string>
+    <string name="word_RT_168">Obiad</string>
+    <string name="word_RT_169">Nóż</string>
+    <string name="word_RT_170">Serwetka</string>
+    <string name="word_RT_171">Usta</string>
+    <string name="word_RT_172">Łyżka</string>
+    <string name="word_RT_173">Widelec</string>
+    <string name="word_RT_174">Butelka</string>
+    <string name="word_RT_175">Piwnica</string>
+    <string name="word_RT_176">Kelner</string>
+    <string name="word_RT_177">Pieniądze</string>
+    <string name="word_RT_178">duży</string>
+    <string name="word_RT_179">słaby</string>
+    <string name="word_RT_180">Napiwek</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_161">Muzyka</string>
+    <string name="word_LB_162">Napój</string>
+    <string name="word_LB_163">Rachunek</string>
+    <string name="word_LB_164">Łyżka</string>
+    <string name="word_LB_165">Pieniądze</string>
+    <string name="word_LB_166">Rachunek</string>
+    <string name="word_LB_167">Posiłek</string>
+    <string name="word_LB_168">Wieczór</string>
+    <string name="word_LB_169">Czajniczek</string>
+    <string name="word_LB_170">Nóż</string>
+    <string name="word_LB_171">Śmieci</string>
+    <string name="word_LB_172">Widelec</string>
+    <string name="word_LB_173">Sklep</string>
+    <string name="word_LB_174">Samolot</string>
+    <string name="word_LB_175">Wino</string>
+    <string name="word_LB_176">Kwiat</string>
+    <string name="word_LB_177">Rozmiar</string>
+    <string name="word_LB_178">szybko</string>
+    <string name="word_LB_179">duży</string>
+    <string name="word_LB_180">Siła</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_161">Samolot</string>
+    <string name="word_RB_162">Herbata</string>
+    <string name="word_RB_163">Odzież</string>
+    <string name="word_RB_164">Rabat</string>
+    <string name="word_RB_165">Butelka</string>
+    <string name="word_RB_166">Rabat</string>
+    <string name="word_RB_167">Łyżka</string>
+    <string name="word_RB_168">Śniadanie</string>
+    <string name="word_RB_169">Obiad</string>
+    <string name="word_RB_170">Czajniczek</string>
+    <string name="word_RB_171">Łyżka</string>
+    <string name="word_RB_172">Talerz</string>
+    <string name="word_RB_173">Schody</string>
+    <string name="word_RB_174">Zdjęcie</string>
+    <string name="word_RB_175">Pieniądze</string>
+    <string name="word_RB_176">Czajniczek</string>
+    <string name="word_RB_177">Ludzie</string>
+    <string name="word_RB_178">daleko</string>
+    <string name="word_RB_179">powolny</string>
+    <string name="word_RB_180">Zniżka</string>
+    <!-- END -->
+</resources>

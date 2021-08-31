@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_221">Paşaport</string>
+    <string name="word_translate_222">Bilet</string>
+    <string name="word_translate_223">Insulă</string>
+    <string name="word_translate_224">Decolare</string>
+    <string name="word_translate_225">Sosire</string>
+    <string name="word_translate_226">a ateriza</string>
+    <string name="word_translate_227">Bagaj</string>
+    <string name="word_translate_228">Stewardesă</string>
+    <string name="word_translate_229">a achita</string>
+    <string name="word_translate_230">Zbor</string>
+    <string name="word_translate_231">Paşaport</string>
+    <string name="word_translate_232">Document</string>
+    <string name="word_translate_233">Ocean</string>
+    <string name="word_translate_234">Iceberg</string>
+    <string name="word_translate_235">Vapor</string>
+    <string name="word_translate_236">Barcă</string>
+    <string name="word_translate_237">Balenă</string>
+    <string name="word_translate_238">Rechin</string>
+    <string name="word_translate_239">Nisip</string>
+    <string name="word_translate_240">Iaz</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_221">Eu mi-am pierdut paşaportul.</string>
+    <string name="phrase_translate_222">Eu am cumpărat două bilete.</string>
+    <string name="phrase_translate_223">Noi suntem pe o insulă.</string>
+    <string name="phrase_translate_224">Când este decolarea?</string>
+    <string name="phrase_translate_225">Sosirea este la 13.00.</string>
+    <string name="phrase_translate_226">Avionul aterizează</string>
+    <string name="phrase_translate_227">Eu nu am bagaj.</string>
+    <string name="phrase_translate_228">Stewardesa m-a ajutat pe mine.</string>
+    <string name="phrase_translate_229">Cât trebuie să achit?</string>
+    <string name="phrase_translate_230">Noi suntem deja în zbor.</string>
+    <string name="phrase_translate_231">Eu nu-mi pot găsi paşaportul.</string>
+    <string name="phrase_translate_232">Eu am luat toate documentele.</string>
+    <string name="phrase_translate_233">Oceanul este foarte mare.</string>
+    <string name="phrase_translate_234">În ocean sunt iceberguri.</string>
+    <string name="phrase_translate_235">Noi suntem pe un vapor.</string>
+    <string name="phrase_translate_236">O barcă navighează în mare</string>
+    <string name="phrase_translate_237">Eu am văzut o balenă.</string>
+    <string name="phrase_translate_238">Rechinii sunt foarte periculoşi.</string>
+    <string name="phrase_translate_239">Pe plajă este mult nisip.</string>
+    <string name="phrase_translate_240">El pescuieşte în iaz.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_221">Odihnă</string>
+    <string name="word_LT_222">Vamă</string>
+    <string name="word_LT_223">Insulă</string>
+    <string name="word_LT_224">Ieşire</string>
+    <string name="word_LT_225">Sosire</string>
+    <string name="word_LT_226">a zbura</string>
+    <string name="word_LT_227">Tren</string>
+    <string name="word_LT_228">Mare</string>
+    <string name="word_LT_229">a achita</string>
+    <string name="word_LT_230">Drum</string>
+    <string name="word_LT_231">Hotel</string>
+    <string name="word_LT_232">Copac</string>
+    <string name="word_LT_233">Ocean</string>
+    <string name="word_LT_234">Vamă</string>
+    <string name="word_LT_235">Restaurant</string>
+    <string name="word_LT_236">Barcă</string>
+    <string name="word_LT_237">Tren</string>
+    <string name="word_LT_238">Mare</string>
+    <string name="word_LT_239">Nisip</string>
+    <string name="word_LT_240">Insulă</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_221">Paşaport</string>
+    <string name="word_RT_222">Avion</string>
+    <string name="word_RT_223">Sticlă</string>
+    <string name="word_RT_224">Vamă</string>
+    <string name="word_RT_225">Geantă</string>
+    <string name="word_RT_226">a brona</string>
+    <string name="word_RT_227">Bagaj</string>
+    <string name="word_RT_228">Doctor</string>
+    <string name="word_RT_229">a sări</string>
+    <string name="word_RT_230">Restaurant</string>
+    <string name="word_RT_231">Paşaport</string>
+    <string name="word_RT_232">Floare</string>
+    <string name="word_RT_233">Mare</string>
+    <string name="word_RT_234">Iceberg</string>
+    <string name="word_RT_235">Hotel</string>
+    <string name="word_RT_236">Tren</string>
+    <string name="word_RT_237">Floare</string>
+    <string name="word_RT_238">Avion</string>
+    <string name="word_RT_239">Vamă</string>
+    <string name="word_RT_240">Iaz</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_221">Vamă</string>
+    <string name="word_LB_222">Copac</string>
+    <string name="word_LB_223">Floare</string>
+    <string name="word_LB_224">Decolare</string>
+    <string name="word_LB_225">Jucărie</string>
+    <string name="word_LB_226">a cânta</string>
+    <string name="word_LB_227">Odihnă</string>
+    <string name="word_LB_228">Stewardesă</string>
+    <string name="word_LB_229">a lucra</string>
+    <string name="word_LB_230">Zbor</string>
+    <string name="word_LB_231">Tren</string>
+    <string name="word_LB_232">Automobil</string>
+    <string name="word_LB_233">Iarnă</string>
+    <string name="word_LB_234">Odihnă</string>
+    <string name="word_LB_235">Vapor</string>
+    <string name="word_LB_236">Avion</string>
+    <string name="word_LB_237">Hotel</string>
+    <string name="word_LB_238">Sticlă</string>
+    <string name="word_LB_239">Floare</string>
+    <string name="word_LB_240">Odihnă</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_221">Mare</string>
+    <string name="word_RB_222">Bilet</string>
+    <string name="word_RB_223">Automobil</string>
+    <string name="word_RB_224">Geantă</string>
+    <string name="word_RB_225">Intrare</string>
+    <string name="word_RB_226">a ateriza</string>
+    <string name="word_RB_227">Hotel</string>
+    <string name="word_RB_228">Avion</string>
+    <string name="word_RB_229">a rămâine</string>
+    <string name="word_RB_230">Insulă</string>
+    <string name="word_RB_231">Avion</string>
+    <string name="word_RB_232">Document</string>
+    <string name="word_RB_233">Hotel</string>
+    <string name="word_RB_234">Insulă</string>
+    <string name="word_RB_235">Iarnă</string>
+    <string name="word_RB_236">Restaurant</string>
+    <string name="word_RB_237">Balenă</string>
+    <string name="word_RB_238">Rechin</string>
+    <string name="word_RB_239">Automobil</string>
+    <string name="word_RB_240">Mare</string>
+    <!-- END -->
+</resources>

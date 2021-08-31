@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="word_translate_1">uczyć się</string>
+    <string name="word_translate_2">Język</string>
+    <string name="word_translate_3">pisać</string>
+    <string name="word_translate_4">List</string>
+    <string name="word_translate_5">otrzymać</string>
+    <string name="word_translate_6">wysłać</string>
+    <string name="word_translate_7">Stół</string>
+    <string name="word_translate_8">czytać</string>
+    <string name="word_translate_9">Książka</string>
+    <string name="word_translate_10">stary</string>
+    <string name="word_translate_11">nowy</string>
+    <string name="word_translate_12">Samochód</string>
+    <string name="word_translate_13">kup</string>
+    <string name="word_translate_14">jeździć</string>
+    <string name="word_translate_15">Rower</string>
+    <string name="word_translate_16">sprzedać</string>
+    <string name="word_translate_17">Pieniądze</string>
+    <string name="word_translate_18">Ile?</string>
+    <string name="word_translate_19">mało</string>
+    <string name="word_translate_20">czarny</string>
+
+    <!-- PHRASE  -->
+    <string name="phrase_translate_1"><b>Uczę się</b> hiszpańskiego.</string>
+    <string name="phrase_translate_2">On mówi w dwóch <b>językach</b>.</string>
+    <string name="phrase_translate_3">On uczy się <b>pisać</b>.</string>
+    <string name="phrase_translate_4">Piszę <b>list</b>.</string>
+    <string name="phrase_translate_5">Czy <b>otrzymałeś</b> odpowiedź?</string>
+    <string name="phrase_translate_6">przez e-mail <b>wysłać</b></string>
+    <string name="phrase_translate_7">Kolacja jest na <b>stole</b>.</string>
+    <string name="phrase_translate_8">On potrafi <b>czytać</b> i pisać.</string>
+    <string name="phrase_translate_9">Ja przeczytałem <b>książkę</b>.</string>
+    <string name="phrase_translate_10">Ja mieszkam w starym domu</string>
+    <string name="phrase_translate_11">On jest tu <b>nowy</b>.</string>
+    <string name="phrase_translate_12"><b>Samochód</b> jest zepsuty.</string>
+    <string name="phrase_translate_13">Ja <b>kupuję</b> bilet.</string>
+    <string name="phrase_translate_14">Dokąd <b>idziesz</b>?</string>
+    <string name="phrase_translate_15">Gdzie mogę zaparkować <b>rower</b>?</string>
+    <string name="phrase_translate_16">Czy <b>sprzedajesz</b> swój samochód?</string>
+    <string name="phrase_translate_17">Nie mam <b>pieniędzy</b>.</string>
+    <string name="phrase_translate_18"><b>Ile</b> to kosztuje?</string>
+    <string name="phrase_translate_19">Ty <b>mało</b> sypiasz.</string>
+    <string name="phrase_translate_20">Ja piję <b>czarną</b> kawę.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_1">uczyć się</string>
+    <string name="word_LT_2">Człowiek</string>
+    <string name="word_LT_3">mówić</string>
+    <string name="word_LT_4">Miasto</string>
+    <string name="word_LT_5">przyjść</string>
+    <string name="word_LT_6">wysłać</string>
+    <string name="word_LT_7">Stół</string>
+    <string name="word_LT_8">pisać</string>
+    <string name="word_LT_9">Liczbowy</string>
+    <string name="word_LT_10">stary</string>
+    <string name="word_LT_11">los</string>
+    <string name="word_LT_12">Samochód</string>
+    <string name="word_LT_13">sprzedać</string>
+    <string name="word_LT_14">iść</string>
+    <string name="word_LT_15">Tramwajowy</string>
+    <string name="word_LT_16">zapłacić</string>
+    <string name="word_LT_17">Żółty</string>
+    <string name="word_LT_18">Ile?</string>
+    <string name="word_LT_19">nic</string>
+    <string name="word_LT_20">żółty</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_1">grać</string>
+    <string name="word_RT_2">Sport</string>
+    <string name="word_RT_3">pisać</string>
+    <string name="word_RT_4">List</string>
+    <string name="word_RT_5">myśleć</string>
+    <string name="word_RT_6">siedzieć</string>
+    <string name="word_RT_7">Nóż</string>
+    <string name="word_RT_8">mówić</string>
+    <string name="word_RT_9">Książka</string>
+    <string name="word_RT_10">otwarty</string>
+    <string name="word_RT_11">dziewięć</string>
+    <string name="word_RT_12">Drewno</string>
+    <string name="word_RT_13">biegać</string>
+    <string name="word_RT_14">jeździć</string>
+    <string name="word_RT_15">Szkoła jazdy</string>
+    <string name="word_RT_16">szukać</string>
+    <string name="word_RT_17">Miasto</string>
+    <string name="word_RT_18">Dlaczego?</string>
+    <string name="word_RT_19">mało</string>
+    <string name="word_RT_20">czarny</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_1">biegać</string>
+    <string name="word_LB_2">Język</string>
+    <string name="word_LB_3">zapytać</string>
+    <string name="word_LB_4">Książka</string>
+    <string name="word_LB_5">mówić</string>
+    <string name="word_LB_6">kup</string>
+    <string name="word_LB_7">Długopis</string>
+    <string name="word_LB_8">grać</string>
+    <string name="word_LB_9">List</string>
+    <string name="word_LB_10">piękny</string>
+    <string name="word_LB_11">nowy</string>
+    <string name="word_LB_12">Woda</string>
+    <string name="word_LB_13">kup</string>
+    <string name="word_LB_14">przyjść</string>
+    <string name="word_LB_15">Motocykl</string>
+    <string name="word_LB_16">sprzedać</string>
+    <string name="word_LB_17">Pieniądze</string>
+    <string name="word_LB_18">Gdzie?</string>
+    <string name="word_LB_19">los</string>
+    <string name="word_LB_20">niebieski</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_1">praca</string>
+    <string name="word_RB_2">Miasto</string>
+    <string name="word_RB_3">biegać</string>
+    <string name="word_RB_4">Pieniądze</string>
+    <string name="word_RB_5">otrzymać</string>
+    <string name="word_RB_6">sprzedać</string>
+    <string name="word_RB_7">Krzesło</string>
+    <string name="word_RB_8">czytać</string>
+    <string name="word_RB_9">Słowo</string>
+    <string name="word_RB_10">zamknięte</string>
+    <string name="word_RB_11">nie</string>
+    <string name="word_RB_12">Dom</string>
+    <string name="word_RB_13">jeździć</string>
+    <string name="word_RB_14">latać</string>
+    <string name="word_RB_15">Rower</string>
+    <string name="word_RB_16">znaleźć</string>
+    <string name="word_RB_17">Złoto</string>
+    <string name="word_RB_18">Kto?</string>
+    <string name="word_RB_19">wszystko</string>
+    <string name="word_RB_20">zielony</string>
+    <!-- END -->
+</resources>

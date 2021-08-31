@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_title_61" translatable="false">la profesion</string>
+    <string name="word_title_62" translatable="false">el aprendizaje</string>
+    <string name="word_title_63" translatable="false">el mundo</string>
+    <string name="word_title_64" translatable="false">la gente</string>
+    <string name="word_title_65" translatable="false">los padres</string>
+    <string name="word_title_66" translatable="false">vivir</string>
+    <string name="word_title_67" translatable="false">la vida</string>
+    <string name="word_title_68" translatable="false">ya</string>
+    <string name="word_title_69" translatable="false">hermoso</string>
+    <string name="word_title_70" translatable="false">amar</string>
+    <string name="word_title_71" translatable="false">¿Qué?</string>
+    <string name="word_title_72" translatable="false">rápido</string>
+    <string name="word_title_73" translatable="false">casado</string>
+    <string name="word_title_74" translatable="false">deber</string>
+    <string name="word_title_75" translatable="false">el piso</string>
+    <string name="word_title_76" translatable="false">la habitación</string>
+    <string name="word_title_77" translatable="false">la cama</string>
+    <string name="word_title_78" translatable="false">la flor</string>
+    <string name="word_title_79" translatable="false">el árbol</string>
+    <string name="word_title_80" translatable="false">verde</string>
+
+    <string name="word_translate_61">profession</string>
+    <string name="word_translate_62">apprenticeship</string>
+    <string name="word_translate_63">world</string>
+    <string name="word_translate_64">people</string>
+    <string name="word_translate_65">parents</string>
+    <string name="word_translate_66">to live</string>
+    <string name="word_translate_67">life</string>
+    <string name="word_translate_68">already</string>
+    <string name="word_translate_69">beautiful</string>
+    <string name="word_translate_70">to love</string>
+    <string name="word_translate_71">What?</string>
+    <string name="word_translate_72">fast</string>
+    <string name="word_translate_73">married</string>
+    <string name="word_translate_74">must</string>
+    <string name="word_translate_75">apartment</string>
+    <string name="word_translate_76">room</string>
+    <string name="word_translate_77">bed</string>
+    <string name="word_translate_78">flower</string>
+    <string name="word_translate_79">tree</string>
+    <string name="word_translate_80">green</string>
+    <!-- END -->
+
+    <!-- PHRASE + TRANSLATE -->
+    <string name="phrase_61" translatable="false">Él es <b>médico</b> de profesión.</string>
+    <string name="phrase_translate_61">He is a <b>doctor</b> by profession.</string>
+
+    <string name="phrase_62" translatable="false">Actualmente estoy haciendo un <b>aprendizaje</b>.</string>
+    <string name="phrase_translate_62">I am currently doing an <b>apprenticeship</b>.</string>
+
+    <string name="phrase_63" translatable="false">Yo viajo por el <b>mundo</b>.</string>
+    <string name="phrase_translate_63">I travel around the <b>world</b>.</string>
+
+    <string name="phrase_64" translatable="false">Él conoce a mucha <b>gente</b> aquí.</string>
+    <string name="phrase_translate_64">He knows a lot of <b>people</b> here.</string>
+
+    <string name="phrase_65" translatable="false">¿A qué se dedican tus <b>padres</b>?</string>
+    <string name="phrase_translate_65">What do your <b>parents</b> do?</string>
+
+    <string name="phrase_66" translatable="false">Yo <b>vivo</b> en un apartamento.</string>
+    <string name="phrase_translate_66">I <b>live</b> in an apartment.</string>
+
+    <string name="phrase_67" translatable="false">Nunca en la <b>vida</b></string>
+    <string name="phrase_translate_67">Never in <b>life</b></string>
+
+    <string name="phrase_68" translatable="false">Yo ya estoy allí.</string>
+    <string name="phrase_translate_68">I am <b>already</b> there.</string>
+
+    <string name="phrase_69" translatable="false">¡Esto es <b>hermoso</b>!</string>
+    <string name="phrase_translate_69">That\'s <b>beautiful</b>!</string>
+
+    <string name="phrase_70" translatable="false">¡Te quiero!</string>
+    <string name="phrase_translate_70">I <b>love</b> you!</string>
+
+    <string name="phrase_71" translatable="false">¿<b>Qué</b> estás haciendo?</string>
+    <string name="phrase_translate_71"><b>What</b> are you doing?</string>
+
+    <string name="phrase_72" translatable="false">Tú conduces <b>rápido</b>.</string>
+    <string name="phrase_translate_72">You are driving <b>fast</b>.</string>
+
+    <string name="phrase_73" translatable="false">Ya estoy casada.</string>
+    <string name="phrase_translate_73">I am <b>married</b>.</string>
+
+    <string name="phrase_74" translatable="false">Yo <b>debo</b> trabajar.</string>
+    <string name="phrase_translate_74">I <b>must</b> work.</string>
+
+    <string name="phrase_75" translatable="false">Yo vivo en un <b>piso</b>.</string>
+    <string name="phrase_translate_75">I live in an <b>apartment</b>.</string>
+
+    <string name="phrase_76" translatable="false">Mi apartamento tiene dos <b>habitaciones</b>.</string>
+    <string name="phrase_translate_76">My apartment has two <b>rooms</b>.</string>
+
+    <string name="phrase_77" translatable="false">ir a <b>cama</b></string>
+    <string name="phrase_translate_77">to go to <b>bed</b></string>
+
+    <string name="phrase_78" translatable="false">A ella le gustan las flores.</string>
+    <string name="phrase_translate_78">She like <b>flowers</b>.</string>
+
+    <string name="phrase_79" translatable="false"><b>Este árbol</b> es muy antiguo.</string>
+    <string name="phrase_translate_79"><b>This tree</b> is very old.</string>
+
+    <string name="phrase_80" translatable="false">Mi coche es <b>verde</b>.</string>
+    <string name="phrase_translate_80">My car is <b>green</b>.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_61">letter</string>
+    <string name="word_LT_62">exit</string>
+    <string name="word_LT_63">money</string>
+    <string name="word_LT_64">people</string>
+    <string name="word_LT_65">bed</string>
+    <string name="word_LT_66">to live</string>
+    <string name="word_LT_67">love</string>
+    <string name="word_LT_68">yet</string>
+    <string name="word_LT_69">beautiful</string>
+    <string name="word_LT_70">to live</string>
+    <string name="word_LT_71">Why?</string>
+    <string name="word_LT_72">fast</string>
+    <string name="word_LT_73">first</string>
+    <string name="word_LT_74">must</string>
+    <string name="word_LT_75">room</string>
+    <string name="word_LT_76">winter</string>
+    <string name="word_LT_77">bed</string>
+    <string name="word_LT_78">door</string>
+    <string name="word_LT_79">earth</string>
+    <string name="word_LT_80">green</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_61">profession</string>
+    <string name="word_RT_62">apprenticeship</string>
+    <string name="word_RT_63">vacantion</string>
+    <string name="word_RT_64">boat</string>
+    <string name="word_RT_65">children</string>
+    <string name="word_RT_66">to go out</string>
+    <string name="word_RT_67">freedom</string>
+    <string name="word_RT_68">already</string>
+    <string name="word_RT_69">red</string>
+    <string name="word_RT_70">to find</string>
+    <string name="word_RT_71">When?</string>
+    <string name="word_RT_72">cold</string>
+    <string name="word_RT_73">married</string>
+    <string name="word_RT_74">to wash</string>
+    <string name="word_RT_75">bed</string>
+    <string name="word_RT_76">sea</string>
+    <string name="word_RT_77">table</string>
+    <string name="word_RT_78">tree</string>
+    <string name="word_RT_79">bathroom</string>
+    <string name="word_RT_80">grey</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_61">book</string>
+    <string name="word_LB_62">iceberg</string>
+    <string name="word_LB_63">sea</string>
+    <string name="word_LB_64">head</string>
+    <string name="word_LB_65">parents</string>
+    <string name="word_LB_66">to ask</string>
+    <string name="word_LB_67">life</string>
+    <string name="word_LB_68">then</string>
+    <string name="word_LB_69">fast</string>
+    <string name="word_LB_70">to go</string>
+    <string name="word_LB_71">Who?</string>
+    <string name="word_LB_72">slow</string>
+    <string name="word_LB_73">last</string>
+    <string name="word_LB_74">can</string>
+    <string name="word_LB_75">apartment</string>
+    <string name="word_LB_76">vacantion</string>
+    <string name="word_LB_77">chair</string>
+    <string name="word_LB_78">flower</string>
+    <string name="word_LB_79">bed</string>
+    <string name="word_LB_80">yellow</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_61">number</string>
+    <string name="word_RB_62">ocean</string>
+    <string name="word_RB_63">world</string>
+    <string name="word_RB_64">tree</string>
+    <string name="word_RB_65">apartment</string>
+    <string name="word_RB_66">to come in</string>
+    <string name="word_RB_67">house</string>
+    <string name="word_RB_68">beautiful</string>
+    <string name="word_RB_69">slow</string>
+    <string name="word_RB_70">to love</string>
+    <string name="word_RB_71">What?</string>
+    <string name="word_RB_72">warm</string>
+    <string name="word_RB_73">divorced</string>
+    <string name="word_RB_74">to ask</string>
+    <string name="word_RB_75">life</string>
+    <string name="word_RB_76">room</string>
+    <string name="word_RB_77">door</string>
+    <string name="word_RB_78">earth</string>
+    <string name="word_RB_79">tree</string>
+    <string name="word_RB_80">black</string>
+    <!-- END -->
+</resources>

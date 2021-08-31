@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_41">le soleil</string>
+    <string name="word_translate_42">L\'été</string>
+    <string name="word_translate_43">l\'hiver</string>
+    <string name="word_translate_44">la neige</string>
+    <string name="word_translate_45">la question</string>
+    <string name="word_translate_46">la pluie</string>
+    <string name="word_translate_47">froid</string>
+    <string name="word_translate_48">la mer</string>
+    <string name="word_translate_49">chaud</string>
+    <string name="word_translate_50">voyager</string>
+    <string name="word_translate_51">les vacances</string>
+    <string name="word_translate_52">travailler</string>
+    <string name="word_translate_53">fonctionner</string>
+    <string name="word_translate_54">la réponse</string>
+    <string name="word_translate_55">le médecin</string>
+    <string name="word_translate_56">la maladie</string>
+    <string name="word_translate_57">traiter</string>
+    <string name="word_translate_58">Qui?</string>
+    <string name="word_translate_59">l\'hôpital</string>
+    <string name="word_translate_60">Pourquoi?</string>
+    <!-- END -->
+
+    <!-- PHRASE  -->
+    <string name="phrase_translate_41"><b>Le soleil</b> brille !</string>
+    <string name="phrase_translate_42"><b>L\'été</b> est une saison chaude.</string>
+    <string name="phrase_translate_43">En <b>hiver</b> il fait froid.</string>
+    <string name="phrase_translate_44"><b>La neige</b> est tombée.</string>
+    <string name="phrase_translate_45">J\'ai <b>une question</b> pour vous.</string>
+    <string name="phrase_translate_46">Il y a des <b>pluies</b>.</string>
+    <string name="phrase_translate_47">Je suis <b>froid</b>.</string>
+    <string name="phrase_translate_48">aller à la <b>mer</b></string>
+    <string name="phrase_translate_49">Es-tu <b>chaud</b> ?</string>
+    <string name="phrase_translate_50">J\'aime <b>voyager</b>.</string>
+    <string name="phrase_translate_51">Il était en <b>vacances</b>.</string>
+    <string name="phrase_translate_52">Il travaille <b>beaucoup</b>.</string>
+    <string name="phrase_translate_53">Ça ne fonctionne pas !</string>
+    <string name="phrase_translate_54">Quand obtiendrai-je <b>une réponse</b> ?</string>
+    <string name="phrase_translate_55">Il est <b>médecin</b> de profession.</string>
+    <string name="phrase_translate_56">Il n\'a pas de <b>maladie</b>.</string>
+    <string name="phrase_translate_57">Le médecin <b>traite</b> les gens.</string>
+    <string name="phrase_translate_58">Qui es-tu ?</string>
+    <string name="phrase_translate_59">Le patient a été livré à l\'<b>hôpital</b>.</string>
+    <string name="phrase_translate_60"><b>Pourquoi</b> pas ?</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_41">le fils</string>
+    <string name="word_LT_42">L\'été</string>
+    <string name="word_LT_43">l\'eau</string>
+    <string name="word_LT_44">le temps</string>
+    <string name="word_LT_45">la réponse</string>
+    <string name="word_LT_46">la pluie</string>
+    <string name="word_LT_47">chaud</string>
+    <string name="word_LT_48">la pomme</string>
+    <string name="word_LT_49">aujourd\'hui</string>
+    <string name="word_LT_50">penser</string>
+    <string name="word_LT_51">les vacances</string>
+    <string name="word_LT_52">chercher</string>
+    <string name="word_LT_53">chercher</string>
+    <string name="word_LT_54">la réponse</string>
+    <string name="word_LT_55">le policier</string>
+    <string name="word_LT_56">l\'hôpital</string>
+    <string name="word_LT_57">recycler</string>
+    <string name="word_LT_58">Qui?</string>
+    <string name="word_LT_59">le soleil</string>
+    <string name="word_LT_60">Quand?</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_41">le soleil</string>
+    <string name="word_RT_42">le samedi</string>
+    <string name="word_RT_43">l\'hiver</string>
+    <string name="word_RT_44">le temps</string>
+    <string name="word_RT_45">l\'ami</string>
+    <string name="word_RT_46">les règles</string>
+    <string name="word_RT_47">froid</string>
+    <string name="word_RT_48">le savon</string>
+    <string name="word_RT_49">du froid</string>
+    <string name="word_RT_50">manger</string>
+    <string name="word_RT_51">l\'ours</string>
+    <string name="word_RT_52">conduire</string>
+    <string name="word_RT_53">fonctionner</string>
+    <string name="word_RT_54">le mot</string>
+    <string name="word_RT_55">le médecin</string>
+    <string name="word_RT_56">le parc</string>
+    <string name="word_RT_57">recevoir</string>
+    <string name="word_RT_58">Pourquoi?</string>
+    <string name="word_RT_59">l\'hôpital</string>
+    <string name="word_RT_60">Pourquoi?</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_41">L\'été</string>
+    <string name="word_LB_42">le fils</string>
+    <string name="word_LB_43">le verre</string>
+    <string name="word_LB_44">le sable</string>
+    <string name="word_LB_45">la glace</string>
+    <string name="word_LB_46">le château</string>
+    <string name="word_LB_47">vite</string>
+    <string name="word_LB_48">la mer</string>
+    <string name="word_LB_49">longue</string>
+    <string name="word_LB_50">conduire</string>
+    <string name="word_LB_51">l\'arbre</string>
+    <string name="word_LB_52">travailler</string>
+    <string name="word_LB_53">penser</string>
+    <string name="word_LB_54">la forme</string>
+    <string name="word_LB_55">l\'enseignant</string>
+    <string name="word_LB_56">la maladie</string>
+    <string name="word_LB_57">envoyer</string>
+    <string name="word_LB_58">Quand?</string>
+    <string name="word_LB_59">la neige</string>
+    <string name="word_LB_60">Qui?</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_41">la mer</string>
+    <string name="word_RB_42">l\'hiver</string>
+    <string name="word_RB_43">l\'automne</string>
+    <string name="word_RB_44">la neige</string>
+    <string name="word_RB_45">la question</string>
+    <string name="word_RB_46">la religion</string>
+    <string name="word_RB_47">ralentir</string>
+    <string name="word_RB_48">la maison</string>
+    <string name="word_RB_49">chaud</string>
+    <string name="word_RB_50">voyager</string>
+    <string name="word_RB_51">l\'océan</string>
+    <string name="word_RB_52">aimer</string>
+    <string name="word_RB_53">trouver</string>
+    <string name="word_RB_54">la question</string>
+    <string name="word_RB_55">le constructeur</string>
+    <string name="word_RB_56">la forêt</string>
+    <string name="word_RB_57">traiter</string>
+    <string name="word_RB_58">Combien?</string>
+    <string name="word_RB_59">la maladie</string>
+    <string name="word_RB_60">Combien?</string>
+    <!-- END -->
+</resources>

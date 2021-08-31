@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_title_example" translatable="false">der Hund</string>
+    <string name="word_title_1" translatable="false">aprender</string>
+    <string name="word_title_2" translatable="false">el idioma</string>
+    <string name="word_title_3" translatable="false">escribir</string>
+    <string name="word_title_4" translatable="false">la carta</string>
+    <string name="word_title_5" translatable="false">conseguir</string>
+    <string name="word_title_6" translatable="false">enviar</string>
+    <string name="word_title_7" translatable="false">la mesa</string>
+    <string name="word_title_8" translatable="false">leer</string>
+    <string name="word_title_9" translatable="false">el libro</string>
+    <string name="word_title_10" translatable="false">viejo</string>
+    <string name="word_title_11" translatable="false">nuevo</string>
+    <string name="word_title_12" translatable="false">el coche</string>
+    <string name="word_title_13" translatable="false">comprar</string>
+    <string name="word_title_14" translatable="false">conducir</string>
+    <string name="word_title_15" translatable="false">la bicicleta</string>
+    <string name="word_title_16" translatable="false">vender</string>
+    <string name="word_title_17" translatable="false">el dinero</string>
+    <string name="word_title_18" translatable="false">¿Cuánto?</string>
+    <string name="word_title_19" translatable="false">poco</string>
+    <string name="word_title_20" translatable="false">negro</string>
+    <!-- END -->
+    <string name="word_translate_1">to learn</string>
+    <string name="word_translate_2">language</string>
+    <string name="word_translate_3">to write</string>
+    <string name="word_translate_4">letter</string>
+    <string name="word_translate_5">to get</string>
+    <string name="word_translate_6">to send</string>
+    <string name="word_translate_7">table</string>
+    <string name="word_translate_8">to read</string>
+    <string name="word_translate_9">book</string>
+    <string name="word_translate_10">old</string>
+    <string name="word_translate_11">new</string>
+    <string name="word_translate_12">car</string>
+    <string name="word_translate_13">to buy</string>
+    <string name="word_translate_14">to drive</string>
+    <string name="word_translate_15">bicycle</string>
+    <string name="word_translate_16">to sell</string>
+    <string name="word_translate_17">money</string>
+    <string name="word_translate_18">How much?</string>
+    <string name="word_translate_19">little</string>
+    <string name="word_translate_20">black</string>
+
+    <!-- PHRASE + TRANSLATE -->
+    <string name="phrase_example" translatable="false">Ist es eine Katze oder ein <b>Hund</b>?</string>
+    <string name="phrase_translate_example" translatable="false">Это кошка или <b>собака</b>?</string>
+
+    <string name="phrase_1" translatable="false">Yo <b>aprendo</b> español</string>
+    <string name="phrase_translate_1">I <b>learn</b> Spanish</string>
+
+    <string name="phrase_2" translatable="false">Él habla dos <b>idiomas</b>.</string>
+    <string name="phrase_translate_2">He speaks two <b>languages</b>.</string>
+
+    <string name="phrase_3" translatable="false">Él aprende a <b>escribir</b>.</string>
+    <string name="phrase_translate_3">He is learning <b>to write</b>.</string>
+
+    <string name="phrase_4" translatable="false">Yo escribo una <b>carta</b>.</string>
+    <string name="phrase_translate_4">I write a <b>letter</b>.</string>
+
+    <string name="phrase_5" translatable="false">¿Conseguiste una respuesta?</string>
+    <string name="phrase_translate_5">Did you <b>get</b> an answer?</string>
+
+    <string name="phrase_6" translatable="false"><b>enviar</b> por e-mail</string>
+    <string name="phrase_translate_6"><b>send</b> by email</string>
+
+    <string name="phrase_7" translatable="false">La cena está en la <b>mesa</b>.</string>
+    <string name="phrase_translate_7">Dinner is on the <b>table</b>.</string>
+
+    <string name="phrase_8" translatable="false">Él sabe <b>leer</b> y escribir.</string>
+    <string name="phrase_translate_8">He can <b>read</b> and write.</string>
+
+    <string name="phrase_9" translatable="false">Yo he leído <b>el libro</b>.</string>
+    <string name="phrase_translate_9">I\'ve read <b>the book</b>.</string>
+
+    <string name="phrase_10" translatable="false">Yo vivo en una casa vieja</string>
+    <string name="phrase_translate_10">I live in an old house</string>
+
+    <string name="phrase_11" translatable="false">Él es <b>nuevo</b> aquí.</string>
+    <string name="phrase_translate_11">He is here <b>new</b>.</string>
+
+    <string name="phrase_12" translatable="false"><b>El coche</b> está roto.</string>
+    <string name="phrase_translate_12"><b>The car</b> is broken.</string>
+
+    <string name="phrase_13" translatable="false">Yo <b>compro</b> un billete.</string>
+    <string name="phrase_translate_13">I <b>buy</b> a ticket.</string>
+
+    <string name="phrase_14" translatable="false">¿Dónde conduces?</string>
+    <string name="phrase_translate_14">Where do you <b>drive</b>?</string>
+
+    <string name="phrase_15" translatable="false">¿Dónde puedo aparcar <b>la bicicleta</b>?</string>
+    <string name="phrase_translate_15">Where can I stop the <b>bicycle</b>?</string>
+
+    <string name="phrase_16" translatable="false">¿Vende su coche?</string>
+    <string name="phrase_translate_16">Do you <b>sell</b> your car?</string>
+
+    <string name="phrase_17" translatable="false">Yo no tengo <b>dinero</b>.</string>
+    <string name="phrase_translate_17">I have no <b>money</b>.</string>
+
+    <string name="phrase_18" translatable="false">¿Cuánto cuesta?</string>
+    <string name="phrase_translate_18"><b>How much</b> does that cost?</string>
+
+    <string name="phrase_19" translatable="false">Tú duermes <b>poco</b>.</string>
+    <string name="phrase_translate_19">You sleep <b>little</b>.</string>
+
+    <string name="phrase_20" translatable="false">Yo bebo café negro.</string>
+    <string name="phrase_translate_20">I drink <b>black</b> coffee.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_example" translatable="false">Собака</string>
+    <string name="word_LT_1">to learn</string>
+    <string name="word_LT_2">human</string>
+    <string name="word_LT_3">to speak</string>
+    <string name="word_LT_4">city</string>
+    <string name="word_LT_5">to come</string>
+    <string name="word_LT_6">to send</string>
+    <string name="word_LT_7">table</string>
+    <string name="word_LT_8">to write</string>
+    <string name="word_LT_9">number</string>
+    <string name="word_LT_10">old</string>
+    <string name="word_LT_11">much</string>
+    <string name="word_LT_12">car</string>
+    <string name="word_LT_13">to sell</string>
+    <string name="word_LT_14">to go</string>
+    <string name="word_LT_15">tram</string>
+    <string name="word_LT_16">to pay</string>
+    <string name="word_LT_17">yellow</string>
+    <string name="word_LT_18">How much?</string>
+    <string name="word_LT_19">nothing</string>
+    <string name="word_LT_20">yellow</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_example" translatable="false">Собака</string>
+    <string name="word_RT_1">to play</string>
+    <string name="word_RT_2">sport</string>
+    <string name="word_RT_3">to write</string>
+    <string name="word_RT_4">letter</string>
+    <string name="word_RT_5">to think</string>
+    <string name="word_RT_6">to sit</string>
+    <string name="word_RT_7">knife</string>
+    <string name="word_RT_8">to speak</string>
+    <string name="word_RT_9">book</string>
+    <string name="word_RT_10">opened</string>
+    <string name="word_RT_11">nine</string>
+    <string name="word_RT_12">tree</string>
+    <string name="word_RT_13">to run</string>
+    <string name="word_RT_14">to drive</string>
+    <string name="word_RT_15">driving school</string>
+    <string name="word_RT_16">to search</string>
+    <string name="word_RT_17">city</string>
+    <string name="word_RT_18">Why?</string>
+    <string name="word_RT_19">little</string>
+    <string name="word_RT_20">black</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_example" translatable="false">Собака</string>
+    <string name="word_LB_1">to run</string>
+    <string name="word_LB_2">language</string>
+    <string name="word_LB_3">to ask</string>
+    <string name="word_LB_4">book</string>
+    <string name="word_LB_5">to speak</string>
+    <string name="word_LB_6">to buy</string>
+    <string name="word_LB_7">pen</string>
+    <string name="word_LB_8">to play</string>
+    <string name="word_LB_9">letter</string>
+    <string name="word_LB_10">beautiful</string>
+    <string name="word_LB_11">new</string>
+    <string name="word_LB_12">water</string>
+    <string name="word_LB_13">to buy</string>
+    <string name="word_LB_14">to come</string>
+    <string name="word_LB_15">motorcycle</string>
+    <string name="word_LB_16">to sell</string>
+    <string name="word_LB_17">money</string>
+    <string name="word_LB_18">Where?</string>
+    <string name="word_LB_19">much</string>
+    <string name="word_LB_20">blue</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_example" translatable="false">Собака</string>
+    <string name="word_RB_1">to work</string>
+    <string name="word_RB_2">city</string>
+    <string name="word_RB_3">to run</string>
+    <string name="word_RB_4">money</string>
+    <string name="word_RB_5">to get</string>
+    <string name="word_RB_6">to sell</string>
+    <string name="word_RB_7">chair</string>
+    <string name="word_RB_8">to read</string>
+    <string name="word_RB_9">word</string>
+    <string name="word_RB_10">closed</string>
+    <string name="word_RB_11">no</string>
+    <string name="word_RB_12">house</string>
+    <string name="word_RB_13">to drive</string>
+    <string name="word_RB_14">to fly</string>
+    <string name="word_RB_15">bicycle</string>
+    <string name="word_RB_16">to find</string>
+    <string name="word_RB_17">gold</string>
+    <string name="word_RB_18">Who?</string>
+    <string name="word_RB_19">all</string>
+    <string name="word_RB_20">green</string>
+    <!-- END -->
+</resources>

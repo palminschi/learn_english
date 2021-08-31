@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_381">Платье</string>
+    <string name="word_translate_382">Галстук</string>
+    <string name="word_translate_383">Перчатка</string>
+    <string name="word_translate_384">надевать</string>
+    <string name="word_translate_385">раздевать</string>
+    <string name="word_translate_386">Ремень</string>
+    <string name="word_translate_387">Шарф</string>
+    <string name="word_translate_388">Браслет</string>
+    <string name="word_translate_389">Цепочка</string>
+    <string name="word_translate_390">золотой</string>
+    <string name="word_translate_391">Рубашка</string>
+    <string name="word_translate_392">Свитер</string>
+    <string name="word_translate_393">Юбка</string>
+    <string name="word_translate_394">Шорты</string>
+    <string name="word_translate_395">заказывать</string>
+    <string name="word_translate_396">Джинсы</string>
+    <string name="word_translate_397">Кольцо</string>
+    <string name="word_translate_398">Серьга</string>
+    <string name="word_translate_399">Ухо</string>
+    <string name="word_translate_400">Молния</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_381">У нее красивое платье.</string>
+    <string name="phrase_translate_382">Галстук слишко длиный для него.</string>
+    <string name="phrase_translate_383">Зимой без перчаток холодно.</string>
+    <string name="phrase_translate_384">Я надеваю куртку.</string>
+    <string name="phrase_translate_385">Я снимаю куртку.</string>
+    <string name="phrase_translate_386">Я купил ремень.</string>
+    <string name="phrase_translate_387">Она забыла свой шарф.</string>
+    <string name="phrase_translate_388">Я не ношу браслет.</string>
+    <string name="phrase_translate_389">Эта цепочка из серебра.</string>
+    <string name="phrase_translate_390">Он подарил ей золотое кольцо.</string>
+    <string name="phrase_translate_391">Я сегодня надел рубашку.</string>
+    <string name="phrase_translate_392">В свитере теплее.</string>
+    <string name="phrase_translate_393">Летом я ношу юбку.</string>
+    <string name="phrase_translate_394">Я ношу джинсовые шорты.</string>
+    <string name="phrase_translate_395">Я заказал себе новую одежду.</string>
+    <string name="phrase_translate_396">У тебя красивые джинсы.</string>
+    <string name="phrase_translate_397">Я не ношу кольца.</string>
+    <string name="phrase_translate_398">Она потеряла одну серьгу.</string>
+    <string name="phrase_translate_399">У него большие уши.</string>
+    <string name="phrase_translate_400">Куртка на молнии</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_381">Стул</string>
+    <string name="word_LT_382">Кошелек</string>
+    <string name="word_LT_383">Перчатка</string>
+    <string name="word_LT_384">надевать</string>
+    <string name="word_LT_385">играть</string>
+    <string name="word_LT_386">Штаны</string>
+    <string name="word_LT_387">Кепка</string>
+    <string name="word_LT_388">Рот</string>
+    <string name="word_LT_389">Рука</string>
+    <string name="word_LT_390">богатый</string>
+    <string name="word_LT_391">Забор</string>
+    <string name="word_LT_392">Кошка</string>
+    <string name="word_LT_393">Джинсы</string>
+    <string name="word_LT_394">Штаны</string>
+    <string name="word_LT_395">заказывать</string>
+    <string name="word_LT_396">Одежда</string>
+    <string name="word_LT_397">Браслет</string>
+    <string name="word_LT_398">Футболка</string>
+    <string name="word_LT_399">Рот</string>
+    <string name="word_LT_400">Молния</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_381">Очки</string>
+    <string name="word_RT_382">Деньги</string>
+    <string name="word_RT_383">Куртка</string>
+    <string name="word_RT_384">смеяться</string>
+    <string name="word_RT_385">надевать</string>
+    <string name="word_RT_386">Волосы</string>
+    <string name="word_RT_387">Голова</string>
+    <string name="word_RT_388">Лошадь</string>
+    <string name="word_RT_389">Цепочка</string>
+    <string name="word_RT_390">золотой</string>
+    <string name="word_RT_391">Рубашка</string>
+    <string name="word_RT_392">Свитер</string>
+    <string name="word_RT_393">Платье</string>
+    <string name="word_RT_394">Юбка</string>
+    <string name="word_RT_395">заработать</string>
+    <string name="word_RT_396">Джинсы</string>
+    <string name="word_RT_397">Куртка</string>
+    <string name="word_RT_398">Цепочка</string>
+    <string name="word_RT_399">Ухо</string>
+    <string name="word_RT_400">Галстук</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_381">Одежда</string>
+    <string name="word_LB_382">Галстук</string>
+    <string name="word_LB_383">Обувь</string>
+    <string name="word_LB_384">петь</string>
+    <string name="word_LB_385">раздевать</string>
+    <string name="word_LB_386">Кепка</string>
+    <string name="word_LB_387">Волосы</string>
+    <string name="word_LB_388">Браслет</string>
+    <string name="word_LB_389">Одежда</string>
+    <string name="word_LB_390">светлый</string>
+    <string name="word_LB_391">Голова</string>
+    <string name="word_LB_392">Рот</string>
+    <string name="word_LB_393">Галстук</string>
+    <string name="word_LB_394">Шорты</string>
+    <string name="word_LB_395">продать</string>
+    <string name="word_LB_396">Обувь</string>
+    <string name="word_LB_397">Перчатки</string>
+    <string name="word_LB_398">Серьга</string>
+    <string name="word_LB_399">Нос</string>
+    <string name="word_LB_400">Обувь</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_381">Платье</string>
+    <string name="word_RB_382">Футболка</string>
+    <string name="word_RB_383">Очки</string>
+    <string name="word_RB_384">отдыхать</string>
+    <string name="word_RB_385">просить</string>
+    <string name="word_RB_386">Ремень</string>
+    <string name="word_RB_387">Шарф</string>
+    <string name="word_RB_388">Шляпа</string>
+    <string name="word_RB_389">Очки</string>
+    <string name="word_RB_390">тёмный</string>
+    <string name="word_RB_391">Стройка</string>
+    <string name="word_RB_392">Море</string>
+    <string name="word_RB_393">Юбка</string>
+    <string name="word_RB_394">Свитер</string>
+    <string name="word_RB_395">платить</string>
+    <string name="word_RB_396">Очки</string>
+    <string name="word_RB_397">Кольцо</string>
+    <string name="word_RB_398">Браслет</string>
+    <string name="word_RB_399">Рука</string>
+    <string name="word_RB_400">Джинсы</string>
+    <!-- END -->
+</resources>

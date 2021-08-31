@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_421">обучать</string>
+    <string name="word_translate_422">Лекция</string>
+    <string name="word_translate_423">Экзамен</string>
+    <string name="word_translate_424">сочинить</string>
+    <string name="word_translate_425">завершить</string>
+    <string name="word_translate_426">Учитель</string>
+    <string name="word_translate_427">Стипендия</string>
+    <string name="word_translate_428">преподавать</string>
+    <string name="word_translate_429">Столовая</string>
+    <string name="word_translate_430">Четверть</string>
+    <string name="word_translate_431">Газета</string>
+    <string name="word_translate_432">открытый</string>
+    <string name="word_translate_433">закрытый</string>
+    <string name="word_translate_434">тихий</string>
+    <string name="word_translate_435">возможно</string>
+    <string name="word_translate_436">Доход</string>
+    <string name="word_translate_437">Зарплата</string>
+    <string name="word_translate_438">Окно</string>
+    <string name="word_translate_439">Пол</string>
+    <string name="word_translate_440">Подвал</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_421">Он учит меня как играть в футбол.</string>
+    <string name="phrase_translate_422">Я нахожусь сейчас на лекции.</string>
+    <string name="phrase_translate_423">В субботу у меня экзамен.</string>
+    <string name="phrase_translate_424">Я сочинил одну песню.</string>
+    <string name="phrase_translate_425">Я закончил школу.</string>
+    <string name="phrase_translate_426">У меня хороший учитель.</string>
+    <string name="phrase_translate_427">Я получаю большую стипендию.</string>
+    <string name="phrase_translate_428">Она препадает в университете.</string>
+    <string name="phrase_translate_429">Мы кушаем в столовой.</string>
+    <string name="phrase_translate_430">Началась новая четветь.</string>
+    <string name="phrase_translate_431">Я прочитал это в газете.</string>
+    <string name="phrase_translate_432">Магазин еще открытый?</string>
+    <string name="phrase_translate_433">Все школы закрыты.</string>
+    <string name="phrase_translate_434">Моя собака очень тихая.</string>
+    <string name="phrase_translate_435">Возможно! Но я не уверен.</string>
+    <string name="phrase_translate_436">Какой у тебя доход?</string>
+    <string name="phrase_translate_437">У него высокий уровень заработной платы.</string>
+    <string name="phrase_translate_438">Окно закрыто.</string>
+    <string name="phrase_translate_439">Пол в доме грязный.</string>
+    <string name="phrase_translate_440">Мой велосипед в подвале.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_421">надевать</string>
+    <string name="word_LT_422">Письмо</string>
+    <string name="word_LT_423">Выход</string>
+    <string name="word_LT_424">сочинить</string>
+    <string name="word_LT_425">завершить</string>
+    <string name="word_LT_426">Полицейский</string>
+    <string name="word_LT_427">Цифра</string>
+    <string name="word_LT_428">танцевать</string>
+    <string name="word_LT_429">Ресторан</string>
+    <string name="word_LT_430">Четверть</string>
+    <string name="word_LT_431">Время</string>
+    <string name="word_LT_432">старый</string>
+    <string name="word_LT_433">закрытый</string>
+    <string name="word_LT_434">первый</string>
+    <string name="word_LT_435">ничего</string>
+    <string name="word_LT_436">Доход</string>
+    <string name="word_LT_437">Зарплата</string>
+    <string name="word_LT_438">Деревня</string>
+    <string name="word_LT_439">Остров</string>
+    <string name="word_LT_440">Подвал</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_421">смеяться</string>
+    <string name="word_RT_422">Профессия</string>
+    <string name="word_RT_423">Обучение</string>
+    <string name="word_RT_424">кушать</string>
+    <string name="word_RT_425">петь</string>
+    <string name="word_RT_426">Врач</string>
+    <string name="word_RT_427">Стипендия</string>
+    <string name="word_RT_428">кричать</string>
+    <string name="word_RT_429">Подвал</string>
+    <string name="word_RT_430">Еда</string>
+    <string name="word_RT_431">Газета</string>
+    <string name="word_RT_432">открытый</string>
+    <string name="word_RT_433">красный</string>
+    <string name="word_RT_434">тихий</string>
+    <string name="word_RT_435">мало</string>
+    <string name="word_RT_436">Премия</string>
+    <string name="word_RT_437">Перевод</string>
+    <string name="word_RT_438">Дом</string>
+    <string name="word_RT_439">Бассейн</string>
+    <string name="word_RT_440">Официант</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_421">обучать</string>
+    <string name="word_LB_422">Книга</string>
+    <string name="word_LB_423">Экзамен</string>
+    <string name="word_LB_424">светить</string>
+    <string name="word_LB_425">готовить</string>
+    <string name="word_LB_426">Учитель</string>
+    <string name="word_LB_427">Буква</string>
+    <string name="word_LB_428">слушать</string>
+    <string name="word_LB_429">Столовая</string>
+    <string name="word_LB_430">Обувь</string>
+    <string name="word_LB_431">Свадьба</string>
+    <string name="word_LB_432">красивый</string>
+    <string name="word_LB_433">быстрый</string>
+    <string name="word_LB_434">последний</string>
+    <string name="word_LB_435">много</string>
+    <string name="word_LB_436">Деньги</string>
+    <string name="word_LB_437">Город</string>
+    <string name="word_LB_438">Гора</string>
+    <string name="word_LB_439">Пол</string>
+    <string name="word_LB_440">Музыка</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_421">отдыхать</string>
+    <string name="word_RB_422">Лекция</string>
+    <string name="word_RB_423">Океан</string>
+    <string name="word_RB_424">путешествовать</string>
+    <string name="word_RB_425">дарить</string>
+    <string name="word_RB_426">Строитель</string>
+    <string name="word_RB_427">Слово</string>
+    <string name="word_RB_428">преподавать</string>
+    <string name="word_RB_429">Деньги</string>
+    <string name="word_RB_430">Очки</string>
+    <string name="word_RB_431">Парк</string>
+    <string name="word_RB_432">закрытый</string>
+    <string name="word_RB_433">медленный</string>
+    <string name="word_RB_434">сломанный</string>
+    <string name="word_RB_435">возможно</string>
+    <string name="word_RB_436">Стакан</string>
+    <string name="word_RB_437">Пенсия</string>
+    <string name="word_RB_438">Окно</string>
+    <string name="word_RB_439">Автомобиль</string>
+    <string name="word_RB_440">Самолет</string>
+    <!-- END -->
+</resources>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_561">le papier</string>
+    <string name="word_translate_562">le stylo</string>
+    <string name="word_translate_563">signer</string>
+    <string name="word_translate_564">le contrat</string>
+    <string name="word_translate_565">les salaires</string>
+    <string name="word_translate_566">la clé</string>
+    <string name="word_translate_567">la porte</string>
+    <string name="word_translate_568">fermer</string>
+    <string name="word_translate_569">ouvrir</string>
+    <string name="word_translate_570">l\'étranger</string>
+    <string name="word_translate_571">le domicile</string>
+    <string name="word_translate_572">le nombre</string>
+    <string name="word_translate_573">la première</string>
+    <string name="word_translate_575">à présent</string>
+    <string name="word_translate_576">ensemble</string>
+    <string name="word_translate_577">l\'erreur</string>
+    <string name="word_translate_578">trop</string>
+    <string name="word_translate_579">ensuite</string>
+    <string name="word_translate_580">la publicité</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_561">J\'écris sur papier.</string>
+    <string name="phrase_translate_562">Je n\'ai pas de stylo.</string>
+    <string name="phrase_translate_563">Il a signé le contrat.</string>
+    <string name="phrase_translate_564">J\'ai un nouveau contrat.</string>
+    <string name="phrase_translate_565">Quel est votre salaire ?</string>
+    <string name="phrase_translate_566">J\'ai perdu ma clé.</string>
+    <string name="phrase_translate_567">La porte est fermée.</string>
+    <string name="phrase_translate_568">J\'ai fermé la porte.</string>
+    <string name="phrase_translate_569">Le magasin ouvre</string>
+    <string name="phrase_translate_570">Il y a beaucoup d\'étrangers à Berlin.</string>
+    <string name="phrase_translate_571">Écrivez votre lieu de résidence.</string>
+    <string name="phrase_translate_572">9 est le nombre le plus élevé.</string>
+    <string name="phrase_translate_573">j\'étais le premier</string>
+    <string name="phrase_translate_574">Je veux manger quelque chose.</string>
+    <string name="phrase_translate_575">Je suis maintenant à la maison.</string>
+    <string name="phrase_translate_576">Nous allons ensemble.</string>
+    <string name="phrase_translate_577">Pardon! Mon erreur.</string>
+    <string name="phrase_translate_578">J\'y étais aussi.</string>
+    <string name="phrase_translate_579">alors à demain</string>
+    <string name="phrase_translate_580">j\'ai lu ça dans l\'annonce</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_561">le train</string>
+    <string name="word_LT_562">le jouet</string>
+    <string name="word_LT_563">conduire</string>
+    <string name="word_LT_564">le contrat</string>
+    <string name="word_LT_565">le mois</string>
+    <string name="word_LT_566">l\'Ile</string>
+    <string name="word_LT_567">le lit</string>
+    <string name="word_LT_568">payer</string>
+    <string name="word_LT_569">donner</string>
+    <string name="word_LT_570">le policier</string>
+    <string name="word_LT_571">le document</string>
+    <string name="word_LT_572">le nombre</string>
+    <string name="word_LT_573">le champignon</string>
+    <string name="word_LT_574">propre</string>
+    <string name="word_LT_575">hier</string>
+    <string name="word_LT_576">ensemble</string>
+    <string name="word_LT_577">le salaire</string>
+    <string name="word_LT_578">encore</string>
+    <string name="word_LT_579">ensuite</string>
+    <string name="word_LT_580">le Conseil</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_561">le papier</string>
+    <string name="word_RT_562">le bonbon</string>
+    <string name="word_RT_563">voler</string>
+    <string name="word_RT_564">la boutique</string>
+    <string name="word_RT_565">l\'argent</string>
+    <string name="word_RT_566">le coffre à bagages</string>
+    <string name="word_RT_567">la table</string>
+    <string name="word_RT_568">fermer</string>
+    <string name="word_RT_569">jouer</string>
+    <string name="word_RT_570">l\'étranger</string>
+    <string name="word_RT_571">le développement</string>
+    <string name="word_RT_572">Le manuel</string>
+    <string name="word_RT_573">la bouteille</string>
+    <string name="word_RT_574">calmer</string>
+    <string name="word_RT_575">demain</string>
+    <string name="word_RT_576">beaucoup</string>
+    <string name="word_RT_577">la prime</string>
+    <string name="word_RT_578">déjà</string>
+    <string name="word_RT_579">proche</string>
+    <string name="word_RT_580">la publicité</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_561">le projet de loi</string>
+    <string name="word_LB_562">la guitare</string>
+    <string name="word_LB_563">signer</string>
+    <string name="word_LB_564">le froid</string>
+    <string name="word_LB_565">les salaires</string>
+    <string name="word_LB_566">le reste</string>
+    <string name="word_LB_567">la chaise</string>
+    <string name="word_LB_568">travailler</string>
+    <string name="word_LB_569">ouvrir</string>
+    <string name="word_LB_570">l\'acteur</string>
+    <string name="word_LB_571">le domicile</string>
+    <string name="word_LB_572">la lettre</string>
+    <string name="word_LB_573">l\'avion</string>
+    <string name="word_LB_574">dernier</string>
+    <string name="word_LB_575">aujourd\'hui</string>
+    <string name="word_LB_576">peu</string>
+    <string name="word_LB_577">l\'erreur</string>
+    <string name="word_LB_578">ensuite</string>
+    <string name="word_LB_579">droite</string>
+    <string name="word_LB_580">la solution</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_561">l\'habillement</string>
+    <string name="word_RB_562">le stylo</string>
+    <string name="word_RB_563">tomber</string>
+    <string name="word_RB_564">la barrière</string>
+    <string name="word_RB_565">La taxe</string>
+    <string name="word_RB_566">la clé</string>
+    <string name="word_RB_567">la porte</string>
+    <string name="word_RB_568">rester</string>
+    <string name="word_RB_569">sauver</string>
+    <string name="word_RB_570">le développeur</string>
+    <string name="word_RB_571">l\'argent étrange</string>
+    <string name="word_RB_572">le mot</string>
+    <string name="word_RB_573">la première</string>
+    <string name="word_RB_574">certains</string>
+    <string name="word_RB_575">à présent</string>
+    <string name="word_RB_576">personne</string>
+    <string name="word_RB_577">le verre</string>
+    <string name="word_RB_578">trop</string>
+    <string name="word_RB_579">loin</string>
+    <string name="word_RB_580">le conflit</string>
+    <!-- END -->
+</resources>

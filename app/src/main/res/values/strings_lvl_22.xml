@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_title_421" translatable="false">enseñar</string>
+    <string name="word_title_422" translatable="false">la lectura</string>
+    <string name="word_title_423" translatable="false">el examen</string>
+    <string name="word_title_424" translatable="false">componer</string>
+    <string name="word_title_425" translatable="false">graduarse</string>
+    <string name="word_title_426" translatable="false">el maestro</string>
+    <string name="word_title_427" translatable="false">la beca</string>
+    <string name="word_title_428" translatable="false">enseñar</string>
+    <string name="word_title_429" translatable="false">la cantina</string>
+    <string name="word_title_430" translatable="false">el cuarto</string>
+    <string name="word_title_431" translatable="false">el periódico</string>
+    <string name="word_title_432" translatable="false">abrió</string>
+    <string name="word_title_433" translatable="false">cerrado</string>
+    <string name="word_title_434" translatable="false">tranquilo</string>
+    <string name="word_title_435" translatable="false">quizás</string>
+    <string name="word_title_436" translatable="false">el ingreso</string>
+    <string name="word_title_437" translatable="false">los salarios</string>
+    <string name="word_title_438" translatable="false">la ventana</string>
+    <string name="word_title_439" translatable="false">el piso</string>
+    <string name="word_title_440" translatable="false">el sótano</string>
+
+    <string name="word_translate_421">to teach</string>
+    <string name="word_translate_422">lecture</string>
+    <string name="word_translate_423">exam</string>
+    <string name="word_translate_424">to compose</string>
+    <string name="word_translate_425">to graduate</string>
+    <string name="word_translate_426">teacher</string>
+    <string name="word_translate_427">scholarship</string>
+    <string name="word_translate_428">to teach</string>
+    <string name="word_translate_429">canteen</string>
+    <string name="word_translate_430">quarter</string>
+    <string name="word_translate_431">newspaper</string>
+    <string name="word_translate_432">opened</string>
+    <string name="word_translate_433">closed</string>
+    <string name="word_translate_434">quiet</string>
+    <string name="word_translate_435">maybe</string>
+    <string name="word_translate_436">income</string>
+    <string name="word_translate_437">wages</string>
+    <string name="word_translate_438">window</string>
+    <string name="word_translate_439">floor</string>
+    <string name="word_translate_440">basement</string>
+    <!-- END -->
+
+    <!-- PHRASE + TRANSLATE -->
+    <string name="phrase_421" translatable="false">Me enseña a jugar al fútbol.</string>
+    <string name="phrase_translate_421">He teaches me how to play soccer.</string>
+
+    <string name="phrase_422" translatable="false">Estoy en una conferencia ahora mismo.</string>
+    <string name="phrase_translate_422">I\'m in a lecture right now.</string>
+
+    <string name="phrase_423" translatable="false">Tengo un examen el sábado.</string>
+    <string name="phrase_translate_423">I have an exam on Saturday.</string>
+
+    <string name="phrase_424" translatable="false">Compuse una canción.</string>
+    <string name="phrase_translate_424">I composed a song.</string>
+
+    <string name="phrase_425" translatable="false">Me gradué de la escuela.</string>
+    <string name="phrase_translate_425">I graduated from the school.</string>
+
+    <string name="phrase_426" translatable="false">Tengo un buen maestro.</string>
+    <string name="phrase_translate_426">I have a good teacher.</string>
+
+    <string name="phrase_427" translatable="false">Recibo una gran beca.</string>
+    <string name="phrase_translate_427">I get a big scholarship.</string>
+
+    <string name="phrase_428" translatable="false">Ella enseña en la universidad.</string>
+    <string name="phrase_translate_428">She teaches at the university.</string>
+
+    <string name="phrase_429" translatable="false">Comemos en la cantina.</string>
+    <string name="phrase_translate_429">We eat in the canteen.</string>
+
+    <string name="phrase_430" translatable="false">Ha comenzado un nuevo trimestre.</string>
+    <string name="phrase_translate_430">A new quarter has begun.</string>
+
+    <string name="phrase_431" translatable="false">Lo leí en el periódico.</string>
+    <string name="phrase_translate_431">I read it in the newspaper.</string>
+
+    <string name="phrase_432" translatable="false">¿Sigue abierta la tienda?</string>
+    <string name="phrase_translate_432">Is the store still open?</string>
+
+    <string name="phrase_433" translatable="false">Todas las escuelas están cerradas.</string>
+    <string name="phrase_translate_433">All schools are closed.</string>
+
+    <string name="phrase_434" translatable="false">Mi perro es muy tranquilo.</string>
+    <string name="phrase_translate_434">My dog is very quiet.</string>
+
+    <string name="phrase_435" translatable="false">¡Quizás! Pero no estoy seguro.</string>
+    <string name="phrase_translate_435">Maybe! But I am not sure.</string>
+
+    <string name="phrase_436" translatable="false">¿Cuál es su ingreso?</string>
+    <string name="phrase_translate_436">What is your income?</string>
+
+    <string name="phrase_437" translatable="false">Tiene un nivel salarial alto.</string>
+    <string name="phrase_translate_437">It has a high wage level.</string>
+
+    <string name="phrase_438" translatable="false">La ventana está cerrada.</string>
+    <string name="phrase_translate_438">The window is closed.</string>
+
+    <string name="phrase_439" translatable="false">El piso de la casa está sucio.</string>
+    <string name="phrase_translate_439">The floor of the house is dirty.</string>
+
+    <string name="phrase_440" translatable="false">Mi bicicleta está en el sótano.</string>
+    <string name="phrase_translate_440">My bike is in the basement.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_421">to put on</string>
+    <string name="word_LT_422">letter</string>
+    <string name="word_LT_423">exit</string>
+    <string name="word_LT_424">to compose</string>
+    <string name="word_LT_425">to graduate</string>
+    <string name="word_LT_426">cop</string>
+    <string name="word_LT_427">number</string>
+    <string name="word_LT_428">to dance</string>
+    <string name="word_LT_429">restaurant</string>
+    <string name="word_LT_430">quarter</string>
+    <string name="word_LT_431">time</string>
+    <string name="word_LT_432">old</string>
+    <string name="word_LT_433">closed</string>
+    <string name="word_LT_434">first</string>
+    <string name="word_LT_435">nothing</string>
+    <string name="word_LT_436">income</string>
+    <string name="word_LT_437">wages</string>
+    <string name="word_LT_438">village</string>
+    <string name="word_LT_439">island</string>
+    <string name="word_LT_440">basement</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_421">to laugh</string>
+    <string name="word_RT_422">profession</string>
+    <string name="word_RT_423">instruction</string>
+    <string name="word_RT_424">to eat</string>
+    <string name="word_RT_425">to sing</string>
+    <string name="word_RT_426">doctor</string>
+    <string name="word_RT_427">scholarship</string>
+    <string name="word_RT_428">to shout</string>
+    <string name="word_RT_429">basement</string>
+    <string name="word_RT_430">food</string>
+    <string name="word_RT_431">newspaper</string>
+    <string name="word_RT_432">opened</string>
+    <string name="word_RT_433">red</string>
+    <string name="word_RT_434">quiet</string>
+    <string name="word_RT_435">few</string>
+    <string name="word_RT_436">bonus</string>
+    <string name="word_RT_437">transfer</string>
+    <string name="word_RT_438">house</string>
+    <string name="word_RT_439">pool</string>
+    <string name="word_RT_440">waiter</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_421">to teach</string>
+    <string name="word_LB_422">book</string>
+    <string name="word_LB_423">exam</string>
+    <string name="word_LB_424">to shine</string>
+    <string name="word_LB_425">to cook</string>
+    <string name="word_LB_426">teacher</string>
+    <string name="word_LB_427">letter</string>
+    <string name="word_LB_428">to listen</string>
+    <string name="word_LB_429">canteen</string>
+    <string name="word_LB_430">shoes</string>
+    <string name="word_LB_431">wedding</string>
+    <string name="word_LB_432">beautiful</string>
+    <string name="word_LB_433">fast</string>
+    <string name="word_LB_434">last</string>
+    <string name="word_LB_435">much</string>
+    <string name="word_LB_436">money</string>
+    <string name="word_LB_437">city</string>
+    <string name="word_LB_438">mountain</string>
+    <string name="word_LB_439">floor</string>
+    <string name="word_LB_440">music</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_421">to rest</string>
+    <string name="word_RB_422">lecture</string>
+    <string name="word_RB_423">ocean</string>
+    <string name="word_RB_424">to travel</string>
+    <string name="word_RB_425">to give</string>
+    <string name="word_RB_426">builder</string>
+    <string name="word_RB_427">word</string>
+    <string name="word_RB_428">to teach</string>
+    <string name="word_RB_429">money</string>
+    <string name="word_RB_430">glasses</string>
+    <string name="word_RB_431">park</string>
+    <string name="word_RB_432">closed</string>
+    <string name="word_RB_433">slow</string>
+    <string name="word_RB_434">broken</string>
+    <string name="word_RB_435">maybe</string>
+    <string name="word_RB_436">glass</string>
+    <string name="word_RB_437">pension</string>
+    <string name="word_RB_438">window</string>
+    <string name="word_RB_439">car</string>
+    <string name="word_RB_440">plane</string>
+    <!-- END -->
+</resources>

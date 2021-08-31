@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_title_481" translatable="false">el patio</string>
+    <string name="word_title_482" translatable="false">el resto</string>
+    <string name="word_title_483" translatable="false">el dormitorio</string>
+    <string name="word_title_484" translatable="false">el sillón</string>
+    <string name="word_title_485" translatable="false">la alfombra</string>
+    <string name="word_title_486" translatable="false">el arrendador</string>
+    <string name="word_title_487" translatable="false">la playa</string>
+    <string name="word_title_488" translatable="false">el puente</string>
+    <string name="word_title_489" translatable="false">el campo</string>
+    <string name="word_title_490" translatable="false">la acera</string>
+    <string name="word_title_491" translatable="false">el cruce</string>
+    <string name="word_title_492" translatable="false">cruzar</string>
+    <string name="word_title_493" translatable="false">la piedra</string>
+    <string name="word_title_494" translatable="false">tirar</string>
+    <string name="word_title_495" translatable="false">el césped</string>
+    <string name="word_title_496" translatable="false">la planta</string>
+    <string name="word_title_497" translatable="false">el cuarto de baño</string>
+    <string name="word_title_498" translatable="false">la ducha</string>
+    <string name="word_title_499" translatable="false">el inodoro</string>
+    <string name="word_title_500" translatable="false">la pared</string>
+
+    <string name="word_translate_481">yard</string>
+    <string name="word_translate_482">rest</string>
+    <string name="word_translate_483">bedroom</string>
+    <string name="word_translate_484">armchair</string>
+    <string name="word_translate_485">carpet</string>
+    <string name="word_translate_486">landlord</string>
+    <string name="word_translate_487">beach</string>
+    <string name="word_translate_488">bridge</string>
+    <string name="word_translate_489">field</string>
+    <string name="word_translate_490">sidewalk</string>
+    <string name="word_translate_491">crossroads</string>
+    <string name="word_translate_492">to cross</string>
+    <string name="word_translate_493">stone</string>
+    <string name="word_translate_494">to throw</string>
+    <string name="word_translate_495">grass</string>
+    <string name="word_translate_496">plant</string>
+    <string name="word_translate_497">bathroom</string>
+    <string name="word_translate_498">shower</string>
+    <string name="word_translate_499">toilet</string>
+    <string name="word_translate_500">wall</string>
+    <!-- END -->
+
+    <!-- PHRASE + TRANSLATE -->
+    <string name="phrase_481" translatable="false">Niños jugando en el patio.</string>
+    <string name="phrase_translate_481">Children playing in the yard.</string>
+
+    <string name="phrase_482" translatable="false">Necesito descansar.</string>
+    <string name="phrase_translate_482">I need my rest.</string>
+
+    <string name="phrase_483" translatable="false">Mi apartamento tiene dos habitaciones.</string>
+    <string name="phrase_translate_483">My apartment has two bedrooms.</string>
+
+    <string name="phrase_484" translatable="false">Me senté en el sillón</string>
+    <string name="phrase_translate_484">I sat down on the armchair</string>
+
+    <string name="phrase_485" translatable="false">La alfombra está manchada.</string>
+    <string name="phrase_translate_485">The carpet is stained.</string>
+
+    <string name="phrase_486" translatable="false">El arrendador quiere vender la casa.</string>
+    <string name="phrase_translate_486">The landlord wants to sell the house.</string>
+
+    <string name="phrase_487" translatable="false">Descanso en la playa.</string>
+    <string name="phrase_translate_487">I rest on the beach.</string>
+
+    <string name="phrase_488" translatable="false">El puente es muy antiguo.</string>
+    <string name="phrase_translate_488">The bridge is very old.</string>
+
+    <string name="phrase_489" translatable="false">El maíz crece en el campo.</string>
+    <string name="phrase_translate_489">Corn grows in the field.</string>
+
+    <string name="phrase_490" translatable="false">Camino por la acera.</string>
+    <string name="phrase_translate_490">I walk along the sidewalk.</string>
+
+    <string name="phrase_491" translatable="false">Pasamos la encrucijada.</string>
+    <string name="phrase_translate_491">We passed the crossroads.</string>
+
+    <string name="phrase_492" translatable="false">Cruzó la calle</string>
+    <string name="phrase_translate_492">He crossed the road</string>
+
+    <string name="phrase_493" translatable="false">Ha caído una piedra de la montaña.</string>
+    <string name="phrase_translate_493">A stone has fallen from the mountain.</string>
+
+    <string name="phrase_494" translatable="false">Arrojó una piedra.</string>
+    <string name="phrase_translate_494">He threw a stone.</string>
+
+    <string name="phrase_495" translatable="false">La hierba es verde en verano.</string>
+    <string name="phrase_translate_495">The grass is green in the summer.</string>
+
+    <string name="phrase_496" translatable="false">Tiene muchas plantas en su departamento</string>
+    <string name="phrase_translate_496">He has many plants in his apartment</string>
+
+    <string name="phrase_497" translatable="false">¿Dónde está tu baño?</string>
+    <string name="phrase_translate_497">Where is your bathroom?</string>
+
+    <string name="phrase_498" translatable="false">Me gustaría darme una ducha.</string>
+    <string name="phrase_translate_498">I would like to take a shower.</string>
+
+    <string name="phrase_499" translatable="false">Necesito ir al baño.</string>
+    <string name="phrase_translate_499">I need to go to the toilet.</string>
+
+    <string name="phrase_500" translatable="false">La pintura cuelga de la pared.</string>
+    <string name="phrase_translate_500">The painting hangs on the wall.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_481">village</string>
+    <string name="word_LT_482">tree</string>
+    <string name="word_LT_483">village</string>
+    <string name="word_LT_484">island</string>
+    <string name="word_LT_485">flower</string>
+    <string name="word_LT_486">landlord</string>
+    <string name="word_LT_487">castle</string>
+    <string name="word_LT_488">village</string>
+    <string name="word_LT_489">path</string>
+    <string name="word_LT_490">bathroom</string>
+    <string name="word_LT_491">branch</string>
+    <string name="word_LT_492">to compose</string>
+    <string name="word_LT_493">wallet</string>
+    <string name="word_LT_494">to throw</string>
+    <string name="word_LT_495">team</string>
+    <string name="word_LT_496">cap</string>
+    <string name="word_LT_497">running</string>
+    <string name="word_LT_498">shower</string>
+    <string name="word_LT_499">fence</string>
+    <string name="word_LT_500">clothing</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_481">castle</string>
+    <string name="word_RT_482">animal</string>
+    <string name="word_RT_483">bedroom</string>
+    <string name="word_RT_484">armchair</string>
+    <string name="word_RT_485">carpet</string>
+    <string name="word_RT_486">butterfly</string>
+    <string name="word_RT_487">beach</string>
+    <string name="word_RT_488">bridge</string>
+    <string name="word_RT_489">hand</string>
+    <string name="word_RT_490">root</string>
+    <string name="word_RT_491">sound</string>
+    <string name="word_RT_492">to eat</string>
+    <string name="word_RT_493">stone</string>
+    <string name="word_RT_494">to collect</string>
+    <string name="word_RT_495">hair</string>
+    <string name="word_RT_496">head</string>
+    <string name="word_RT_497">bathroom</string>
+    <string name="word_RT_498">body</string>
+    <string name="word_RT_499">stop</string>
+    <string name="word_RT_500">intersection</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_481">filling station</string>
+    <string name="word_LB_482">rest</string>
+    <string name="word_LB_483">mountain</string>
+    <string name="word_LB_484">tree</string>
+    <string name="word_LB_485">garden</string>
+    <string name="word_LB_486">vegetables</string>
+    <string name="word_LB_487">fence</string>
+    <string name="word_LB_488">mountain</string>
+    <string name="word_LB_489">field</string>
+    <string name="word_LB_490">sidewalk</string>
+    <string name="word_LB_491">crossroads</string>
+    <string name="word_LB_492">to cross</string>
+    <string name="word_LB_493">cupboard</string>
+    <string name="word_LB_494">to water</string>
+    <string name="word_LB_495">cap</string>
+    <string name="word_LB_496">plant</string>
+    <string name="word_LB_497">dog</string>
+    <string name="word_LB_498">clothing</string>
+    <string name="word_LB_499">head</string>
+    <string name="word_LB_500">courtyard</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_481">yard</string>
+    <string name="word_RB_482">bridge</string>
+    <string name="word_RB_483">tree</string>
+    <string name="word_RB_484">game</string>
+    <string name="word_RB_485">plane</string>
+    <string name="word_RB_486">dog</string>
+    <string name="word_RB_487">earth</string>
+    <string name="word_RB_488">window</string>
+    <string name="word_RB_489">sea</string>
+    <string name="word_RB_490">forest</string>
+    <string name="word_RB_491">glasses</string>
+    <string name="word_RB_492">to travel</string>
+    <string name="word_RB_493">church</string>
+    <string name="word_RB_494">to jump</string>
+    <string name="word_RB_495">grass</string>
+    <string name="word_RB_496">mouth</string>
+    <string name="word_RB_497">hut</string>
+    <string name="word_RB_498">gates</string>
+    <string name="word_RB_499">toilet</string>
+    <string name="word_RB_500">wall</string>
+    <!-- END -->
+</resources>

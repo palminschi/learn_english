@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_481">Двор</string>
+    <string name="word_translate_482">Отдых</string>
+    <string name="word_translate_483">Спальня</string>
+    <string name="word_translate_484">Кресло</string>
+    <string name="word_translate_485">Ковёр</string>
+    <string name="word_translate_486">Владелец</string>
+    <string name="word_translate_487">Пляж</string>
+    <string name="word_translate_488">Мост</string>
+    <string name="word_translate_489">Поле</string>
+    <string name="word_translate_490">Тротуар</string>
+    <string name="word_translate_491">Перекрёсток</string>
+    <string name="word_translate_492">перейти</string>
+    <string name="word_translate_493">Камень</string>
+    <string name="word_translate_494">кидать</string>
+    <string name="word_translate_495">Трава</string>
+    <string name="word_translate_496">Растение</string>
+    <string name="word_translate_497">Ванная</string>
+    <string name="word_translate_498">Душ</string>
+    <string name="word_translate_499">Туалет</string>
+    <string name="word_translate_500">Стена</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_481">Дети играют во дворе.</string>
+    <string name="phrase_translate_482">Мне нужен отдых.</string>
+    <string name="phrase_translate_483">В моей квартире 2 комнты для сна.</string>
+    <string name="phrase_translate_484">Я сел на кресло.</string>
+    <string name="phrase_translate_485">Ковер испачкан.</string>
+    <string name="phrase_translate_486">Владелец дома хочет продать дом.</string>
+    <string name="phrase_translate_487">Я отдыхаю на пляже.</string>
+    <string name="phrase_translate_488">Мост очень старый.</string>
+    <string name="phrase_translate_489">На поле растет кукуруза.</string>
+    <string name="phrase_translate_490">Я иду по тротуару.</string>
+    <string name="phrase_translate_491">Мы проехали перекресток.</string>
+    <string name="phrase_translate_492">Он перешел дорогу</string>
+    <string name="phrase_translate_493">Камень упал с горы.</string>
+    <string name="phrase_translate_494">Он кинул камень.</string>
+    <string name="phrase_translate_495">Летом трава зеленая.</string>
+    <string name="phrase_translate_496">У него в квартире много растений</string>
+    <string name="phrase_translate_497">Где у вас ванная комната?</string>
+    <string name="phrase_translate_498">Я хочу принять душ.</string>
+    <string name="phrase_translate_499">Мне нужно в туалет.</string>
+    <string name="phrase_translate_500">Картина висит на стене.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_481">Деревня</string>
+    <string name="word_LT_482">Дерево</string>
+    <string name="word_LT_483">Деревня</string>
+    <string name="word_LT_484">Остров</string>
+    <string name="word_LT_485">Цветок</string>
+    <string name="word_LT_486">Владелец</string>
+    <string name="word_LT_487">Замок</string>
+    <string name="word_LT_488">Деревня</string>
+    <string name="word_LT_489">Тропа</string>
+    <string name="word_LT_490">Ванная</string>
+    <string name="word_LT_491">Ветка</string>
+    <string name="word_LT_492">сочинить</string>
+    <string name="word_LT_493">Кошелек</string>
+    <string name="word_LT_494">кидать</string>
+    <string name="word_LT_495">Команда</string>
+    <string name="word_LT_496">Кепка</string>
+    <string name="word_LT_497">Бег</string>
+    <string name="word_LT_498">Душ</string>
+    <string name="word_LT_499">Забор</string>
+    <string name="word_LT_500">Одежда</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_481">Замок</string>
+    <string name="word_RT_482">Животное</string>
+    <string name="word_RT_483">Спальня</string>
+    <string name="word_RT_484">Кресло</string>
+    <string name="word_RT_485">Ковёр</string>
+    <string name="word_RT_486">Бабочка</string>
+    <string name="word_RT_487">Пляж</string>
+    <string name="word_RT_488">Мост</string>
+    <string name="word_RT_489">Рука</string>
+    <string name="word_RT_490">Корень</string>
+    <string name="word_RT_491">Звук</string>
+    <string name="word_RT_492">кушать</string>
+    <string name="word_RT_493">Камень</string>
+    <string name="word_RT_494">собирать</string>
+    <string name="word_RT_495">Волосы</string>
+    <string name="word_RT_496">Голова</string>
+    <string name="word_RT_497">Ванная</string>
+    <string name="word_RT_498">Тело</string>
+    <string name="word_RT_499">Остановка</string>
+    <string name="word_RT_500">Перекрёсток</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_481">Заправка</string>
+    <string name="word_LB_482">Отдых</string>
+    <string name="word_LB_483">Гора</string>
+    <string name="word_LB_484">Дерево</string>
+    <string name="word_LB_485">Сад</string>
+    <string name="word_LB_486">Овощи</string>
+    <string name="word_LB_487">Забор</string>
+    <string name="word_LB_488">Гора</string>
+    <string name="word_LB_489">Поле</string>
+    <string name="word_LB_490">Тротуар</string>
+    <string name="word_LB_491">Перекрёсток</string>
+    <string name="word_LB_492">перейти</string>
+    <string name="word_LB_493">Шкаф</string>
+    <string name="word_LB_494">поливать</string>
+    <string name="word_LB_495">Кепка</string>
+    <string name="word_LB_496">Растение</string>
+    <string name="word_LB_497">Собака</string>
+    <string name="word_LB_498">Одежда</string>
+    <string name="word_LB_499">Голова</string>
+    <string name="word_LB_500">Двор</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_481">Двор</string>
+    <string name="word_RB_482">Мост</string>
+    <string name="word_RB_483">Дерево</string>
+    <string name="word_RB_484">Игра</string>
+    <string name="word_RB_485">Самолет</string>
+    <string name="word_RB_486">Собака</string>
+    <string name="word_RB_487">Земля</string>
+    <string name="word_RB_488">Окно</string>
+    <string name="word_RB_489">Море</string>
+    <string name="word_RB_490">Лес</string>
+    <string name="word_RB_491">Очки</string>
+    <string name="word_RB_492">путешествовать</string>
+    <string name="word_RB_493">Церковь</string>
+    <string name="word_RB_494">прыгнуть</string>
+    <string name="word_RB_495">Трава</string>
+    <string name="word_RB_496">Рот</string>
+    <string name="word_RB_497">Шляпа</string>
+    <string name="word_RB_498">Ворота</string>
+    <string name="word_RB_499">Туалет</string>
+    <string name="word_RB_500">Стена</string>
+    <!-- END -->
+</resources>

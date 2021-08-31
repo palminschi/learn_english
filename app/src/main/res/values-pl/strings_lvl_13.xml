@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_241">kucharz</string>
+    <string name="word_translate_242">Makaron</string>
+    <string name="word_translate_243">zupa</string>
+    <string name="word_translate_244">Mąka</string>
+    <string name="word_translate_245">smaczny</string>
+    <string name="word_translate_246">przygotować</string>
+    <string name="word_translate_247">Smak</string>
+    <string name="word_translate_248">Dieta</string>
+    <string name="word_translate_249">Deser</string>
+    <string name="word_translate_250">Lody</string>
+    <string name="word_translate_251">Słodycze</string>
+    <string name="word_translate_252">Kiełbasa</string>
+    <string name="word_translate_253">Kotlet</string>
+    <string name="word_translate_254">Grzyb</string>
+    <string name="word_translate_255">Owsianka</string>
+    <string name="word_translate_256">mleko</string>
+    <string name="word_translate_257">Marchewka</string>
+    <string name="word_translate_258">Słodkie</string>
+    <string name="word_translate_259">Pikantny</string>
+    <string name="word_translate_260">Pieprz</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_241">Pracuje jako kucharz.</string>
+    <string name="phrase_translate_242">Zrobiłam makaron.</string>
+    <string name="phrase_translate_243">Zupa jest pyszna</string>
+    <string name="phrase_translate_244">Muszę kupić mąkę.</string>
+    <string name="phrase_translate_245">Wyśmienicie gotuje.</string>
+    <string name="phrase_translate_246">Nie lubię gotować.</string>
+    <string name="phrase_translate_247">Jaki smak?</string>
+    <string name="phrase_translate_248">Jestem na diecie.</string>
+    <string name="phrase_translate_249">Co na deser?</string>
+    <string name="phrase_translate_250">Jem lody.</string>
+    <string name="phrase_translate_251">Dzieci uwielbiają słodycze.</string>
+    <string name="phrase_translate_252">Kupiłem kiełbasę.</string>
+    <string name="phrase_translate_253">Makaron Z Kotletem</string>
+    <string name="phrase_translate_254">Poszukujemy grzybów.</string>
+    <string name="phrase_translate_255">Rano jem owsiankę.</string>
+    <string name="phrase_translate_256">Kawa z mlekiem</string>
+    <string name="phrase_translate_257">Marchewki są pyszne.</string>
+    <string name="phrase_translate_258">Lody są za słodkie.</string>
+    <string name="phrase_translate_259">Pizza była ostra.</string>
+    <string name="phrase_translate_260">bez pieprzu, proszę</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_241">kucharz</string>
+    <string name="word_LT_242">Woda</string>
+    <string name="word_LT_243">zupa</string>
+    <string name="word_LT_244">Serwetka</string>
+    <string name="word_LT_245">smaczny</string>
+    <string name="word_LT_246">bawić się</string>
+    <string name="word_LT_247">Serwetka</string>
+    <string name="word_LT_248">Kolacja</string>
+    <string name="word_LT_249">Śniadanie</string>
+    <string name="word_LT_250">Żywność</string>
+    <string name="word_LT_251">Nóż</string>
+    <string name="word_LT_252">Kelner</string>
+    <string name="word_LT_253">Łyżka</string>
+    <string name="word_LT_254">Grzyb</string>
+    <string name="word_LT_255">Restauracja</string>
+    <string name="word_LT_256">mleko</string>
+    <string name="word_LT_257">Dom</string>
+    <string name="word_LT_258">mały</string>
+    <string name="word_LT_259">silny</string>
+    <string name="word_LT_260">Gwiazda</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_241">Kelner</string>
+    <string name="word_RT_242">Makaron</string>
+    <string name="word_RT_243">Czajnik</string>
+    <string name="word_RT_244">Butelka</string>
+    <string name="word_RT_245">słaby</string>
+    <string name="word_RT_246">śpiewać</string>
+    <string name="word_RT_247">Płyta</string>
+    <string name="word_RT_248">Kolacja</string>
+    <string name="word_RT_249">Deser</string>
+    <string name="word_RT_250">Serwetka</string>
+    <string name="word_RT_251">Usta</string>
+    <string name="word_RT_252">Kiełbasa</string>
+    <string name="word_RT_253">Widelec</string>
+    <string name="word_RT_254">Butelka</string>
+    <string name="word_RT_255">Piwnica</string>
+    <string name="word_RT_256">Kelner</string>
+    <string name="word_RT_257">Pieniądze</string>
+    <string name="word_RT_258">wielki</string>
+    <string name="word_RT_259">Pikantny</string>
+    <string name="word_RT_260">Porady</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_241">Muzyka</string>
+    <string name="word_LB_242">Drink</string>
+    <string name="word_LB_243">Sprawdzać</string>
+    <string name="word_LB_244">Łyżka</string>
+    <string name="word_LB_245">wielki</string>
+    <string name="word_LB_246">przygotować</string>
+    <string name="word_LB_247">Żywność</string>
+    <string name="word_LB_248">Wieczór</string>
+    <string name="word_LB_249">Czajnik</string>
+    <string name="word_LB_250">Nóż</string>
+    <string name="word_LB_251">Słodycze</string>
+    <string name="word_LB_252">Widelec</string>
+    <string name="word_LB_253">Sklep</string>
+    <string name="word_LB_254">Samolot</string>
+    <string name="word_LB_255">Owsianka</string>
+    <string name="word_LB_256">Kwiat</string>
+    <string name="word_LB_257">Marchewka</string>
+    <string name="word_LB_258">szybki</string>
+    <string name="word_LB_259">wielki</string>
+    <string name="word_LB_260">Moc</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_241">Samolot</string>
+    <string name="word_RB_242">Herbata</string>
+    <string name="word_RB_243">odzież</string>
+    <string name="word_RB_244">Mąka</string>
+    <string name="word_RB_245">powolny</string>
+    <string name="word_RB_246">teraźniejszość</string>
+    <string name="word_RB_247">Smak</string>
+    <string name="word_RB_248">Dieta</string>
+    <string name="word_RB_249">Kolacja</string>
+    <string name="word_RB_250">Lody</string>
+    <string name="word_RB_251">Łyżka</string>
+    <string name="word_RB_252">Płyta</string>
+    <string name="word_RB_253">Kotlet</string>
+    <string name="word_RB_254">Zdjęcie</string>
+    <string name="word_RB_255">Pieniądze</string>
+    <string name="word_RB_256">Czajnik</string>
+    <string name="word_RB_257">Ludzie</string>
+    <string name="word_RB_258">Słodkie</string>
+    <string name="word_RB_259">powolny</string>
+    <string name="word_RB_260">Pieprz</string>
+    <!-- END -->
+</resources>

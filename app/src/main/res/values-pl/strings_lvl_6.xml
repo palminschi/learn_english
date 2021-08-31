@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_101">Kraj</string>
+    <string name="word_translate_102">Miasto</string>
+    <string name="word_translate_103">Poczta</string>
+    <string name="word_translate_104">Wejście</string>
+    <string name="word_translate_105">Wynik</string>
+    <string name="word_translate_106">główny</string>
+    <string name="word_translate_107">Dworzec</string>
+    <string name="word_translate_108">Droga</string>
+    <string name="word_translate_109">Sklep</string>
+    <string name="word_translate_110">Śmieci</string>
+    <string name="word_translate_111">wyrzucać</string>
+    <string name="word_translate_112">sortować</string>
+    <string name="word_translate_113">Góra</string>
+    <string name="word_translate_114">Schody</string>
+    <string name="word_translate_115">wspinać się</string>
+    <string name="word_translate_116">wysoko</string>
+    <string name="word_translate_117">z góry</string>
+    <string name="word_translate_118">od dołu</string>
+    <string name="word_translate_119">prawo</string>
+    <string name="word_translate_120">lewo</string>
+
+    <!-- PHRASE  -->
+    <string name="phrase_translate_101">Mój kraj jest wieloetniczny.</string>
+    <string name="phrase_translate_102">Ja mieszkam w mieście.</string>
+    <string name="phrase_translate_103">Poczta jest otwarta.</string>
+    <string name="phrase_translate_104">Wejście na stację</string>
+    <string name="phrase_translate_105">Gdzie jest wyjście?</string>
+    <string name="phrase_translate_106">Główna ulica</string>
+    <string name="phrase_translate_107">Pociąg jest już na dworcu.</string>
+    <string name="phrase_translate_108">jeszcze długa droga</string>
+    <string name="phrase_translate_109">Sklepy są zamknięte.</string>
+    <string name="phrase_translate_110">Śmieci muszą być posortowane.</string>
+    <string name="phrase_translate_111">Powinienem wyrzucić moje stare ubrania.</string>
+    <string name="phrase_translate_112">Czy segregujesz śmieci?</string>
+    <string name="phrase_translate_113">Bardzo wysoka góra</string>
+    <string name="phrase_translate_114">Idę na górę po schodach.</string>
+    <string name="phrase_translate_115">Wspina się po górach i wzgórzach.</string>
+    <string name="phrase_translate_116">Cena jest zbyt wysoka.</string>
+    <string name="phrase_translate_117">To jest na górze.</string>
+    <string name="phrase_translate_118">Na dole jest podpis</string>
+    <string name="phrase_translate_119">Następnie w prawo.</string>
+    <string name="phrase_translate_120">Ulica po lewej stronie</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_101">Dom</string>
+    <string name="word_LT_102">Tramwaj</string>
+    <string name="word_LT_103">Port</string>
+    <string name="word_LT_104">Schody</string>
+    <string name="word_LT_105">Wynik</string>
+    <string name="word_LT_106">główny</string>
+    <string name="word_LT_107">Bank</string>
+    <string name="word_LT_108">Kraj</string>
+    <string name="word_LT_109">Góra</string>
+    <string name="word_LT_110">Śmieci</string>
+    <string name="word_LT_111">tankować</string>
+    <string name="word_LT_112">stać</string>
+    <string name="word_LT_113">Miasto</string>
+    <string name="word_LT_114">Pociąg</string>
+    <string name="word_LT_115">udać się</string>
+    <string name="word_LT_116">niska</string>
+    <string name="word_LT_117">z góry</string>
+    <string name="word_LT_118">od dołu</string>
+    <string name="word_LT_119">lewo</string>
+    <string name="word_LT_120">między</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_101">Miasto</string>
+    <string name="word_RT_102">Ulica</string>
+    <string name="word_RT_103">Stacja</string>
+    <string name="word_RT_104">Wejście</string>
+    <string name="word_RT_105">Zachód</string>
+    <string name="word_RT_106">stary</string>
+    <string name="word_RT_107">Dworzec</string>
+    <string name="word_RT_108">Mieszkanie</string>
+    <string name="word_RT_109">Warzywa</string>
+    <string name="word_RT_110">Morze</string>
+    <string name="word_RT_111">wyrzucać</string>
+    <string name="word_RT_112">sortować</string>
+    <string name="word_RT_113">Las</string>
+    <string name="word_RT_114">Motyl</string>
+    <string name="word_RT_115">spaść</string>
+    <string name="word_RT_116">wysoko</string>
+    <string name="word_RT_117">prawo</string>
+    <string name="word_RT_118">między</string>
+    <string name="word_RT_119">blisko</string>
+    <string name="word_RT_120">za</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_101">Zamek</string>
+    <string name="word_LB_102">Miasto</string>
+    <string name="word_LB_103">Sklep</string>
+    <string name="word_LB_104">Wschód</string>
+    <string name="word_LB_105">Pociąg</string>
+    <string name="word_LB_106">nowy</string>
+    <string name="word_LB_107">Wejście</string>
+    <string name="word_LB_108">Droga</string>
+    <string name="word_LB_109">Owoce</string>
+    <string name="word_LB_110">Port</string>
+    <string name="word_LB_111">wspinać się</string>
+    <string name="word_LB_112">zebrać</string>
+    <string name="word_LB_113">Góra</string>
+    <string name="word_LB_114">Samolot</string>
+    <string name="word_LB_115">wspinać się</string>
+    <string name="word_LB_116">długi</string>
+    <string name="word_LB_117">od dołu</string>
+    <string name="word_LB_118">szybki</string>
+    <string name="word_LB_119">prawo</string>
+    <string name="word_LB_120">blisko</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_101">Kraj</string>
+    <string name="word_RB_102">Góra</string>
+    <string name="word_RB_103">Poczta</string>
+    <string name="word_RB_104">Autostrada</string>
+    <string name="word_RB_105">Park</string>
+    <string name="word_RB_106">pierwszy</string>
+    <string name="word_RB_107">Wynik</string>
+    <string name="word_RB_108">Życie</string>
+    <string name="word_RB_109">Sklep</string>
+    <string name="word_RB_110">Stacja</string>
+    <string name="word_RB_111">spaść</string>
+    <string name="word_RB_112">umyć</string>
+    <string name="word_RB_113">Drewno</string>
+    <string name="word_RB_114">Schody</string>
+    <string name="word_RB_115">grać</string>
+    <string name="word_RB_116">powolny</string>
+    <string name="word_RB_117">lewo</string>
+    <string name="word_RB_118">lewo</string>
+    <string name="word_RB_119">dalej</string>
+    <string name="word_RB_120">lewo</string>
+    <!-- END -->
+</resources>

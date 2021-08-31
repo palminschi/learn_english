@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_581">Pepene galben</string>
+    <string name="word_translate_582">Pepene verde</string>
+    <string name="word_translate_583">mai bine</string>
+    <string name="word_translate_584">mai mult</string>
+    <string name="word_translate_585">a chema</string>
+    <string name="word_translate_586">a suna</string>
+    <string name="word_translate_587">Miere</string>
+    <string name="word_translate_588">Albină</string>
+    <string name="word_translate_589">Zahăr</string>
+    <string name="word_translate_590">Mazăre</string>
+    <string name="word_translate_591">Fasole</string>
+    <string name="word_translate_592">alaltăieri</string>
+    <string name="word_translate_593">poimâine</string>
+    <string name="word_translate_594">Oară</string>
+    <string name="word_translate_595">Primăvara</string>
+    <string name="word_translate_596">Toamna</string>
+    <string name="word_translate_597">Creion</string>
+    <string name="word_translate_598">Literă</string>
+    <string name="word_translate_599">Dicționar</string>
+    <string name="word_translate_600">Sfârșit</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_581">Pepenele galben crește în grădină.</string>
+    <string name="phrase_translate_582">Am cumpărat un pepene verde mare</string>
+    <string name="phrase_translate_583">Tu știi mai bine.</string>
+    <string name="phrase_translate_584">El citește mai mult decât mine.</string>
+    <string name="phrase_translate_585">Trebuie să-l chem.</string>
+    <string name="phrase_translate_586">Te-am sunat ieri.</string>
+    <string name="phrase_translate_587">Eu beau ceai cu miere.</string>
+    <string name="phrase_translate_588">Mi-e frică de albine.</string>
+    <string name="phrase_translate_589">Eu beau cafea fără zahăr.</string>
+    <string name="phrase_translate_590">Eu nu mănânc mazăre.</string>
+    <string name="phrase_translate_591">Ea gătește ceva din fasole.</string>
+    <string name="phrase_translate_592">Am fost acolo alaltăieri.</string>
+    <string name="phrase_translate_593">Ne vedem poimâine.</string>
+    <string name="phrase_translate_594">Este a doua oară când te sun.</string>
+    <string name="phrase_translate_595">Totul este frumos primăvara.</string>
+    <string name="phrase_translate_596">Toamna plouă des.</string>
+    <string name="phrase_translate_597">Creionul e rupt.</string>
+    <string name="phrase_translate_598">Câte litere are numele tău?</string>
+    <string name="phrase_translate_599">Nu am găsit cuvântul în dicționar</string>
+    <string name="phrase_translate_600">Sfârșit</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_581">Ciupearcă</string>
+    <string name="word_LT_582">Mâncare</string>
+    <string name="word_LT_583">gustos</string>
+    <string name="word_LT_584">repede</string>
+    <string name="word_LT_585">a achita</string>
+    <string name="word_LT_586">a lua</string>
+    <string name="word_LT_587">Lapte</string>
+    <string name="word_LT_588">Copac</string>
+    <string name="word_LT_589">Sare</string>
+    <string name="word_LT_590">Șervețel</string>
+    <string name="word_LT_591">Cină</string>
+    <string name="word_LT_592">alaltăieri</string>
+    <string name="word_LT_593">azi</string>
+    <string name="word_LT_594">Pas</string>
+    <string name="word_LT_595">Pădure</string>
+    <string name="word_LT_596">Nor</string>
+    <string name="word_LT_597">Jucărie</string>
+    <string name="word_LT_598">Cifră</string>
+    <string name="word_LT_599">Oraș</string>
+    <string name="word_LT_600">Sfârșit</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_581">Pepene galben</string>
+    <string name="word_RT_582">Pepene verde</string>
+    <string name="word_RT_583">slab</string>
+    <string name="word_RT_584">frig</string>
+    <string name="word_RT_585">a sări</string>
+    <string name="word_RT_586">a suna</string>
+    <string name="word_RT_587">Miere</string>
+    <string name="word_RT_588">Pasăre</string>
+    <string name="word_RT_589">Cafea</string>
+    <string name="word_RT_590">Mazăre</string>
+    <string name="word_RT_591">Dejun</string>
+    <string name="word_RT_592">mâine</string>
+    <string name="word_RT_593">poimâine</string>
+    <string name="word_RT_594">Transfer</string>
+    <string name="word_RT_595">Frig</string>
+    <string name="word_RT_596">Toamna</string>
+    <string name="word_RT_597">Creion</string>
+    <string name="word_RT_598">Manual</string>
+    <string name="word_RT_599">Scrisoare</string>
+    <string name="word_RT_600">Sfârșit</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_581">Cârnaţ</string>
+    <string name="word_LB_582">Cuțit</string>
+    <string name="word_LB_583">mare</string>
+    <string name="word_LB_584">mai mult</string>
+    <string name="word_LB_585">a lucra</string>
+    <string name="word_LB_586">a rămâne</string>
+    <string name="word_LB_587">Ceainic</string>
+    <string name="word_LB_588">Floare</string>
+    <string name="word_LB_589">Zahăr</string>
+    <string name="word_LB_590">Mâncare</string>
+    <string name="word_LB_591">Fasole</string>
+    <string name="word_LB_592">azi</string>
+    <string name="word_LB_593">ieri</string>
+    <string name="word_LB_594">Caz</string>
+    <string name="word_LB_595">Anotimp</string>
+    <string name="word_LB_596">Primăvara</string>
+    <string name="word_LB_597">Chitară</string>
+    <string name="word_LB_598">Literă</string>
+    <string name="word_LB_599">Carte</string>
+    <string name="word_LB_600">Sfârșit</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_581">Legume</string>
+    <string name="word_RB_582">Fruct</string>
+    <string name="word_RB_583">mai bine</string>
+    <string name="word_RB_584">bolnav</string>
+    <string name="word_RB_585">a chema</string>
+    <string name="word_RB_586">a alerga</string>
+    <string name="word_RB_587">Floare</string>
+    <string name="word_RB_588">Albină</string>
+    <string name="word_RB_589">Suc</string>
+    <string name="word_RB_590">Gust</string>
+    <string name="word_RB_591">Dietă</string>
+    <string name="word_RB_592">niciodată</string>
+    <string name="word_RB_593">alaltăieri</string>
+    <string name="word_RB_594">Oară</string>
+    <string name="word_RB_595">Primăvara</string>
+    <string name="word_RB_596">Frig</string>
+    <string name="word_RB_597">Stilou</string>
+    <string name="word_RB_598">Cuvânt</string>
+    <string name="word_RB_599">Dicționar</string>
+    <string name="word_RB_600">Sfârșit</string>
+    <!-- END -->
+</resources>

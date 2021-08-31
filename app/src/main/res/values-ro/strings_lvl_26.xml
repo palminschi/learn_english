@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_501">Livrare</string>
+    <string name="word_translate_502">a livra</string>
+    <string name="word_translate_503">Colet</string>
+    <string name="word_translate_504">înapoi</string>
+    <string name="word_translate_505">a se uita</string>
+    <string name="word_translate_506">Actor</string>
+    <string name="word_translate_507">Teatru</string>
+    <string name="word_translate_508">Circ</string>
+    <string name="word_translate_509">Film</string>
+    <string name="word_translate_510">a filma</string>
+    <string name="word_translate_511">Serial</string>
+    <string name="word_translate_512">Regizor</string>
+    <string name="word_translate_513">Realizare</string>
+    <string name="word_translate_514">a obține</string>
+    <string name="word_translate_515">Datorie</string>
+    <string name="word_translate_516">a vizita</string>
+    <string name="word_translate_517">Ordine</string>
+    <string name="word_translate_518">curat</string>
+    <string name="word_translate_519">Pereche</string>
+    <string name="word_translate_520">Pas</string>
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_501">Livrarea dvs. a sosit.</string>
+    <string name="phrase_translate_502">El livrează poșta.</string>
+    <string name="phrase_translate_503">Eu am un colet.</string>
+    <string name="phrase_translate_504">Mă duc înapoi acasă.</string>
+    <string name="phrase_translate_505">Mă uit la tine.</string>
+    <string name="phrase_translate_506">Vreau să fiu actor.</string>
+    <string name="phrase_translate_507">Sâmbătă mă duc la teatru.</string>
+    <string name="phrase_translate_508">Circul a fost amuzant.</string>
+    <string name="phrase_translate_509">Foarte interesant filmul.</string>
+    <string name="phrase_translate_510">Eu filmez un videoclip.</string>
+    <string name="phrase_translate_511">Acest serial are multe episoade.</string>
+    <string name="phrase_translate_512">Profesia sa este regizor</string>
+    <string name="phrase_translate_513">Aceasta este o realizare.</string>
+    <string name="phrase_translate_514">El singur a obținut asta.</string>
+    <string name="phrase_translate_515">Este datoria mea.</string>
+    <string name="phrase_translate_516">Noi am vizitat muzeul.</string>
+    <string name="phrase_translate_517">Trebuie să-mi fac ordine în casă.</string>
+    <string name="phrase_translate_518">Fac curățenie în apartament.</string>
+    <string name="phrase_translate_519">câteva zile mai târziu</string>
+    <string name="phrase_translate_520">Faceți un pas înapoi.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_501">Ploaie</string>
+    <string name="word_LT_502">a livra</string>
+    <string name="word_LT_503">Echipă</string>
+    <string name="word_LT_504">nimic</string>
+    <string name="word_LT_505">a îmbrăca</string>
+    <string name="word_LT_506">Polițist</string>
+    <string name="word_LT_507">Sat</string>
+    <string name="word_LT_508">Portmoneu</string>
+    <string name="word_LT_509">Sat</string>
+    <string name="word_LT_510">a comanda</string>
+    <string name="word_LT_511">Copac</string>
+    <string name="word_LT_512">Polițist</string>
+    <string name="word_LT_513">Experiență</string>
+    <string name="word_LT_514">a obține</string>
+    <string name="word_LT_515">Asigurare</string>
+    <string name="word_LT_516">a arunca</string>
+    <string name="word_LT_517">Ordine</string>
+    <string name="word_LT_518">curat</string>
+    <string name="word_LT_519">Gând</string>
+    <string name="word_LT_520">Pas</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_501">Lege</string>
+    <string name="word_RT_502">a îmbrăca</string>
+    <string name="word_RT_503">Livrare</string>
+    <string name="word_RT_504">înapoi</string>
+    <string name="word_RT_505">a râde</string>
+    <string name="word_RT_506">Regizor</string>
+    <string name="word_RT_507">Teatru</string>
+    <string name="word_RT_508">Circ</string>
+    <string name="word_RT_509">Dormitor</string>
+    <string name="word_RT_510">a filma</string>
+    <string name="word_RT_511">Animal</string>
+    <string name="word_RT_512">Regizor</string>
+    <string name="word_RT_513">Memorie</string>
+    <string name="word_RT_514">a căuta</string>
+    <string name="word_RT_515">Contă</string>
+    <string name="word_RT_516">a colecta</string>
+    <string name="word_RT_517">Folos</string>
+    <string name="word_RT_518">încet</string>
+    <string name="word_RT_519">Premie</string>
+    <string name="word_RT_520">Transfer</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_501">Livrare</string>
+    <string name="word_LB_502">a dezbrăca</string>
+    <string name="word_LB_503">Chipiu</string>
+    <string name="word_LB_504">mult</string>
+    <string name="word_LB_505">a se uita</string>
+    <string name="word_LB_506">Actor</string>
+    <string name="word_LB_507">Munte</string>
+    <string name="word_LB_508">Dulap</string>
+    <string name="word_LB_509">Film</string>
+    <string name="word_LB_510">a vinde</string>
+    <string name="word_LB_511">Odihnă</string>
+    <string name="word_LB_512">Profesor</string>
+    <string name="word_LB_513">Amintire</string>
+    <string name="word_LB_514">a ști</string>
+    <string name="word_LB_515">Datorie</string>
+    <string name="word_LB_516">a vizita</string>
+    <string name="word_LB_517">Suflet</string>
+    <string name="word_LB_518">ultimul</string>
+    <string name="word_LB_519">Pereche</string>
+    <string name="word_LB_520">Caz</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_501">Vreme</string>
+    <string name="word_RB_502">a cere</string>
+    <string name="word_RB_503">Colet</string>
+    <string name="word_RB_504">destul</string>
+    <string name="word_RB_505">a se odihni</string>
+    <string name="word_RB_506">Constructor</string>
+    <string name="word_RB_507">Fereastră</string>
+    <string name="word_RB_508">Biserică</string>
+    <string name="word_RB_509">Copac</string>
+    <string name="word_RB_510">a achita</string>
+    <string name="word_RB_511">Serial</string>
+    <string name="word_RB_512">Constructor</string>
+    <string name="word_RB_513">Realizare</string>
+    <string name="word_RB_514">a iubi</string>
+    <string name="word_RB_515">Avantaj</string>
+    <string name="word_RB_516">a sări</string>
+    <string name="word_RB_517">Impozit</string>
+    <string name="word_RB_518">stricat</string>
+    <string name="word_RB_519">Suflet</string>
+    <string name="word_RB_520">Pensie</string>
+    <!-- END -->
+</resources>

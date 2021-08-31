@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_101">Ţară</string>
+    <string name="word_translate_102">Oraş</string>
+    <string name="word_translate_103">Poştă</string>
+    <string name="word_translate_104">Intrare</string>
+    <string name="word_translate_105">Ieşire</string>
+    <string name="word_translate_106">principal</string>
+    <string name="word_translate_107">Gară</string>
+    <string name="word_translate_108">Cale</string>
+    <string name="word_translate_109">Magazin</string>
+    <string name="word_translate_110">Gunoi</string>
+    <string name="word_translate_111">a arunca</string>
+    <string name="word_translate_112">a sorta</string>
+    <string name="word_translate_113">Munte</string>
+    <string name="word_translate_114">Scară</string>
+    <string name="word_translate_115">a se ridica</string>
+    <string name="word_translate_116">înalt</string>
+    <string name="word_translate_117">sus</string>
+    <string name="word_translate_118">jos</string>
+    <string name="word_translate_119">dreapta</string>
+    <string name="word_translate_120">stânga</string>
+
+    <!-- PHRASE  -->
+    <string name="phrase_translate_101">Ţara mea este multinaţională.</string>
+    <string name="phrase_translate_102">Eu locuiesc într-un oraş.</string>
+    <string name="phrase_translate_103">Oficiul poştal este deschis.</string>
+    <string name="phrase_translate_104">Intrarea în gară</string>
+    <string name="phrase_translate_105">Unde-i ieşirea?</string>
+    <string name="phrase_translate_106">Stradă principală</string>
+    <string name="phrase_translate_107">Trenul este deja în gară.</string>
+    <string name="phrase_translate_108">încă o cale lungă</string>
+    <string name="phrase_translate_109">Magazinele sint închise.</string>
+    <string name="phrase_translate_110">Gunoiul trebuie să fie sortat.</string>
+    <string name="phrase_translate_111">Eu trebuie să arunc hainele vechi.</string>
+    <string name="phrase_translate_112">Tu sortezi gunoiul?</string>
+    <string name="phrase_translate_113">Foarte înalt munte</string>
+    <string name="phrase_translate_114">Eu mă ridic pe scară.</string>
+    <string name="phrase_translate_115">El se ridică pe munţi şi dealuri.</string>
+    <string name="phrase_translate_116">Preţul este prea înalt.</string>
+    <string name="phrase_translate_117">Asta-i sus</string>
+    <string name="phrase_translate_118">Jos este o inscălitură</string>
+    <string name="phrase_translate_119">După, la dreapta</string>
+    <string name="phrase_translate_120">Strada din partea stângă</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_101">Casă</string>
+    <string name="word_LT_102">Tramvai</string>
+    <string name="word_LT_103">Port</string>
+    <string name="word_LT_104">Scară</string>
+    <string name="word_LT_105">Ieşire</string>
+    <string name="word_LT_106">principal</string>
+    <string name="word_LT_107">Banc</string>
+    <string name="word_LT_108">Ţară</string>
+    <string name="word_LT_109">Munte</string>
+    <string name="word_LT_110">Gunoi</string>
+    <string name="word_LT_111">a alimenta</string>
+    <string name="word_LT_112">a sta</string>
+    <string name="word_LT_113">Oraş</string>
+    <string name="word_LT_114">Tren</string>
+    <string name="word_LT_115">a merge</string>
+    <string name="word_LT_116">jos</string>
+    <string name="word_LT_117">sus</string>
+    <string name="word_LT_118">jos</string>
+    <string name="word_LT_119">stânga</string>
+    <string name="word_LT_120">între</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_101">Oraş</string>
+    <string name="word_RT_102">Stradă</string>
+    <string name="word_RT_103">Gară</string>
+    <string name="word_RT_104">Intrare</string>
+    <string name="word_RT_105">Apus</string>
+    <string name="word_RT_106">vechi</string>
+    <string name="word_RT_107">Gară</string>
+    <string name="word_RT_108">Apartament</string>
+    <string name="word_RT_109">Legume</string>
+    <string name="word_RT_110">Mare</string>
+    <string name="word_RT_111">a arunca</string>
+    <string name="word_RT_112">a sorta</string>
+    <string name="word_RT_113">Pădure</string>
+    <string name="word_RT_114">Fluture</string>
+    <string name="word_RT_115">a cade</string>
+    <string name="word_RT_116">înalt</string>
+    <string name="word_RT_117">dreapta</string>
+    <string name="word_RT_118">între</string>
+    <string name="word_RT_119">alături</string>
+    <string name="word_RT_120">dinspate</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_101">Castel</string>
+    <string name="word_LB_102">Oraş</string>
+    <string name="word_LB_103">Magazin</string>
+    <string name="word_LB_104">Răsărit</string>
+    <string name="word_LB_105">Tren</string>
+    <string name="word_LB_106">nou</string>
+    <string name="word_LB_107">Intrare</string>
+    <string name="word_LB_108">Cale</string>
+    <string name="word_LB_109">Fructe</string>
+    <string name="word_LB_110">Port</string>
+    <string name="word_LB_111">a se ridica</string>
+    <string name="word_LB_112">a strânge</string>
+    <string name="word_LB_113">Munte</string>
+    <string name="word_LB_114">Avion</string>
+    <string name="word_LB_115">a se ridica</string>
+    <string name="word_LB_116">lung</string>
+    <string name="word_LB_117">jos</string>
+    <string name="word_LB_118">repede</string>
+    <string name="word_LB_119">dreapta</string>
+    <string name="word_LB_120">alături</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_101">Ţară</string>
+    <string name="word_RB_102">Munte</string>
+    <string name="word_RB_103">Poştă</string>
+    <string name="word_RB_104">Autostradă</string>
+    <string name="word_RB_105">Parc</string>
+    <string name="word_RB_106">primul</string>
+    <string name="word_RB_107">Ieşire</string>
+    <string name="word_RB_108">Viaţă</string>
+    <string name="word_RB_109">Magazin</string>
+    <string name="word_RB_110">Gară</string>
+    <string name="word_RB_111">a cade</string>
+    <string name="word_RB_112">a şterge</string>
+    <string name="word_RB_113">Copac</string>
+    <string name="word_RB_114">Scară</string>
+    <string name="word_RB_115">a juca</string>
+    <string name="word_RB_116">încet</string>
+    <string name="word_RB_117">stânga</string>
+    <string name="word_RB_118">stânga</string>
+    <string name="word_RB_119">departe</string>
+    <string name="word_RB_120">stânga</string>
+    <!-- END -->
+</resources>

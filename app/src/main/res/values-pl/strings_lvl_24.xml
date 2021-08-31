@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_461">Doświadczenie</string>
+    <string name="word_translate_462">Pamięć</string>
+    <string name="word_translate_463">Pamięć</string>
+    <string name="word_translate_464">zapominać</string>
+    <string name="word_translate_465">Korzyść</string>
+    <string name="word_translate_466">Korzyść</string>
+    <string name="word_translate_467">Wiedza</string>
+    <string name="word_translate_468">Dusza</string>
+    <string name="word_translate_469">Nawyk</string>
+    <string name="word_translate_470">Znaczy</string>
+    <string name="word_translate_471">Cud</string>
+    <string name="word_translate_472">niespodzianka</string>
+    <string name="word_translate_473">Ogień</string>
+    <string name="word_translate_474">Straż pożarna</string>
+    <string name="word_translate_475">Zapalniczka</string>
+    <string name="word_translate_476">palić</string>
+    <string name="word_translate_477">Wydarzenie</string>
+    <string name="word_translate_478">Myśl</string>
+    <string name="word_translate_479">Wybór</string>
+    <string name="word_translate_480">wybierać</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_461">Więc mam duże doświadczenie.</string>
+    <string name="phrase_translate_462">Stracił pamięć.</string>
+    <string name="phrase_translate_463">Mam tu dużo wspomnień</string>
+    <string name="phrase_translate_464">Zapomniałem plecaka.</string>
+    <string name="phrase_translate_465">Korzyści sportowe</string>
+    <string name="phrase_translate_466">Pierwsza drużyna ma przewagę.</string>
+    <string name="phrase_translate_467">Wiedza to potęga.</string>
+    <string name="phrase_translate_468">Ma dobrą duszę.</string>
+    <string name="phrase_translate_469">To mój nawyk.</string>
+    <string name="phrase_translate_470">Detergent</string>
+    <string name="phrase_translate_471">Nie wierzę w cuda.</string>
+    <string name="phrase_translate_472">Zaskakuje mnie.</string>
+    <string name="phrase_translate_473">Rozpaliłem ogień.</string>
+    <string name="phrase_translate_474">Musimy wezwać straż pożarną.</string>
+    <string name="phrase_translate_475">Masz zapalniczkę?</string>
+    <string name="phrase_translate_476">Nie palę.</string>
+    <string name="phrase_translate_477">W każdym razie</string>
+    <string name="phrase_translate_478">Mam myśl</string>
+    <string name="phrase_translate_479">Musimy dokonać wyboru.</string>
+    <string name="phrase_translate_480">Wybieram drugą opcję.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_461">Wioska</string>
+    <string name="word_LT_462">Pamięć</string>
+    <string name="word_LT_463">Emeryt</string>
+    <string name="word_LT_464">zapominać</string>
+    <string name="word_LT_465">Dokument</string>
+    <string name="word_LT_466">Ubezpieczenie</string>
+    <string name="word_LT_467">Doświadczenie</string>
+    <string name="word_LT_468">Miesiąc</string>
+    <string name="word_LT_469">Kontrakt</string>
+    <string name="word_LT_470">Znaczy</string>
+    <string name="word_LT_471">Ratusz</string>
+    <string name="word_LT_472">teraźniejszość</string>
+    <string name="word_LT_473">Lato</string>
+    <string name="word_LT_474">Straż pożarna</string>
+    <string name="word_LT_475">Czas</string>
+    <string name="word_LT_476">kraść</string>
+    <string name="word_LT_477">Wioska</string>
+    <string name="word_LT_478">Myśl</string>
+    <string name="word_LT_479">Spodnie</string>
+    <string name="word_LT_480">zamówienie</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_461">Doświadczenie</string>
+    <string name="word_RT_462">Koń</string>
+    <string name="word_RT_463">Pamięć</string>
+    <string name="word_RT_464">Szukaj</string>
+    <string name="word_RT_465">Zwierzę</string>
+    <string name="word_RT_466">Sprawdzać</string>
+    <string name="word_RT_467">Pamięć</string>
+    <string name="word_RT_468">Korzyść</string>
+    <string name="word_RT_469">Sklep</string>
+    <string name="word_RT_470">Widelec</string>
+    <string name="word_RT_471">stadion</string>
+    <string name="word_RT_472">świętować</string>
+    <string name="word_RT_473">sobota</string>
+    <string name="word_RT_474">Zima</string>
+    <string name="word_RT_475">Zapalniczka</string>
+    <string name="word_RT_476">podpisać</string>
+    <string name="word_RT_477">Tłumaczenie</string>
+    <string name="word_RT_478">Nagroda</string>
+    <string name="word_RT_479">Okulary</string>
+    <string name="word_RT_480">wybierać</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_461">Emerytura</string>
+    <string name="word_LB_462">Zysk</string>
+    <string name="word_LB_463">Noc</string>
+    <string name="word_LB_464">wiedzieć</string>
+    <string name="word_LB_465">Korzyść</string>
+    <string name="word_LB_466">Piłka</string>
+    <string name="word_LB_467">Pamięć</string>
+    <string name="word_LB_468">Dusza</string>
+    <string name="word_LB_469">Przeziębienie</string>
+    <string name="word_LB_470">Płyta</string>
+    <string name="word_LB_471">Cud</string>
+    <string name="word_LB_472">niespodzianka</string>
+    <string name="word_LB_473">Ogień</string>
+    <string name="word_LB_474">Puchar</string>
+    <string name="word_LB_475">Piasek</string>
+    <string name="word_LB_476">ściąć</string>
+    <string name="word_LB_477">Wydarzenie</string>
+    <string name="word_LB_478">Pieniądze</string>
+    <string name="word_LB_479">Wybór</string>
+    <string name="word_LB_480">Sprzedać</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_461">Drewno</string>
+    <string name="word_RB_462">Gra</string>
+    <string name="word_RB_463">Emerytura</string>
+    <string name="word_RB_464">być zakochanym</string>
+    <string name="word_RB_465">Reszta</string>
+    <string name="word_RB_466">Korzyść</string>
+    <string name="word_RB_467">Wiedza</string>
+    <string name="word_RB_468">Podatek</string>
+    <string name="word_RB_469">Nawyk</string>
+    <string name="word_RB_470">Cebula</string>
+    <string name="word_RB_471">Wiedza</string>
+    <string name="word_RB_472">bawić się</string>
+    <string name="word_RB_473">Zima</string>
+    <string name="word_RB_474">Jesień</string>
+    <string name="word_RB_475">Śnieg</string>
+    <string name="word_RB_476">palić</string>
+    <string name="word_RB_477">Emerytura</string>
+    <string name="word_RB_478">Dusza</string>
+    <string name="word_RB_479">Gra</string>
+    <string name="word_RB_480">płacić</string>
+    <!-- END -->
+</resources>

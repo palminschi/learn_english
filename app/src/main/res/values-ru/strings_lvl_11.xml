@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_201">Поход</string>
+    <string name="word_translate_202">гулять</string>
+    <string name="word_translate_203">Пробежка</string>
+    <string name="word_translate_204">Лес</string>
+    <string name="word_translate_205">Парк</string>
+    <string name="word_translate_206">Ролики</string>
+    <string name="word_translate_207">Скейтборд</string>
+    <string name="word_translate_208">Коньки</string>
+    <string name="word_translate_209">Отдых</string>
+    <string name="word_translate_210">Выходные</string>
+    <string name="word_translate_211">летать</string>
+    <string name="word_translate_212">Каникулы</string>
+    <string name="word_translate_213">Рождество</string>
+    <string name="word_translate_214">посещать</string>
+    <string name="word_translate_215">бронировать</string>
+    <string name="word_translate_216">Отель</string>
+    <string name="word_translate_217">остаться</string>
+    <string name="word_translate_218">Чемодан</string>
+    <string name="word_translate_219">Заграница</string>
+    <string name="word_translate_220">Таможня</string>
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_201">Я иду в поход.</string>
+    <string name="phrase_translate_202">Я люблю гулять.</string>
+    <string name="phrase_translate_203">Ты ходишь на пробежку?</string>
+    <string name="phrase_translate_204">Я бегу по лесу.</string>
+    <string name="phrase_translate_205">Красивый парк</string>
+    <string name="phrase_translate_206">У сына есть ролики.</string>
+    <string name="phrase_translate_207">Я катаюсь на скейтборде.</string>
+    <string name="phrase_translate_208">катание на коньках</string>
+    <string name="phrase_translate_209">Сейчас у меня отдых.</string>
+    <string name="phrase_translate_210">Куда ты идешь на выходные?</string>
+    <string name="phrase_translate_211">Я лечу на море.</string>
+    <string name="phrase_translate_212">Ребенок на каникулах.</string>
+    <string name="phrase_translate_213">Скоро Рождество.</string>
+    <string name="phrase_translate_214">Сколько стран ты посетил?</string>
+    <string name="phrase_translate_215">Я забронировал отель.</string>
+    <string name="phrase_translate_216">Я живу в отеле</string>
+    <string name="phrase_translate_217">Я остаюсь дома.</string>
+    <string name="phrase_translate_218">Где мой чемодан?</string>
+    <string name="phrase_translate_219">Она живет за границей.</string>
+    <string name="phrase_translate_220">Нам надо пройти таможню.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_201">Цветок</string>
+    <string name="word_LT_202">гулять</string>
+    <string name="word_LT_203">Самолет</string>
+    <string name="word_LT_204">Море</string>
+    <string name="word_LT_205">Парк</string>
+    <string name="word_LT_206">Остров</string>
+    <string name="word_LT_207">Скейтборд</string>
+    <string name="word_LT_208">Игрушка</string>
+    <string name="word_LT_209">Самолет</string>
+    <string name="word_LT_210">Месяц</string>
+    <string name="word_LT_211">летать</string>
+    <string name="word_LT_212">Дерево</string>
+    <string name="word_LT_213">Ночь</string>
+    <string name="word_LT_214">летать</string>
+    <string name="word_LT_215">бронировать</string>
+    <string name="word_LT_216">Цветок</string>
+    <string name="word_LT_217">брать</string>
+    <string name="word_LT_218">Самолет</string>
+    <string name="word_LT_219">Заграница</string>
+    <string name="word_LT_220">Дерево</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_201">Поход</string>
+    <string name="word_RT_202">бегать</string>
+    <string name="word_RT_203">Бабочка</string>
+    <string name="word_RT_204">Гора</string>
+    <string name="word_RT_205">Поезд</string>
+    <string name="word_RT_206">Ролики</string>
+    <string name="word_RT_207">Гитара</string>
+    <string name="word_RT_208">Конфета</string>
+    <string name="word_RT_209">Дерево</string>
+    <string name="word_RT_210">Неделя</string>
+    <string name="word_RT_211">петь</string>
+    <string name="word_RT_212">Каникулы</string>
+    <string name="word_RT_213">Бабочка</string>
+    <string name="word_RT_214">найти</string>
+    <string name="word_RT_215">бегать</string>
+    <string name="word_RT_216">Отель</string>
+    <string name="word_RT_217">играть</string>
+    <string name="word_RT_218">Отдых</string>
+    <string name="word_RT_219">Рождество</string>
+    <string name="word_RT_220">Таможня</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_201">Гора</string>
+    <string name="word_LB_202">учиться</string>
+    <string name="word_LB_203">Пробежка</string>
+    <string name="word_LB_204">Дерево</string>
+    <string name="word_LB_205">Дом</string>
+    <string name="word_LB_206">Дерево</string>
+    <string name="word_LB_207">Торт</string>
+    <string name="word_LB_208">Гитара</string>
+    <string name="word_LB_209">Отдых</string>
+    <string name="word_LB_210">Конец</string>
+    <string name="word_LB_211">прыгнуть</string>
+    <string name="word_LB_212">Цветок</string>
+    <string name="word_LB_213">Рождество</string>
+    <string name="word_LB_214">искать</string>
+    <string name="word_LB_215">искать</string>
+    <string name="word_LB_216">Самолет</string>
+    <string name="word_LB_217">остаться</string>
+    <string name="word_LB_218">Гора</string>
+    <string name="word_LB_219">Бабочка</string>
+    <string name="word_LB_220">Цветок</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_201">Самолет</string>
+    <string name="word_RB_202">дарить</string>
+    <string name="word_RB_203">Цветок</string>
+    <string name="word_RB_204">Лес</string>
+    <string name="word_RB_205">Музыка</string>
+    <string name="word_RB_206">Игра</string>
+    <string name="word_RB_207">Счастье</string>
+    <string name="word_RB_208">Коньки</string>
+    <string name="word_RB_209">Время</string>
+    <string name="word_RB_210">Выходные</string>
+    <string name="word_RB_211">работать</string>
+    <string name="word_RB_212">Отдых</string>
+    <string name="word_RB_213">Зима</string>
+    <string name="word_RB_214">посещать</string>
+    <string name="word_RB_215">дарить</string>
+    <string name="word_RB_216">Ресторан</string>
+    <string name="word_RB_217">бегать</string>
+    <string name="word_RB_218">Чемодан</string>
+    <string name="word_RB_219">Отдых</string>
+    <string name="word_RB_220">Самолет</string>
+    <!-- END -->
+</resources>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_title_41" translatable="false">el sol</string>
+    <string name="word_title_42" translatable="false">el verano</string>
+    <string name="word_title_43" translatable="false">el invierno</string>
+    <string name="word_title_44" translatable="false">la nieve</string>
+    <string name="word_title_45" translatable="false">la cuestión</string>
+    <string name="word_title_46" translatable="false">la lluvia</string>
+    <string name="word_title_47" translatable="false">frío</string>
+    <string name="word_title_48" translatable="false">el mar</string>
+    <string name="word_title_49" translatable="false">caliente</string>
+    <string name="word_title_50" translatable="false">viajar</string>
+    <string name="word_title_51" translatable="false">las vacaciones</string>
+    <string name="word_title_52" translatable="false">trabajar</string>
+    <string name="word_title_53" translatable="false">funcionar</string>
+    <string name="word_title_54" translatable="false">la respuesta</string>
+    <string name="word_title_55" translatable="false">el médico</string>
+    <string name="word_title_56" translatable="false">la enfermedad</string>
+    <string name="word_title_57" translatable="false">tratar</string>
+    <string name="word_title_58" translatable="false">¿Quién?</string>
+    <string name="word_title_59" translatable="false">el hospital</string>
+    <string name="word_title_60" translatable="false">¿Por qué?</string>
+
+    <string name="word_translate_41">sun</string>
+    <string name="word_translate_42">summer</string>
+    <string name="word_translate_43">winter</string>
+    <string name="word_translate_44">snow</string>
+    <string name="word_translate_45">question</string>
+    <string name="word_translate_46">rain</string>
+    <string name="word_translate_47">cold</string>
+    <string name="word_translate_48">sea</string>
+    <string name="word_translate_49">warm</string>
+    <string name="word_translate_50">to travel</string>
+    <string name="word_translate_51">holiday</string>
+    <string name="word_translate_52">to work</string>
+    <string name="word_translate_53">to function</string>
+    <string name="word_translate_54">answer</string>
+    <string name="word_translate_55">doctor</string>
+    <string name="word_translate_56">disease</string>
+    <string name="word_translate_57">to treat</string>
+    <string name="word_translate_58">Who?</string>
+    <string name="word_translate_59">hospital</string>
+    <string name="word_translate_60">Why?</string>
+    <!-- END -->
+
+    <!-- PHRASE + TRANSLATE -->
+    <string name="phrase_41" translatable="false">¡<b>el sol</b> está brillando!</string>
+    <string name="phrase_translate_41"><b>the sun</b> is shining!</string>
+
+    <string name="phrase_42" translatable="false"><b>El verano</b> es una estación cálida.</string>
+    <string name="phrase_translate_42"><b>The summer</b> is a warm season.</string>
+
+    <string name="phrase_43" translatable="false">En <b>invierno</b> hace frío.</string>
+    <string name="phrase_translate_43">In <b>winter</b> it is cold.</string>
+
+    <string name="phrase_44" translatable="false">Cayó <b>nieve</b>.</string>
+    <string name="phrase_translate_44"><b>Snow</b> fell.</string>
+
+    <string name="phrase_45" translatable="false">Tengo <b>una pregunta</b> para usted.</string>
+    <string name="phrase_translate_45">I have <b>a question</b> for you.</string>
+
+    <string name="phrase_46" translatable="false">Hay <b>lluvia</b>.</string>
+    <string name="phrase_translate_46">There is <b>rain</b>.</string>
+
+    <string name="phrase_47" translatable="false">Yo tengo <b>frío</b>.</string>
+    <string name="phrase_translate_47">I am <b>cold</b>.</string>
+
+    <string name="phrase_48" translatable="false">conducir hasta <b>el mar</b></string>
+    <string name="phrase_translate_48">drive to <b>the sea</b></string>
+
+    <string name="phrase_49" translatable="false">¿Estás <b>caliente</b>?</string>
+    <string name="phrase_translate_49">Are you <b>warm</b>?</string>
+
+    <string name="phrase_50" translatable="false">Me gusta <b>viajar</b>.</string>
+    <string name="phrase_translate_50">I like <b>to travel</b>.</string>
+
+    <string name="phrase_51" translatable="false">Él estaba de <b>vacaciones</b>.</string>
+    <string name="phrase_translate_51">He was on <b>holiday</b>.</string>
+
+    <string name="phrase_52" translatable="false">Él <b>trabaja</b> mucho.</string>
+    <string name="phrase_translate_52">He works a lot</string>
+
+    <string name="phrase_53" translatable="false">¡Esto <b>no funciona</b>!</string>
+    <string name="phrase_translate_53">It does not work!</string>
+
+    <string name="phrase_54" translatable="false">¿Cuándo recibiré <b>una respuesta</b>?</string>
+    <string name="phrase_translate_54">When will I get <b>an answer</b>?</string>
+
+    <string name="phrase_55" translatable="false">Él es <b>médico</b> de profesión.</string>
+    <string name="phrase_translate_55">He is a <b>doctor</b> by profession.</string>
+
+    <string name="phrase_56" translatable="false">Él no tiene ninguna <b>enfermedad</b>.</string>
+    <string name="phrase_translate_56">He has no <b>disease</b>.</string>
+
+    <string name="phrase_57" translatable="false">El médico <b>trata</b> a las personas.</string>
+    <string name="phrase_translate_57">The doctor <b>treats</b> people.</string>
+
+    <string name="phrase_58" translatable="false">¿<b>Quién</b> eres?</string>
+    <string name="phrase_translate_58"><b>Who</b> are you?</string>
+
+    <string name="phrase_59" translatable="false">El paciente fue entregado al <b>hospital</b>.</string>
+    <string name="phrase_translate_59">The patient was delivered to the <b>hospital</b>.</string>
+
+    <string name="phrase_60" translatable="false">¿<b>Por qué</b> no?</string>
+    <string name="phrase_translate_60"><b>Why</b> not?</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_41">son</string>
+    <string name="word_LT_42">summer</string>
+    <string name="word_LT_43">water</string>
+    <string name="word_LT_44">time</string>
+    <string name="word_LT_45">answer</string>
+    <string name="word_LT_46">rain</string>
+    <string name="word_LT_47">warm</string>
+    <string name="word_LT_48">apple</string>
+    <string name="word_LT_49">today</string>
+    <string name="word_LT_50">to think</string>
+    <string name="word_LT_51">holiday</string>
+    <string name="word_LT_52">to search</string>
+    <string name="word_LT_53">to search</string>
+    <string name="word_LT_54">answer</string>
+    <string name="word_LT_55">cop</string>
+    <string name="word_LT_56">hospital</string>
+    <string name="word_LT_57">to recycle</string>
+    <string name="word_LT_58">Who?</string>
+    <string name="word_LT_59">sun</string>
+    <string name="word_LT_60">When?</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_41">sun</string>
+    <string name="word_RT_42">saturday</string>
+    <string name="word_RT_43">winter</string>
+    <string name="word_RT_44">weather</string>
+    <string name="word_RT_45">friend</string>
+    <string name="word_RT_46">rules</string>
+    <string name="word_RT_47">cold</string>
+    <string name="word_RT_48">soap</string>
+    <string name="word_RT_49">cold</string>
+    <string name="word_RT_50">to eat</string>
+    <string name="word_RT_51">bear</string>
+    <string name="word_RT_52">to drive</string>
+    <string name="word_RT_53">to function</string>
+    <string name="word_RT_54">word</string>
+    <string name="word_RT_55">doctor</string>
+    <string name="word_RT_56">park</string>
+    <string name="word_RT_57">to receive</string>
+    <string name="word_RT_58">Why?</string>
+    <string name="word_RT_59">hospital</string>
+    <string name="word_RT_60">Why?</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_41">summer</string>
+    <string name="word_LB_42">son</string>
+    <string name="word_LB_43">glass</string>
+    <string name="word_LB_44">sand</string>
+    <string name="word_LB_45">ice</string>
+    <string name="word_LB_46">castle</string>
+    <string name="word_LB_47">fast</string>
+    <string name="word_LB_48">sea</string>
+    <string name="word_LB_49">long</string>
+    <string name="word_LB_50">drive</string>
+    <string name="word_LB_51">tree</string>
+    <string name="word_LB_52">to work</string>
+    <string name="word_LB_53">to think</string>
+    <string name="word_LB_54">form</string>
+    <string name="word_LB_55">teacher</string>
+    <string name="word_LB_56">disease</string>
+    <string name="word_LB_57">to send</string>
+    <string name="word_LB_58">When?</string>
+    <string name="word_LB_59">snow</string>
+    <string name="word_LB_60">Who?</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_41">sea</string>
+    <string name="word_RB_42">winter</string>
+    <string name="word_RB_43">autumn</string>
+    <string name="word_RB_44">snow</string>
+    <string name="word_RB_45">question</string>
+    <string name="word_RB_46">religion</string>
+    <string name="word_RB_47">slow</string>
+    <string name="word_RB_48">house</string>
+    <string name="word_RB_49">warm</string>
+    <string name="word_RB_50">to travel</string>
+    <string name="word_RB_51">ocean</string>
+    <string name="word_RB_52">to love</string>
+    <string name="word_RB_53">to find</string>
+    <string name="word_RB_54">question</string>
+    <string name="word_RB_55">builder</string>
+    <string name="word_RB_56">forest</string>
+    <string name="word_RB_57">to treat</string>
+    <string name="word_RB_58">How much?</string>
+    <string name="word_RB_59">disease</string>
+    <string name="word_RB_60">How much?</string>
+    <!-- END -->
+</resources>

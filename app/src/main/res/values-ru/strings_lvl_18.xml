@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_341">Брат</string>
+    <string name="word_translate_342">Близнецы</string>
+    <string name="word_translate_343">Сестра</string>
+    <string name="word_translate_344">Дочь</string>
+    <string name="word_translate_345">Сын</string>
+    <string name="word_translate_346">Дедушка</string>
+    <string name="word_translate_347">Бабушка</string>
+    <string name="word_translate_348">помогать</string>
+    <string name="word_translate_349">Предки</string>
+    <string name="word_translate_350">Внук</string>
+    <string name="word_translate_351">шутить</string>
+    <string name="word_translate_352">Отчим</string>
+    <string name="word_translate_353">Свадьба</string>
+    <string name="word_translate_354">отдыхать</string>
+    <string name="word_translate_355">просить</string>
+    <string name="word_translate_356">Внучка</string>
+    <string name="word_translate_357">Жена</string>
+    <string name="word_translate_358">Муж</string>
+    <string name="word_translate_359">улыбаться</string>
+    <string name="word_translate_360">смеяться</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_341">Он мне как брат.</string>
+    <string name="phrase_translate_342">Близнецы носят одинаковую одежду.</string>
+    <string name="phrase_translate_343">Она моя сестра.</string>
+    <string name="phrase_translate_344">У них две дочери.</string>
+    <string name="phrase_translate_345">Мой сын пошел в школу.</string>
+    <string name="phrase_translate_346">Мой дедушка старый.</string>
+    <string name="phrase_translate_347">Бабушка играет с внучкой.</string>
+    <string name="phrase_translate_348">Я должен помочь бабушке.</string>
+    <string name="phrase_translate_349">У нас одни и те же предки.</string>
+    <string name="phrase_translate_350">Внук пришел к дедушке.</string>
+    <string name="phrase_translate_351">Я шучу</string>
+    <string name="phrase_translate_352">Отчим сегодня работает.</string>
+    <string name="phrase_translate_353">У них скоро свадьба.</string>
+    <string name="phrase_translate_354">Завтра я отдыхаю.</string>
+    <string name="phrase_translate_355">Я прошу его помочь.</string>
+    <string name="phrase_translate_356">Внучка идет к бабушке.</string>
+    <string name="phrase_translate_357">Моя жена учиться.</string>
+    <string name="phrase_translate_358">Мой муж работает врачом.</string>
+    <string name="phrase_translate_359">Она улыбается.</string>
+    <string name="phrase_translate_360">Они все смеются.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_341">Брат</string>
+    <string name="word_LT_342">Цветок</string>
+    <string name="word_LT_343">Бабушка</string>
+    <string name="word_LT_344">Дочь</string>
+    <string name="word_LT_345">Брат</string>
+    <string name="word_LT_346">Бабушка</string>
+    <string name="word_LT_347">Свадьба</string>
+    <string name="word_LT_348">смеяться</string>
+    <string name="word_LT_349">Работа</string>
+    <string name="word_LT_350">Внук</string>
+    <string name="word_LT_351">петь</string>
+    <string name="word_LT_352">Официант</string>
+    <string name="word_LT_353">Время</string>
+    <string name="word_LT_354">красть</string>
+    <string name="word_LT_355">просить</string>
+    <string name="word_LT_356">Дедушка</string>
+    <string name="word_LT_357">Свадьба</string>
+    <string name="word_LT_358">Жена</string>
+    <string name="word_LT_359">улыбаться</string>
+    <string name="word_LT_360">играть</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_341">Хлеб</string>
+    <string name="word_RT_342">Сестра</string>
+    <string name="word_RT_343">Город</string>
+    <string name="word_RT_344">Холод</string>
+    <string name="word_RT_345">Сын</string>
+    <string name="word_RT_346">Друг</string>
+    <string name="word_RT_347">Пенсионер</string>
+    <string name="word_RT_348">помогать</string>
+    <string name="word_RT_349">Птица</string>
+    <string name="word_RT_350">Друг</string>
+    <string name="word_RT_351">мыть</string>
+    <string name="word_RT_352">Отчим</string>
+    <string name="word_RT_353">Газета</string>
+    <string name="word_RT_354">упасть</string>
+    <string name="word_RT_355">играть</string>
+    <string name="word_RT_356">Внук</string>
+    <string name="word_RT_357">Жена</string>
+    <string name="word_RT_358">Парк</string>
+    <string name="word_RT_359">петь</string>
+    <string name="word_RT_360">смеяться</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_341">Сестра</string>
+    <string name="word_LB_342">Близнецы</string>
+    <string name="word_LB_343">Пенсия</string>
+    <string name="word_LB_344">Сын</string>
+    <string name="word_LB_345">Лето</string>
+    <string name="word_LB_346">Дедушка</string>
+    <string name="word_LB_347">Дерево</string>
+    <string name="word_LB_348">отдыхать</string>
+    <string name="word_LB_349">Предки</string>
+    <string name="word_LB_350">Брат</string>
+    <string name="word_LB_351">смеяться</string>
+    <string name="word_LB_352">Отец</string>
+    <string name="word_LB_353">Свадьба</string>
+    <string name="word_LB_354">просить</string>
+    <string name="word_LB_355">петь</string>
+    <string name="word_LB_356">Внучка</string>
+    <string name="word_LB_357">Учитель</string>
+    <string name="word_LB_358">Врач</string>
+    <string name="word_LB_359">просить</string>
+    <string name="word_LB_360">петь</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_341">Отец</string>
+    <string name="word_RB_342">Замок</string>
+    <string name="word_RB_343">Сестра</string>
+    <string name="word_RB_344">Дедушка</string>
+    <string name="word_RB_345">Солнце</string>
+    <string name="word_RB_346">Деньги</string>
+    <string name="word_RB_347">Бабушка</string>
+    <string name="word_RB_348">петь</string>
+    <string name="word_RB_349">Мост</string>
+    <string name="word_RB_350">Лето</string>
+    <string name="word_RB_351">шутить</string>
+    <string name="word_RB_352">Вода</string>
+    <string name="word_RB_353">Парк</string>
+    <string name="word_RB_354">отдыхать</string>
+    <string name="word_RB_355">улыбаться</string>
+    <string name="word_RB_356">Бабушка</string>
+    <string name="word_RB_357">Одежда</string>
+    <string name="word_RB_358">Муж</string>
+    <string name="word_RB_359">играть</string>
+    <string name="word_RB_360">отдыхать</string>
+    <!-- END -->
+</resources>

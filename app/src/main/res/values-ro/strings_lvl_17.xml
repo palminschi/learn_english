@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_321">Pensie</string>
+    <string name="word_translate_322">Pensionar</string>
+    <string name="word_translate_323">Venit</string>
+    <string name="word_translate_324">Contă</string>
+    <string name="word_translate_325">Impozit</string>
+    <string name="word_translate_326">Asigurare</string>
+    <string name="word_translate_327">a achita</string>
+    <string name="word_translate_328">Salariu</string>
+    <string name="word_translate_329">Contract</string>
+    <string name="word_translate_330">a semna</string>
+    <string name="word_translate_331">Cheltuieli</string>
+    <string name="word_translate_332">Rest</string>
+    <string name="word_translate_333">Monedă</string>
+    <string name="word_translate_334">Bancnotă</string>
+    <string name="word_translate_335">Bani mărunţi</string>
+    <string name="word_translate_336">Premie</string>
+    <string name="word_translate_337">Transfer</string>
+    <string name="word_translate_338">a face bani</string>
+    <string name="word_translate_339">Buzunar</string>
+    <string name="word_translate_340">a fura</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_321">Ce pensie aveți?</string>
+    <string name="phrase_translate_322">El este deja pensionar.</string>
+    <string name="phrase_translate_323">Eu am primit un venit mare.</string>
+    <string name="phrase_translate_324">Eu am deschis o contă bancară.</string>
+    <string name="phrase_translate_325">Eu plătesc multe impozite.</string>
+    <string name="phrase_translate_326">Aveți vrio asigurare?</string>
+    <string name="phrase_translate_327">Ea achită pentru mine.</string>
+    <string name="phrase_translate_328">Ce salariu ai?</string>
+    <string name="phrase_translate_329">El a semnat contractul.</string>
+    <string name="phrase_translate_330">El a semnat contractul.</string>
+    <string name="phrase_translate_331">Care sunt cheltuielile tale lunare?</string>
+    <string name="phrase_translate_332">El a lăsat restul.</string>
+    <string name="phrase_translate_333">Eu am foarte multe monede.</string>
+    <string name="phrase_translate_334">Bancomatul nu are bancnote.</string>
+    <string name="phrase_translate_335">Tu ai ceva bani mărunți?</string>
+    <string name="phrase_translate_336">Eu am primit o premie.</string>
+    <string name="phrase_translate_337">Eu trebuie să fac un transfer bănesc.</string>
+    <string name="phrase_translate_338">Eu am făcut mulți bani.</string>
+    <string name="phrase_translate_339">Eu am pus portmoneul în buzunar.</string>
+    <string name="phrase_translate_340">El a furat ceva.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_321">Sat</string>
+    <string name="word_LT_322">Pensionar</string>
+    <string name="word_LT_323">Insulă</string>
+    <string name="word_LT_324">Salariu</string>
+    <string name="word_LT_325">Salariu</string>
+    <string name="word_LT_326">Asigurare</string>
+    <string name="word_LT_327">a cumpăra</string>
+    <string name="word_LT_328">Lună</string>
+    <string name="word_LT_329">Contract</string>
+    <string name="word_LT_330">a merge</string>
+    <string name="word_LT_331">Primărie</string>
+    <string name="word_LT_332">Document</string>
+    <string name="word_LT_333">Vară</string>
+    <string name="word_LT_334">Bancnotă</string>
+    <string name="word_LT_335">Timp</string>
+    <string name="word_LT_336">Salariu</string>
+    <string name="word_LT_337">Sat</string>
+    <string name="word_LT_338">a vinde</string>
+    <string name="word_LT_339">Blugi</string>
+    <string name="word_LT_340">a fura</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_321">Magazin</string>
+    <string name="word_RT_322">Pădure</string>
+    <string name="word_RT_323">Cal</string>
+    <string name="word_RT_324">Poartă</string>
+    <string name="word_RT_325">Impozit</string>
+    <string name="word_RT_326">Contă</string>
+    <string name="word_RT_327">a face</string>
+    <string name="word_RT_328">Bani</string>
+    <string name="word_RT_329">Magazin</string>
+    <string name="word_RT_330">a fura</string>
+    <string name="word_RT_331">Stadion</string>
+    <string name="word_RT_332">Animal</string>
+    <string name="word_RT_333">Sâmbătă</string>
+    <string name="word_RT_334">Iarnă</string>
+    <string name="word_RT_335">Bani mărunţi</string>
+    <string name="word_RT_336">Premie</string>
+    <string name="word_RT_337">Transfer</string>
+    <string name="word_RT_338">a cumpăra</string>
+    <string name="word_RT_339">Ochelari</string>
+    <string name="word_RT_340">a semna</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_321">Pensie</string>
+    <string name="word_LB_322">Noapte</string>
+    <string name="word_LB_323">Venit</string>
+    <string name="word_LB_324">Contă</string>
+    <string name="word_LB_325">Oprire</string>
+    <string name="word_LB_326">Minge</string>
+    <string name="word_LB_327">a vinde</string>
+    <string name="word_LB_328">Salariu</string>
+    <string name="word_LB_329">Frig</string>
+    <string name="word_LB_330">a semna</string>
+    <string name="word_LB_331">Cheltuieli</string>
+    <string name="word_LB_332">Sunet</string>
+    <string name="word_LB_333">Monedă</string>
+    <string name="word_LB_334">Păhar</string>
+    <string name="word_LB_335">Nisip</string>
+    <string name="word_LB_336">Bani</string>
+    <string name="word_LB_337">Oraș</string>
+    <string name="word_LB_338">a face bani</string>
+    <string name="word_LB_339">Buzunar</string>
+    <string name="word_LB_340">a cade</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_321">Copac</string>
+    <string name="word_RB_322">Pensie</string>
+    <string name="word_RB_323">Joacă</string>
+    <string name="word_RB_324">Impozit</string>
+    <string name="word_RB_325">Muzică</string>
+    <string name="word_RB_326">Portmoneu</string>
+    <string name="word_RB_327">a achita</string>
+    <string name="word_RB_328">Taxă</string>
+    <string name="word_RB_329">Gard</string>
+    <string name="word_RB_330">a cade</string>
+    <string name="word_RB_331">Venit</string>
+    <string name="word_RB_332">Rest</string>
+    <string name="word_RB_333">Iarnă</string>
+    <string name="word_RB_334">Toamnă</string>
+    <string name="word_RB_335">Zăpadă</string>
+    <string name="word_RB_336">Păhar</string>
+    <string name="word_RB_337">Pensie</string>
+    <string name="word_RB_338">a fura</string>
+    <string name="word_RB_339">Joacă</string>
+    <string name="word_RB_340">a merge</string>
+    <!-- END -->
+</resources>

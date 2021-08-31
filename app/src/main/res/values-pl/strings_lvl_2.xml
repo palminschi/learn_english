@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_21">Czas</string>
+    <string name="word_translate_22">Godzina</string>
+    <string name="word_translate_23">Zegar</string>
+    <string name="word_translate_24">Miesiąc</string>
+    <string name="word_translate_25">dużo</string>
+    <string name="word_translate_26">czekać</string>
+    <string name="word_translate_27">dzisiaj</string>
+    <string name="word_translate_28">wczoraj</string>
+    <string name="word_translate_29">myśleć</string>
+    <string name="word_translate_30">Kiedy?</string>
+    <string name="word_translate_31">pić</string>
+    <string name="word_translate_32">Sok</string>
+    <string name="word_translate_33">Szkło</string>
+    <string name="word_translate_34">jeść</string>
+    <string name="word_translate_35">Woda</string>
+    <string name="word_translate_36">Mięso</string>
+    <string name="word_translate_37">Śniadanie</string>
+    <string name="word_translate_38">Ser</string>
+    <string name="word_translate_39">Olej</string>
+    <string name="word_translate_40">prać</string>
+    <!-- END -->
+
+    <!-- PHRASE  -->
+    <string name="phrase_translate_21">Mam dużo <b>czasu</b>.</string>
+    <string name="phrase_translate_22">Ja będę tam za dwie godziny.</string>
+    <string name="phrase_translate_23"><b>Zegar</b> nie działa.</string>
+    <string name="phrase_translate_24">Mam wakacje w <b>miesiącu</b>.</string>
+    <string name="phrase_translate_25">On pracuje <b>dużo</b>.</string>
+    <string name="phrase_translate_26"><b>Poczekaj</b> tutaj!</string>
+    <string name="phrase_translate_27">Ja pracuję <b>dzisiaj</b>.</string>
+    <string name="phrase_translate_28">Odszedł <b>wczoraj</b>.</string>
+    <string name="phrase_translate_29">Myślę, że...</string>
+    <string name="phrase_translate_30">Kiedy przyjeżdżasz?</string>
+    <string name="phrase_translate_31">Ja <b>pijam</b> kawę.</string>
+    <string name="phrase_translate_32">Poproszę szklankę <b>soku</b>.</string>
+    <string name="phrase_translate_33"><b>Szkło</b> upadło.</string>
+    <string name="phrase_translate_34">Kiedy się <b>jedzą</b>?</string>
+    <string name="phrase_translate_35"><b>Woda</b> jest zimna.</string>
+    <string name="phrase_translate_36">On nie je <b>mięsa</b>.</string>
+    <string name="phrase_translate_37">Ja <b>jadam śniadanie</b> w domu.</string>
+    <string name="phrase_translate_38">Ja chcę jeść <b>ser</b>.</string>
+    <string name="phrase_translate_39">Muszę kupić <b>olej</b>.</string>
+    <string name="phrase_translate_40">Muszę <b>umyć</b> mój samochód.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_21">Gazeta</string>
+    <string name="word_LT_22">Druga</string>
+    <string name="word_LT_23">Lekcja</string>
+    <string name="word_LT_24">Miesiąc</string>
+    <string name="word_LT_25">wszystko</string>
+    <string name="word_LT_26">czekać</string>
+    <string name="word_LT_27">wczoraj</string>
+    <string name="word_LT_28">następnie</string>
+    <string name="word_LT_29">podziękować</string>
+    <string name="word_LT_30">Kto?</string>
+    <string name="word_LT_31">pić</string>
+    <string name="word_LT_32">Sól</string>
+    <string name="word_LT_33">Szkło</string>
+    <string name="word_LT_34">prać</string>
+    <string name="word_LT_35">Jedzenie</string>
+    <string name="word_LT_36">Mięso</string>
+    <string name="word_LT_37">Obiad</string>
+    <string name="word_LT_38">Pomidor</string>
+    <string name="word_LT_39">Jajka</string>
+    <string name="word_LT_40">prać</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_21">Miasto</string>
+    <string name="word_RT_22">Godzina</string>
+    <string name="word_RT_23">Człowiek</string>
+    <string name="word_RT_24">Morze</string>
+    <string name="word_RT_25">dużo</string>
+    <string name="word_RT_26">jeść</string>
+    <string name="word_RT_27">jutro</string>
+    <string name="word_RT_28">wczoraj</string>
+    <string name="word_RT_29">tankować</string>
+    <string name="word_RT_30">Gdzie?</string>
+    <string name="word_RT_31">mieszkać</string>
+    <string name="word_RT_32">Kawa</string>
+    <string name="word_RT_33">Talerz</string>
+    <string name="word_RT_34">jeść</string>
+    <string name="word_RT_35">Napój</string>
+    <string name="word_RT_36">Butelka</string>
+    <string name="word_RT_37">Śniadanie</string>
+    <string name="word_RT_38">Nóż</string>
+    <string name="word_RT_39">Lody</string>
+    <string name="word_RT_40">pić</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_21">Dom</string>
+    <string name="word_LB_22">Góra</string>
+    <string name="word_LB_23">Kredens</string>
+    <string name="word_LB_24">Bilet</string>
+    <string name="word_LB_25">mało</string>
+    <string name="word_LB_26">pić</string>
+    <string name="word_LB_27">dzisiaj</string>
+    <string name="word_LB_28">zawsze</string>
+    <string name="word_LB_29">myśleć</string>
+    <string name="word_LB_30">Kiedy?</string>
+    <string name="word_LB_31">prać</string>
+    <string name="word_LB_32">Cukier</string>
+    <string name="word_LB_33">Widelec</string>
+    <string name="word_LB_34">wlać</string>
+    <string name="word_LB_35">Morze</string>
+    <string name="word_LB_36">Ryba</string>
+    <string name="word_LB_37">Bankiet</string>
+    <string name="word_LB_38">Stół</string>
+    <string name="word_LB_39">Olej</string>
+    <string name="word_LB_40">uczyć się</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_21">Czas</string>
+    <string name="word_RB_22">Miasto</string>
+    <string name="word_RB_23">Zegar</string>
+    <string name="word_RB_24">Jedzenie</string>
+    <string name="word_RB_25">nikt</string>
+    <string name="word_RB_26">mieszkać</string>
+    <string name="word_RB_27">nigdy</string>
+    <string name="word_RB_28">jutro</string>
+    <string name="word_RB_29">praca</string>
+    <string name="word_RB_30">Dlaczego?</string>
+    <string name="word_RB_31">śpiewać</string>
+    <string name="word_RB_32">Sok</string>
+    <string name="word_RB_33">Nóż</string>
+    <string name="word_RB_34">jeździć</string>
+    <string name="word_RB_35">Woda</string>
+    <string name="word_RB_36">Chleb</string>
+    <string name="word_RB_37">Kolacja</string>
+    <string name="word_RB_38">Ser</string>
+    <string name="word_RB_39">Łyżka</string>
+    <string name="word_RB_40">jeździć</string>
+    <!-- END -->
+</resources>

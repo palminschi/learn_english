@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_281">Frig</string>
+    <string name="word_translate_282">Îngheţ</string>
+    <string name="word_translate_283">Nor</string>
+    <string name="word_translate_284">Brumă</string>
+    <string name="word_translate_285">Vânt</string>
+    <string name="word_translate_286">Vreme</string>
+    <string name="word_translate_287">ud</string>
+    <string name="word_translate_288">vânturos</string>
+    <string name="word_translate_289">însorat</string>
+    <string name="word_translate_290">a lumina</string>
+    <string name="word_translate_291">a se topi</string>
+    <string name="word_translate_292">înnorat</string>
+    <string name="word_translate_293">sumbru</string>
+    <string name="word_translate_294">a îngheța</string>
+    <string name="word_translate_295">a se trezi</string>
+    <string name="word_translate_296">Anotimp</string>
+    <string name="word_translate_297">Toamna</string>
+    <string name="word_translate_298">Primăvara</string>
+    <string name="word_translate_299">întunecat</string>
+    <string name="word_translate_300">deschis</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_281">Frigul este insuportabil.</string>
+    <string name="phrase_translate_282">Pe mâine s-a transmis îngheț.</string>
+    <string name="phrase_translate_283">Norii se mișcă pe cer.</string>
+    <string name="phrase_translate_284">Bruma acoperă copacii și pajiștile.</string>
+    <string name="phrase_translate_285">Bate un vânt puternic.</string>
+    <string name="phrase_translate_286">Vremea azi îi bună.</string>
+    <string name="phrase_translate_287">Încălțămintea mea este udă.</string>
+    <string name="phrase_translate_288">La mare este mereu vânturos.</string>
+    <string name="phrase_translate_289">Azi este însorat.</string>
+    <string name="phrase_translate_290">Soarele a luminat toată ziua.</string>
+    <string name="phrase_translate_291">Zăpada s-a topit.</string>
+    <string name="phrase_translate_292">Vremea va fi de la cald la înnorat</string>
+    <string name="phrase_translate_293">Este sumbru</string>
+    <string name="phrase_translate_294">Iazurile si râurile au înghețat.</string>
+    <string name="phrase_translate_295">Primăvara natura se trezește.</string>
+    <string name="phrase_translate_296">Anotimpul meu iubit este vara.</string>
+    <string name="phrase_translate_297">Toamna des este ploaie.</string>
+    <string name="phrase_translate_298">Primăvara totul este frumos.</string>
+    <string name="phrase_translate_299">Încet se întunecă</string>
+    <string name="phrase_translate_300">într-o zi luminoasă</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_281">Frig</string>
+    <string name="word_LT_282">Vară</string>
+    <string name="word_LT_283">Apă</string>
+    <string name="word_LT_284">Brumă</string>
+    <string name="word_LT_285">Răspuns</string>
+    <string name="word_LT_286">Ploaie</string>
+    <string name="word_LT_287">cald</string>
+    <string name="word_LT_288">înnorat</string>
+    <string name="word_LT_289">azi</string>
+    <string name="word_LT_290">a gândi</string>
+    <string name="word_LT_291">a căuta</string>
+    <string name="word_LT_292">frig</string>
+    <string name="word_LT_293">întunecat</string>
+    <string name="word_LT_294">a îngheța</string>
+    <string name="word_LT_295">a lecui</string>
+    <string name="word_LT_296">Anotimp</string>
+    <string name="word_LT_297">Nor</string>
+    <string name="word_LT_298">Pădure</string>
+    <string name="word_LT_299">întunecat</string>
+    <string name="word_LT_300">ud</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_281">Soare</string>
+    <string name="word_RT_282">Îngheţ</string>
+    <string name="word_RT_283">Iarnă</string>
+    <string name="word_RT_284">Vreme</string>
+    <string name="word_RT_285">Vânt</string>
+    <string name="word_RT_286">Lege</string>
+    <string name="word_RT_287">frig</string>
+    <string name="word_RT_288">vânturos</string>
+    <string name="word_RT_289">frig</string>
+    <string name="word_RT_290">a mânca</string>
+    <string name="word_RT_291">a se topi</string>
+    <string name="word_RT_292">însorat</string>
+    <string name="word_RT_293">sumbru</string>
+    <string name="word_RT_294">a primi</string>
+    <string name="word_RT_295">a se trezi</string>
+    <string name="word_RT_296">Parc</string>
+    <string name="word_RT_297">Toamna</string>
+    <string name="word_RT_298">Frig</string>
+    <string name="word_RT_299">galben</string>
+    <string name="word_RT_300">vânturos</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_281">Vară</string>
+    <string name="word_LB_282">Fiu</string>
+    <string name="word_LB_283">Nor</string>
+    <string name="word_LB_284">Nisip</string>
+    <string name="word_LB_285">Gheață</string>
+    <string name="word_LB_286">Castel</string>
+    <string name="word_LB_287">ud</string>
+    <string name="word_LB_288">sumbru</string>
+    <string name="word_LB_289">însorat</string>
+    <string name="word_LB_290">a lumina</string>
+    <string name="word_LB_291">a lucra</string>
+    <string name="word_LB_292">sumbru</string>
+    <string name="word_LB_293">ud</string>
+    <string name="word_LB_294">a trimite</string>
+    <string name="word_LB_295">a lumina</string>
+    <string name="word_LB_296">Boală</string>
+    <string name="word_LB_297">Primăvara</string>
+    <string name="word_LB_298">Anotimp</string>
+    <string name="word_LB_299">verde</string>
+    <string name="word_LB_300">deschis</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_281">Mare</string>
+    <string name="word_RB_282">Iarnă</string>
+    <string name="word_RB_283">Toamnă</string>
+    <string name="word_RB_284">Omăt</string>
+    <string name="word_RB_285">Întrebare</string>
+    <string name="word_RB_286">Vreme</string>
+    <string name="word_RB_287">încet</string>
+    <string name="word_RB_288">ud</string>
+    <string name="word_RB_289">cald</string>
+    <string name="word_RB_290">a călători</string>
+    <string name="word_RB_291">a iubi</string>
+    <string name="word_RB_292">înnorat</string>
+    <string name="word_RB_293">cald</string>
+    <string name="word_RB_294">a lecui</string>
+    <string name="word_RB_295">a îngheța</string>
+    <string name="word_RB_296">Pădure</string>
+    <string name="word_RB_297">Îngheţ</string>
+    <string name="word_RB_298">Primăvara</string>
+    <string name="word_RB_299">roz</string>
+    <string name="word_RB_300">întunecat</string>
+    <!-- END -->
+</resources>

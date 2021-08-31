@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_401">Widelec</string>
+    <string name="word_translate_402">Zlew</string>
+    <string name="word_translate_403">podobny</string>
+    <string name="word_translate_404">złamany</string>
+    <string name="word_translate_405">mikrofalówka</string>
+    <string name="word_translate_406">Zmywarka</string>
+    <string name="word_translate_407">Kosz</string>
+    <string name="word_translate_408">zamówienie</string>
+    <string name="word_translate_409">wiedzieć</string>
+    <string name="word_translate_410">Słoik</string>
+    <string name="word_translate_411">ciemny</string>
+    <string name="word_translate_412">lekki</string>
+    <string name="word_translate_413">kosztowny</string>
+    <string name="word_translate_414">w ogóle</string>
+    <string name="word_translate_415">wystarczająco</string>
+    <string name="word_translate_416">Podręcznik</string>
+    <string name="word_translate_417">Pielęgniarka</string>
+    <string name="word_translate_418">Człowiek</string>
+    <string name="word_translate_419">Basen</string>
+    <string name="word_translate_420">pływać</string>
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_401">Wyciągnąłem wtyczkę z gniazdka.</string>
+    <string name="phrase_translate_402">Myje ręce w zlewie</string>
+    <string name="phrase_translate_403">Są bardzo podobne.</string>
+    <string name="phrase_translate_404">Mój samochód jest uszkodzony.</string>
+    <string name="phrase_translate_405">Wkładam jedzenie na mikro-skali.</string>
+    <string name="phrase_translate_406">Kupiłem zmywarkę.</string>
+    <string name="phrase_translate_407">Wyrzucam śmieci do kosza na śmieci.</string>
+    <string name="phrase_translate_408">Co zamówiłeś?</string>
+    <string name="phrase_translate_409">Znasz go?</string>
+    <string name="phrase_translate_410">puszka mięsa</string>
+    <string name="phrase_translate_411">W nocy jest ciemno.</string>
+    <string name="phrase_translate_412">Samochód jest jasnoszary.</string>
+    <string name="phrase_translate_413">To jest zbyt drogie.</string>
+    <string name="phrase_translate_414">Cały świat</string>
+    <string name="phrase_translate_415">Zjadłem wystarczająco.</string>
+    <string name="phrase_translate_416">Uczę się niemieckiego z podręcznika.</string>
+    <string name="phrase_translate_417">Pielęgniarka zrobiła zastrzyk.</string>
+    <string name="phrase_translate_418">Jedna osoba mi pomogła.</string>
+    <string name="phrase_translate_419">Często chodzę na basen.</string>
+    <string name="phrase_translate_420">Nie umie pływać.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_401">Błyskawica</string>
+    <string name="word_LT_402">Gabinet</string>
+    <string name="word_LT_403">bogaty</string>
+    <string name="word_LT_404">pierwszy</string>
+    <string name="word_LT_405">Sklep</string>
+    <string name="word_LT_406">zupa</string>
+    <string name="word_LT_407">Kuchnia</string>
+    <string name="word_LT_408">zamówienie</string>
+    <string name="word_LT_409">relacja na żywo</string>
+    <string name="word_LT_410">Puchar</string>
+    <string name="word_LT_411">ciemny</string>
+    <string name="word_LT_412">mokry</string>
+    <string name="word_LT_413">mały</string>
+    <string name="word_LT_414">Dziś</string>
+    <string name="word_LT_415">nic</string>
+    <string name="word_LT_416">Numer</string>
+    <string name="word_LT_417">Policjant</string>
+    <string name="word_LT_418">Brat</string>
+    <string name="word_LT_419">Wyspa</string>
+    <string name="word_LT_420">teraźniejszość</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_401">Wiązanie</string>
+    <string name="word_RT_402">Kelner</string>
+    <string name="word_RT_403">złoto</string>
+    <string name="word_RT_404">żonaty</string>
+    <string name="word_RT_405">mikrofalówka</string>
+    <string name="word_RT_406">Czajnik</string>
+    <string name="word_RT_407">Kosz</string>
+    <string name="word_RT_408">zarobić</string>
+    <string name="word_RT_409">Szukaj</string>
+    <string name="word_RT_410">Słoik</string>
+    <string name="word_RT_411">żółty</string>
+    <string name="word_RT_412">wietrzny</string>
+    <string name="word_RT_413">wielki</string>
+    <string name="word_RT_414">w ogóle</string>
+    <string name="word_RT_415">mało</string>
+    <string name="word_RT_416">Podręcznik</string>
+    <string name="word_RT_417">Pielęgniarka</string>
+    <string name="word_RT_418">Syn</string>
+    <string name="word_RT_419">Basen</string>
+    <string name="word_RT_420">czysty</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_401">Widelec</string>
+    <string name="word_LB_402">Muzyka</string>
+    <string name="word_LB_403">lekki</string>
+    <string name="word_LB_404">ostatni</string>
+    <string name="word_LB_405">zupa</string>
+    <string name="word_LB_406">Zmywarka</string>
+    <string name="word_LB_407">Drink</string>
+    <string name="word_LB_408">Sprzedać</string>
+    <string name="word_LB_409">wiedzieć</string>
+    <string name="word_LB_410">Widelec</string>
+    <string name="word_LB_411">Zielony</string>
+    <string name="word_LB_412">lekki</string>
+    <string name="word_LB_413">kosztowny</string>
+    <string name="word_LB_414">słoneczny</string>
+    <string name="word_LB_415">dużo</string>
+    <string name="word_LB_416">List</string>
+    <string name="word_LB_417">Nauczyciel</string>
+    <string name="word_LB_418">Człowiek</string>
+    <string name="word_LB_419">Kwiat</string>
+    <string name="word_LB_420">pływać</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_401">Spodnie jeansowe</string>
+    <string name="word_RB_402">Zlew</string>
+    <string name="word_RB_403">podobny</string>
+    <string name="word_RB_404">złamany</string>
+    <string name="word_RB_405">Patelnia</string>
+    <string name="word_RB_406">Lodówka</string>
+    <string name="word_RB_407">Herbata</string>
+    <string name="word_RB_408">płacić</string>
+    <string name="word_RB_409">być zakochanym</string>
+    <string name="word_RB_410">Nóż</string>
+    <string name="word_RB_411">różowy</string>
+    <string name="word_RB_412">ciemny</string>
+    <string name="word_RB_413">Słodkie</string>
+    <string name="word_RB_414">serdecznie</string>
+    <string name="word_RB_415">wystarczająco</string>
+    <string name="word_RB_416">Słowo</string>
+    <string name="word_RB_417">Budowniczy</string>
+    <string name="word_RB_418">Słońce</string>
+    <string name="word_RB_419">Samochód</string>
+    <string name="word_RB_420">przygotować</string>
+    <!-- END -->
+</resources>

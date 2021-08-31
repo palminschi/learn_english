@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_181">Zi de naştere</string>
+    <string name="word_translate_182">Cadou</string>
+    <string name="word_translate_183">a dărui</string>
+    <string name="word_translate_184">a felicita</string>
+    <string name="word_translate_185">Oaspete</string>
+    <string name="word_translate_186">Petrecere</string>
+    <string name="word_translate_187">a sărbători</string>
+    <string name="word_translate_188">a se îmbăta</string>
+    <string name="word_translate_189">Discotecă</string>
+    <string name="word_translate_190">Fericire</string>
+    <string name="word_translate_191">a dori</string>
+    <string name="word_translate_192">Tort</string>
+    <string name="word_translate_193">Şampanie</string>
+    <string name="word_translate_194">a invita</string>
+    <string name="word_translate_195">Bomboană</string>
+    <string name="word_translate_196">a juca</string>
+    <string name="word_translate_197">Jucărie</string>
+    <string name="word_translate_198">Pian</string>
+    <string name="word_translate_199">Chitară</string>
+    <string name="word_translate_200">a cânta</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_181">Azi este ziua lui de naştere</string>
+    <string name="phrase_translate_182">Mulţumesc pentru cadou!</string>
+    <string name="phrase_translate_183">Ce i-ai dăruit ei?</string>
+    <string name="phrase_translate_184">Noi l-am felicitat.</string>
+    <string name="phrase_translate_185">Eu am azi oaspeţi.</string>
+    <string name="phrase_translate_186">Sâmbăta va fi o petrecere.</string>
+    <string name="phrase_translate_187">Eu sărbătoresc ziua mea de naştere.</string>
+    <string name="phrase_translate_188">El s-a îmbătat.</string>
+    <string name="phrase_translate_189">Eu merg azi seară la discotecă.</string>
+    <string name="phrase_translate_190">Eu sunt foarte fericit.</string>
+    <string name="phrase_translate_191">Eu îţi doresc fericire.</string>
+    <string name="phrase_translate_192">Noi mâncăm tort.</string>
+    <string name="phrase_translate_193">Ei beau şampanie.</string>
+    <string name="phrase_translate_194">El nu ma invitat.</string>
+    <string name="phrase_translate_195">Copiii iubesc bomboane.</string>
+    <string name="phrase_translate_196">Copilul se joacă cu jucăria.</string>
+    <string name="phrase_translate_197">Jucăria s-a stricat.</string>
+    <string name="phrase_translate_198">Eu joc la pian.</string>
+    <string name="phrase_translate_199">Eu nu pot să joc la pian.</string>
+    <string name="phrase_translate_200">Ea cântă minunat.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_181">Chelner</string>
+    <string name="word_LT_182">Jucărie</string>
+    <string name="word_LT_183">a dărui</string>
+    <string name="word_LT_184">a invita</string>
+    <string name="word_LT_185">Bani</string>
+    <string name="word_LT_186">Magazin</string>
+    <string name="word_LT_187">a dărui</string>
+    <string name="word_LT_188">a se îmbăta</string>
+    <string name="word_LT_189">Discotecă</string>
+    <string name="word_LT_190">Benzinărie</string>
+    <string name="word_LT_191">a invita</string>
+    <string name="word_LT_192">Sticlă</string>
+    <string name="word_LT_193">Şampanie</string>
+    <string name="word_LT_194">a dărui</string>
+    <string name="word_LT_195">Benzinărie</string>
+    <string name="word_LT_196">a lucra</string>
+    <string name="word_LT_197">Bomboană</string>
+    <string name="word_LT_198">Muzică</string>
+    <string name="word_LT_199">Magazin</string>
+    <string name="word_LT_200">a cânta</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_181">Cadou</string>
+    <string name="word_RT_182">Restaurant</string>
+    <string name="word_RT_183">a juca</string>
+    <string name="word_RT_184">a felicita</string>
+    <string name="word_RT_185">Muzică</string>
+    <string name="word_RT_186">Jucărie</string>
+    <string name="word_RT_187">a sărbători</string>
+    <string name="word_RT_188">a mânca</string>
+    <string name="word_RT_189">Restaurant</string>
+    <string name="word_RT_190">Fericire</string>
+    <string name="word_RT_191">a cânta</string>
+    <string name="word_RT_192">Fericire</string>
+    <string name="word_RT_193">Muzica</string>
+    <string name="word_RT_194">a invita</string>
+    <string name="word_RT_195">Restaurant</string>
+    <string name="word_RT_196">a juca</string>
+    <string name="word_RT_197">Fluture</string>
+    <string name="word_RT_198">Sticlă</string>
+    <string name="word_RT_199">Chitară</string>
+    <string name="word_RT_200">a juca</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_181">Lingura</string>
+    <string name="word_LB_182">Cadou</string>
+    <string name="word_LB_183">a felicita</string>
+    <string name="word_LB_184">a sărbători</string>
+    <string name="word_LB_185">Oaspete</string>
+    <string name="word_LB_186">Muzica</string>
+    <string name="word_LB_187">a bea</string>
+    <string name="word_LB_188">a juca</string>
+    <string name="word_LB_189">Vin</string>
+    <string name="word_LB_190">Jucărie</string>
+    <string name="word_LB_191">a dori</string>
+    <string name="word_LB_192">Magazin</string>
+    <string name="word_LB_193">Restaurant</string>
+    <string name="word_LB_194">a dori</string>
+    <string name="word_LB_195">Bomboană</string>
+    <string name="word_LB_196">a sări</string>
+    <string name="word_LB_197">Tort</string>
+    <string name="word_LB_198">Bomboană</string>
+    <string name="word_LB_199">Muzică</string>
+    <string name="word_LB_200">a lucra</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_181">Zi de naştere</string>
+    <string name="word_RB_182">Bani</string>
+    <string name="word_RB_183">a cânta</string>
+    <string name="word_RB_184">a cânta</string>
+    <string name="word_RB_185">Sticlă</string>
+    <string name="word_RB_186">Petrecere</string>
+    <string name="word_RB_187">a juca</string>
+    <string name="word_RB_188">a lucra</string>
+    <string name="word_RB_189">Bani</string>
+    <string name="word_RB_190">Magazin</string>
+    <string name="word_RB_191">a dărui</string>
+    <string name="word_RB_192">Tort</string>
+    <string name="word_RB_193">Fluture</string>
+    <string name="word_RB_194">a cânta</string>
+    <string name="word_RB_195">Fluture</string>
+    <string name="word_RB_196">a cânta</string>
+    <string name="word_RB_197">Jucărie</string>
+    <string name="word_RB_198">Pian</string>
+    <string name="word_RB_199">Sticlă</string>
+    <string name="word_RB_200">a sări</string>
+    <!-- END -->
+</resources>

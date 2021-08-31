@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_121">Остановка</string>
+    <string name="word_translate_122">остановиться</string>
+    <string name="word_translate_123">Деревня</string>
+    <string name="word_translate_124">там</string>
+    <string name="word_translate_125">здесь</string>
+    <string name="word_translate_126">далеко</string>
+    <string name="word_translate_127">Забор</string>
+    <string name="word_translate_128">прыгнуть</string>
+    <string name="word_translate_129">упасть</string>
+    <string name="word_translate_130">Нога</string>
+    <string name="word_translate_131">Штаны</string>
+    <string name="word_translate_132">Обувь</string>
+    <string name="word_translate_133">Кошелек</string>
+    <string name="word_translate_134">Куртка</string>
+    <string name="word_translate_135">Волосы</string>
+    <string name="word_translate_136">Кепка</string>
+    <string name="word_translate_137">Шляпа</string>
+    <string name="word_translate_138">Одежда</string>
+    <string name="word_translate_139">Голова</string>
+    <string name="word_translate_140">Рот</string>
+    <!-- END -->
+
+    <!-- PHRASE  -->
+    <string name="phrase_translate_121">Я жду на остановке.</string>
+    <string name="phrase_translate_122">Остановите здесь.</string>
+    <string name="phrase_translate_123">Ты живешь в городе или в селе?</string>
+    <string name="phrase_translate_124">Я живу там.</string>
+    <string name="phrase_translate_125">Здесь и сейчас</string>
+    <string name="phrase_translate_126">Я еду далеко</string>
+    <string name="phrase_translate_127">Забор - высокий</string>
+    <string name="phrase_translate_128">Я прыгаю через забор.</string>
+    <string name="phrase_translate_129">Ты упал?</string>
+    <string name="phrase_translate_130">Моя нога болит.</string>
+    <string name="phrase_translate_131">Штаны слишком короткие.</string>
+    <string name="phrase_translate_132">Мне нужно купить обувь.</string>
+    <string name="phrase_translate_133">Я потерял свой кошелек.</string>
+    <string name="phrase_translate_134">Твоя куртка грязная.</string>
+    <string name="phrase_translate_135">У тебя длинные волосы.</string>
+    <string name="phrase_translate_136">Где моя кепка?</string>
+    <string name="phrase_translate_137">У нее большая шляпа.</string>
+    <string name="phrase_translate_138">Магазин одежды</string>
+    <string name="phrase_translate_139">У меня голова болит.</string>
+    <string name="phrase_translate_140">Дышать ртом</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_121">Деревня</string>
+    <string name="word_LT_122">кушать</string>
+    <string name="word_LT_123">Деревня</string>
+    <string name="word_LT_124">сзади</string>
+    <string name="word_LT_125">рядом</string>
+    <string name="word_LT_126">быстро</string>
+    <string name="word_LT_127">Замок</string>
+    <string name="word_LT_128">спрашивать</string>
+    <string name="word_LT_129">упасть</string>
+    <string name="word_LT_130">Ванная</string>
+    <string name="word_LT_131">Лошадь</string>
+    <string name="word_LT_132">Стул</string>
+    <string name="word_LT_133">Кошелек</string>
+    <string name="word_LT_134">Одежда</string>
+    <string name="word_LT_135">Штаны</string>
+    <string name="word_LT_136">Кепка</string>
+    <string name="word_LT_137">Рот</string>
+    <string name="word_LT_138">Рука</string>
+    <string name="word_LT_139">Забор</string>
+    <string name="word_LT_140">Кошка</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_121">Остановка</string>
+    <string name="word_RT_122">ездить</string>
+    <string name="word_RT_123">Дом</string>
+    <string name="word_RT_124">там</string>
+    <string name="word_RT_125">снизу</string>
+    <string name="word_RT_126">далеко</string>
+    <string name="word_RT_127">Сауна</string>
+    <string name="word_RT_128">собирать</string>
+    <string name="word_RT_129">украсть</string>
+    <string name="word_RT_130">Нога</string>
+    <string name="word_RT_131">Звук</string>
+    <string name="word_RT_132">Очки</string>
+    <string name="word_RT_133">Деньги</string>
+    <string name="word_RT_134">Куртка</string>
+    <string name="word_RT_135">Волосы</string>
+    <string name="word_RT_136">Голова</string>
+    <string name="word_RT_137">Лошадь</string>
+    <string name="word_RT_138">Тело</string>
+    <string name="word_RT_139">Остановка</string>
+    <string name="word_RT_140">Рука</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_121">Заправка</string>
+    <string name="word_LB_122">начинать</string>
+    <string name="word_LB_123">Гора</string>
+    <string name="word_LB_124">слева</string>
+    <string name="word_LB_125">здесь</string>
+    <string name="word_LB_126">высоко</string>
+    <string name="word_LB_127">Забор</string>
+    <string name="word_LB_128">думать</string>
+    <string name="word_LB_129">ездить</string>
+    <string name="word_LB_130">Гора</string>
+    <string name="word_LB_131">Штаны</string>
+    <string name="word_LB_132">Одежда</string>
+    <string name="word_LB_133">Шкаф</string>
+    <string name="word_LB_134">Обувь</string>
+    <string name="word_LB_135">Кепка</string>
+    <string name="word_LB_136">Волосы</string>
+    <string name="word_LB_137">Собака</string>
+    <string name="word_LB_138">Одежда</string>
+    <string name="word_LB_139">Голова</string>
+    <string name="word_LB_140">Рот</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_121">Стройка</string>
+    <string name="word_RB_122">остановиться</string>
+    <string name="word_RB_123">Дерево</string>
+    <string name="word_RB_124">рядом</string>
+    <string name="word_RB_125">между</string>
+    <string name="word_RB_126">близко</string>
+    <string name="word_RB_127">Земля</string>
+    <string name="word_RB_128">прыгнуть</string>
+    <string name="word_RB_129">мыть</string>
+    <string name="word_RB_130">Лес</string>
+    <string name="word_RB_131">Очки</string>
+    <string name="word_RB_132">Обувь</string>
+    <string name="word_RB_133">Футболка</string>
+    <string name="word_RB_134">Очки</string>
+    <string name="word_RB_135">Шляпа</string>
+    <string name="word_RB_136">Рот</string>
+    <string name="word_RB_137">Шляпа</string>
+    <string name="word_RB_138">Очки</string>
+    <string name="word_RB_139">Стройка</string>
+    <string name="word_RB_140">Море</string>
+    <!-- END -->
+</resources>

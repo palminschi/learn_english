@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_title_381" translatable="false">el vestido</string>
+    <string name="word_title_382" translatable="false">la corbata</string>
+    <string name="word_title_383" translatable="false">el guante</string>
+    <string name="word_title_384" translatable="false">poner</string>
+    <string name="word_title_385" translatable="false">despegar</string>
+    <string name="word_title_386" translatable="false">el cinturón</string>
+    <string name="word_title_387" translatable="false">la bufanda</string>
+    <string name="word_title_388" translatable="false">El brazalete</string>
+    <string name="word_title_389" translatable="false">La cadena</string>
+    <string name="word_title_390" translatable="false">dorado</string>
+    <string name="word_title_391" translatable="false">la camisa</string>
+    <string name="word_title_392" translatable="false">el suéter</string>
+    <string name="word_title_393" translatable="false">la falda</string>
+    <string name="word_title_394" translatable="false">los shorts</string>
+    <string name="word_title_395" translatable="false">ordenar</string>
+    <string name="word_title_396" translatable="false">Los vaqueros</string>
+    <string name="word_title_397" translatable="false">el anillo</string>
+    <string name="word_title_398" translatable="false">el pendiente</string>
+    <string name="word_title_399" translatable="false">la oreja</string>
+    <string name="word_title_400" translatable="false">la cremallera</string>
+
+    <string name="word_translate_381">dress</string>
+    <string name="word_translate_382">tie</string>
+    <string name="word_translate_383">glove</string>
+    <string name="word_translate_384">to put on</string>
+    <string name="word_translate_385">to take off</string>
+    <string name="word_translate_386">belt</string>
+    <string name="word_translate_387">scarf</string>
+    <string name="word_translate_388">bracelet</string>
+    <string name="word_translate_389">chain</string>
+    <string name="word_translate_390">golden</string>
+    <string name="word_translate_391">shirt</string>
+    <string name="word_translate_392">sweater</string>
+    <string name="word_translate_393">skirt</string>
+    <string name="word_translate_394">shorts</string>
+    <string name="word_translate_395">to order</string>
+    <string name="word_translate_396">jeans</string>
+    <string name="word_translate_397">ring</string>
+    <string name="word_translate_398">earring</string>
+    <string name="word_translate_399">ear</string>
+    <string name="word_translate_400">zipper</string>
+    <!-- END -->
+
+    <!-- PHRASE + TRANSLATE -->
+    <string name="phrase_381" translatable="false">Ella tiene un hermoso vestido.</string>
+    <string name="phrase_translate_381">She has a beautiful dress.</string>
+
+    <string name="phrase_382" translatable="false">La corbata es demasiado larga para él.</string>
+    <string name="phrase_translate_382">The tie is too long for him.</string>
+
+    <string name="phrase_383" translatable="false">En invierno hace frío sin guantes.</string>
+    <string name="phrase_translate_383">In winter it is cold without gloves.</string>
+
+    <string name="phrase_384" translatable="false">Me puse la chaqueta.</string>
+    <string name="phrase_translate_384">I put my jacket on.</string>
+
+    <string name="phrase_385" translatable="false">Me quito la chaqueta.</string>
+    <string name="phrase_translate_385">I take off my jacket.</string>
+
+    <string name="phrase_386" translatable="false">Compré un cinturón.</string>
+    <string name="phrase_translate_386">I bought a belt.</string>
+
+    <string name="phrase_387" translatable="false">Olvidó su bufanda.</string>
+    <string name="phrase_translate_387">She forgot her scarf.</string>
+
+    <string name="phrase_388" translatable="false">No llevo brazalete.</string>
+    <string name="phrase_translate_388">I do not wear a bracelet.</string>
+
+    <string name="phrase_389" translatable="false">Esta cadena está hecha de plata.</string>
+    <string name="phrase_translate_389">This chain is made of silver.</string>
+
+    <string name="phrase_390" translatable="false">Le dio un anillo de oro.</string>
+    <string name="phrase_translate_390">He gave her a gold ring.</string>
+
+    <string name="phrase_391" translatable="false">Hoy me puse una camiseta.</string>
+    <string name="phrase_translate_391">I put on a shirt today.</string>
+
+    <string name="phrase_392" translatable="false">Hace más calor en el suéter.</string>
+    <string name="phrase_translate_392">It\'s warmer in the sweater.</string>
+
+    <string name="phrase_393" translatable="false">En verano llevo falda.</string>
+    <string name="phrase_translate_393">In the summer I wear a skirt.</string>
+
+    <string name="phrase_394" translatable="false">Llevo pantalones cortos de jean.</string>
+    <string name="phrase_translate_394">I wear jean shorts.</string>
+
+    <string name="phrase_395" translatable="false">Pedí ropa nueva.</string>
+    <string name="phrase_translate_395">I ordered new clothes.</string>
+
+    <string name="phrase_396" translatable="false">Tienes unos vaqueros bonitos.</string>
+    <string name="phrase_translate_396">You have nice jeans.</string>
+
+    <string name="phrase_397" translatable="false">No llevo anillos.</string>
+    <string name="phrase_translate_397">I do not wear rings.</string>
+
+    <string name="phrase_398" translatable="false">Perdió un pendiente.</string>
+    <string name="phrase_translate_398">She lost an earring.</string>
+
+    <string name="phrase_399" translatable="false">Tiene orejas grandes.</string>
+    <string name="phrase_translate_399">He has big ears.</string>
+
+    <string name="phrase_400" translatable="false">Chaqueta con cremallera</string>
+    <string name="phrase_translate_400">Jacket with zipper</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_381">chair</string>
+    <string name="word_LT_382">wallet</string>
+    <string name="word_LT_383">glove</string>
+    <string name="word_LT_384">to put on</string>
+    <string name="word_LT_385">to play</string>
+    <string name="word_LT_386">pants</string>
+    <string name="word_LT_387">cap</string>
+    <string name="word_LT_388">mouth</string>
+    <string name="word_LT_389">hand</string>
+    <string name="word_LT_390">rich</string>
+    <string name="word_LT_391">fence</string>
+    <string name="word_LT_392">cat</string>
+    <string name="word_LT_393">jeans</string>
+    <string name="word_LT_394">pants</string>
+    <string name="word_LT_395">to order</string>
+    <string name="word_LT_396">clothing</string>
+    <string name="word_LT_397">bracelet</string>
+    <string name="word_LT_398">T-shirt</string>
+    <string name="word_LT_399">mouth</string>
+    <string name="word_LT_400">zipper</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_381">glasses</string>
+    <string name="word_RT_382">money</string>
+    <string name="word_RT_383">jacket</string>
+    <string name="word_RT_384">to laugh</string>
+    <string name="word_RT_385">to put on</string>
+    <string name="word_RT_386">hair</string>
+    <string name="word_RT_387">head</string>
+    <string name="word_RT_388">horse</string>
+    <string name="word_RT_389">chain</string>
+    <string name="word_RT_390">golden</string>
+    <string name="word_RT_391">shirt</string>
+    <string name="word_RT_392">sweater</string>
+    <string name="word_RT_393">dress</string>
+    <string name="word_RT_394">skirt</string>
+    <string name="word_RT_395">to earn</string>
+    <string name="word_RT_396">jeans</string>
+    <string name="word_RT_397">jacket</string>
+    <string name="word_RT_398">chain</string>
+    <string name="word_RT_399">ear</string>
+    <string name="word_RT_400">cravat</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_381">clothing</string>
+    <string name="word_LB_382">tie</string>
+    <string name="word_LB_383">shoes</string>
+    <string name="word_LB_384">to sing</string>
+    <string name="word_LB_385">to take off</string>
+    <string name="word_LB_386">cap</string>
+    <string name="word_LB_387">hair</string>
+    <string name="word_LB_388">bracelet</string>
+    <string name="word_LB_389">clothing</string>
+    <string name="word_LB_390">light</string>
+    <string name="word_LB_391">head</string>
+    <string name="word_LB_392">mouth</string>
+    <string name="word_LB_393">cravat</string>
+    <string name="word_LB_394">shorts</string>
+    <string name="word_LB_395">to sell</string>
+    <string name="word_LB_396">shoes</string>
+    <string name="word_LB_397">gloves</string>
+    <string name="word_LB_398">earring</string>
+    <string name="word_LB_399">nose</string>
+    <string name="word_LB_400">shoes</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_381">dress</string>
+    <string name="word_RB_382">T-shirt</string>
+    <string name="word_RB_383">glasses</string>
+    <string name="word_RB_384">to rest</string>
+    <string name="word_RB_385">to ask</string>
+    <string name="word_RB_386">belt</string>
+    <string name="word_RB_387">scarf</string>
+    <string name="word_RB_388">hat</string>
+    <string name="word_RB_389">glasses</string>
+    <string name="word_RB_390">dark</string>
+    <string name="word_RB_391">construction</string>
+    <string name="word_RB_392">sea</string>
+    <string name="word_RB_393">skirt</string>
+    <string name="word_RB_394">sweater</string>
+    <string name="word_RB_395">to pay</string>
+    <string name="word_RB_396">glasses</string>
+    <string name="word_RB_397">ring</string>
+    <string name="word_RB_398">bracelet</string>
+    <string name="word_RB_399">hand</string>
+    <string name="word_RB_400">jeans</string>
+    <!-- END -->
+</resources>

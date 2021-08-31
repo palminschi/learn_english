@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_441">Uzyskiwać</string>
+    <string name="word_translate_442">Kurtyna</string>
+    <string name="word_translate_443">Rura</string>
+    <string name="word_translate_444">Lustro</string>
+    <string name="word_translate_445">Piekarnik</string>
+    <string name="word_translate_446">upiec</string>
+    <string name="word_translate_447">Herbatnik</string>
+    <string name="word_translate_448">Ciasto</string>
+    <string name="word_translate_449">Kuchnia</string>
+    <string name="word_translate_450">mikrofalówka</string>
+    <string name="word_translate_451">Płyta</string>
+    <string name="word_translate_452">Kiełbasa</string>
+    <string name="word_translate_453">Kiełbasa</string>
+    <string name="word_translate_454">Owsianka</string>
+    <string name="word_translate_455">kukurydza</string>
+    <string name="word_translate_456">Ogórek</string>
+    <string name="word_translate_457">Kapusta</string>
+    <string name="word_translate_458">Owoce</string>
+    <string name="word_translate_459">Warzywa</string>
+    <string name="word_translate_460">Cebula</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_441">Woda wypływa z kranu.</string>
+    <string name="phrase_translate_442">Zasunął zasłony.</string>
+    <string name="phrase_translate_443">Rura jest smołowana.</string>
+    <string name="phrase_translate_444">Patrzę w lustro i widzę siebie.</string>
+    <string name="phrase_translate_445">Wkłada ciasto do piekarnika.</string>
+    <string name="phrase_translate_446">Co pieczesz?</string>
+    <string name="phrase_translate_447">Lubię ciastka.</string>
+    <string name="phrase_translate_448">Jemy ciasto.</string>
+    <string name="phrase_translate_449">Pracuje w kuchni.</string>
+    <string name="phrase_translate_450">Wkładam jedzenie na mikro-skali.</string>
+    <string name="phrase_translate_451">Rondel stoi na kuchence.</string>
+    <string name="phrase_translate_452">Będziesz kiełbasą?</string>
+    <string name="phrase_translate_453">Kot bardzo kocha kiełbaski.</string>
+    <string name="phrase_translate_454">Rano jem owsiankę.</string>
+    <string name="phrase_translate_455">Na polu rośnie kukurydza.</string>
+    <string name="phrase_translate_456">Sałatka ogórkowa.</string>
+    <string name="phrase_translate_457">Kapusta jest dobra dla twojego zdrowia.</string>
+    <string name="phrase_translate_458">Zjada dużo owoców.</string>
+    <string name="phrase_translate_459">Jedzenie warzyw jest zdrowe.</string>
+    <string name="phrase_translate_460">Zapomniałem kupić łuk.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_441">Gabinet</string>
+    <string name="word_LT_442">Półka</string>
+    <string name="word_LT_443">Piekarnik</string>
+    <string name="word_LT_444">Kwiat</string>
+    <string name="word_LT_445">zupa</string>
+    <string name="word_LT_446">teraźniejszość</string>
+    <string name="word_LT_447">Serwetka</string>
+    <string name="word_LT_448">Mąka</string>
+    <string name="word_LT_449">Kuchnia</string>
+    <string name="word_LT_450">Sklep</string>
+    <string name="word_LT_451">Łyżka</string>
+    <string name="word_LT_452">Grzyb</string>
+    <string name="word_LT_453">Restauracja</string>
+    <string name="word_LT_454">Lody</string>
+    <string name="word_LT_455">kukurydza</string>
+    <string name="word_LT_456">Ogórek</string>
+    <string name="word_LT_457">Kolacja</string>
+    <string name="word_LT_458">Żywność</string>
+    <string name="word_LT_459">Grzyb</string>
+    <string name="word_LT_460">Łyżka</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_441">Kelner</string>
+    <string name="word_RT_442">Butelka</string>
+    <string name="word_RT_443">Uzyskiwać</string>
+    <string name="word_RT_444">Kot</string>
+    <string name="word_RT_445">Czajnik</string>
+    <string name="word_RT_446">czysty</string>
+    <string name="word_RT_447">Herbatnik</string>
+    <string name="word_RT_448">Kiełbasa</string>
+    <string name="word_RT_449">Makaron</string>
+    <string name="word_RT_450">mikrofalówka</string>
+    <string name="word_RT_451">Widelec</string>
+    <string name="word_RT_452">Butelka</string>
+    <string name="word_RT_453">Piwnica</string>
+    <string name="word_RT_454">Owsianka</string>
+    <string name="word_RT_455">Krem</string>
+    <string name="word_RT_456">Kiełbasa</string>
+    <string name="word_RT_457">Kapusta</string>
+    <string name="word_RT_458">Serwetka</string>
+    <string name="word_RT_459">Butelka</string>
+    <string name="word_RT_460">Widelec</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_441">Uzyskiwać</string>
+    <string name="word_LB_442">Kurtyna</string>
+    <string name="word_LB_443">Zlew</string>
+    <string name="word_LB_444">Ogród</string>
+    <string name="word_LB_445">Piekarnik</string>
+    <string name="word_LB_446">smażyć</string>
+    <string name="word_LB_447">Łyżka</string>
+    <string name="word_LB_448">Ciasto</string>
+    <string name="word_LB_449">Drink</string>
+    <string name="word_LB_450">zupa</string>
+    <string name="word_LB_451">Płyta</string>
+    <string name="word_LB_452">Kiełbasa</string>
+    <string name="word_LB_453">Owsianka</string>
+    <string name="word_LB_454">Kwiat</string>
+    <string name="word_LB_455">Marchewka</string>
+    <string name="word_LB_456">Widelec</string>
+    <string name="word_LB_457">fasolki</string>
+    <string name="word_LB_458">Nóż</string>
+    <string name="word_LB_459">Samolot</string>
+    <string name="word_LB_460">Sklep</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_441">Zlew</string>
+    <string name="word_RB_442">Mąka</string>
+    <string name="word_RB_443">Rura</string>
+    <string name="word_RB_444">Lustro</string>
+    <string name="word_RB_445">Lodówka</string>
+    <string name="word_RB_446">upiec</string>
+    <string name="word_RB_447">Mąka</string>
+    <string name="word_RB_448">Herbatnik</string>
+    <string name="word_RB_449">Herbata</string>
+    <string name="word_RB_450">Patelnia</string>
+    <string name="word_RB_451">Cebula</string>
+    <string name="word_RB_452">Warzywa</string>
+    <string name="word_RB_453">Kiełbasa</string>
+    <string name="word_RB_454">Czajnik</string>
+    <string name="word_RB_455">Ludzie</string>
+    <string name="word_RB_456">Płyta</string>
+    <string name="word_RB_457">Dieta</string>
+    <string name="word_RB_458">Owoce</string>
+    <string name="word_RB_459">Warzywa</string>
+    <string name="word_RB_460">Cebula</string>
+    <!-- END -->
+</resources>

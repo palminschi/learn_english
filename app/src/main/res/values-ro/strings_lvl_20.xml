@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_381">Rochie</string>
+    <string name="word_translate_382">Cravată</string>
+    <string name="word_translate_383">Mănușă</string>
+    <string name="word_translate_384">a îmbrăca</string>
+    <string name="word_translate_385">a dezbrăca</string>
+    <string name="word_translate_386">Curea</string>
+    <string name="word_translate_387">Fular</string>
+    <string name="word_translate_388">Brățară</string>
+    <string name="word_translate_389">Lanț</string>
+    <string name="word_translate_390">de aur</string>
+    <string name="word_translate_391">Cămașă</string>
+    <string name="word_translate_392">Pulover</string>
+    <string name="word_translate_393">Fustă</string>
+    <string name="word_translate_394">Pantaloni scurți</string>
+    <string name="word_translate_395">a comanda</string>
+    <string name="word_translate_396">Blugi</string>
+    <string name="word_translate_397">Inel</string>
+    <string name="word_translate_398">Cercel</string>
+    <string name="word_translate_399">Ureche</string>
+    <string name="word_translate_400">Fermoar</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_381">Ea are o rochie frumoasă.</string>
+    <string name="phrase_translate_382">Cravata este prea lungă pentru el.</string>
+    <string name="phrase_translate_383">Iarna este frig fără mănuși.</string>
+    <string name="phrase_translate_384">Eu îmi îmbrac geaca.</string>
+    <string name="phrase_translate_385">Eu îmi dezbrac geaca.</string>
+    <string name="phrase_translate_386">Mi-am cumpărat o curea.</string>
+    <string name="phrase_translate_387">Ea și-a uitat fularul.</string>
+    <string name="phrase_translate_388">Eu nu port brățară.</string>
+    <string name="phrase_translate_389">Acest lanț este din argint.</string>
+    <string name="phrase_translate_390">El i-a dăruit un inel de aur.</string>
+    <string name="phrase_translate_391">Azi am îmbrăcat o cămașă.</string>
+    <string name="phrase_translate_392">E mai cald într-un pulover.</string>
+    <string name="phrase_translate_393">Vara port fustă.</string>
+    <string name="phrase_translate_394">Port pantaloni scurți din denim.</string>
+    <string name="phrase_translate_395">Mi-am comandat niște haine noi.</string>
+    <string name="phrase_translate_396">Tu ai blugi frumoși.</string>
+    <string name="phrase_translate_397">Eu nu port inele.</string>
+    <string name="phrase_translate_398">Ea a pierdut un cercel.</string>
+    <string name="phrase_translate_399">El are urechi mari.</string>
+    <string name="phrase_translate_400">Jachetă cu fermoar</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_381">Scaun</string>
+    <string name="word_LT_382">Portmoneu</string>
+    <string name="word_LT_383">Mănușă</string>
+    <string name="word_LT_384">a îmbrăca</string>
+    <string name="word_LT_385">a juca</string>
+    <string name="word_LT_386">Blugi</string>
+    <string name="word_LT_387">Chipiu</string>
+    <string name="word_LT_388">Gură</string>
+    <string name="word_LT_389">Mâină</string>
+    <string name="word_LT_390">bogat</string>
+    <string name="word_LT_391">Gard</string>
+    <string name="word_LT_392">Pisică</string>
+    <string name="word_LT_393">Blugi</string>
+    <string name="word_LT_394">Blugi</string>
+    <string name="word_LT_395">a comanda</string>
+    <string name="word_LT_396">Haine</string>
+    <string name="word_LT_397">Brățară</string>
+    <string name="word_LT_398">Tricou</string>
+    <string name="word_LT_399">Gură</string>
+    <string name="word_LT_400">Fermoar</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_381">Ochelari</string>
+    <string name="word_RT_382">Bani</string>
+    <string name="word_RT_383">Geacă</string>
+    <string name="word_RT_384">a râde</string>
+    <string name="word_RT_385">a îmbrăca</string>
+    <string name="word_RT_386">Păr</string>
+    <string name="word_RT_387">Cap</string>
+    <string name="word_RT_388">Cal</string>
+    <string name="word_RT_389">Lanț</string>
+    <string name="word_RT_390">de aur</string>
+    <string name="word_RT_391">Cămașă</string>
+    <string name="word_RT_392">Pulover</string>
+    <string name="word_RT_393">Rochie</string>
+    <string name="word_RT_394">Fustă</string>
+    <string name="word_RT_395">a face bani</string>
+    <string name="word_RT_396">Blugi</string>
+    <string name="word_RT_397">Geacă</string>
+    <string name="word_RT_398">Lanț</string>
+    <string name="word_RT_399">Ureche</string>
+    <string name="word_RT_400">Cravată</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_381">Haine</string>
+    <string name="word_LB_382">Cravată</string>
+    <string name="word_LB_383">Încălţăminte</string>
+    <string name="word_LB_384">a cânta</string>
+    <string name="word_LB_385">a dezbrăca</string>
+    <string name="word_LB_386">Chipiu</string>
+    <string name="word_LB_387">Păr</string>
+    <string name="word_LB_388">Brățară</string>
+    <string name="word_LB_389">Haine</string>
+    <string name="word_LB_390">deschis</string>
+    <string name="word_LB_391">Cap</string>
+    <string name="word_LB_392">Gură</string>
+    <string name="word_LB_393">Cravată</string>
+    <string name="word_LB_394">Pantaloni scurți</string>
+    <string name="word_LB_395">a vinde</string>
+    <string name="word_LB_396">Încălţăminte</string>
+    <string name="word_LB_397">Mănuși</string>
+    <string name="word_LB_398">Cercel</string>
+    <string name="word_LB_399">Nas</string>
+    <string name="word_LB_400">Încălţăminte</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_381">Rochie</string>
+    <string name="word_RB_382">Tricou</string>
+    <string name="word_RB_383">Ochelari</string>
+    <string name="word_RB_384">a se odihni</string>
+    <string name="word_RB_385">a cere</string>
+    <string name="word_RB_386">Curea</string>
+    <string name="word_RB_387">Fular</string>
+    <string name="word_RB_388">Pălărie</string>
+    <string name="word_RB_389">Ochelari</string>
+    <string name="word_RB_390">închis</string>
+    <string name="word_RB_391">Construcție</string>
+    <string name="word_RB_392">Mare</string>
+    <string name="word_RB_393">Fustă</string>
+    <string name="word_RB_394">Pulover</string>
+    <string name="word_RB_395">a achita</string>
+    <string name="word_RB_396">Ochelari</string>
+    <string name="word_RB_397">Inel</string>
+    <string name="word_RB_398">Brățară</string>
+    <string name="word_RB_399">Mâină</string>
+    <string name="word_RB_400">Blugi</string>
+    <!-- END -->
+</resources>

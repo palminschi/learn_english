@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_461">Experiență</string>
+    <string name="word_translate_462">Memorie</string>
+    <string name="word_translate_463">Amintire</string>
+    <string name="word_translate_464">a uita</string>
+    <string name="word_translate_465">Beneficiu</string>
+    <string name="word_translate_466">Avantaj</string>
+    <string name="word_translate_467">Cunoștință</string>
+    <string name="word_translate_468">Suflet</string>
+    <string name="word_translate_469">Obișnuință</string>
+    <string name="word_translate_470">Remediu</string>
+    <string name="word_translate_471">Minune</string>
+    <string name="word_translate_472">a uimi</string>
+    <string name="word_translate_473">Foc</string>
+    <string name="word_translate_474">Pompieri</string>
+    <string name="word_translate_475">Brichetă</string>
+    <string name="word_translate_476">a fuma</string>
+    <string name="word_translate_477">Caz</string>
+    <string name="word_translate_478">Gând</string>
+    <string name="word_translate_479">Alegere</string>
+    <string name="word_translate_480">a alege</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_461">Astfel, acumulez multă experiență.</string>
+    <string name="phrase_translate_462">El și-a pierdut memoria.</string>
+    <string name="phrase_translate_463">Am multe amintiri aici.</string>
+    <string name="phrase_translate_464">Mi-am uitat rucsacul.</string>
+    <string name="phrase_translate_465">Sportul aduce beneficii</string>
+    <string name="phrase_translate_466">Prima echipă are un avantaj.</string>
+    <string name="phrase_translate_467">Cunoștințele sunt putere.</string>
+    <string name="phrase_translate_468">Are un suflet bun.</string>
+    <string name="phrase_translate_469">Este o obișnuință a mea.</string>
+    <string name="phrase_translate_470">detergentul</string>
+    <string name="phrase_translate_471">Eu nu cred în minuni.</string>
+    <string name="phrase_translate_472">El mă uimește.</string>
+    <string name="phrase_translate_473">Am făcut focul.</string>
+    <string name="phrase_translate_474">Trebuie să chemăm pompierii.</string>
+    <string name="phrase_translate_475">Aveți o brichetă?</string>
+    <string name="phrase_translate_476">Eu nu fumez.</string>
+    <string name="phrase_translate_477">în orice caz</string>
+    <string name="phrase_translate_478">Am avut un gând</string>
+    <string name="phrase_translate_479">Noi trebuie să facem o alegere.</string>
+    <string name="phrase_translate_480">Eu aleg a doua variantă.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_461">Sat</string>
+    <string name="word_LT_462">Memorie</string>
+    <string name="word_LT_463">Pensionar</string>
+    <string name="word_LT_464">a uita</string>
+    <string name="word_LT_465">Document</string>
+    <string name="word_LT_466">Asigurare</string>
+    <string name="word_LT_467">Experiență</string>
+    <string name="word_LT_468">Lună</string>
+    <string name="word_LT_469">Contract</string>
+    <string name="word_LT_470">Remediu</string>
+    <string name="word_LT_471">Primărie</string>
+    <string name="word_LT_472">a dărui</string>
+    <string name="word_LT_473">Vară</string>
+    <string name="word_LT_474">Pompieri</string>
+    <string name="word_LT_475">Timp</string>
+    <string name="word_LT_476">a fura</string>
+    <string name="word_LT_477">Sat</string>
+    <string name="word_LT_478">Gând</string>
+    <string name="word_LT_479">Blugi</string>
+    <string name="word_LT_480">a comanda</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_461">Experiență</string>
+    <string name="word_RT_462">Cal</string>
+    <string name="word_RT_463">Amintire</string>
+    <string name="word_RT_464">a căuta</string>
+    <string name="word_RT_465">Animal</string>
+    <string name="word_RT_466">Contă</string>
+    <string name="word_RT_467">Memorie</string>
+    <string name="word_RT_468">Folos</string>
+    <string name="word_RT_469">Magazin</string>
+    <string name="word_RT_470">Furculiţă</string>
+    <string name="word_RT_471">Stadion</string>
+    <string name="word_RT_472">a sărbători</string>
+    <string name="word_RT_473">Sâmbătă</string>
+    <string name="word_RT_474">Iarnă</string>
+    <string name="word_RT_475">Brichetă</string>
+    <string name="word_RT_476">a semna</string>
+    <string name="word_RT_477">Transfer</string>
+    <string name="word_RT_478">Premie</string>
+    <string name="word_RT_479">Ochelari</string>
+    <string name="word_RT_480">a alege</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_461">Pensie</string>
+    <string name="word_LB_462">Venit</string>
+    <string name="word_LB_463">Noapte</string>
+    <string name="word_LB_464">a ști</string>
+    <string name="word_LB_465">Beneficiu</string>
+    <string name="word_LB_466">Minge</string>
+    <string name="word_LB_467">Amintire</string>
+    <string name="word_LB_468">Suflet</string>
+    <string name="word_LB_469">Frig</string>
+    <string name="word_LB_470">Aragaz</string>
+    <string name="word_LB_471">Minune</string>
+    <string name="word_LB_472">a uimi</string>
+    <string name="word_LB_473">Foc</string>
+    <string name="word_LB_474">Păhar</string>
+    <string name="word_LB_475">Nisip</string>
+    <string name="word_LB_476">a cade</string>
+    <string name="word_LB_477">Caz</string>
+    <string name="word_LB_478">Bani</string>
+    <string name="word_LB_479">Alegere</string>
+    <string name="word_LB_480">a vinde</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_461">Copac</string>
+    <string name="word_RB_462">Joacă</string>
+    <string name="word_RB_463">Pensie</string>
+    <string name="word_RB_464">a iubi</string>
+    <string name="word_RB_465">Rest</string>
+    <string name="word_RB_466">Avantaj</string>
+    <string name="word_RB_467">Cunoștință</string>
+    <string name="word_RB_468">Taxă</string>
+    <string name="word_RB_469">Obișnuință</string>
+    <string name="word_RB_470">Ceapă</string>
+    <string name="word_RB_471">Cunoștință</string>
+    <string name="word_RB_472">a juca</string>
+    <string name="word_RB_473">Iarnă</string>
+    <string name="word_RB_474">Toamnă</string>
+    <string name="word_RB_475">Zăpadă</string>
+    <string name="word_RB_476">a fuma</string>
+    <string name="word_RB_477">Pensie</string>
+    <string name="word_RB_478">Suflet</string>
+    <string name="word_RB_479">Joacă</string>
+    <string name="word_RB_480">a achita</string>
+    <!-- END -->
+</resources>

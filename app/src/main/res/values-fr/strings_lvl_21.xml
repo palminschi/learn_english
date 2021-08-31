@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_401">la prise</string>
+    <string name="word_translate_402">l\'évier</string>
+    <string name="word_translate_403">similaire</string>
+    <string name="word_translate_404">cassé</string>
+    <string name="word_translate_405">le micro-onde</string>
+    <string name="word_translate_407">la poubelle</string>
+    <string name="word_translate_408">commander</string>
+    <string name="word_translate_409">à savoir</string>
+    <string name="word_translate_410">la canette</string>
+    <string name="word_translate_411">foncé</string>
+    <string name="word_translate_412">léger</string>
+    <string name="word_translate_413">cher</string>
+    <string name="word_translate_414">entier</string>
+    <string name="word_translate_415">suffisant</string>
+    <string name="word_translate_416">Le manuel</string>
+    <string name="word_translate_417">l\'infirmière</string>
+    <string name="word_translate_418">la personne</string>
+    <string name="word_translate_419">la piscine</string>
+    <string name="word_translate_420">nager</string>
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_401">J\'ai retiré la fiche de la prise.</string>
+    <string name="phrase_translate_402">Il se lave les mains dans l\'évier</string>
+    <string name="phrase_translate_403">Ils sont très similaires.</string>
+    <string name="phrase_translate_404">Ma voiture est en panne.</string>
+    <string name="phrase_translate_405">Je mets la nourriture au micro-ondes.</string>
+    <string name="phrase_translate_406">J\'ai acheté un lave-vaisselle.</string>
+    <string name="phrase_translate_407">Je jette les ordures dans la poubelle.</string>
+    <string name="phrase_translate_408">Qu\'as-tu commandé?</string>
+    <string name="phrase_translate_409">Est-ce-que tu le connais?</string>
+    <string name="phrase_translate_410">une boîte de viande</string>
+    <string name="phrase_translate_411">Il fait noir la nuit.</string>
+    <string name="phrase_translate_412">La voiture est gris clair.</string>
+    <string name="phrase_translate_413">C\'est trop cher.</string>
+    <string name="phrase_translate_414">Le monde entier</string>
+    <string name="phrase_translate_415">J\'ai assez mangé.</string>
+    <string name="phrase_translate_416">J\'apprends l\'allemand à partir d\'un manuel.</string>
+    <string name="phrase_translate_417">L\'infirmière a fait l\'injection.</string>
+    <string name="phrase_translate_418">Une personne m\'a aidé.</string>
+    <string name="phrase_translate_419">Je vais souvent à la piscine.</string>
+    <string name="phrase_translate_420">Elle ne sait pas nager.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_401">la fermeture éclair</string>
+    <string name="word_LT_402">le placard</string>
+    <string name="word_LT_403">riche</string>
+    <string name="word_LT_404">première</string>
+    <string name="word_LT_405">la boutique</string>
+    <string name="word_LT_406">la soupe</string>
+    <string name="word_LT_407">la cuisine</string>
+    <string name="word_LT_408">commander</string>
+    <string name="word_LT_409">vivre</string>
+    <string name="word_LT_410">le verre</string>
+    <string name="word_LT_411">foncé</string>
+    <string name="word_LT_412">mouiller</string>
+    <string name="word_LT_413">petit</string>
+    <string name="word_LT_414">aujourd\'hui</string>
+    <string name="word_LT_415">rien</string>
+    <string name="word_LT_416">le nombre</string>
+    <string name="word_LT_417">le policier</string>
+    <string name="word_LT_418">le frère</string>
+    <string name="word_LT_419">l\'Ile</string>
+    <string name="word_LT_420">donner</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_401">la cravate</string>
+    <string name="word_RT_402">le serveur</string>
+    <string name="word_RT_403">d\'or</string>
+    <string name="word_RT_404">marié</string>
+    <string name="word_RT_405">le micro-onde</string>
+    <string name="word_RT_406">la bouilloire</string>
+    <string name="word_RT_407">la poubelle</string>
+    <string name="word_RT_408">gagner</string>
+    <string name="word_RT_409">chercher</string>
+    <string name="word_RT_410">la canette</string>
+    <string name="word_RT_411">jaune</string>
+    <string name="word_RT_412">venteux</string>
+    <string name="word_RT_413">grand</string>
+    <string name="word_RT_414">entier</string>
+    <string name="word_RT_415">peu</string>
+    <string name="word_RT_416">Le manuel</string>
+    <string name="word_RT_417">l\'infirmière</string>
+    <string name="word_RT_418">le fils</string>
+    <string name="word_RT_419">la piscine</string>
+    <string name="word_RT_420">nettoyer</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_401">la prise</string>
+    <string name="word_LB_402">la musique</string>
+    <string name="word_LB_403">léger</string>
+    <string name="word_LB_404">dernier</string>
+    <string name="word_LB_405">la soupe</string>
+    <string name="word_LB_406">le lave-vaisselle</string>
+    <string name="word_LB_407">la boisson</string>
+    <string name="word_LB_408">vendre</string>
+    <string name="word_LB_409">à savoir</string>
+    <string name="word_LB_410">la fourchette</string>
+    <string name="word_LB_411">vert</string>
+    <string name="word_LB_412">léger</string>
+    <string name="word_LB_413">cher</string>
+    <string name="word_LB_414">ensoleillé</string>
+    <string name="word_LB_415">beaucoup</string>
+    <string name="word_LB_416">la lettre</string>
+    <string name="word_LB_417">l\'enseignant</string>
+    <string name="word_LB_418">la personne</string>
+    <string name="word_LB_419">la fleur</string>
+    <string name="word_LB_420">nager</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_401">le jean</string>
+    <string name="word_RB_402">l\'évier</string>
+    <string name="word_RB_403">similaire</string>
+    <string name="word_RB_404">cassé</string>
+    <string name="word_RB_405">la poêle</string>
+    <string name="word_RB_406">le réfrigérateur</string>
+    <string name="word_RB_407">le thé</string>
+    <string name="word_RB_408">payer</string>
+    <string name="word_RB_409">aimer</string>
+    <string name="word_RB_410">le couteau</string>
+    <string name="word_RB_411">rose</string>
+    <string name="word_RB_412">foncé</string>
+    <string name="word_RB_413">sucré</string>
+    <string name="word_RB_414">chaud</string>
+    <string name="word_RB_415">suffisant</string>
+    <string name="word_RB_416">le mot</string>
+    <string name="word_RB_417">le constructeur</string>
+    <string name="word_RB_418">le soleil</string>
+    <string name="word_RB_419">la voiture</string>
+    <string name="word_RB_420">cuisiner</string>
+    <!-- END -->
+</resources>

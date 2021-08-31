@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_81">Culoare</string>
+    <string name="word_translate_82">roşu</string>
+    <string name="word_translate_83">sur</string>
+    <string name="word_translate_84">Transport</string>
+    <string name="word_translate_85">Tren</string>
+    <string name="word_translate_86">Avion</string>
+    <string name="word_translate_87">încet</string>
+    <string name="word_translate_88">lung</string>
+    <string name="word_translate_89">Tramvai</string>
+    <string name="word_translate_90">galben</string>
+    <string name="word_translate_91">Autostradă</string>
+    <string name="word_translate_92">Parcare</string>
+    <string name="word_translate_93">Loc</string>
+    <string name="word_translate_94">albastru</string>
+    <string name="word_translate_95">a alimenta</string>
+    <string name="word_translate_96">a starta</string>
+    <string name="word_translate_97">Benzinărie</string>
+    <string name="word_translate_98">Şantier</string>
+    <string name="word_translate_99">alb</string>
+    <string name="word_translate_100">a construi</string>
+    <!-- END -->
+
+    <!-- PHRASE  -->
+    <string name="phrase_translate_81">Care culoare îţi place ţie?</string>
+    <string name="phrase_translate_82">Mărul este roşu.</string>
+    <string name="phrase_translate_83">El are părul sur.</string>
+    <string name="phrase_translate_84">În oraş este mult transport</string>
+    <string name="phrase_translate_85">Când vine trenul?</string>
+    <string name="phrase_translate_86">Avionul nostru este la 15:00.</string>
+    <string name="phrase_translate_87">Tu mergi foarte încet.</string>
+    <string name="phrase_translate_88">Tu ai păr lung.</string>
+    <string name="phrase_translate_89">Unde merge tramvaiul?</string>
+    <string name="phrase_translate_90">Soarele este galben.</string>
+    <string name="phrase_translate_91">Eu merg pe autostradă.</string>
+    <string name="phrase_translate_92">Eu caut un loc de parcare.</string>
+    <string name="phrase_translate_93">Aici este loc destul.</string>
+    <string name="phrase_translate_94">Cerul îi albastru.</string>
+    <string name="phrase_translate_95">Noi trebuie sa alimentăm maşina.</string>
+    <string name="phrase_translate_96">Startează maşina!</string>
+    <string name="phrase_translate_97">Unde este benzinăria?</string>
+    <string name="phrase_translate_98">Atenţie! Aici este un şantier de construcţie.</string>
+    <string name="phrase_translate_99">alb ca zăpada</string>
+    <string name="phrase_translate_100">Eu construiesc o casă.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_81">Culoare</string>
+    <string name="word_LT_82">verde</string>
+    <string name="word_LT_83">albastru</string>
+    <string name="word_LT_84">Avion</string>
+    <string name="word_LT_85">Drum</string>
+    <string name="word_LT_86">Avion</string>
+    <string name="word_LT_87">cald</string>
+    <string name="word_LT_88">aproape</string>
+    <string name="word_LT_89">Drum</string>
+    <string name="word_LT_90">galben</string>
+    <string name="word_LT_91">Autoservice</string>
+    <string name="word_LT_92">Parc</string>
+    <string name="word_LT_93">Stradă</string>
+    <string name="word_LT_94">albastru</string>
+    <string name="word_LT_95">a construi</string>
+    <string name="word_LT_96">a merge</string>
+    <string name="word_LT_97">Apartament</string>
+    <string name="word_LT_98">Pământ</string>
+    <string name="word_LT_99">albastru</string>
+    <string name="word_LT_100">a construi</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_81">Prieten</string>
+    <string name="word_RT_82">roşu</string>
+    <string name="word_RT_83">verde</string>
+    <string name="word_RT_84">Bicicletă</string>
+    <string name="word_RT_85">Casă</string>
+    <string name="word_RT_86">Transport</string>
+    <string name="word_RT_87">încet</string>
+    <string name="word_RT_88">mare</string>
+    <string name="word_RT_89">Transport</string>
+    <string name="word_RT_90">sur</string>
+    <string name="word_RT_91">Instruire</string>
+    <string name="word_RT_92">Parcare</string>
+    <string name="word_RT_93">Tren</string>
+    <string name="word_RT_94">verde</string>
+    <string name="word_RT_95">a alimenta</string>
+    <string name="word_RT_96">a construi</string>
+    <string name="word_RT_97">Tanc</string>
+    <string name="word_RT_98">Bicicletă</string>
+    <string name="word_RT_99">verde</string>
+    <string name="word_RT_100">a spăla</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_81">Floare</string>
+    <string name="word_LB_82">albastru</string>
+    <string name="word_LB_83">roz</string>
+    <string name="word_LB_84">Transport</string>
+    <string name="word_LB_85">Pat</string>
+    <string name="word_LB_86">Aeroport</string>
+    <string name="word_LB_87">repede</string>
+    <string name="word_LB_88">lung</string>
+    <string name="word_LB_89">Tractor</string>
+    <string name="word_LB_90">verde</string>
+    <string name="word_LB_91">Autostradă</string>
+    <string name="word_LB_92">Benzinărie</string>
+    <string name="word_LB_93">Drum</string>
+    <string name="word_LB_94">negru</string>
+    <string name="word_LB_95">a trăi</string>
+    <string name="word_LB_96">a starta</string>
+    <string name="word_LB_97">Tractor</string>
+    <string name="word_LB_98">Autostradă</string>
+    <string name="word_LB_99">roz</string>
+    <string name="word_LB_100">a merge</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_81">Viaţă</string>
+    <string name="word_RB_82">roz</string>
+    <string name="word_RB_83">sur</string>
+    <string name="word_RB_84">Autostradă</string>
+    <string name="word_RB_85">Tren</string>
+    <string name="word_RB_86">Fluture</string>
+    <string name="word_RB_87">lung</string>
+    <string name="word_RB_88">departe</string>
+    <string name="word_RB_89">Tramvai</string>
+    <string name="word_RB_90">roşu</string>
+    <string name="word_RB_91">Benzinărie</string>
+    <string name="word_RB_92">Tren</string>
+    <string name="word_RB_93">Loc</string>
+    <string name="word_RB_94">galben</string>
+    <string name="word_RB_95">a merge</string>
+    <string name="word_RB_96">a sta</string>
+    <string name="word_RB_97">Benzinărie</string>
+    <string name="word_RB_98">Şantier</string>
+    <string name="word_RB_99">alb</string>
+    <string name="word_RB_100">a alimenta</string>
+    <!-- END -->
+</resources>

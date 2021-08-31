@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_501">Dostawa</string>
+    <string name="word_translate_502">dostarczyć</string>
+    <string name="word_translate_503">Pakiet</string>
+    <string name="word_translate_504">plecy</string>
+    <string name="word_translate_505">obserwować</string>
+    <string name="word_translate_506">Aktor</string>
+    <string name="word_translate_507">Teatr</string>
+    <string name="word_translate_508">Cyrk</string>
+    <string name="word_translate_509">Film</string>
+    <string name="word_translate_510">odlecieć</string>
+    <string name="word_translate_511">Telenowela</string>
+    <string name="word_translate_512">Producent</string>
+    <string name="word_translate_513">Osiągnięcie</string>
+    <string name="word_translate_514">osiągnąć</string>
+    <string name="word_translate_515">Obowiązek</string>
+    <string name="word_translate_516">odwiedzać</string>
+    <string name="word_translate_517">Zamówienie</string>
+    <string name="word_translate_518">czysto</string>
+    <string name="word_translate_519">Para</string>
+    <string name="word_translate_520">Krok</string>
+
+    <!-- PHRASE  -->
+    <string name="phrase_translate_501">Twoja przesyłka dotarła.</string>
+    <string name="phrase_translate_502">Dostarcza pocztę.</string>
+    <string name="phrase_translate_503">Mam jedną paczkę.</string>
+    <string name="phrase_translate_504">Wracam do domu.</string>
+    <string name="phrase_translate_505">Patrzę na ciebie.</string>
+    <string name="phrase_translate_506">Chcę być aktorem.</string>
+    <string name="phrase_translate_507">W sobotę idę do teatru.</string>
+    <string name="phrase_translate_508">Cyrk był fajny.</string>
+    <string name="phrase_translate_509">Bardzo ciekawy film.</string>
+    <string name="phrase_translate_510">Kręcę wideo.</string>
+    <string name="phrase_translate_511">Ta seria ma wiele odcinków.</string>
+    <string name="phrase_translate_512">Z zawodu jest reżyserem</string>
+    <string name="phrase_translate_513">To wielkie osiągnięcie.</string>
+    <string name="phrase_translate_514">Sam to osiągnął.</string>
+    <string name="phrase_translate_515">To moja odpowiedzialność.</string>
+    <string name="phrase_translate_516">Zwiedziliśmy muzeum.</string>
+    <string name="phrase_translate_517">Muszę posprzątać dom.</string>
+    <string name="phrase_translate_518">Sprzątam mieszkanie.</string>
+    <string name="phrase_translate_519">kilka dni później</string>
+    <string name="phrase_translate_520">Zrób krok do tyłu.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_501">Deszcz</string>
+    <string name="word_LT_502">dostarczyć</string>
+    <string name="word_LT_503">Zespół</string>
+    <string name="word_LT_504">nic</string>
+    <string name="word_LT_505">włączać</string>
+    <string name="word_LT_506">Policjant</string>
+    <string name="word_LT_507">Wioska</string>
+    <string name="word_LT_508">Portfel</string>
+    <string name="word_LT_509">Wioska</string>
+    <string name="word_LT_510">zamówienie</string>
+    <string name="word_LT_511">Drewno</string>
+    <string name="word_LT_512">Policjant</string>
+    <string name="word_LT_513">Doświadczenie</string>
+    <string name="word_LT_514">osiągnąć</string>
+    <string name="word_LT_515">Ubezpieczenie</string>
+    <string name="word_LT_516">rzucić</string>
+    <string name="word_LT_517">Zamówienie</string>
+    <string name="word_LT_518">czysto</string>
+    <string name="word_LT_519">Myśl</string>
+    <string name="word_LT_520">Krok</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_501">Zasady</string>
+    <string name="word_RT_502">włączać</string>
+    <string name="word_RT_503">Dostawa</string>
+    <string name="word_RT_504">plecy</string>
+    <string name="word_RT_505">śmiać się</string>
+    <string name="word_RT_506">Producent</string>
+    <string name="word_RT_507">Teatr</string>
+    <string name="word_RT_508">Cyrk</string>
+    <string name="word_RT_509">Sypialnia</string>
+    <string name="word_RT_510">odlecieć</string>
+    <string name="word_RT_511">Zwierzę</string>
+    <string name="word_RT_512">Producent</string>
+    <string name="word_RT_513">Pamięć</string>
+    <string name="word_RT_514">Szukaj</string>
+    <string name="word_RT_515">Sprawdzać</string>
+    <string name="word_RT_516">zebrać</string>
+    <string name="word_RT_517">Korzyść</string>
+    <string name="word_RT_518">cichy</string>
+    <string name="word_RT_519">Nagroda</string>
+    <string name="word_RT_520">Tłumaczenie</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_501">Dostawa</string>
+    <string name="word_LB_502">Rozbierz się</string>
+    <string name="word_LB_503">Czapka</string>
+    <string name="word_LB_504">dużo</string>
+    <string name="word_LB_505">obserwować</string>
+    <string name="word_LB_506">Aktor</string>
+    <string name="word_LB_507">Góra</string>
+    <string name="word_LB_508">Gabinet</string>
+    <string name="word_LB_509">Film</string>
+    <string name="word_LB_510">Sprzedać</string>
+    <string name="word_LB_511">Odpoczynek</string>
+    <string name="word_LB_512">Nauczyciel</string>
+    <string name="word_LB_513">Pamięć</string>
+    <string name="word_LB_514">wiedzieć</string>
+    <string name="word_LB_515">Obowiązek</string>
+    <string name="word_LB_516">odwiedzać</string>
+    <string name="word_LB_517">Dusza</string>
+    <string name="word_LB_518">ostatni</string>
+    <string name="word_LB_519">Para</string>
+    <string name="word_LB_520">Wydarzenie</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_501">Pogoda</string>
+    <string name="word_RB_502">zapytać się</string>
+    <string name="word_RB_503">Pakiet</string>
+    <string name="word_RB_504">wystarczająco</string>
+    <string name="word_RB_505">zrelaksować się</string>
+    <string name="word_RB_506">Budowniczy</string>
+    <string name="word_RB_507">Okno</string>
+    <string name="word_RB_508">Kościół</string>
+    <string name="word_RB_509">Drewno</string>
+    <string name="word_RB_510">płacić</string>
+    <string name="word_RB_511">Telenowela</string>
+    <string name="word_RB_512">Budowniczy</string>
+    <string name="word_RB_513">Osiągnięcie</string>
+    <string name="word_RB_514">być zakochanym</string>
+    <string name="word_RB_515">Korzyść</string>
+    <string name="word_RB_516">skakać</string>
+    <string name="word_RB_517">Podatek</string>
+    <string name="word_RB_518">złamany</string>
+    <string name="word_RB_519">Dusza</string>
+    <string name="word_RB_520">Emerytura</string>
+    <!-- END -->
+</resources>

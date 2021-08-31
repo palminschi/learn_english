@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_521">Штука</string>
+    <string name="word_translate_522">немножко</string>
+    <string name="word_translate_523">Список</string>
+    <string name="word_translate_524">Развитие</string>
+    <string name="word_translate_525">Разработчик</string>
+    <string name="word_translate_526">Программист</string>
+    <string name="word_translate_527">разработать</string>
+    <string name="word_translate_528">Решение</string>
+    <string name="word_translate_529">Совет</string>
+    <string name="word_translate_530">советать</string>
+    <string name="word_translate_531">Спор</string>
+    <string name="word_translate_532">спорить</string>
+    <string name="word_translate_533">Помощь</string>
+    <string name="word_translate_534">помогать</string>
+    <string name="word_translate_535">заботиться</string>
+    <string name="word_translate_536">Забота</string>
+    <string name="word_translate_537">Тест</string>
+    <string name="word_translate_538">тестировать</string>
+    <string name="word_translate_539">проверять</string>
+    <string name="word_translate_540">экономить</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_521">Дайте мне 2 штуки, пожалуйста</string>
+    <string name="phrase_translate_522">Я немного говорю по-немецки.</string>
+    <string name="phrase_translate_523">У меня есть список дел.</string>
+    <string name="phrase_translate_524">Развитие компании.</string>
+    <string name="phrase_translate_525">Он работает разработчиком.</string>
+    <string name="phrase_translate_526">Программист делает мне сайт.</string>
+    <string name="phrase_translate_527">Мы разработали новую программу</string>
+    <string name="phrase_translate_528">Я не могу найти решение.</string>
+    <string name="phrase_translate_529">Мне нужен совет.</string>
+    <string name="phrase_translate_530">Советую Вам сделать это.</string>
+    <string name="phrase_translate_531">Возник спор</string>
+    <string name="phrase_translate_532">Они спорят с нами.</string>
+    <string name="phrase_translate_533">Ему нужна помощь.</string>
+    <string name="phrase_translate_534">Я должен помочь бабушке.</string>
+    <string name="phrase_translate_535">Я забочусь о нем.</string>
+    <string name="phrase_translate_536">Собаке нужен уход.</string>
+    <string name="phrase_translate_537">Я сделал тест.</string>
+    <string name="phrase_translate_538">Я протестирую машину.</string>
+    <string name="phrase_translate_539">Учитель проверяет как мы пишем.</string>
+    <string name="phrase_translate_540">Я экономлю деньги.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_521">Мысль</string>
+    <string name="word_LT_522">ничего</string>
+    <string name="word_LT_523">Штаны</string>
+    <string name="word_LT_524">Документ</string>
+    <string name="word_LT_525">Полицейский</string>
+    <string name="word_LT_526">Актёр</string>
+    <string name="word_LT_527">разработать</string>
+    <string name="word_LT_528">Мысль</string>
+    <string name="word_LT_529">Деревня</string>
+    <string name="word_LT_530">забыть</string>
+    <string name="word_LT_531">Совет</string>
+    <string name="word_LT_532">красть</string>
+    <string name="word_LT_533">Забота</string>
+    <string name="word_LT_534">смеяться</string>
+    <string name="word_LT_535">заботиться</string>
+    <string name="word_LT_536">Память</string>
+    <string name="word_LT_537">Выход</string>
+    <string name="word_LT_538">сломать</string>
+    <string name="word_LT_539">ждать</string>
+    <string name="word_LT_540">контролировать</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_521">Штука</string>
+    <string name="word_RT_522">назад</string>
+    <string name="word_RT_523">Волосы</string>
+    <string name="word_RT_524">Развитие</string>
+    <string name="word_RT_525">Режиссёр</string>
+    <string name="word_RT_526">Программист</string>
+    <string name="word_RT_527">кушать</string>
+    <string name="word_RT_528">Премия</string>
+    <string name="word_RT_529">Опыт</string>
+    <string name="word_RT_530">искать</string>
+    <string name="word_RT_531">Развитие</string>
+    <string name="word_RT_532">спорить</string>
+    <string name="word_RT_533">Помощь</string>
+    <string name="word_RT_534">помогать</string>
+    <string name="word_RT_535">собирать</string>
+    <string name="word_RT_536">Забота</string>
+    <string name="word_RT_537">Обучение</string>
+    <string name="word_RT_538">тестировать</string>
+    <string name="word_RT_539">забыть</string>
+    <string name="word_RT_540">петь</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_521">Пара</string>
+    <string name="word_LB_522">много</string>
+    <string name="word_LB_523">Кепка</string>
+    <string name="word_LB_524">Польза</string>
+    <string name="word_LB_525">Актёр</string>
+    <string name="word_LB_526">Полицейский</string>
+    <string name="word_LB_527">перейти</string>
+    <string name="word_LB_528">Решение</string>
+    <string name="word_LB_529">Пенсия</string>
+    <string name="word_LB_530">знать</string>
+    <string name="word_LB_531">Решение</string>
+    <string name="word_LB_532">упасть</string>
+    <string name="word_LB_533">Случай</string>
+    <string name="word_LB_534">отдыхать</string>
+    <string name="word_LB_535">поливать</string>
+    <string name="word_LB_536">Прибыль</string>
+    <string name="word_LB_537">Экзамен</string>
+    <string name="word_LB_538">лечить</string>
+    <string name="word_LB_539">проверять</string>
+    <string name="word_LB_540">прыгнуть</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_521">Душа</string>
+    <string name="word_RB_522">немножко</string>
+    <string name="word_RB_523">Список</string>
+    <string name="word_RB_524">Сдача</string>
+    <string name="word_RB_525">Разработчик</string>
+    <string name="word_RB_526">Режиссёр</string>
+    <string name="word_RB_527">путешествовать</string>
+    <string name="word_RB_528">Душа</string>
+    <string name="word_RB_529">Совет</string>
+    <string name="word_RB_530">советать</string>
+    <string name="word_RB_531">Спор</string>
+    <string name="word_RB_532">курить</string>
+    <string name="word_RB_533">Перевод</string>
+    <string name="word_RB_534">петь</string>
+    <string name="word_RB_535">прыгнуть</string>
+    <string name="word_RB_536">Игра</string>
+    <string name="word_RB_537">Тест</string>
+    <string name="word_RB_538">упасть</string>
+    <string name="word_RB_539">стоять</string>
+    <string name="word_RB_540">экономить</string>
+    <!-- END -->
+</resources>

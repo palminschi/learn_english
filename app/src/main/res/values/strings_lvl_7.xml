@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_title_121" translatable="false">la parada</string>
+    <string name="word_title_122" translatable="false">detener</string>
+    <string name="word_title_123" translatable="false">el pueblo</string>
+    <string name="word_title_124" translatable="false">allí</string>
+    <string name="word_title_125" translatable="false">aquí</string>
+    <string name="word_title_126" translatable="false">lejos</string>
+    <string name="word_title_127" translatable="false">la cerca</string>
+    <string name="word_title_128" translatable="false">saltar</string>
+    <string name="word_title_129" translatable="false">caer</string>
+    <string name="word_title_130" translatable="false">la pierna</string>
+    <string name="word_title_131" translatable="false">los pantalones</string>
+    <string name="word_title_132" translatable="false">los zapatos</string>
+    <string name="word_title_133" translatable="false">la cartera</string>
+    <string name="word_title_134" translatable="false">la chaqueta</string>
+    <string name="word_title_135" translatable="false">el pelo</string>
+    <string name="word_title_136" translatable="false">la tapa</string>
+    <string name="word_title_137" translatable="false">el sombrero</string>
+    <string name="word_title_138" translatable="false">el atuendo</string>
+    <string name="word_title_139" translatable="false">la cabeza</string>
+    <string name="word_title_140" translatable="false">la boca</string>
+
+    <string name="word_translate_121">stop</string>
+    <string name="word_translate_122">to stop</string>
+    <string name="word_translate_123">village</string>
+    <string name="word_translate_124">there</string>
+    <string name="word_translate_125">here</string>
+    <string name="word_translate_126">far</string>
+    <string name="word_translate_127">fence</string>
+    <string name="word_translate_128">to jump</string>
+    <string name="word_translate_129">to fall</string>
+    <string name="word_translate_130">leg</string>
+    <string name="word_translate_131">pants</string>
+    <string name="word_translate_132">shoes</string>
+    <string name="word_translate_133">wallet</string>
+    <string name="word_translate_134">jacket</string>
+    <string name="word_translate_135">hair</string>
+    <string name="word_translate_136">cap</string>
+    <string name="word_translate_137">hat</string>
+    <string name="word_translate_138">clothing</string>
+    <string name="word_translate_139">head</string>
+    <string name="word_translate_140">mouth</string>
+    <!-- END -->
+
+    <!-- PHRASE + TRANSLATE -->
+    <string name="phrase_121" translatable="false">Estoy esperando en la parada del bus.</string>
+    <string name="phrase_translate_121">I\'m waiting on the bus stop.</string>
+
+    <string name="phrase_122" translatable="false">Deténgase aquí.</string>
+    <string name="phrase_translate_122">Stay here!</string>
+
+    <string name="phrase_123" translatable="false">¿Vives en una ciudad o en un pueblo?</string>
+    <string name="phrase_translate_123">Do you live in a city or in a village?</string>
+
+    <string name="phrase_124" translatable="false">Yo vivo allá.</string>
+    <string name="phrase_translate_124">I live there.</string>
+
+    <string name="phrase_125" translatable="false">Aquí y ahora</string>
+    <string name="phrase_translate_125">Here and now</string>
+
+    <string name="phrase_126" translatable="false">Me voy muy lejos</string>
+    <string name="phrase_translate_126">I go far away.</string>
+
+    <string name="phrase_127" translatable="false">La valla es alta.</string>
+    <string name="phrase_translate_127">The fence is high.</string>
+
+    <string name="phrase_128" translatable="false">Estoy saltando la valla.</string>
+    <string name="phrase_translate_128">I\'m jumping over the fence.</string>
+
+    <string name="phrase_129" translatable="false">¿Te has caído?</string>
+    <string name="phrase_translate_129">Have you fallen?</string>
+
+    <string name="phrase_130" translatable="false">Me duele la pierna.</string>
+    <string name="phrase_translate_130">My leg hurts.</string>
+
+    <string name="phrase_131" translatable="false">Los pantalones son demasiado cortos.</string>
+    <string name="phrase_translate_131">The pants are too short.</string>
+
+    <string name="phrase_132" translatable="false">Tengo que comprar zapatos.</string>
+    <string name="phrase_translate_132">I have to buy shoes.</string>
+
+    <string name="phrase_133" translatable="false">He perdido mi cartera.</string>
+    <string name="phrase_translate_133">I have lost my wallet.</string>
+
+    <string name="phrase_134" translatable="false">Tu chaqueta está sucia.</string>
+    <string name="phrase_translate_134">Your jacket is dirty.</string>
+
+    <string name="phrase_135" translatable="false">Tienes cabello largo.</string>
+    <string name="phrase_translate_135">You have long hair.</string>
+
+    <string name="phrase_136" translatable="false">¿Dónde está mi gorra?</string>
+    <string name="phrase_translate_136">Where is my cap?</string>
+
+    <string name="phrase_137" translatable="false">Tiene un gran sombrero.</string>
+    <string name="phrase_translate_137">She has got a big hat.</string>
+
+    <string name="phrase_138" translatable="false">Tienda de ropa</string>
+    <string name="phrase_translate_138">Clothing store</string>
+
+    <string name="phrase_139" translatable="false">Me duele la cabeza.</string>
+    <string name="phrase_translate_139">My head aches.</string>
+
+    <string name="phrase_140" translatable="false">Respira por la boca</string>
+    <string name="phrase_translate_140">Breathe through the mouth</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_121">village</string>
+    <string name="word_LT_122">to eat</string>
+    <string name="word_LT_123">village</string>
+    <string name="word_LT_124">behind</string>
+    <string name="word_LT_125">fast</string>
+    <string name="word_LT_126">fast</string>
+    <string name="word_LT_127">castle</string>
+    <string name="word_LT_128">to ask</string>
+    <string name="word_LT_129">to fall</string>
+    <string name="word_LT_130">bathroom</string>
+    <string name="word_LT_131">horse</string>
+    <string name="word_LT_132">chair</string>
+    <string name="word_LT_133">wallet</string>
+    <string name="word_LT_134">clothing</string>
+    <string name="word_LT_135">pants</string>
+    <string name="word_LT_136">cap</string>
+    <string name="word_LT_137">mouth</string>
+    <string name="word_LT_138">hand</string>
+    <string name="word_LT_139">fence</string>
+    <string name="word_LT_140">cat</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_121">stop</string>
+    <string name="word_RT_122">to drive</string>
+    <string name="word_RT_123">house</string>
+    <string name="word_RT_124">there</string>
+    <string name="word_RT_125">bottom</string>
+    <string name="word_RT_126">far</string>
+    <string name="word_RT_127">sauna</string>
+    <string name="word_RT_128">to collect</string>
+    <string name="word_RT_129">to steal</string>
+    <string name="word_RT_130">leg</string>
+    <string name="word_RT_131">sound</string>
+    <string name="word_RT_132">glasses</string>
+    <string name="word_RT_133">money</string>
+    <string name="word_RT_134">jacket</string>
+    <string name="word_RT_135">hair</string>
+    <string name="word_RT_136">head</string>
+    <string name="word_RT_137">horse</string>
+    <string name="word_RT_138">body</string>
+    <string name="word_RT_139">stop</string>
+    <string name="word_RT_140">hand</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_121">filling station</string>
+    <string name="word_LB_122">to begin</string>
+    <string name="word_LB_123">mountain</string>
+    <string name="word_LB_124">left</string>
+    <string name="word_LB_125">here</string>
+    <string name="word_LB_126">high</string>
+    <string name="word_LB_127">fence</string>
+    <string name="word_LB_128">to think</string>
+    <string name="word_LB_129">to drive</string>
+    <string name="word_LB_130">mountain</string>
+    <string name="word_LB_131">pants</string>
+    <string name="word_LB_132">clothing</string>
+    <string name="word_LB_133">cupboard</string>
+    <string name="word_LB_134">shoes</string>
+    <string name="word_LB_135">cap</string>
+    <string name="word_LB_136">hair</string>
+    <string name="word_LB_137">dog</string>
+    <string name="word_LB_138">clothing</string>
+    <string name="word_LB_139">head</string>
+    <string name="word_LB_140">mouth</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_121">construction</string>
+    <string name="word_RB_122">to stop</string>
+    <string name="word_RB_123">tree</string>
+    <string name="word_RB_124">between</string>
+    <string name="word_RB_125">between</string>
+    <string name="word_RB_126">near</string>
+    <string name="word_RB_127">earth</string>
+    <string name="word_RB_128">to jump</string>
+    <string name="word_RB_129">to wash</string>
+    <string name="word_RB_130">forest</string>
+    <string name="word_RB_131">glasses</string>
+    <string name="word_RB_132">shoes</string>
+    <string name="word_RB_133">T-shirt</string>
+    <string name="word_RB_134">glasses</string>
+    <string name="word_RB_135">hat</string>
+    <string name="word_RB_136">mouth</string>
+    <string name="word_RB_137">hat</string>
+    <string name="word_RB_138">glasses</string>
+    <string name="word_RB_139">construction</string>
+    <string name="word_RB_140">sea</string>
+    <!-- END -->
+</resources>

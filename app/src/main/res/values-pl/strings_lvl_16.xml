@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_301">Zamek</string>
+    <string name="word_translate_302">Most</string>
+    <string name="word_translate_303">Sklep</string>
+    <string name="word_translate_304">Przedszkole</string>
+    <string name="word_translate_305">Ogród</string>
+    <string name="word_translate_306">Warzywa</string>
+    <string name="word_translate_307">Ogrodnik</string>
+    <string name="word_translate_308">podlewać</string>
+    <string name="word_translate_309">Ślad</string>
+    <string name="word_translate_310">Źródło</string>
+    <string name="word_translate_311">Gałąź</string>
+    <string name="word_translate_312">Ratusz</string>
+    <string name="word_translate_313">Kościół</string>
+    <string name="word_translate_314">stadion</string>
+    <string name="word_translate_315">Zespół</string>
+    <string name="word_translate_316">Piłka nożna</string>
+    <string name="word_translate_317">Uruchomić</string>
+    <string name="word_translate_318">Bramy</string>
+    <string name="word_translate_319">Piłka</string>
+    <string name="word_translate_320">bawić się</string>
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_301">W Niemczech jest wiele zamków.</string>
+    <string name="phrase_translate_302">Przeszliśmy przez most.</string>
+    <string name="phrase_translate_303">Idę do domu towarowego.</string>
+    <string name="phrase_translate_304">Moje dzieci są w przedszkolu.</string>
+    <string name="phrase_translate_305">Mam dużo pracy w ogrodzie.</string>
+    <string name="phrase_translate_306">Muszę kupić warzywa.</string>
+    <string name="phrase_translate_307">Pracuje jako ogrodnik.</string>
+    <string name="phrase_translate_308">Podlewa kwiaty.</string>
+    <string name="phrase_translate_309">Tutaj ścieżka się skończyła.</string>
+    <string name="phrase_translate_310">Te drzewa mają wiele korzeni</string>
+    <string name="phrase_translate_311">Drzewo ma długie gałęzie.</string>
+    <string name="phrase_translate_312">Gdzie znajduje się Urząd Miasta?</string>
+    <string name="phrase_translate_313">W niedziele chodzi do kościoła.</string>
+    <string name="phrase_translate_314">Grają w piłkę na stadionie</string>
+    <string name="phrase_translate_315">Pierwsza drużyna wygrała.</string>
+    <string name="phrase_translate_316">On gra w piłkę nożną.</string>
+    <string name="phrase_translate_317">Bieganie jest dobre dla zdrowia.</string>
+    <string name="phrase_translate_318">Piłka jest w bramce.</string>
+    <string name="phrase_translate_319">Dałem mu piłkę.</string>
+    <string name="phrase_translate_320">Gram na gitarze.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_301">Wioska</string>
+    <string name="word_LT_302">Drewno</string>
+    <string name="word_LT_303">Wioska</string>
+    <string name="word_LT_304">Wyspa</string>
+    <string name="word_LT_305">Kwiat</string>
+    <string name="word_LT_306">Samolot</string>
+    <string name="word_LT_307">Zamek</string>
+    <string name="word_LT_308">zapytać</string>
+    <string name="word_LT_309">Ślad</string>
+    <string name="word_LT_310">Łazienka</string>
+    <string name="word_LT_311">Gałąź</string>
+    <string name="word_LT_312">Krzesło</string>
+    <string name="word_LT_313">Portfel</string>
+    <string name="word_LT_314">odzież</string>
+    <string name="word_LT_315">Zespół</string>
+    <string name="word_LT_316">Czapka</string>
+    <string name="word_LT_317">Uruchomić</string>
+    <string name="word_LT_318">Ramię</string>
+    <string name="word_LT_319">Ogrodzenie</string>
+    <string name="word_LT_320">bawić się</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_301">Zamek</string>
+    <string name="word_RT_302">Zwierzę</string>
+    <string name="word_RT_303">Sklep</string>
+    <string name="word_RT_304">Przedszkole</string>
+    <string name="word_RT_305">Kot</string>
+    <string name="word_RT_306">Motyl</string>
+    <string name="word_RT_307">Ogrodnik</string>
+    <string name="word_RT_308">zebrać</string>
+    <string name="word_RT_309">Ramię</string>
+    <string name="word_RT_310">Źródło</string>
+    <string name="word_RT_311">Dźwięk</string>
+    <string name="word_RT_312">Okulary</string>
+    <string name="word_RT_313">Pieniądze</string>
+    <string name="word_RT_314">stadion</string>
+    <string name="word_RT_315">Włosy</string>
+    <string name="word_RT_316">Głowa</string>
+    <string name="word_RT_317">Koń</string>
+    <string name="word_RT_318">Ciało</string>
+    <string name="word_RT_319">Zatrzymać</string>
+    <string name="word_RT_320">kraść</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_301">Tankowanie</string>
+    <string name="word_LB_302">Kwiat</string>
+    <string name="word_LB_303">Góra</string>
+    <string name="word_LB_304">Drewno</string>
+    <string name="word_LB_305">Ogród</string>
+    <string name="word_LB_306">Warzywa</string>
+    <string name="word_LB_307">Ogrodzenie</string>
+    <string name="word_LB_308">podlewać</string>
+    <string name="word_LB_309">Usta</string>
+    <string name="word_LB_310">Góra</string>
+    <string name="word_LB_311">Spodnie</string>
+    <string name="word_LB_312">Ratusz</string>
+    <string name="word_LB_313">Gabinet</string>
+    <string name="word_LB_314">Buty</string>
+    <string name="word_LB_315">Czapka</string>
+    <string name="word_LB_316">Piłka nożna</string>
+    <string name="word_LB_317">Pies</string>
+    <string name="word_LB_318">odzież</string>
+    <string name="word_LB_319">Głowa</string>
+    <string name="word_LB_320">jeździć</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_301">Budowa</string>
+    <string name="word_RB_302">Most</string>
+    <string name="word_RB_303">Drewno</string>
+    <string name="word_RB_304">Gra</string>
+    <string name="word_RB_305">Samolot</string>
+    <string name="word_RB_306">Pies</string>
+    <string name="word_RB_307">Ziemia</string>
+    <string name="word_RB_308">skakać</string>
+    <string name="word_RB_309">Morze</string>
+    <string name="word_RB_310">Las</string>
+    <string name="word_RB_311">Okulary</string>
+    <string name="word_RB_312">Buty</string>
+    <string name="word_RB_313">Kościół</string>
+    <string name="word_RB_314">Okulary</string>
+    <string name="word_RB_315">Kapelusz</string>
+    <string name="word_RB_316">Usta</string>
+    <string name="word_RB_317">Kapelusz</string>
+    <string name="word_RB_318">Bramy</string>
+    <string name="word_RB_319">Piłka</string>
+    <string name="word_RB_320">myć się</string>
+    <!-- END -->
+</resources>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_361">le placard</string>
+    <string name="word_translate_362">la cuisine</string>
+    <string name="word_translate_363">le réfrigérateur</string>
+    <string name="word_translate_365">la casserole</string>
+    <string name="word_translate_366">nettoyer</string>
+    <string name="word_translate_367">les pois</string>
+    <string name="word_translate_368">les haricots</string>
+    <string name="word_translate_369">la pomme de terre</string>
+    <string name="word_translate_370">faire frire</string>
+    <string name="word_translate_371">l\'ail</string>
+    <string name="word_translate_372">délicieux</string>
+    <string name="word_translate_373">l\'oignon</string>
+    <string name="word_translate_374">les légumes</string>
+    <string name="word_translate_375">le citron</string>
+    <string name="word_translate_376">la glace</string>
+    <string name="word_translate_377">la crème</string>
+    <string name="word_translate_378">La poire</string>
+    <string name="word_translate_379">le fruit</string>
+    <string name="word_translate_380">la chance</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_361">J\'ai acheté un nouveau placard.</string>
+    <string name="phrase_translate_362">Elle travaille dans la cuisine.</string>
+    <string name="phrase_translate_363">La nourriture est dans le réfrigérateur.</string>
+    <string name="phrase_translate_364">Il y a 3 étagères dans le placard.</string>
+    <string name="phrase_translate_365">La soupe est bouillie dans une casserole.</string>
+    <string name="phrase_translate_366">Je nettoie l\'appartement.</string>
+    <string name="phrase_translate_367">Je ne mange pas de pois.</string>
+    <string name="phrase_translate_368">Elle cuisine quelque chose avec des haricots.</string>
+    <string name="phrase_translate_369">Je mangerai des pommes de terre et de la viande.</string>
+    <string name="phrase_translate_370">Je fais frire de la viande.</string>
+    <string name="phrase_translate_371">Je ne mange pas d\'ail.</string>
+    <string name="phrase_translate_372">La soupe est très délicieuse.</string>
+    <string name="phrase_translate_373">J\'ai oublié d\'acheter des oignons.</string>
+    <string name="phrase_translate_374">Les légumes sont sains.</string>
+    <string name="phrase_translate_375">Thé au citron.</string>
+    <string name="phrase_translate_376">L\'enfant mange de la glace.</string>
+    <string name="phrase_translate_377">J\'aime le café à la crème.</string>
+    <string name="phrase_translate_378">Je bois du jus de poire.</string>
+    <string name="phrase_translate_379">Elle mange beaucoup de fruits.</string>
+    <string name="phrase_translate_380">Je te souhaite bonne chance.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_361">le placard</string>
+    <string name="word_LT_362">la cuisine</string>
+    <string name="word_LT_363">la soupe</string>
+    <string name="word_LT_364">l\'étagère</string>
+    <string name="word_LT_365">la boutique</string>
+    <string name="word_LT_366">nettoyer</string>
+    <string name="word_LT_367">la serviette</string>
+    <string name="word_LT_368">le dîner</string>
+    <string name="word_LT_369">le petit déjeuner</string>
+    <string name="word_LT_370">pour donner</string>
+    <string name="word_LT_371">le couteau</string>
+    <string name="word_LT_372">peu</string>
+    <string name="word_LT_373">la cuillère</string>
+    <string name="word_LT_374">le champignon</string>
+    <string name="word_LT_375">le restaurant</string>
+    <string name="word_LT_376">la glace</string>
+    <string name="word_LT_377">la maison</string>
+    <string name="word_LT_378">La poire</string>
+    <string name="word_LT_379">la nourriture</string>
+    <string name="word_LT_380">l\'étoile</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_361">le serveur</string>
+    <string name="word_RT_362">les nouilles</string>
+    <string name="word_RT_363">la bouilloire</string>
+    <string name="word_RT_364">la bouteille</string>
+    <string name="word_RT_365">les nouilles</string>
+    <string name="word_RT_366">chanter</string>
+    <string name="word_RT_367">les pois</string>
+    <string name="word_RT_368">le déjeuner</string>
+    <string name="word_RT_369">la pomme de terre</string>
+    <string name="word_RT_370">nettoyer</string>
+    <string name="word_RT_371">l\'ail</string>
+    <string name="word_RT_372">grand</string>
+    <string name="word_RT_373">la fourchette</string>
+    <string name="word_RT_374">la bouteille</string>
+    <string name="word_RT_375">le sous-sol</string>
+    <string name="word_RT_376">le serveur</string>
+    <string name="word_RT_377">la crème</string>
+    <string name="word_RT_378">la saucisse</string>
+    <string name="word_RT_379">la serviette</string>
+    <string name="word_RT_380">la chance</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_361">la musique</string>
+    <string name="word_LB_362">la boisson</string>
+    <string name="word_LB_363">le projet de loi</string>
+    <string name="word_LB_364">la cuillère</string>
+    <string name="word_LB_365">la soupe</string>
+    <string name="word_LB_366">cuisiner</string>
+    <string name="word_LB_367">la nourriture</string>
+    <string name="word_LB_368">les haricots</string>
+    <string name="word_LB_369">la bouilloire</string>
+    <string name="word_LB_370">faire frire</string>
+    <string name="word_LB_371">les sucreries</string>
+    <string name="word_LB_372">délicieux</string>
+    <string name="word_LB_373">la boutique</string>
+    <string name="word_LB_374">l\'avion</string>
+    <string name="word_LB_375">la bouillie</string>
+    <string name="word_LB_376">la fleur</string>
+    <string name="word_LB_377">la carotte</string>
+    <string name="word_LB_378">la fourchette</string>
+    <string name="word_LB_379">le couteau</string>
+    <string name="word_LB_380">la force</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_361">l\'avion</string>
+    <string name="word_RB_362">le thé</string>
+    <string name="word_RB_363">le réfrigérateur</string>
+    <string name="word_RB_364">la farine</string>
+    <string name="word_RB_365">la casserole</string>
+    <string name="word_RB_366">pour donner</string>
+    <string name="word_RB_367">le goût</string>
+    <string name="word_RB_368">Le régime</string>
+    <string name="word_RB_369">le déjeuner</string>
+    <string name="word_RB_370">cuisiner</string>
+    <string name="word_RB_371">la cuillère</string>
+    <string name="word_RB_372">sucré</string>
+    <string name="word_RB_373">l\'oignon</string>
+    <string name="word_RB_374">les légumes</string>
+    <string name="word_RB_375">le citron</string>
+    <string name="word_RB_376">la bouilloire</string>
+    <string name="word_RB_377">les personnes</string>
+    <string name="word_RB_378">la plaque</string>
+    <string name="word_RB_379">le fruit</string>
+    <string name="word_RB_380">le poivre</string>
+    <!-- END -->
+</resources>

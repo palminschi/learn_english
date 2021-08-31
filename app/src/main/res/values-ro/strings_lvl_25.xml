@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_481">Curte</string>
+    <string name="word_translate_482">Odihnă</string>
+    <string name="word_translate_483">Dormitor</string>
+    <string name="word_translate_484">Fotoliu</string>
+    <string name="word_translate_485">Covor</string>
+    <string name="word_translate_486">Proprietar</string>
+    <string name="word_translate_487">Plajă</string>
+    <string name="word_translate_488">Pod</string>
+    <string name="word_translate_489">Câmp</string>
+    <string name="word_translate_490">Trotuar</string>
+    <string name="word_translate_491">Răscruce</string>
+    <string name="word_translate_492">a traversa</string>
+    <string name="word_translate_493">Piatră</string>
+    <string name="word_translate_494">a arunca</string>
+    <string name="word_translate_495">Iarbă</string>
+    <string name="word_translate_496">Plante</string>
+    <string name="word_translate_497">Baie</string>
+    <string name="word_translate_498">Duș</string>
+    <string name="word_translate_499">Toaletă</string>
+    <string name="word_translate_500">Perete</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_481">Copiii se joacă în curte.</string>
+    <string name="phrase_translate_482">Am nevoie de odihnă.</string>
+    <string name="phrase_translate_483">Apartamentul meu are două dormitoare.</string>
+    <string name="phrase_translate_484">M-am așezat pe fotoliu.</string>
+    <string name="phrase_translate_485">Covorul este pătat.</string>
+    <string name="phrase_translate_486">Proprietarul vrea să vândă casa.</string>
+    <string name="phrase_translate_487">Mă odihnesc pe plajă.</string>
+    <string name="phrase_translate_488">Podul este foarte vechi.</string>
+    <string name="phrase_translate_489">Porumbul crește pe câmp.</string>
+    <string name="phrase_translate_490">Mă plimb pe trotuar.</string>
+    <string name="phrase_translate_491">Am trecut de răscruce.</string>
+    <string name="phrase_translate_492">El a traversat strada</string>
+    <string name="phrase_translate_493">O piatră a căzut de pe munte.</string>
+    <string name="phrase_translate_494">El a aruncat o piatră.</string>
+    <string name="phrase_translate_495">Vara, iarba este verde.</string>
+    <string name="phrase_translate_496">El are multe plante în apartamentul său</string>
+    <string name="phrase_translate_497">Unde e baia ta?</string>
+    <string name="phrase_translate_498">Vreau să fac un duș.</string>
+    <string name="phrase_translate_499">Trebuie să merg la toaletă.</string>
+    <string name="phrase_translate_500">Tabloul este atârnat pe perete.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_481">Sat</string>
+    <string name="word_LT_482">Copac</string>
+    <string name="word_LT_483">Sat</string>
+    <string name="word_LT_484">Insulă</string>
+    <string name="word_LT_485">Floare</string>
+    <string name="word_LT_486">Proprietar</string>
+    <string name="word_LT_487">Castel</string>
+    <string name="word_LT_488">Sat</string>
+    <string name="word_LT_489">Cărare</string>
+    <string name="word_LT_490">Baie</string>
+    <string name="word_LT_491">Creangă</string>
+    <string name="word_LT_492">a compune</string>
+    <string name="word_LT_493">Portmoneu</string>
+    <string name="word_LT_494">a arunca</string>
+    <string name="word_LT_495">Echipă</string>
+    <string name="word_LT_496">Chipiu</string>
+    <string name="word_LT_497">Alergare</string>
+    <string name="word_LT_498">Duș</string>
+    <string name="word_LT_499">Gard</string>
+    <string name="word_LT_500">Haine</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_481">Castel</string>
+    <string name="word_RT_482">Animal</string>
+    <string name="word_RT_483">Dormitor</string>
+    <string name="word_RT_484">Fotoliu</string>
+    <string name="word_RT_485">Covor</string>
+    <string name="word_RT_486">Fluture</string>
+    <string name="word_RT_487">Plajă</string>
+    <string name="word_RT_488">Pod</string>
+    <string name="word_RT_489">Mâină</string>
+    <string name="word_RT_490">Rădăcină</string>
+    <string name="word_RT_491">Sunet</string>
+    <string name="word_RT_492">a mânca</string>
+    <string name="word_RT_493">Piatră</string>
+    <string name="word_RT_494">a colecta</string>
+    <string name="word_RT_495">Păr</string>
+    <string name="word_RT_496">Cap</string>
+    <string name="word_RT_497">Baie</string>
+    <string name="word_RT_498">Corp</string>
+    <string name="word_RT_499">Oprire</string>
+    <string name="word_RT_500">Răscruce</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_481">Benzinărie</string>
+    <string name="word_LB_482">Odihnă</string>
+    <string name="word_LB_483">Munte</string>
+    <string name="word_LB_484">Copac</string>
+    <string name="word_LB_485">Grădină</string>
+    <string name="word_LB_486">Legume</string>
+    <string name="word_LB_487">Gard</string>
+    <string name="word_LB_488">Munte</string>
+    <string name="word_LB_489">Câmp</string>
+    <string name="word_LB_490">Trotuar</string>
+    <string name="word_LB_491">Răscruce</string>
+    <string name="word_LB_492">a traversa</string>
+    <string name="word_LB_493">Dulap</string>
+    <string name="word_LB_494">a uda</string>
+    <string name="word_LB_495">Chipiu</string>
+    <string name="word_LB_496">Plante</string>
+    <string name="word_LB_497">Câine</string>
+    <string name="word_LB_498">Haine</string>
+    <string name="word_LB_499">Cap</string>
+    <string name="word_LB_500">Curte</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_481">Curte</string>
+    <string name="word_RB_482">Pod</string>
+    <string name="word_RB_483">Copac</string>
+    <string name="word_RB_484">Joacă</string>
+    <string name="word_RB_485">Avion</string>
+    <string name="word_RB_486">Câine</string>
+    <string name="word_RB_487">Pământ</string>
+    <string name="word_RB_488">Fereastră</string>
+    <string name="word_RB_489">Mare</string>
+    <string name="word_RB_490">Pădure</string>
+    <string name="word_RB_491">Ochelari</string>
+    <string name="word_RB_492">a călători</string>
+    <string name="word_RB_493">Biserică</string>
+    <string name="word_RB_494">a sări</string>
+    <string name="word_RB_495">Iarbă</string>
+    <string name="word_RB_496">Gură</string>
+    <string name="word_RB_497">Pălărie</string>
+    <string name="word_RB_498">Poartă</string>
+    <string name="word_RB_499">Toaletă</string>
+    <string name="word_RB_500">Perete</string>
+    <!-- END -->
+</resources>

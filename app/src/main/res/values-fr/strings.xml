@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">English en 30 jours</string>
+
+    <string name="btn_start">Start</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_endLevel">Terminer</string>
+    <string name="skip">Ignorer</string>
+    <string name="editText">Écrire le mot</string>
+    <string name="tv_endLevel">Écrivez les mots ou les phrases\n dont vous vous souvenez</string>
+    <string name="toastSelectDay">Terminez d\'abord le niveau précédent</string>
+    <string name="selectDay">Sélectionnez le jour:</string>
+    <string name="selectDayEnd">Pas encore disponible</string>
+    <string name="start_level_title">Les mots que vous apprendrez aujourd\'hui:</string>
+
+
+
+    <!-- Main Activity -->
+    <string name="words_learned">Mots appris</string>
+    <string name="num_words">0</string>
+    <string name="main_title_1">Apprendre par jours</string>
+    <string name="main_sub_title_1">Faites une leçon par jour.</string>
+    <string name="main_title_2">Exercer</string>
+    <string name="main_sub_title_2">Répétez régulièrement les mots déjà appris</string>
+    <string name="main_title_3">Jeux</string>
+    <string name="main_sub_title_3">Jeux de mémorisation de mots</string>
+    <string name="toastExitApp">Cliquez à nouveau pour quitter</string>
+    <string name="toastRepeat">Tout d\'abord, terminez le niveau 1</string>
+    <!-- Main Activity END -->
+
+    <!-- Shop -->
+    <string name="shop_title">Shop</string>
+    <string name="btn_buy">Désactiver les annonces = 1,99€ (EUR)</string>
+    <string name="btn_purchased">Acheté!</string>
+    <string name="btn_like">Évaluer l\'application</string>
+    <string name="buy_details">*Cliquez pour voir le prix dans votre devise</string>
+    <!-- Shop END-->
+
+    <!-- Settings -->
+    <string name="settings_title">Paramètres</string>
+    <string name="btn_lang">Choisir la langue</string>
+    <string name="btn_other">Nos applications</string>
+    <string name="btn_promocode">Code promo</string>
+    <string name="btn_help">Obtenir de l\'aide</string>
+    <string name="btn_policy">Politique de confidentialité</string>
+
+    <string name="promo_title">Code promo</string>
+    <string name="promo_subtitle">Entrez votre code promo:</string>
+
+    <!-- Settings END-->
+
+    <!-- Dialogs strings -->
+    <string name="dialog_end_title">Niveau terminé!</string>
+    <string name="repeat_dialog_end_title">Terminé!</string>
+    <string name="dialog_end_sub_title">Exercice régulier!\nRépéter 10 mots au hasard?</string>
+    <string name="repeat_dialog_end_sub_title">Souhaitez-vous répéter 10 mots\nsupplémentaires au hasard?</string>
+    <string name="dialog_end_exit">Sortir</string>
+    <string name="dialog_end_repeat">Répéter</string>
+    <string name="dialog_exit_title">Sortir?</string>
+    <string name="dialog_exit_sub_title">Le processus ne \nsera pas enregistré.</string>
+    <string name="dialog_exit_btn_yes">Oui</string>
+    <string name="dialog_exit_btn_no">Non</string>
+    <!-- Dialogs strings END -->
+
+    <!-- Games -->
+    <string name="name_game01">Pluie de mots</string>
+    <string name="name_game02">Audition</string>
+    <string name="name_game03">Potence</string>
+    <string name="sel_game_more">Suite…</string>
+    <string name="more_onclick">Pas encore disponible</string>
+    <string name="win">La victoire!</string>
+    <string name="right">Droit!</string>
+    <string name="lose">Tu as perdu!</string>
+    <string name="incorrect">Tort!</string>
+    <string name="leftLives">Vies restantes:</string>
+    <string name="bestScore">Meilleur score:</string>
+    <string name="games_wordNum">Mot №</string>
+    <string name="game03_text_help">Écoutez, puis entrez le mot\n que vous avez entendu</string>
+    <!-- Games -->
+
+    <!-- Lang -->
+    <string name="languages">Langues</string>
+    <string name="word_translate_301">le château</string>
+    <string name="word_translate_322">le retraité</string>
+    <string name="word_translate_343">la soeur</string>
+    <string name="word_translate_364">l\'étagère</string>
+    <string name="word_translate_385">décoller</string>
+    <string name="word_translate_406">le lave-vaisselle</string>
+    <string name="word_translate_427">la bourse</string>
+    <string name="word_translate_448">le gâteau</string>
+    <string name="word_translate_469">l\'habitude</string>
+    <string name="word_translate_490">le trottoir</string>
+    <string name="word_translate_511">les séries</string>
+    <string name="word_translate_553">le plaisir</string>
+    <string name="word_translate_574">certains</string>
+    <string name="word_translate_595">le printemps</string>
+    <!-- Lang -->
+</resources>

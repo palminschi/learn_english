@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_81">Kolor</string>
+    <string name="word_translate_82">czerwony</string>
+    <string name="word_translate_83">szary</string>
+    <string name="word_translate_84">Pojazd</string>
+    <string name="word_translate_85">Pociąg</string>
+    <string name="word_translate_86">Samolot</string>
+    <string name="word_translate_87">powoli</string>
+    <string name="word_translate_88">długi</string>
+    <string name="word_translate_89">Tramwaj</string>
+    <string name="word_translate_90">żółty</string>
+    <string name="word_translate_91">Autostrada</string>
+    <string name="word_translate_92">Parking</string>
+    <string name="word_translate_93">Miejsce</string>
+    <string name="word_translate_94">niebieski</string>
+    <string name="word_translate_95">tankować</string>
+    <string name="word_translate_96">startować</string>
+    <string name="word_translate_97">Stacja benzynowa</string>
+    <string name="word_translate_98">Budowa</string>
+    <string name="word_translate_99">biały</string>
+    <string name="word_translate_100">budować</string>
+    <!-- END -->
+
+    <!-- PHRASE  -->
+    <string name="phrase_translate_81">Jaki kolor lubisz?</string>
+    <string name="phrase_translate_82">Jabłko jest czerwone.</string>
+    <string name="phrase_translate_83">Ma siwe włosy.</string>
+    <string name="phrase_translate_84">W mieście jest wiele pojazdów</string>
+    <string name="phrase_translate_85">Kiedy przyjeżdża pociąg?</string>
+    <string name="phrase_translate_86">Nasz samolot o 15:00</string>
+    <string name="phrase_translate_87">Jedziesz bardzo powoli.</string>
+    <string name="phrase_translate_88">Ty masz długie włosy.</string>
+    <string name="phrase_translate_89">Dokąd jedzie tramwaj?</string>
+    <string name="phrase_translate_90">Słońce jest żółte.</string>
+    <string name="phrase_translate_91">Jadę autostradą.</string>
+    <string name="phrase_translate_92">Ja szukam miejsca do parkowania.</string>
+    <string name="phrase_translate_93">Jest tu mnóstwo miejsca.</string>
+    <string name="phrase_translate_94">Niebo jest niebieskie.</string>
+    <string name="phrase_translate_95">Musimy zatankować samochód.</string>
+    <string name="phrase_translate_96">Uruchom samochód!</string>
+    <string name="phrase_translate_97">Gdzie jest stacja benzynowa?</string>
+    <string name="phrase_translate_98">Uważaj! Tam jest plac budowy.</string>
+    <string name="phrase_translate_99">biały jak śnieg</string>
+    <string name="phrase_translate_100">Ja buduję dom.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_81">Kolor</string>
+    <string name="word_LT_82">zielony</string>
+    <string name="word_LT_83">niebieski</string>
+    <string name="word_LT_84">Samolot</string>
+    <string name="word_LT_85">Droga</string>
+    <string name="word_LT_86">Samolot</string>
+    <string name="word_LT_87">ciepło</string>
+    <string name="word_LT_88">blisko</string>
+    <string name="word_LT_89">Tor</string>
+    <string name="word_LT_90">żółty</string>
+    <string name="word_LT_91">Serwis</string>
+    <string name="word_LT_92">Park</string>
+    <string name="word_LT_93">Ulica</string>
+    <string name="word_LT_94">niebieski</string>
+    <string name="word_LT_95">budować</string>
+    <string name="word_LT_96">iść</string>
+    <string name="word_LT_97">Mieszkanie</string>
+    <string name="word_LT_98">Ziemia</string>
+    <string name="word_LT_99">niebieski</string>
+    <string name="word_LT_100">budować</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_81">Przyjaciel</string>
+    <string name="word_RT_82">czerwony</string>
+    <string name="word_RT_83">zielony</string>
+    <string name="word_RT_84">Rower</string>
+    <string name="word_RT_85">Dom</string>
+    <string name="word_RT_86">Transport</string>
+    <string name="word_RT_87">powoli</string>
+    <string name="word_RT_88">duży</string>
+    <string name="word_RT_89">Transport</string>
+    <string name="word_RT_90">szary</string>
+    <string name="word_RT_91">Szkolenie</string>
+    <string name="word_RT_92">Parking</string>
+    <string name="word_RT_93">Pociąg</string>
+    <string name="word_RT_94">zielony</string>
+    <string name="word_RT_95">tankować</string>
+    <string name="word_RT_96">строить</string>
+    <string name="word_RT_97">Czołg</string>
+    <string name="word_RT_98">Rower</string>
+    <string name="word_RT_99">zielony</string>
+    <string name="word_RT_100">prać</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_81">Kwiat</string>
+    <string name="word_LB_82">niebieski</string>
+    <string name="word_LB_83">różowy</string>
+    <string name="word_LB_84">Pojazd</string>
+    <string name="word_LB_85">Łóżko</string>
+    <string name="word_LB_86">Lotnisko</string>
+    <string name="word_LB_87">szybko</string>
+    <string name="word_LB_88">długi</string>
+    <string name="word_LB_89">Ciągnik</string>
+    <string name="word_LB_90">zielony</string>
+    <string name="word_LB_91">Autostrada</string>
+    <string name="word_LB_92">Stacja benzynowa</string>
+    <string name="word_LB_93">Tor</string>
+    <string name="word_LB_94">czarny</string>
+    <string name="word_LB_95">żyć</string>
+    <string name="word_LB_96">startować</string>
+    <string name="word_LB_97">Ciągnik</string>
+    <string name="word_LB_98">Autostrada</string>
+    <string name="word_LB_99">różowy</string>
+    <string name="word_LB_100">iść</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_81">Życie</string>
+    <string name="word_RB_82">różowy</string>
+    <string name="word_RB_83">szary</string>
+    <string name="word_RB_84">Autostrada</string>
+    <string name="word_RB_85">Pociąg</string>
+    <string name="word_RB_86">Motyl</string>
+    <string name="word_RB_87">długi</string>
+    <string name="word_RB_88">daleko</string>
+    <string name="word_RB_89">Tramwaj</string>
+    <string name="word_RB_90">czerwony</string>
+    <string name="word_RB_91">Stacja benzynowa</string>
+    <string name="word_RB_92">Pociąg</string>
+    <string name="word_RB_93">Miejsce</string>
+    <string name="word_RB_94">żółty</string>
+    <string name="word_RB_95">jeździć</string>
+    <string name="word_RB_96">стоять</string>
+    <string name="word_RB_97">Stacja benzynowa</string>
+    <string name="word_RB_98">Budowa</string>
+    <string name="word_RB_99">biały</string>
+    <string name="word_RB_100">tankować</string>
+    <!-- END -->
+</resources>

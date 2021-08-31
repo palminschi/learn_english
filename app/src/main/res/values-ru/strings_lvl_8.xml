@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_141">здоровый</string>
+    <string name="word_translate_142">больной</string>
+    <string name="word_translate_143">Насморк</string>
+    <string name="word_translate_144">Жар</string>
+    <string name="word_translate_145">Кашель</string>
+    <string name="word_translate_146">Сердце</string>
+    <string name="word_translate_147">Живот</string>
+    <string name="word_translate_148">Грудь</string>
+    <string name="word_translate_149">Зуб</string>
+    <string name="word_translate_150">Стоматолог</string>
+    <string name="word_translate_151">Борода</string>
+    <string name="word_translate_152">стричь</string>
+    <string name="word_translate_153">Глаз</string>
+    <string name="word_translate_154">Очки</string>
+    <string name="word_translate_155">видеть</string>
+    <string name="word_translate_156">Фотография</string>
+    <string name="word_translate_157">Реклама</string>
+    <string name="word_translate_158">Музыка</string>
+    <string name="word_translate_159">слушать</string>
+    <string name="word_translate_160">танцевать</string>
+    <!-- END -->
+
+    <!-- PHRASE  -->
+    <string name="phrase_translate_141">Будь здоров!</string>
+    <string name="phrase_translate_142">Я болен.</string>
+    <string name="phrase_translate_143">У него насморк.</string>
+    <string name="phrase_translate_144">У нее жар.</string>
+    <string name="phrase_translate_145">Средство от кашля</string>
+    <string name="phrase_translate_146">Сердце болит.</string>
+    <string name="phrase_translate_147">У меня толстый живот.</string>
+    <string name="phrase_translate_148">Руки скрещены на груди.</string>
+    <string name="phrase_translate_149">У меня болит зуб.</string>
+    <string name="phrase_translate_150">Я иду к стоматологу.</string>
+    <string name="phrase_translate_151">Длинная борода</string>
+    <string name="phrase_translate_152">Стричь волосы</string>
+    <string name="phrase_translate_153">У нее красивые глаза.</string>
+    <string name="phrase_translate_154">Я потерял свои очки.</string>
+    <string name="phrase_translate_155">Я не вижу тебя.</string>
+    <string name="phrase_translate_156">Снимок получился красивым.</string>
+    <string name="phrase_translate_157">Я смотрю рекламу</string>
+    <string name="phrase_translate_158">Хорошая музыка!</string>
+    <string name="phrase_translate_159">Я слушаю музыку.</string>
+    <string name="phrase_translate_160">Я не могу хорошо танцевать.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_141">здоровый</string>
+    <string name="word_LT_142">быстро</string>
+    <string name="word_LT_143">Обувь</string>
+    <string name="word_LT_144">Сердце</string>
+    <string name="word_LT_145">Кашель</string>
+    <string name="word_LT_146">Сердце</string>
+    <string name="word_LT_147">Грудь</string>
+    <string name="word_LT_148">Забор</string>
+    <string name="word_LT_149">Насморк</string>
+    <string name="word_LT_150">Стоматолог</string>
+    <string name="word_LT_151">Борода</string>
+    <string name="word_LT_152">сломать</string>
+    <string name="word_LT_153">Тело</string>
+    <string name="word_LT_154">Одежда</string>
+    <string name="word_LT_155">ждать</string>
+    <string name="word_LT_156">Борода</string>
+    <string name="word_LT_157">Реклама</string>
+    <string name="word_LT_158">Концерт</string>
+    <string name="word_LT_159">танцевать</string>
+    <string name="word_LT_160">петь</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_141">больной</string>
+    <string name="word_RT_142">холодно</string>
+    <string name="word_RT_143">Одежда</string>
+    <string name="word_RT_144">Жар</string>
+    <string name="word_RT_145">Лошадь</string>
+    <string name="word_RT_146">Музыка</string>
+    <string name="word_RT_147">Борода</string>
+    <string name="word_RT_148">Гора</string>
+    <string name="word_RT_149">Зуб</string>
+    <string name="word_RT_150">Врач</string>
+    <string name="word_RT_151">Живот</string>
+    <string name="word_RT_152">стричь</string>
+    <string name="word_RT_153">Рука</string>
+    <string name="word_RT_154">Обувь</string>
+    <string name="word_RT_155">забыть</string>
+    <string name="word_RT_156">Фотография</string>
+    <string name="word_RT_157">Магазин</string>
+    <string name="word_RT_158">Музыка</string>
+    <string name="word_RT_159">кричать</string>
+    <string name="word_RT_160">играть</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_141">жёлтый</string>
+    <string name="word_LB_142">жёлтый</string>
+    <string name="word_LB_143">Насморк</string>
+    <string name="word_LB_144">холодно</string>
+    <string name="word_LB_145">Зуб</string>
+    <string name="word_LB_146">Забор</string>
+    <string name="word_LB_147">Фотография</string>
+    <string name="word_LB_148">Грудь</string>
+    <string name="word_LB_149">Стоматолог</string>
+    <string name="word_LB_150">Одежда</string>
+    <string name="word_LB_151">Волосы</string>
+    <string name="word_LB_152">лечить</string>
+    <string name="word_LB_153">Глаз</string>
+    <string name="word_LB_154">Нога</string>
+    <string name="word_LB_155">видеть</string>
+    <string name="word_LB_156">Музыка</string>
+    <string name="word_LB_157">Работа</string>
+    <string name="word_LB_158">Самолет</string>
+    <string name="word_LB_159">слушать</string>
+    <string name="word_LB_160">жить</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_141">холодно</string>
+    <string name="word_RB_142">больной</string>
+    <string name="word_RB_143">Кашель</string>
+    <string name="word_RB_144">Волосы</string>
+    <string name="word_RB_145">Очки</string>
+    <string name="word_RB_146">Кепка</string>
+    <string name="word_RB_147">Живот</string>
+    <string name="word_RB_148">Нога</string>
+    <string name="word_RB_149">Врач</string>
+    <string name="word_RB_150">Очки</string>
+    <string name="word_RB_151">Голова</string>
+    <string name="word_RB_152">упасть</string>
+    <string name="word_RB_153">Рот</string>
+    <string name="word_RB_154">Очки</string>
+    <string name="word_RB_155">стоять</string>
+    <string name="word_RB_156">Дерево</string>
+    <string name="word_RB_157">Рынок</string>
+    <string name="word_RB_158">Лестица</string>
+    <string name="word_RB_159">петь</string>
+    <string name="word_RB_160">танцевать</string>
+    <!-- END -->
+</resources>

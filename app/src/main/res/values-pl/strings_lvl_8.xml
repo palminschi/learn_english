@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_141">zdrowy</string>
+    <string name="word_translate_142">chory</string>
+    <string name="word_translate_143">Katar</string>
+    <string name="word_translate_144">Gorączka</string>
+    <string name="word_translate_145">Kaszel</string>
+    <string name="word_translate_146">Serce</string>
+    <string name="word_translate_147">Żołądek</string>
+    <string name="word_translate_148">Pierś</string>
+    <string name="word_translate_149">Ząb</string>
+    <string name="word_translate_150">Dentysta</string>
+    <string name="word_translate_151">Zarost</string>
+    <string name="word_translate_152">uciąć</string>
+    <string name="word_translate_153">Oko</string>
+    <string name="word_translate_154">Okulary</string>
+    <string name="word_translate_155">widzieć</string>
+    <string name="word_translate_156">Zdjęcie</string>
+    <string name="word_translate_157">Reklama</string>
+    <string name="word_translate_158">Muzyka</string>
+    <string name="word_translate_159">słuchać</string>
+    <string name="word_translate_160">tańczyć</string>
+    <!-- END -->
+
+    <!-- PHRASE  -->
+    <string name="phrase_translate_141">Trzymaj się dobrze!</string>
+    <string name="phrase_translate_142">Ja jestem chory.</string>
+    <string name="phrase_translate_143">On ma katar.</string>
+    <string name="phrase_translate_144">Ona ma gorączkę.</string>
+    <string name="phrase_translate_145">lek na kaszel</string>
+    <string name="phrase_translate_146">Moje serce boli.</string>
+    <string name="phrase_translate_147">Mam duży brzuch.</string>
+    <string name="phrase_translate_148">Ramiona złożone na piersi.</string>
+    <string name="phrase_translate_149">Boli mnie ząb.</string>
+    <string name="phrase_translate_150">Ja idę do dentysty.</string>
+    <string name="phrase_translate_151">Długa broda.</string>
+    <string name="phrase_translate_152">Strzyżenie włosów</string>
+    <string name="phrase_translate_153">Ona ma ładne oczy.</string>
+    <string name="phrase_translate_154">Zgubiłem moje okulary.</string>
+    <string name="phrase_translate_155">Nie widzę cię.</string>
+    <string name="phrase_translate_156">Zdjęcie wyszło pięknie.</string>
+    <string name="phrase_translate_157">Ja oglądam reklamę</string>
+    <string name="phrase_translate_158">Dobra muzyka!</string>
+    <string name="phrase_translate_159">Ja słucham muzyki.</string>
+    <string name="phrase_translate_160">Nie jestem zbyt dobrym tancerzem.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_141">zdrowy</string>
+    <string name="word_LT_142">szybki</string>
+    <string name="word_LT_143">Obuwie</string>
+    <string name="word_LT_144">Serce</string>
+    <string name="word_LT_145">Kaszel</string>
+    <string name="word_LT_146">Serce</string>
+    <string name="word_LT_147">Pierś</string>
+    <string name="word_LT_148">Ogrodzenie</string>
+    <string name="word_LT_149">Katar</string>
+    <string name="word_LT_150">Dentysta</string>
+    <string name="word_LT_151">Zarost</string>
+    <string name="word_LT_152">zepsuć</string>
+    <string name="word_LT_153">Ciało</string>
+    <string name="word_LT_154">Odzież</string>
+    <string name="word_LT_155">czekać</string>
+    <string name="word_LT_156">Zarost</string>
+    <string name="word_LT_157">Reklama</string>
+    <string name="word_LT_158">Koncert</string>
+    <string name="word_LT_159">tańczyć</string>
+    <string name="word_LT_160">śpiewać</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_141">chory</string>
+    <string name="word_RT_142">zimno</string>
+    <string name="word_RT_143">Odzież</string>
+    <string name="word_RT_144">Gorączka</string>
+    <string name="word_RT_145">Koń</string>
+    <string name="word_RT_146">Muzyka</string>
+    <string name="word_RT_147">Zarost</string>
+    <string name="word_RT_148">Góra</string>
+    <string name="word_RT_149">Ząb</string>
+    <string name="word_RT_150">Lekarz</string>
+    <string name="word_RT_151">Żołądek</string>
+    <string name="word_RT_152">uciąć</string>
+    <string name="word_RT_153">Dłoń</string>
+    <string name="word_RT_154">Obuwie</string>
+    <string name="word_RT_155">zapomnieć</string>
+    <string name="word_RT_156">Zdjęcie</string>
+    <string name="word_RT_157">Sklep</string>
+    <string name="word_RT_158">Muzyka</string>
+    <string name="word_RT_159">krzycząc</string>
+    <string name="word_RT_160">grać</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_141">żółty</string>
+    <string name="word_LB_142">żółty</string>
+    <string name="word_LB_143">Katar</string>
+    <string name="word_LB_144">zimno</string>
+    <string name="word_LB_145">Ząb</string>
+    <string name="word_LB_146">Ogrodzenie</string>
+    <string name="word_LB_147">Zdjęcie</string>
+    <string name="word_LB_148">Pierś</string>
+    <string name="word_LB_149">Dentysta</string>
+    <string name="word_LB_150">Odzież</string>
+    <string name="word_LB_151">Włosy</string>
+    <string name="word_LB_152">uzdrawiać</string>
+    <string name="word_LB_153">Oko</string>
+    <string name="word_LB_154">Noga</string>
+    <string name="word_LB_155">widzieć</string>
+    <string name="word_LB_156">Muzyka</string>
+    <string name="word_LB_157">Praca</string>
+    <string name="word_LB_158">Samolot</string>
+    <string name="word_LB_159">słuchać</string>
+    <string name="word_LB_160">mieszkać</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_141">zimno</string>
+    <string name="word_RB_142">chory</string>
+    <string name="word_RB_143">Kaszel</string>
+    <string name="word_RB_144">Włosy</string>
+    <string name="word_RB_145">Okulary</string>
+    <string name="word_RB_146">Czapka</string>
+    <string name="word_RB_147">Żołądek</string>
+    <string name="word_RB_148">Noga</string>
+    <string name="word_RB_149">Lekarz</string>
+    <string name="word_RB_150">Okulary</string>
+    <string name="word_RB_151">Głowa</string>
+    <string name="word_RB_152">spaść</string>
+    <string name="word_RB_153">Usta</string>
+    <string name="word_RB_154">Okulary</string>
+    <string name="word_RB_155">stać</string>
+    <string name="word_RB_156">Drewno</string>
+    <string name="word_RB_157">Rynek</string>
+    <string name="word_RB_158">Schody</string>
+    <string name="word_RB_159">śpiewać</string>
+    <string name="word_RB_160">tańczyć</string>
+    <!-- END -->
+</resources>

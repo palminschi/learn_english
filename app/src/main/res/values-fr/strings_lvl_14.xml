@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_261">le chat</string>
+    <string name="word_translate_262">le chien</string>
+    <string name="word_translate_263">aboyer</string>
+    <string name="word_translate_264">le loup</string>
+    <string name="word_translate_265">le renard</string>
+    <string name="word_translate_266">le cheval</string>
+    <string name="word_translate_267">courir</string>
+    <string name="word_translate_268">le poisson</string>
+    <string name="word_translate_269">la pêche</string>
+    <string name="word_translate_270">la chasse</string>
+    <string name="word_translate_271">chasser</string>
+    <string name="word_translate_272">l\'animal</string>
+    <string name="word_translate_273">l\'ours</string>
+    <string name="word_translate_274">le canard</string>
+    <string name="word_translate_275">le pistolet</string>
+    <string name="word_translate_276">la canne à pêche</string>
+    <string name="word_translate_277">attraper</string>
+    <string name="word_translate_278">à pêcher</string>
+    <string name="word_translate_279">le lapin</string>
+    <string name="word_translate_280">l\'oiseau</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_261">Elle a trois chats.</string>
+    <string name="phrase_translate_262">Mon chien est déjà vieux.</string>
+    <string name="phrase_translate_263">Le chien aboie.</string>
+    <string name="phrase_translate_264">Il y a des loups dans la forêt.</string>
+    <string name="phrase_translate_265">Le renard est magnifique.</string>
+    <string name="phrase_translate_266">Je ne peux pas monter à cheval.</string>
+    <string name="phrase_translate_267">Tu cours très vite.</string>
+    <string name="phrase_translate_268">J\'ai attrapé un poisson.</string>
+    <string name="phrase_translate_269">Nous pêchons.</string>
+    <string name="phrase_translate_270">Il était en chasse.</string>
+    <string name="phrase_translate_271">Ce sont des animaux de chasse.</string>
+    <string name="phrase_translate_272">Nous devons prendre soin des animaux.</string>
+    <string name="phrase_translate_273">L\'ours mange un poisson.</string>
+    <string name="phrase_translate_274">Les canards nagent dans le lac.</string>
+    <string name="phrase_translate_275">Les soldats ont des fusils.</string>
+    <string name="phrase_translate_276">J\'ai jeté la canne à pêche dans l\'eau.</string>
+    <string name="phrase_translate_277">J\'attrape un poisson.</string>
+    <string name="phrase_translate_278">Vous pêchez.</string>
+    <string name="phrase_translate_279">Le lapin court dans le champ.</string>
+    <string name="phrase_translate_280">Au printemps, les oiseaux gazouillent.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_261">la fleur</string>
+    <string name="word_LT_262">l\'avion</string>
+    <string name="word_LT_263">marcher</string>
+    <string name="word_LT_264">le loup</string>
+    <string name="word_LT_265">le parc</string>
+    <string name="word_LT_266">l\'Ile</string>
+    <string name="word_LT_267">courir</string>
+    <string name="word_LT_268">le jouet</string>
+    <string name="word_LT_269">la pêche</string>
+    <string name="word_LT_270">la soupe</string>
+    <string name="word_LT_271">voler</string>
+    <string name="word_LT_272">l\'arbre</string>
+    <string name="word_LT_273">la nuit</string>
+    <string name="word_LT_274">l\'animal</string>
+    <string name="word_LT_275">l\'habillement</string>
+    <string name="word_LT_276">la fleur</string>
+    <string name="word_LT_277">prendre</string>
+    <string name="word_LT_278">chasser</string>
+    <string name="word_LT_279">le lapin</string>
+    <string name="word_LT_280">l\'arbre</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_261">le chat</string>
+    <string name="word_RT_262">le papillon</string>
+    <string name="word_RT_263">fuyez</string>
+    <string name="word_RT_264">la montagne</string>
+    <string name="word_RT_265">le train</string>
+    <string name="word_RT_266">le cheval</string>
+    <string name="word_RT_267">chanter</string>
+    <string name="word_RT_268">le doux</string>
+    <string name="word_RT_269">l\'arbre</string>
+    <string name="word_RT_270">la bouilloire</string>
+    <string name="word_RT_271">chanter</string>
+    <string name="word_RT_272">l\'animal</string>
+    <string name="word_RT_273">le papillon</string>
+    <string name="word_RT_274">la forêt</string>
+    <string name="word_RT_275">le pistolet</string>
+    <string name="word_RT_276">la canne à pêche</string>
+    <string name="word_RT_277">jouer</string>
+    <string name="word_RT_278">courir</string>
+    <string name="word_RT_279">Noël</string>
+    <string name="word_RT_280">l\'oiseau</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_261">la montagne</string>
+    <string name="word_LB_262">le jogging</string>
+    <string name="word_LB_263">aboyer</string>
+    <string name="word_LB_264">l\'arbre</string>
+    <string name="word_LB_265">le renard</string>
+    <string name="word_LB_266">l\'arbre</string>
+    <string name="word_LB_267">cuisiner</string>
+    <string name="word_LB_268">la guitare</string>
+    <string name="word_LB_269">les vacances</string>
+    <string name="word_LB_270">la chasse</string>
+    <string name="word_LB_271">sauter</string>
+    <string name="word_LB_272">la fleur</string>
+    <string name="word_LB_273">l\'ours</string>
+    <string name="word_LB_274">la nuit</string>
+    <string name="word_LB_275">la chasse</string>
+    <string name="word_LB_276">l\'avion</string>
+    <string name="word_LB_277">rester</string>
+    <string name="word_LB_278">chercher</string>
+    <string name="word_LB_279">la fleur</string>
+    <string name="word_LB_280">la fleur</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_261">l\'avion</string>
+    <string name="word_RB_262">le chien</string>
+    <string name="word_RB_263">donner</string>
+    <string name="word_RB_264">la forêt</string>
+    <string name="word_RB_265">la musique</string>
+    <string name="word_RB_266">le jeu</string>
+    <string name="word_RB_267">pour donner</string>
+    <string name="word_RB_268">le poisson</string>
+    <string name="word_RB_269">le temps</string>
+    <string name="word_RB_270">l\'habillement</string>
+    <string name="word_RB_271">chasser</string>
+    <string name="word_RB_272">les vacances</string>
+    <string name="word_RB_273">l\'hiver</string>
+    <string name="word_RB_274">le canard</string>
+    <string name="word_RB_275">la guitare</string>
+    <string name="word_RB_276">le restaurant</string>
+    <string name="word_RB_277">attraper</string>
+    <string name="word_RB_278">à pêcher</string>
+    <string name="word_RB_279">les vacances</string>
+    <string name="word_RB_280">l\'avion</string>
+    <!-- END -->
+</resources>

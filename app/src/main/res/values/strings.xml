@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">English in 30 days</string>
+
+    <string name="btn_start">Start</string>
+    <string name="btn_next">Next</string>
+    <string name="btn_endLevel">Finish</string>
+    <string name="skip">Skip</string>
+    <string name="editText">Write the word</string>
+    <string name="tv_endLevel">Write the words or phrases,\n that you remember</string>
+    <string name="toastSelectDay">Complete the previous level</string>
+    <string name="selectDay">Select the day:</string>
+    <string name="selectDayEnd">Not available yet</string>
+    <string name="start_level_title">The words you will learn today:</string>
+
+
+
+    <!-- Main Activity -->
+    <string name="words_learned">Words learned</string>
+    <string name="num_words">0</string>
+    <string name="main_title_1">Learn by days</string>
+    <string name="main_sub_title_1">Do one lesson a day.</string>
+    <string name="main_title_2">Practice</string>
+    <string name="main_sub_title_2">Regularly repeat the words you have already learned</string>
+    <string name="main_title_3">Games</string>
+    <string name="main_sub_title_3">Words memorization games</string>
+    <string name="toastExitApp">Click again to exit</string>
+    <string name="toastRepeat">First, complete level 1</string>
+    <!-- Main Activity END -->
+
+    <!-- Shop -->
+    <string name="shop_title">Shop</string>
+    <string name="btn_buy">Disable Ads = 1,99€ (EUR)</string>
+    <string name="btn_purchased">Purchased!</string>
+    <string name="btn_like">Rate the App</string>
+    <string name="buy_details">*click to see the price in your currency</string>
+    <!-- Shop END-->
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="btn_lang">Select language</string>
+    <string name="btn_other">Our Apps</string>
+    <string name="btn_promocode">Promo code</string>
+    <string name="btn_help">Help</string>
+    <string name="btn_policy">Privacy Policy</string>
+
+    <string name="promo_title">Promo code</string>
+    <string name="promo_subtitle">Enter your promo code:</string>
+
+    <!-- Settings END-->
+
+    <!-- Dialogs strings -->
+    <string name="dialog_end_title">Level completed!</string>
+    <string name="repeat_dialog_end_title">Completed!</string>
+    <string name="dialog_end_sub_title">Exercise regularly!\nRepeat 10 random words?</string>
+    <string name="repeat_dialog_end_sub_title">Would you like to repeat\n10 more random words?</string>
+    <string name="dialog_end_exit">Exit</string>
+    <string name="dialog_end_repeat">Repeat</string>
+    <string name="dialog_exit_title">Exit?</string>
+    <string name="dialog_exit_sub_title">The process will\n not be saved.</string>
+    <string name="dialog_exit_btn_yes">Yes</string>
+    <string name="dialog_exit_btn_no">No</string>
+    <!-- Dialogs strings END -->
+
+    <!-- Games -->
+    <string name="name_game01">Rain of words</string>
+    <string name="name_game02">Audition</string>
+    <string name="name_game03">The Gallows</string>
+    <string name="sel_game_more">More…</string>
+    <string name="more_onclick">Not available yet</string>
+    <string name="win">Victory!</string>
+    <string name="right">Right!</string>
+    <string name="lose">You lose!</string>
+    <string name="incorrect">Wrong!</string>
+    <string name="leftLives">Lives left:</string>
+    <string name="bestScore">Best score:</string>
+    <string name="games_wordNum">Word №</string>
+    <string name="game03_text_help">Listen, then enter\nthe word you heard</string>
+    <!-- Games -->
+
+    <!-- Lang -->
+    <string name="languages">Languages</string>
+    <string name="lang_EN" translatable="false">English</string>
+    <string name="lang_RU" translatable="false">Русский</string>
+    <string name="lang_RO" translatable="false">Română</string>
+    <string name="lang_FR" translatable="false">Français</string>
+    <string name="lang_PL" translatable="false">Polski</string>
+    <!-- Lang -->
+</resources>

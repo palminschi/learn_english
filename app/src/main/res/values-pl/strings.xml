@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">English w 30 dni</string>
+
+    <string name="btn_start">Start</string>
+    <string name="btn_next">Dalej</string>
+    <string name="btn_endLevel">Zakończ</string>
+    <string name="skip">Skip</string>
+    <string name="editText">Napisz słowo</string>
+    <string name="tv_endLevel">Napisz słowa lub frazy,\n które pamiętasz</string>
+    <string name="toastSelectDay">Najpierw skończ poprzedni poziom</string>
+    <string name="selectDay">Wybierz dzień:</string>
+    <string name="selectDayEnd">Jeszcze nie dostępne</string>
+    <string name="start_level_title">Słowa, których się dzisiaj nauczysz:</string>
+
+
+
+    <!-- Main Activity -->
+    <string name="words_learned">Wyuczone słowa</string>
+    <string name="num_words">0</string>
+    <string name="main_title_1">Ucz się po dniach</string>
+    <string name="main_sub_title_1">Rób jedną lekcję dziennie.</string>
+    <string name="main_title_2">Ćwiczyć</string>
+    <string name="main_sub_title_2">Powtarzaj już nauczone słowa regularnie</string>
+    <string name="main_title_3">Gry</string>
+    <string name="main_sub_title_3">Gry zapamiętywania słów</string>
+    <string name="toastExitApp">Kliknij ponownie, aby wyjść</string>
+    <string name="toastRepeat">Najpierw ukończ poziom 1</string>
+    <!-- Main Activity END -->
+
+    <!-- Shop -->
+    <string name="shop_title">Sklep</string>
+    <string name="btn_buy">Wyłącz reklamy = 1,99 € (EUR)</string>
+    <string name="btn_purchased">Zakupione!</string>
+    <string name="btn_like">Oceń aplikację</string>
+    <string name="buy_details">*Kliknij, aby zobaczyć cenę w swojej walucie</string>
+    <!-- Shop END-->
+
+    <!-- Settings -->
+    <string name="settings_title">Ustawienia</string>
+    <string name="btn_lang">Wybierz język</string>
+    <string name="btn_other">Nasze aplikacje</string>
+    <string name="btn_promocode">Kod promocyjny</string>
+    <string name="btn_help">Pomoc</string>
+    <string name="btn_policy">Polityka prywatności</string>
+
+    <string name="promo_title">Kod promocyjny</string>
+    <string name="promo_subtitle">Wpisz swój kod promocyjny:</string>
+
+    <!-- Settings END-->
+
+    <!-- Dialogs strings -->
+    <string name="dialog_end_title">Poziom przeszedł!</string>
+    <string name="repeat_dialog_end_title">Zakończony!</string>
+    <string name="dialog_end_sub_title">Ćwicz regularnie!\nPowtórz 10 przypadkowych słów?</string>
+    <string name="repeat_dialog_end_sub_title">Czy chciałbyś powtórzyć 10\nkolejnych losowych słów?</string>
+    <string name="dialog_end_exit">Wyjście</string>
+    <string name="dialog_end_repeat">Powtarzać</string>
+    <string name="dialog_exit_title">Wychodzić?</string>
+    <string name="dialog_exit_sub_title">Proces nie zostanie\nzapisany.</string>
+    <string name="dialog_exit_btn_yes">tak</string>
+    <string name="dialog_exit_btn_no">zostać</string>
+    <!-- Dialogs strings END -->
+
+    <!-- Games -->
+    <string name="name_game01">Deszcz słów</string>
+    <string name="name_game02">Słuchający</string>
+    <string name="name_game03">Szubienica</string>
+    <string name="sel_game_more">Więcej…</string>
+    <string name="more_onclick">Jeszcze nie dostępne</string>
+    <string name="win">Zwycięstwo!</string>
+    <string name="right">Dobrze!</string>
+    <string name="lose">Przegrałeś!</string>
+    <string name="incorrect">Błędny!</string>
+    <string name="leftLives">Pozostało życie:</string>
+    <string name="bestScore">Najlepszy wynik:</string>
+    <string name="games_wordNum">Słowo №</string>
+    <string name="game03_text_help">Posłuchaj, a następnie\nwpisz słowo, które usłyszałeś</string>
+    <!-- Games -->
+
+    <!-- Lang -->
+    <string name="languages">Języki</string>
+    <!-- Lang -->
+</resources>

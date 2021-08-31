@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="word_translate_1">a învăţa</string>
+    <string name="word_translate_2">Limbă</string>
+    <string name="word_translate_3">a scrie</string>
+    <string name="word_translate_4">Scrisoare</string>
+    <string name="word_translate_5">a primi</string>
+    <string name="word_translate_6">a trimite</string>
+    <string name="word_translate_7">Masă</string>
+    <string name="word_translate_8">a citi</string>
+    <string name="word_translate_9">Carte</string>
+    <string name="word_translate_10">vechi</string>
+    <string name="word_translate_11">nou</string>
+    <string name="word_translate_12">Automobil</string>
+    <string name="word_translate_13">a cumpăra</string>
+    <string name="word_translate_14">a merge</string>
+    <string name="word_translate_15">Bicicletă</string>
+    <string name="word_translate_16">a vinde</string>
+    <string name="word_translate_17">Bani</string>
+    <string name="word_translate_18">Cât?</string>
+    <string name="word_translate_19">puţin</string>
+    <string name="word_translate_20">negru</string>
+
+    <!-- PHRASE  -->
+    <string name="phrase_translate_1">Eu <b>învăţ</b> Spaniola.</string>
+    <string name="phrase_translate_2">El vorbeşte două <b>limbi</b>.</string>
+    <string name="phrase_translate_3">El se învaţă <b>a scrie</b>.</string>
+    <string name="phrase_translate_4">Eu scriu <b>o scrisoare</b>.</string>
+    <string name="phrase_translate_5">Tu ai<b>primit</b> un răspuns?</string>
+    <string name="phrase_translate_6"><b>a trimite</b> prin E-Mail</string>
+    <string name="phrase_translate_7">Cina stă pe <b>masă</b>.</string>
+    <string name="phrase_translate_8">El poate <b>să citeasca</b> şi să scrie.</string>
+    <string name="phrase_translate_9">Eu am citit <b>cartea</b>.</string>
+    <string name="phrase_translate_10">Locuiesc într-o casă veche</string>
+    <string name="phrase_translate_11">El este <b>nou</b> aici.</string>
+    <string name="phrase_translate_12"><b>Automobilul</b>este stricat.</string>
+    <string name="phrase_translate_13">Eu <b>cumpăr</b> bilet.</string>
+    <string name="phrase_translate_14">Unde <b>mergeţi</b> Dumneavoastră?</string>
+    <string name="phrase_translate_15">Unde eu pot să las <b>bicicleta</b>?</string>
+    <string name="phrase_translate_16">Dumneavoastră <b>vindeţi</b> maşina?</string>
+    <string name="phrase_translate_17">Eu nu am <b>bani</b>.</string>
+    <string name="phrase_translate_18"><b>Cât</b> costă asta?</string>
+    <string name="phrase_translate_19">Tu dormi <b>puţin</b>.</string>
+    <string name="phrase_translate_20">Eu beau cafea <b>neagră</b>.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_1">a învăţa</string>
+    <string name="word_LT_2">Om</string>
+    <string name="word_LT_3">a vorbi</string>
+    <string name="word_LT_4">Oraş</string>
+    <string name="word_LT_5">a veni</string>
+    <string name="word_LT_6">a trimite</string>
+    <string name="word_LT_7">Masă</string>
+    <string name="word_LT_8">a scrie</string>
+    <string name="word_LT_9">Cifră</string>
+    <string name="word_LT_10">vechi</string>
+    <string name="word_LT_11">mult</string>
+    <string name="word_LT_12">Automobil</string>
+    <string name="word_LT_13">a vinde</string>
+    <string name="word_LT_14">a pleca</string>
+    <string name="word_LT_15">Tramvai</string>
+    <string name="word_LT_16">a achita</string>
+    <string name="word_LT_17">Galben</string>
+    <string name="word_LT_18">Cât?</string>
+    <string name="word_LT_19">nimic</string>
+    <string name="word_LT_20">galben</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_1">a juca</string>
+    <string name="word_RT_2">Sport</string>
+    <string name="word_RT_3">a scrie</string>
+    <string name="word_RT_4">Scrisoare</string>
+    <string name="word_RT_5">a gândi</string>
+    <string name="word_RT_6">a sta</string>
+    <string name="word_RT_7">Cuţit</string>
+    <string name="word_RT_8">a vorbi</string>
+    <string name="word_RT_9">Carte</string>
+    <string name="word_RT_10">deschis</string>
+    <string name="word_RT_11">nouă</string>
+    <string name="word_RT_12">Copac</string>
+    <string name="word_RT_13">a alerga</string>
+    <string name="word_RT_14">a merge</string>
+    <string name="word_RT_15">Scoală-Auto</string>
+    <string name="word_RT_16">a căuta</string>
+    <string name="word_RT_17">Oraş</string>
+    <string name="word_RT_18">De ce?</string>
+    <string name="word_RT_19">puţin</string>
+    <string name="word_RT_20">negru</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_1">a alerga</string>
+    <string name="word_LB_2">Limbă</string>
+    <string name="word_LB_3">a întreba</string>
+    <string name="word_LB_4">Carte</string>
+    <string name="word_LB_5">a vorbi</string>
+    <string name="word_LB_6">a cumpăra</string>
+    <string name="word_LB_7">Pix</string>
+    <string name="word_LB_8">a juca</string>
+    <string name="word_LB_9">Literă</string>
+    <string name="word_LB_10">frumos</string>
+    <string name="word_LB_11">nou</string>
+    <string name="word_LB_12">Apă</string>
+    <string name="word_LB_13">a cumpăra</string>
+    <string name="word_LB_14">a veni</string>
+    <string name="word_LB_15">Motocicletă</string>
+    <string name="word_LB_16">a vinde</string>
+    <string name="word_LB_17">Bani</string>
+    <string name="word_LB_18">Unde?</string>
+    <string name="word_LB_19">mult</string>
+    <string name="word_LB_20">albastru</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_1">a lucra</string>
+    <string name="word_RB_2">Oraş</string>
+    <string name="word_RB_3">a alerga</string>
+    <string name="word_RB_4">Bani</string>
+    <string name="word_RB_5">a primi</string>
+    <string name="word_RB_6">a vinde</string>
+    <string name="word_RB_7">Scaun</string>
+    <string name="word_RB_8">a citi</string>
+    <string name="word_RB_9">Cuvânt</string>
+    <string name="word_RB_10">închis</string>
+    <string name="word_RB_11">nu</string>
+    <string name="word_RB_12">Casă</string>
+    <string name="word_RB_13">a merge</string>
+    <string name="word_RB_14">a zbura</string>
+    <string name="word_RB_15">Bicicletă</string>
+    <string name="word_RB_16">a găsi</string>
+    <string name="word_RB_17">Aur</string>
+    <string name="word_RB_18">Cine?</string>
+    <string name="word_RB_19">totul</string>
+    <string name="word_RB_20">verde</string>
+    <!-- END -->
+</resources>

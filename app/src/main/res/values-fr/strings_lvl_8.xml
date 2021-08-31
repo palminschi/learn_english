@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_141">sain</string>
+    <string name="word_translate_142">malade</string>
+    <string name="word_translate_143">le froid</string>
+    <string name="word_translate_144">la fièvre</string>
+    <string name="word_translate_145">la toux</string>
+    <string name="word_translate_146">le cœur</string>
+    <string name="word_translate_147">le ventre</string>
+    <string name="word_translate_148">la poitrine</string>
+    <string name="word_translate_149">la dent</string>
+    <string name="word_translate_150">le dentiste</string>
+    <string name="word_translate_151">la barbe</string>
+    <string name="word_translate_152">couper</string>
+    <string name="word_translate_153">l\'oeil</string>
+    <string name="word_translate_154">les lunettes</string>
+    <string name="word_translate_155">voir</string>
+    <string name="word_translate_156">l\'image</string>
+    <string name="word_translate_157">l\'adversité</string>
+    <string name="word_translate_158">la musique</string>
+    <string name="word_translate_159">écouter</string>
+    <string name="word_translate_160">danser</string>
+    <!-- END -->
+
+    <!-- PHRASE  -->
+    <string name="phrase_translate_141">Rester bien!</string>
+    <string name="phrase_translate_142">Je suis malade.</string>
+    <string name="phrase_translate_143">Il a un rhume.</string>
+    <string name="phrase_translate_144">Elle a de la fièvre.</string>
+    <string name="phrase_translate_145">Un remède contre la toux</string>
+    <string name="phrase_translate_146">Mes douleurs cardiaques.</string>
+    <string name="phrase_translate_147">J\'ai un gros ventre.</string>
+    <string name="phrase_translate_148">Les bras croisés sur la poitrine</string>
+    <string name="phrase_translate_149">Ma dent me fait mal.</string>
+    <string name="phrase_translate_150">Je vais chez le dentiste.</string>
+    <string name="phrase_translate_151">Une longue barbe.</string>
+    <string name="phrase_translate_152">Couper les cheveux</string>
+    <string name="phrase_translate_153">Elle a de beaux yeux.</string>
+    <string name="phrase_translate_154">J\'ai perdu mes lunettes.</string>
+    <string name="phrase_translate_155">Je ne te vois pas.</string>
+    <string name="phrase_translate_156">L\'image est devenue belle.</string>
+    <string name="phrase_translate_157">Je regarde une publicité.</string>
+    <string name="phrase_translate_158">Bonne musique!</string>
+    <string name="phrase_translate_159">J\'écoute de la musique.</string>
+    <string name="phrase_translate_160">Je ne sais pas très bien danser.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_141">sain</string>
+    <string name="word_LT_142">vite</string>
+    <string name="word_LT_143">les chaussures</string>
+    <string name="word_LT_144">le cœur</string>
+    <string name="word_LT_145">la toux</string>
+    <string name="word_LT_146">cœur</string>
+    <string name="word_LT_147">la poitrine</string>
+    <string name="word_LT_148">la barrière</string>
+    <string name="word_LT_149">le froid</string>
+    <string name="word_LT_150">le dentiste</string>
+    <string name="word_LT_151">la barbe</string>
+    <string name="word_LT_152">casser</string>
+    <string name="word_LT_153">le corps</string>
+    <string name="word_LT_154">l\'habillement</string>
+    <string name="word_LT_155">attendre</string>
+    <string name="word_LT_156">la barbe</string>
+    <string name="word_LT_157">l\'adversité</string>
+    <string name="word_LT_158">le concert</string>
+    <string name="word_LT_159">danser</string>
+    <string name="word_LT_160">chanter</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_141">malade</string>
+    <string name="word_RT_142">du froid</string>
+    <string name="word_RT_143">l\'habillement</string>
+    <string name="word_RT_144">la fièvre</string>
+    <string name="word_RT_145">le cheval</string>
+    <string name="word_RT_146">la musique</string>
+    <string name="word_RT_147">la barbe</string>
+    <string name="word_RT_148">la colline</string>
+    <string name="word_RT_149">la dent</string>
+    <string name="word_RT_150">le docteur</string>
+    <string name="word_RT_151">le ventre</string>
+    <string name="word_RT_152">couper</string>
+    <string name="word_RT_153">la main</string>
+    <string name="word_RT_154">les chaussures</string>
+    <string name="word_RT_155">oublier</string>
+    <string name="word_RT_156">l\'image</string>
+    <string name="word_RT_157">la boutique</string>
+    <string name="word_RT_158">la musique</string>
+    <string name="word_RT_159">pleurer</string>
+    <string name="word_RT_160">jouer</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_141">jaune</string>
+    <string name="word_LB_142">jaune</string>
+    <string name="word_LB_143">le froid</string>
+    <string name="word_LB_144">le froid</string>
+    <string name="word_LB_145">la dent</string>
+    <string name="word_LB_146">la barrière</string>
+    <string name="word_LB_147">la photo</string>
+    <string name="word_LB_148">la poitrine</string>
+    <string name="word_LB_149">le dentiste</string>
+    <string name="word_LB_150">l\'habillement</string>
+    <string name="word_LB_151">les cheveux</string>
+    <string name="word_LB_152">guérir</string>
+    <string name="word_LB_153">l\'oeil</string>
+    <string name="word_LB_154">la jambe</string>
+    <string name="word_LB_155">voir</string>
+    <string name="word_LB_156">la musique</string>
+    <string name="word_LB_157">l\'oeuvre</string>
+    <string name="word_LB_158">l\'avion</string>
+    <string name="word_LB_159">écouter</string>
+    <string name="word_LB_160">vivre</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_141">froid</string>
+    <string name="word_RB_142">malade</string>
+    <string name="word_RB_143">la toux</string>
+    <string name="word_RB_144">les cheveux</string>
+    <string name="word_RB_145">les lunettes</string>
+    <string name="word_RB_146">le capuchon</string>
+    <string name="word_RB_147">le ventre</string>
+    <string name="word_RB_148">la jambe</string>
+    <string name="word_RB_149">le docteur</string>
+    <string name="word_RB_150">les lunettes</string>
+    <string name="word_RB_151">la tête</string>
+    <string name="word_RB_152">tomber</string>
+    <string name="word_RB_153">la bouche</string>
+    <string name="word_RB_154">les lunettes</string>
+    <string name="word_RB_155">se tenir debout</string>
+    <string name="word_RB_156">l\'arbre</string>
+    <string name="word_RB_157">le marché</string>
+    <string name="word_RB_158">les escaliers</string>
+    <string name="word_RB_159">chanter</string>
+    <string name="word_RB_160">danser</string>
+    <!-- END -->
+</resources>

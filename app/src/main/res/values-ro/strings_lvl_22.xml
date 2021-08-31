@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_421">a învăţa</string>
+    <string name="word_translate_422">Lecție</string>
+    <string name="word_translate_423">Examen</string>
+    <string name="word_translate_424">a compune</string>
+    <string name="word_translate_425">a absolva</string>
+    <string name="word_translate_426">Profesor</string>
+    <string name="word_translate_427">Bursă</string>
+    <string name="word_translate_428">a preda</string>
+    <string name="word_translate_429">Cantină</string>
+    <string name="word_translate_430">Sfert</string>
+    <string name="word_translate_431">Ziar</string>
+    <string name="word_translate_432">deschis</string>
+    <string name="word_translate_433">închis</string>
+    <string name="word_translate_434">tăcut</string>
+    <string name="word_translate_435">posibil</string>
+    <string name="word_translate_436">Venit</string>
+    <string name="word_translate_437">Salariu</string>
+    <string name="word_translate_438">Fereastră</string>
+    <string name="word_translate_439">Podea</string>
+    <string name="word_translate_440">Subsol</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_421">El mă învață cum să joc fotbal.</string>
+    <string name="phrase_translate_422">Sunt la o lecție chiar acum.</string>
+    <string name="phrase_translate_423">Am un examen sâmbătă.</string>
+    <string name="phrase_translate_424">Am compus un cântec.</string>
+    <string name="phrase_translate_425">Am absolvit școala.</string>
+    <string name="phrase_translate_426">Am un profesor bun.</string>
+    <string name="phrase_translate_427">Primesc o bursă mare.</string>
+    <string name="phrase_translate_428">Ea predă la universitate.</string>
+    <string name="phrase_translate_429">Noi mâncăm la cantină.</string>
+    <string name="phrase_translate_430">A început un nou sfert.</string>
+    <string name="phrase_translate_431">Am citit asta în ziar.</string>
+    <string name="phrase_translate_432">Mai este deschis magazinul?</string>
+    <string name="phrase_translate_433">Toate școlile sunt închise.</string>
+    <string name="phrase_translate_434">Câinele meu este foarte tăcut.</string>
+    <string name="phrase_translate_435">Poate! Dar nu sunt sigur.</string>
+    <string name="phrase_translate_436">Care este venitul tău?</string>
+    <string name="phrase_translate_437">El are un nivel salarial ridicat.</string>
+    <string name="phrase_translate_438">Fereastra este închisă.</string>
+    <string name="phrase_translate_439">Podeaua casei este murdară.</string>
+    <string name="phrase_translate_440">Bicicleta mea e în subsol.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_421">a îmbrăca</string>
+    <string name="word_LT_422">Scrisoare</string>
+    <string name="word_LT_423">Ieșire</string>
+    <string name="word_LT_424">a compune</string>
+    <string name="word_LT_425">a absolva</string>
+    <string name="word_LT_426">Polițist</string>
+    <string name="word_LT_427">Cifră</string>
+    <string name="word_LT_428">a dansa</string>
+    <string name="word_LT_429">Restaurant</string>
+    <string name="word_LT_430">Sfert</string>
+    <string name="word_LT_431">Timp</string>
+    <string name="word_LT_432">bătrân</string>
+    <string name="word_LT_433">închis</string>
+    <string name="word_LT_434">primul</string>
+    <string name="word_LT_435">nimic</string>
+    <string name="word_LT_436">Venit</string>
+    <string name="word_LT_437">Salariu</string>
+    <string name="word_LT_438">Sat</string>
+    <string name="word_LT_439">Insulă</string>
+    <string name="word_LT_440">Subsol</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_421">a râde</string>
+    <string name="word_RT_422">Profesie</string>
+    <string name="word_RT_423">Instruire</string>
+    <string name="word_RT_424">a mânca</string>
+    <string name="word_RT_425">a cânta</string>
+    <string name="word_RT_426">Doctor</string>
+    <string name="word_RT_427">Bursă</string>
+    <string name="word_RT_428">a striga</string>
+    <string name="word_RT_429">Subsol</string>
+    <string name="word_RT_430">Mâncare</string>
+    <string name="word_RT_431">Ziar</string>
+    <string name="word_RT_432">deschis</string>
+    <string name="word_RT_433">roșu</string>
+    <string name="word_RT_434">tăcut</string>
+    <string name="word_RT_435">puțin</string>
+    <string name="word_RT_436">Premie</string>
+    <string name="word_RT_437">Transfer</string>
+    <string name="word_RT_438">Casă</string>
+    <string name="word_RT_439">Piscină</string>
+    <string name="word_RT_440">Chelner</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_421">a învăţa</string>
+    <string name="word_LB_422">Carte</string>
+    <string name="word_LB_423">Examen</string>
+    <string name="word_LB_424">a lumina</string>
+    <string name="word_LB_425">a găti</string>
+    <string name="word_LB_426">Profesor</string>
+    <string name="word_LB_427">Literă</string>
+    <string name="word_LB_428">a asculta</string>
+    <string name="word_LB_429">Cantină</string>
+    <string name="word_LB_430">Încălţăminte</string>
+    <string name="word_LB_431">Nuntă</string>
+    <string name="word_LB_432">frumos</string>
+    <string name="word_LB_433">repede</string>
+    <string name="word_LB_434">ultimul</string>
+    <string name="word_LB_435">mult</string>
+    <string name="word_LB_436">Bani</string>
+    <string name="word_LB_437">Oraș</string>
+    <string name="word_LB_438">Munte</string>
+    <string name="word_LB_439">Podea</string>
+    <string name="word_LB_440">Muzică</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_421">a se odihni</string>
+    <string name="word_RB_422">Lecție</string>
+    <string name="word_RB_423">Ocean</string>
+    <string name="word_RB_424">a călători</string>
+    <string name="word_RB_425">a dărui</string>
+    <string name="word_RB_426">Constructor</string>
+    <string name="word_RB_427">Cuvânt</string>
+    <string name="word_RB_428">a preda</string>
+    <string name="word_RB_429">Bani</string>
+    <string name="word_RB_430">Ochelari</string>
+    <string name="word_RB_431">Parc</string>
+    <string name="word_RB_432">închis</string>
+    <string name="word_RB_433">încet</string>
+    <string name="word_RB_434">stricat</string>
+    <string name="word_RB_435">posibil</string>
+    <string name="word_RB_436">Păhar</string>
+    <string name="word_RB_437">Pensie</string>
+    <string name="word_RB_438">Fereastră</string>
+    <string name="word_RB_439">Automobil</string>
+    <string name="word_RB_440">Avion</string>
+    <!-- END -->
+</resources>

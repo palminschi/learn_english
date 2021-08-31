@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF565696</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="black">#FF000000</color>
+    <color name="black15">#15000000</color>
+    <color name="black26">#26000000</color>
+    <color name="black32">#32000000</color>
+    <color name="black50">#50000000</color>
+    <color name="black90">#90000000</color>
+
+    <color name="transparent">#00FFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white50">#50FFFFFF</color>
+    <color name="white60">#60FFFFFF</color>
+    <color name="white90">#E6FFFFFF</color>
+    <color name="white95">#95FFFFFF</color>
+    <color name="white99">#99FFFFFF</color>
+
+    <color name="green_01">#41C646</color>
+    <color name="green_02">#29EF30</color>
+    <color name="green_03">#32BA64</color>
+    <color name="green_04">#C31D4C2E</color>
+    <color name="green_05">#BE094E22</color>
+
+    <color name="red_01">#CD3E3E</color>
+    <color name="red_02">#EA1C1C</color>
+    <color name="red_03">#92672020</color>
+    <color name="red_04">#72730A0A</color>
+    <color name="orange_01">#c1503d</color>
+    <color name="orange_02">#e69850</color>
+    <color name="brown_01">#5f5253</color>
+
+    <color name="white_violet">#ddd7ee</color>
+    <color name="white_violet_02">#f0edf9</color>
+    <color name="violet_01">#7f67c1</color>
+    <color name="violet_02">#7e5fc0</color>
+    <color name="violet_03">#997c61c3</color>
+
+    <color name="game01_btn_color01">#237dd1</color>
+    <color name="game01_btn_color01_pressed">#50237dd1</color>
+    <color name="game01_btn_color02">#49924e</color>
+    <color name="game01_btn_color02_pressed">#5049924e</color>
+    <color name="game01_btn_color03">#9E3838</color>
+    <color name="game01_btn_color03_pressed">#509E3838</color>
+    <color name="game01_btn_color04">#81592f</color>
+    <color name="game01_btn_color04_pressed">#5081592f</color>
+    <color name="game01_btn_color05">#832379</color>
+    <color name="game01_btn_color05_pressed">#50832379</color>
+    <color name="game01_btn_color06">#4E3CAA</color>
+    <color name="game01_btn_color06_pressed">#504E3CAA</color>
+    <color name="game01_btn_color07">#313131</color>
+    <color name="game01_btn_color07_pressed">#50313131</color>
+    <color name="game01_btn_color08">#bc6806</color>
+    <color name="game01_btn_color08_pressed">#50bc6806</color>
+    <color name="game01_btn_color09">#14745a</color>
+    <color name="game01_btn_color09_pressed">#5014745a</color>
+    <color name="game01_btn_color10">#478A45</color>
+    <color name="game01_btn_color10_pressed">#50478A45</color>
+
+
+</resources>

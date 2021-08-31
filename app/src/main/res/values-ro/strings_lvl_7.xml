@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_121">Oprire</string>
+    <string name="word_translate_122">a opri</string>
+    <string name="word_translate_123">Sat</string>
+    <string name="word_translate_124">acolo</string>
+    <string name="word_translate_125">aici</string>
+    <string name="word_translate_126">departe</string>
+    <string name="word_translate_127">Gard</string>
+    <string name="word_translate_128">a sări</string>
+    <string name="word_translate_129">a cade</string>
+    <string name="word_translate_130">Picior</string>
+    <string name="word_translate_131">Pantaloni</string>
+    <string name="word_translate_132">Încălţăminte</string>
+    <string name="word_translate_133">Portmoneu</string>
+    <string name="word_translate_134">Jachetă</string>
+    <string name="word_translate_135">Păr</string>
+    <string name="word_translate_136">Chipiu</string>
+    <string name="word_translate_137">Pălărie</string>
+    <string name="word_translate_138">Haine</string>
+    <string name="word_translate_139">Cap</string>
+    <string name="word_translate_140">Gură</string>
+    <!-- END -->
+
+    <!-- PHRASE  -->
+    <string name="phrase_translate_121">Eu aştept la oprire.</string>
+    <string name="phrase_translate_122">Opriţi aici.</string>
+    <string name="phrase_translate_123">Locuieşti într-un oraş sau într-un sat?</string>
+    <string name="phrase_translate_124">Eu trăiesc acolo.</string>
+    <string name="phrase_translate_125">Aici şi acum</string>
+    <string name="phrase_translate_126">Eu merg departe.</string>
+    <string name="phrase_translate_127">Gardul îi înalt</string>
+    <string name="phrase_translate_128">Eu sar peste gard.</string>
+    <string name="phrase_translate_129">Tu ai căzut?</string>
+    <string name="phrase_translate_130">Mă doare piciorul.</string>
+    <string name="phrase_translate_131">Pantalonii sunt prea scurţi.</string>
+    <string name="phrase_translate_132">Eu trebuie să cumpăr încălţăminte.</string>
+    <string name="phrase_translate_133">Eu am pierdut portmoneu.</string>
+    <string name="phrase_translate_134">Jacheta ta este murdară.</string>
+    <string name="phrase_translate_135">Tu ai păr lung.</string>
+    <string name="phrase_translate_136">Unde-i chipiul meu?</string>
+    <string name="phrase_translate_137">Ea are o pălărie mare.</string>
+    <string name="phrase_translate_138">Magazin de haine</string>
+    <string name="phrase_translate_139">Pe mine mă doare capul.</string>
+    <string name="phrase_translate_140">a respira prin gură</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_121">Sat</string>
+    <string name="word_LT_122">a mânca</string>
+    <string name="word_LT_123">Sat</string>
+    <string name="word_LT_124">dinspate</string>
+    <string name="word_LT_125">aproape</string>
+    <string name="word_LT_126">repede</string>
+    <string name="word_LT_127">Castel</string>
+    <string name="word_LT_128">a întreba</string>
+    <string name="word_LT_129">a cade</string>
+    <string name="word_LT_130">Baie</string>
+    <string name="word_LT_131">Cal</string>
+    <string name="word_LT_132">Scaun</string>
+    <string name="word_LT_133">Portmoneu</string>
+    <string name="word_LT_134">Haine</string>
+    <string name="word_LT_135">Pantaloni</string>
+    <string name="word_LT_136">Chipiu</string>
+    <string name="word_LT_137">Gură</string>
+    <string name="word_LT_138">Mâine</string>
+    <string name="word_LT_139">Gard</string>
+    <string name="word_LT_140">Pisică</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_121">Oprire</string>
+    <string name="word_RT_122">a merge</string>
+    <string name="word_RT_123">Casă</string>
+    <string name="word_RT_124">acolo</string>
+    <string name="word_RT_125">jos</string>
+    <string name="word_RT_126">departe</string>
+    <string name="word_RT_127">Saună</string>
+    <string name="word_RT_128">a strânge</string>
+    <string name="word_RT_129">a fura</string>
+    <string name="word_RT_130">Picior</string>
+    <string name="word_RT_131">Sunet</string>
+    <string name="word_RT_132">Ochelari</string>
+    <string name="word_RT_133">Bani</string>
+    <string name="word_RT_134">Jachetă</string>
+    <string name="word_RT_135">Păr</string>
+    <string name="word_RT_136">Cap</string>
+    <string name="word_RT_137">Cal</string>
+    <string name="word_RT_138">Corp</string>
+    <string name="word_RT_139">Oprire</string>
+    <string name="word_RT_140">Mâină</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_121">Benzinărie</string>
+    <string name="word_LB_122">a începe</string>
+    <string name="word_LB_123">Munte</string>
+    <string name="word_LB_124">stânga</string>
+    <string name="word_LB_125">aici</string>
+    <string name="word_LB_126">sus</string>
+    <string name="word_LB_127">Gard</string>
+    <string name="word_LB_128">a gîndi</string>
+    <string name="word_LB_129">a merge</string>
+    <string name="word_LB_130">Munte</string>
+    <string name="word_LB_131">Pantaloni</string>
+    <string name="word_LB_132">Haine</string>
+    <string name="word_LB_133">Dulap</string>
+    <string name="word_LB_134">Încălţăminte</string>
+    <string name="word_LB_135">Chipiu</string>
+    <string name="word_LB_136">Păr</string>
+    <string name="word_LB_137">Câine</string>
+    <string name="word_LB_138">Haine</string>
+    <string name="word_LB_139">Cap</string>
+    <string name="word_LB_140">Gură</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_121">Şantier</string>
+    <string name="word_RB_122">a opri</string>
+    <string name="word_RB_123">Copac</string>
+    <string name="word_RB_124">alături</string>
+    <string name="word_RB_125">între</string>
+    <string name="word_RB_126">aproape</string>
+    <string name="word_RB_127">Pământ</string>
+    <string name="word_RB_128">a sări</string>
+    <string name="word_RB_129">a spăla</string>
+    <string name="word_RB_130">Pădure</string>
+    <string name="word_RB_131">Ochelari</string>
+    <string name="word_RB_132">Încălţăminte</string>
+    <string name="word_RB_133">Tricou</string>
+    <string name="word_RB_134">Ochelari</string>
+    <string name="word_RB_135">Pălărie</string>
+    <string name="word_RB_136">Gură</string>
+    <string name="word_RB_137">Pălărie</string>
+    <string name="word_RB_138">Ochelari</string>
+    <string name="word_RB_139">Şantier</string>
+    <string name="word_RB_140">Mare</string>
+    <!-- END -->
+</resources>

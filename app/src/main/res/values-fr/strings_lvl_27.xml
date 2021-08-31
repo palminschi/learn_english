@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_521">la pièce</string>
+    <string name="word_translate_522">un peu</string>
+    <string name="word_translate_523">la liste</string>
+    <string name="word_translate_524">le développement</string>
+    <string name="word_translate_525">le développeur</string>
+    <string name="word_translate_526">le programmeur</string>
+    <string name="word_translate_527">développer</string>
+    <string name="word_translate_528">la solution</string>
+    <string name="word_translate_529">le Conseil</string>
+    <string name="word_translate_530">conseiller</string>
+    <string name="word_translate_531">le conflit</string>
+    <string name="word_translate_532">se disputer</string>
+    <string name="word_translate_533">l\'aide</string>
+    <string name="word_translate_534">aider</string>
+    <string name="word_translate_535">s\'inquiéter</string>
+    <string name="word_translate_536">le soin</string>
+    <string name="word_translate_537">le test</string>
+    <string name="word_translate_538">tester</string>
+    <string name="word_translate_539">vérifier</string>
+    <string name="word_translate_540">sauver</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_521">Donnez-moi deux morceaux, s\'il vous plaît.</string>
+    <string name="phrase_translate_522">Je parle un peu allemand.</string>
+    <string name="phrase_translate_523">J\'ai une liste de choses à faire.</string>
+    <string name="phrase_translate_524">Développement de l\'entreprise.</string>
+    <string name="phrase_translate_525">Il travaille en tant que développeur.</string>
+    <string name="phrase_translate_526">Un programmeur me fait un site Web.</string>
+    <string name="phrase_translate_527">Nous avons développé un nouveau programme</string>
+    <string name="phrase_translate_528">Je ne peux pas trouver de solution.</string>
+    <string name="phrase_translate_529">J\'ai besoin de conseils.</string>
+    <string name="phrase_translate_530">Je te conseille de faire ça.</string>
+    <string name="phrase_translate_531">Un litige est né</string>
+    <string name="phrase_translate_532">Ils se disputent avec nous.</string>
+    <string name="phrase_translate_533">Il a besoin d\'aide.</string>
+    <string name="phrase_translate_534">Je dois aider ma grand-mère.</string>
+    <string name="phrase_translate_535">Je m\'inquiète pour lui.</string>
+    <string name="phrase_translate_536">Le chien a besoin de soins.</string>
+    <string name="phrase_translate_537">J\'ai fait un test.</string>
+    <string name="phrase_translate_538">Je vais tester la voiture.</string>
+    <string name="phrase_translate_539">L\'enseignant vérifie comment nous écrivons.</string>
+    <string name="phrase_translate_540">J\'économise de l\'argent.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_521">la pensée</string>
+    <string name="word_LT_522">rien</string>
+    <string name="word_LT_523">le pantalon</string>
+    <string name="word_LT_524">le document</string>
+    <string name="word_LT_525">le policier</string>
+    <string name="word_LT_526">l\'acteur</string>
+    <string name="word_LT_527">développer</string>
+    <string name="word_LT_528">la pensée</string>
+    <string name="word_LT_529">le village</string>
+    <string name="word_LT_530">oublier</string>
+    <string name="word_LT_531">le Conseil</string>
+    <string name="word_LT_532">voler</string>
+    <string name="word_LT_533">le soin</string>
+    <string name="word_LT_534">rire</string>
+    <string name="word_LT_535">s\'inquiéter</string>
+    <string name="word_LT_536">la mémoire</string>
+    <string name="word_LT_537">La sortie</string>
+    <string name="word_LT_538">casser</string>
+    <string name="word_LT_539">attendre</string>
+    <string name="word_LT_540">contrôller</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_521">la pièce</string>
+    <string name="word_RT_522">arrière</string>
+    <string name="word_RT_523">les cheveux</string>
+    <string name="word_RT_524">le développement</string>
+    <string name="word_RT_525">le producteur</string>
+    <string name="word_RT_526">le programmeur</string>
+    <string name="word_RT_527">manger</string>
+    <string name="word_RT_528">la prime</string>
+    <string name="word_RT_529">l\'expérience</string>
+    <string name="word_RT_530">chercher</string>
+    <string name="word_RT_531">le développement</string>
+    <string name="word_RT_532">se disputer</string>
+    <string name="word_RT_533">l\'aide</string>
+    <string name="word_RT_534">aider</string>
+    <string name="word_RT_535">collecter</string>
+    <string name="word_RT_536">le soin</string>
+    <string name="word_RT_537">la formation</string>
+    <string name="word_RT_538">tester</string>
+    <string name="word_RT_539">oublier</string>
+    <string name="word_RT_540">chanter</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_521">la paire</string>
+    <string name="word_LB_522">beaucoup</string>
+    <string name="word_LB_523">le capuchon</string>
+    <string name="word_LB_524">le bénéfice</string>
+    <string name="word_LB_525">l\'acteur</string>
+    <string name="word_LB_526">le policier</string>
+    <string name="word_LB_527">traverser</string>
+    <string name="word_LB_528">la solution</string>
+    <string name="word_LB_529">la retraite</string>
+    <string name="word_LB_530">à savoir</string>
+    <string name="word_LB_531">la décision</string>
+    <string name="word_LB_532">tomber</string>
+    <string name="word_LB_533">l\'affaire</string>
+    <string name="word_LB_534">se reposer</string>
+    <string name="word_LB_535">arroser</string>
+    <string name="word_LB_536">le profit</string>
+    <string name="word_LB_537">l\'examen</string>
+    <string name="word_LB_538">guérir</string>
+    <string name="word_LB_539">vérifier</string>
+    <string name="word_LB_540">sauter</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_521">l\'âme</string>
+    <string name="word_RB_522">un peu</string>
+    <string name="word_RB_523">la liste</string>
+    <string name="word_RB_524">le reste</string>
+    <string name="word_RB_525">le développeur</string>
+    <string name="word_RB_526">le producteur</string>
+    <string name="word_RB_527">voyager</string>
+    <string name="word_RB_528">l\'âme</string>
+    <string name="word_RB_529">le Conseil</string>
+    <string name="word_RB_530">conseiller</string>
+    <string name="word_RB_531">le conflit</string>
+    <string name="word_RB_532">fumer</string>
+    <string name="word_RB_533">le transfert</string>
+    <string name="word_RB_534">chanter</string>
+    <string name="word_RB_535">sauter</string>
+    <string name="word_RB_536">le jeu</string>
+    <string name="word_RB_537">le test</string>
+    <string name="word_RB_538">tomber</string>
+    <string name="word_RB_539">se tenir debout</string>
+    <string name="word_RB_540">sauver</string>
+    <!-- END -->
+</resources>

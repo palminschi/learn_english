@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_381">Sukienka</string>
+    <string name="word_translate_382">Wiązanie</string>
+    <string name="word_translate_383">Rękawica</string>
+    <string name="word_translate_384">włączać</string>
+    <string name="word_translate_385">Rozbierz się</string>
+    <string name="word_translate_386">Pasek</string>
+    <string name="word_translate_387">Szalik</string>
+    <string name="word_translate_388">Bransoletka</string>
+    <string name="word_translate_389">Łańcuch</string>
+    <string name="word_translate_390">złoto</string>
+    <string name="word_translate_391">Koszula</string>
+    <string name="word_translate_392">sweter</string>
+    <string name="word_translate_393">Spódnica</string>
+    <string name="word_translate_394">Szorty</string>
+    <string name="word_translate_395">zamówienie</string>
+    <string name="word_translate_396">dżinsy</string>
+    <string name="word_translate_397">Dzwonić</string>
+    <string name="word_translate_398">Kolczyk</string>
+    <string name="word_translate_399">Ucho</string>
+    <string name="word_translate_400">Błyskawica</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_381">Ma piękną sukienkę.</string>
+    <string name="phrase_translate_382">Krawat jest dla niego za długi.</string>
+    <string name="phrase_translate_383">Zimą jest zimno bez rękawiczek.</string>
+    <string name="phrase_translate_384">Zakładam kurtkę.</string>
+    <string name="phrase_translate_385">Zdejmuję kurtkę.</string>
+    <string name="phrase_translate_386">Kupiłem pasek.</string>
+    <string name="phrase_translate_387">Zapomniała szalika.</string>
+    <string name="phrase_translate_388">Nie noszę bransoletki.</string>
+    <string name="phrase_translate_389">Ten łańcuszek jest wykonany ze srebra.</string>
+    <string name="phrase_translate_390">Dał jej złoty pierścionek.</string>
+    <string name="phrase_translate_391">Założyłem dzisiaj koszulkę.</string>
+    <string name="phrase_translate_392">Sweter jest cieplejszy.</string>
+    <string name="phrase_translate_393">W lecie zakładam spódnicę.</string>
+    <string name="phrase_translate_394">Noszę dżinsowe szorty.</string>
+    <string name="phrase_translate_395">Zamówiłam sobie nowe ubrania.</string>
+    <string name="phrase_translate_396">Masz ładne dżinsy.</string>
+    <string name="phrase_translate_397">Nie noszę pierścionków.</string>
+    <string name="phrase_translate_398">Zgubiła jeden kolczyk.</string>
+    <string name="phrase_translate_399">Ma duże uszy.</string>
+    <string name="phrase_translate_400">Kurtka z zamkiem</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_381">Krzesło</string>
+    <string name="word_LT_382">Portfel</string>
+    <string name="word_LT_383">Rękawica</string>
+    <string name="word_LT_384">włączać</string>
+    <string name="word_LT_385">bawić się</string>
+    <string name="word_LT_386">Spodnie</string>
+    <string name="word_LT_387">Czapka</string>
+    <string name="word_LT_388">Usta</string>
+    <string name="word_LT_389">Ramię</string>
+    <string name="word_LT_390">bogaty</string>
+    <string name="word_LT_391">Ogrodzenie</string>
+    <string name="word_LT_392">Kot</string>
+    <string name="word_LT_393">Spodnie jeansowe</string>
+    <string name="word_LT_394">Spodnie</string>
+    <string name="word_LT_395">zamówienie</string>
+    <string name="word_LT_396">odzież</string>
+    <string name="word_LT_397">Bransoletka</string>
+    <string name="word_LT_398">podkoszulek</string>
+    <string name="word_LT_399">Usta</string>
+    <string name="word_LT_400">Błyskawica</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_381">Okulary</string>
+    <string name="word_RT_382">Pieniądze</string>
+    <string name="word_RT_383">Kurtka</string>
+    <string name="word_RT_384">śmiać się</string>
+    <string name="word_RT_385">włączać</string>
+    <string name="word_RT_386">Włosy</string>
+    <string name="word_RT_387">Głowa</string>
+    <string name="word_RT_388">Koń</string>
+    <string name="word_RT_389">Łańcuch</string>
+    <string name="word_RT_390">złoto</string>
+    <string name="word_RT_391">Koszula</string>
+    <string name="word_RT_392">sweter</string>
+    <string name="word_RT_393">Sukienka</string>
+    <string name="word_RT_394">Spódnica</string>
+    <string name="word_RT_395">zarobić</string>
+    <string name="word_RT_396">dżinsy</string>
+    <string name="word_RT_397">Kurtka</string>
+    <string name="word_RT_398">Łańcuch</string>
+    <string name="word_RT_399">Ucho</string>
+    <string name="word_RT_400">Wiązanie</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_381">odzież</string>
+    <string name="word_LB_382">Wiązanie</string>
+    <string name="word_LB_383">Buty</string>
+    <string name="word_LB_384">śpiewać</string>
+    <string name="word_LB_385">Rozbierz się</string>
+    <string name="word_LB_386">Czapka</string>
+    <string name="word_LB_387">Włosy</string>
+    <string name="word_LB_388">Bransoletka</string>
+    <string name="word_LB_389">odzież</string>
+    <string name="word_LB_390">lekki</string>
+    <string name="word_LB_391">Głowa</string>
+    <string name="word_LB_392">Usta</string>
+    <string name="word_LB_393">Wiązanie</string>
+    <string name="word_LB_394">Szorty</string>
+    <string name="word_LB_395">Sprzedać</string>
+    <string name="word_LB_396">Buty</string>
+    <string name="word_LB_397">Rękawice</string>
+    <string name="word_LB_398">Kolczyk</string>
+    <string name="word_LB_399">Nos</string>
+    <string name="word_LB_400">Buty</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_381">Sukienka</string>
+    <string name="word_RB_382">podkoszulek</string>
+    <string name="word_RB_383">Okulary</string>
+    <string name="word_RB_384">zrelaksować się</string>
+    <string name="word_RB_385">zapytać się</string>
+    <string name="word_RB_386">Pasek</string>
+    <string name="word_RB_387">Szalik</string>
+    <string name="word_RB_388">Kapelusz</string>
+    <string name="word_RB_389">Okulary</string>
+    <string name="word_RB_390">ciemny</string>
+    <string name="word_RB_391">Budowa</string>
+    <string name="word_RB_392">Morze</string>
+    <string name="word_RB_393">Spódnica</string>
+    <string name="word_RB_394">Zjechać na pobocze</string>
+    <string name="word_RB_395">płacić</string>
+    <string name="word_RB_396">Okulary</string>
+    <string name="word_RB_397">Dzwonić</string>
+    <string name="word_RB_398">Bransoletka</string>
+    <string name="word_RB_399">Ramię</string>
+    <string name="word_RB_400">Spodnie jeansowe</string>
+    <!-- END -->
+</resources>

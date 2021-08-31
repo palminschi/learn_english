@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_261">Kot</string>
+    <string name="word_translate_262">Pies</string>
+    <string name="word_translate_263">Kora</string>
+    <string name="word_translate_264">Wilk</string>
+    <string name="word_translate_265">Lis</string>
+    <string name="word_translate_266">Koń</string>
+    <string name="word_translate_267">uruchomić</string>
+    <string name="word_translate_268">Ryba</string>
+    <string name="word_translate_269">Wędkarstwo</string>
+    <string name="word_translate_270">Polowanie</string>
+    <string name="word_translate_271">polowanie</string>
+    <string name="word_translate_272">Zwierzę</string>
+    <string name="word_translate_273">Niedźwiedź</string>
+    <string name="word_translate_274">Kaczka</string>
+    <string name="word_translate_275">Pistolet</string>
+    <string name="word_translate_276">Wędka</string>
+    <string name="word_translate_277">łapać</string>
+    <string name="word_translate_278">łowić ryby</string>
+    <string name="word_translate_279">Zając</string>
+    <string name="word_translate_280">Ptak</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_261">Ma trzy koty.</string>
+    <string name="phrase_translate_262">Mój pies jest już stary.</string>
+    <string name="phrase_translate_263">Pies szczeka</string>
+    <string name="phrase_translate_264">W lesie są wilki.</string>
+    <string name="phrase_translate_265">Lis jest piękny.</string>
+    <string name="phrase_translate_266">Nie umiem jeździć konno.</string>
+    <string name="phrase_translate_267">Biegasz bardzo szybko.</string>
+    <string name="phrase_translate_268">Złapałem rybę.</string>
+    <string name="phrase_translate_269">Łowimy ryby.</string>
+    <string name="phrase_translate_270">Był na polowaniu.</string>
+    <string name="phrase_translate_271">Polują na zwierzęta</string>
+    <string name="phrase_translate_272">Musimy się martwić o zwierzęta.</string>
+    <string name="phrase_translate_273">Niedźwiedź zjada ryby.</string>
+    <string name="phrase_translate_274">W jeziorze pływają kaczki.</string>
+    <string name="phrase_translate_275">Żołnierze mają broń.</string>
+    <string name="phrase_translate_276">Wrzuciłem wędkę do wody.</string>
+    <string name="phrase_translate_277">łowię ryby</string>
+    <string name="phrase_translate_278">Wędkujesz</string>
+    <string name="phrase_translate_279">Zając wbiega na pole.</string>
+    <string name="phrase_translate_280">Ptaki śpiewają na wiosnę.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_261">Kwiat</string>
+    <string name="word_LT_262">Samolot</string>
+    <string name="word_LT_263">chodzić</string>
+    <string name="word_LT_264">Wilk</string>
+    <string name="word_LT_265">Park</string>
+    <string name="word_LT_266">Wyspa</string>
+    <string name="word_LT_267">uruchomić</string>
+    <string name="word_LT_268">Zabawka</string>
+    <string name="word_LT_269">Wędkarstwo</string>
+    <string name="word_LT_270">zupa</string>
+    <string name="word_LT_271">latać</string>
+    <string name="word_LT_272">Drewno</string>
+    <string name="word_LT_273">Noc</string>
+    <string name="word_LT_274">Zwierzę</string>
+    <string name="word_LT_275">odzież</string>
+    <string name="word_LT_276">Kwiat</string>
+    <string name="word_LT_277">brać</string>
+    <string name="word_LT_278">polowanie</string>
+    <string name="word_LT_279">Zając</string>
+    <string name="word_LT_280">Drewno</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_261">Kot</string>
+    <string name="word_RT_262">Motyl</string>
+    <string name="word_RT_263">uruchomić</string>
+    <string name="word_RT_264">Góra</string>
+    <string name="word_RT_265">Pociąg</string>
+    <string name="word_RT_266">Koń</string>
+    <string name="word_RT_267">śpiewać</string>
+    <string name="word_RT_268">cukierek</string>
+    <string name="word_RT_269">Drewno</string>
+    <string name="word_RT_270">Czajnik</string>
+    <string name="word_RT_271">śpiewać</string>
+    <string name="word_RT_272">Zwierzę</string>
+    <string name="word_RT_273">Motyl</string>
+    <string name="word_RT_274">Las</string>
+    <string name="word_RT_275">Pistolet</string>
+    <string name="word_RT_276">Wędka</string>
+    <string name="word_RT_277">bawić się</string>
+    <string name="word_RT_278">uruchomić</string>
+    <string name="word_RT_279">Boże Narodzenie</string>
+    <string name="word_RT_280">Ptak</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_261">Góra</string>
+    <string name="word_LB_262">Jogging</string>
+    <string name="word_LB_263">Kora</string>
+    <string name="word_LB_264">Drewno</string>
+    <string name="word_LB_265">Lis</string>
+    <string name="word_LB_266">Drewno</string>
+    <string name="word_LB_267">przygotować</string>
+    <string name="word_LB_268">Gitara</string>
+    <string name="word_LB_269">Odpoczynek</string>
+    <string name="word_LB_270">Polowanie</string>
+    <string name="word_LB_271">skakać</string>
+    <string name="word_LB_272">Kwiat</string>
+    <string name="word_LB_273">Niedźwiedź</string>
+    <string name="word_LB_274">Noc</string>
+    <string name="word_LB_275">Polowanie</string>
+    <string name="word_LB_276">Samolot</string>
+    <string name="word_LB_277">zostać</string>
+    <string name="word_LB_278">Szukaj</string>
+    <string name="word_LB_279">Motyl</string>
+    <string name="word_LB_280">Kwiat</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_261">Samolot</string>
+    <string name="word_RB_262">Pies</string>
+    <string name="word_RB_263">teraźniejszość</string>
+    <string name="word_RB_264">Las</string>
+    <string name="word_RB_265">Muzyka</string>
+    <string name="word_RB_266">Gra</string>
+    <string name="word_RB_267">teraźniejszość</string>
+    <string name="word_RB_268">Ryba</string>
+    <string name="word_RB_269">Czas</string>
+    <string name="word_RB_270">odzież</string>
+    <string name="word_RB_271">polowanie</string>
+    <string name="word_RB_272">Odpoczynek</string>
+    <string name="word_RB_273">Zima</string>
+    <string name="word_RB_274">Kaczka</string>
+    <string name="word_RB_275">Gitara</string>
+    <string name="word_RB_276">Restauracja</string>
+    <string name="word_RB_277">łapać</string>
+    <string name="word_RB_278">łowić ryby</string>
+    <string name="word_RB_279">Odpoczynek</string>
+    <string name="word_RB_280">Samolot</string>
+    <!-- END -->
+</resources>

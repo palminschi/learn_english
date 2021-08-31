@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581471582870",
+    "project_id": "learn-english-c24b0",
+    "storage_bucket": "learn-english-c24b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581471582870:android:10726c8fde95a10dc160b7",
+        "android_client_info": {
+          "package_name": "com.palmdev.learn_english"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581471582870-piahd6rd1i71h0ktbc5n2fr3hb2nu8nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK_-SZZTkQvc1XaCOrDuJKxf9yNWKWogc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581471582870-piahd6rd1i71h0ktbc5n2fr3hb2nu8nt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

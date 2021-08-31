@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="word_translate_1">учиться</string>
+    <string name="word_translate_2">Язык</string>
+    <string name="word_translate_3">писать</string>
+    <string name="word_translate_4">Письмо</string>
+    <string name="word_translate_5">получить</string>
+    <string name="word_translate_6">отправить</string>
+    <string name="word_translate_7">Стол</string>
+    <string name="word_translate_8">читать</string>
+    <string name="word_translate_9">Книга</string>
+    <string name="word_translate_10">старый</string>
+    <string name="word_translate_11">новый</string>
+    <string name="word_translate_12">Автомобиль</string>
+    <string name="word_translate_13">купить</string>
+    <string name="word_translate_14">ездить</string>
+    <string name="word_translate_15">Велосипед</string>
+    <string name="word_translate_16">продавать</string>
+    <string name="word_translate_17">Деньги</string>
+    <string name="word_translate_18">Сколько?</string>
+    <string name="word_translate_19">мало</string>
+    <string name="word_translate_20">чёрный</string>
+
+    <!-- PHRASE  -->
+    <string name="phrase_translate_1">Я <b>учу</b> испанский</string>
+    <string name="phrase_translate_2">Он говорит на двух <b>языках</b>.</string>
+    <string name="phrase_translate_3">Он учится <b>писать</b>.</string>
+    <string name="phrase_translate_4">Я пишу <b>письмо</b>.</string>
+    <string name="phrase_translate_5">Ты <b>получил</b> ответ?</string>
+    <string name="phrase_translate_6"><b>отправить</b> по электронной почте</string>
+    <string name="phrase_translate_7">Ужин на <b>столе</b>.</string>
+    <string name="phrase_translate_8">Он может <b>читать</b> и писать.</string>
+    <string name="phrase_translate_9">Я прочитал <b>книгу</b>.</string>
+    <string name="phrase_translate_10">Я живу в старом доме</string>
+    <string name="phrase_translate_11">Он тут <b>новый</b>.</string>
+    <string name="phrase_translate_12"><b>Машина</b> сломана.</string>
+    <string name="phrase_translate_13">Я <b>покупаю</b> билет.</string>
+    <string name="phrase_translate_14">Куда Вы <b>едете</b>?</string>
+    <string name="phrase_translate_15">Где я могу поставить <b>велосипед</b>?</string>
+    <string name="phrase_translate_16">Вы <b>продаете</b> свою машину?</string>
+    <string name="phrase_translate_17">У меня нет <b>денег</b>.</string>
+    <string name="phrase_translate_18"><b>Сколько</b> это стоит?</string>
+    <string name="phrase_translate_19">Ты <b>мало</b> спишь.</string>
+    <string name="phrase_translate_20">Я пью <b>чёрный</b> кофе.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_1">учиться</string>
+    <string name="word_LT_2">Человек</string>
+    <string name="word_LT_3">говорить</string>
+    <string name="word_LT_4">Город</string>
+    <string name="word_LT_5">прийти</string>
+    <string name="word_LT_6">отправить</string>
+    <string name="word_LT_7">Стол</string>
+    <string name="word_LT_8">писать</string>
+    <string name="word_LT_9">Цифра</string>
+    <string name="word_LT_10">старый</string>
+    <string name="word_LT_11">много</string>
+    <string name="word_LT_12">Автомобиль</string>
+    <string name="word_LT_13">продать</string>
+    <string name="word_LT_14">идти</string>
+    <string name="word_LT_15">Трамвай</string>
+    <string name="word_LT_16">заплатить</string>
+    <string name="word_LT_17">Желтый</string>
+    <string name="word_LT_18">Сколько?</string>
+    <string name="word_LT_19">ничего</string>
+    <string name="word_LT_20">жёлтый</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_1">играть</string>
+    <string name="word_RT_2">Спорт</string>
+    <string name="word_RT_3">писать</string>
+    <string name="word_RT_4">Письмо</string>
+    <string name="word_RT_5">думать</string>
+    <string name="word_RT_6">сидеть</string>
+    <string name="word_RT_7">Нож</string>
+    <string name="word_RT_8">говорить</string>
+    <string name="word_RT_9">Книга</string>
+    <string name="word_RT_10">открытый</string>
+    <string name="word_RT_11">девять</string>
+    <string name="word_RT_12">Дерево</string>
+    <string name="word_RT_13">бегать</string>
+    <string name="word_RT_14">ездить</string>
+    <string name="word_RT_15">Автошкола</string>
+    <string name="word_RT_16">искать</string>
+    <string name="word_RT_17">Город</string>
+    <string name="word_RT_18">Почему?</string>
+    <string name="word_RT_19">мало</string>
+    <string name="word_RT_20">чёрный</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_1">бегать</string>
+    <string name="word_LB_2">Язык</string>
+    <string name="word_LB_3">спрашивать</string>
+    <string name="word_LB_4">Книга</string>
+    <string name="word_LB_5">говорить</string>
+    <string name="word_LB_6">купить</string>
+    <string name="word_LB_7">Ручка</string>
+    <string name="word_LB_8">играть</string>
+    <string name="word_LB_9">Буква</string>
+    <string name="word_LB_10">красивый</string>
+    <string name="word_LB_11">новый</string>
+    <string name="word_LB_12">Вода</string>
+    <string name="word_LB_13">купить</string>
+    <string name="word_LB_14">прийти</string>
+    <string name="word_LB_15">Мотоцикл</string>
+    <string name="word_LB_16">продавать</string>
+    <string name="word_LB_17">Деньги</string>
+    <string name="word_LB_18">Где?</string>
+    <string name="word_LB_19">много</string>
+    <string name="word_LB_20">синий</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_1">работать</string>
+    <string name="word_RB_2">Город</string>
+    <string name="word_RB_3">бегать</string>
+    <string name="word_RB_4">Деньги</string>
+    <string name="word_RB_5">получить</string>
+    <string name="word_RB_6">продать</string>
+    <string name="word_RB_7">Стул</string>
+    <string name="word_RB_8">читать</string>
+    <string name="word_RB_9">Слово</string>
+    <string name="word_RB_10">закрытый</string>
+    <string name="word_RB_11">нет</string>
+    <string name="word_RB_12">Дом</string>
+    <string name="word_RB_13">ездить</string>
+    <string name="word_RB_14">лететь</string>
+    <string name="word_RB_15">Велосипед</string>
+    <string name="word_RB_16">найти</string>
+    <string name="word_RB_17">Золото</string>
+    <string name="word_RB_18">Кто?</string>
+    <string name="word_RB_19">всё</string>
+    <string name="word_RB_20">зелёный</string>
+    <!-- END -->
+</resources>

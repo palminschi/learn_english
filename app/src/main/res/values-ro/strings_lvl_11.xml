@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_201">Excursie</string>
+    <string name="word_translate_202">a se plimba</string>
+    <string name="word_translate_203">Alergare</string>
+    <string name="word_translate_204">Pădure</string>
+    <string name="word_translate_205">Parc</string>
+    <string name="word_translate_206">Role</string>
+    <string name="word_translate_207">Skateboard</string>
+    <string name="word_translate_208">Patine</string>
+    <string name="word_translate_209">Timp liber</string>
+    <string name="word_translate_210">Weekend</string>
+    <string name="word_translate_211">a zbura</string>
+    <string name="word_translate_212">Vacanţă</string>
+    <string name="word_translate_213">Creciun</string>
+    <string name="word_translate_214">a vizita</string>
+    <string name="word_translate_215">a brona</string>
+    <string name="word_translate_216">Hotel</string>
+    <string name="word_translate_217">a rămâne</string>
+    <string name="word_translate_218">Valiză</string>
+    <string name="word_translate_219">Ţară străină</string>
+    <string name="word_translate_220">Vamă</string>
+
+    <!-- PHRASE  -->
+    <string name="phrase_translate_201">Eu fac o excursie.</string>
+    <string name="phrase_translate_202">Îmi place plimbarea.</string>
+    <string name="phrase_translate_203">Tu mergi la alergare?</string>
+    <string name="phrase_translate_204">Eu alerg prin pădure.</string>
+    <string name="phrase_translate_205">Parc frumos</string>
+    <string name="phrase_translate_206">Fiul meu are patine cu role.</string>
+    <string name="phrase_translate_207">Eu merg cu skateboard-ul.</string>
+    <string name="phrase_translate_208">a merge cu patinele</string>
+    <string name="phrase_translate_209">Acum eu am timp liber.</string>
+    <string name="phrase_translate_210">Unde pleci tu în weekend?</string>
+    <string name="phrase_translate_211">Eu zbor la mare.</string>
+    <string name="phrase_translate_212">Copilul are vacanţă.</string>
+    <string name="phrase_translate_213">Degrabă este Creciunul.</string>
+    <string name="phrase_translate_214">Câte ţări tu ai vizitat?</string>
+    <string name="phrase_translate_215">Eu am bronat un hotel.</string>
+    <string name="phrase_translate_216">Eu trăiesc într-un hotel</string>
+    <string name="phrase_translate_217">Eu rămân acasă.</string>
+    <string name="phrase_translate_218">Unde-i valiza mea?</string>
+    <string name="phrase_translate_219">Ea locuieşte peste hotare.</string>
+    <string name="phrase_translate_220">Noi trebuie să trecem prin vamă.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_201">Floare</string>
+    <string name="word_LT_202">a se plimba</string>
+    <string name="word_LT_203">Avion</string>
+    <string name="word_LT_204">Mare</string>
+    <string name="word_LT_205">Parc</string>
+    <string name="word_LT_206">Insulă</string>
+    <string name="word_LT_207">Skateboard</string>
+    <string name="word_LT_208">Jocărie</string>
+    <string name="word_LT_209">Avion</string>
+    <string name="word_LT_210">Lună</string>
+    <string name="word_LT_211">a zbura</string>
+    <string name="word_LT_212">Copac</string>
+    <string name="word_LT_213">Noapte</string>
+    <string name="word_LT_214">a zbura</string>
+    <string name="word_LT_215">a brona</string>
+    <string name="word_LT_216">Floare</string>
+    <string name="word_LT_217">a lua</string>
+    <string name="word_LT_218">Avion</string>
+    <string name="word_LT_219">Ţară străină</string>
+    <string name="word_LT_220">Copac</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_201">Excursie</string>
+    <string name="word_RT_202">a alerga</string>
+    <string name="word_RT_203">Fluture</string>
+    <string name="word_RT_204">Munte</string>
+    <string name="word_RT_205">Tren</string>
+    <string name="word_RT_206">Role</string>
+    <string name="word_RT_207">Chitară</string>
+    <string name="word_RT_208">Bomboană</string>
+    <string name="word_RT_209">Copac</string>
+    <string name="word_RT_210">Săptămână</string>
+    <string name="word_RT_211">a cânta</string>
+    <string name="word_RT_212">Vacanţă</string>
+    <string name="word_RT_213">Fluture</string>
+    <string name="word_RT_214">a găsi</string>
+    <string name="word_RT_215">a alerga</string>
+    <string name="word_RT_216">Hotel</string>
+    <string name="word_RT_217">a juca</string>
+    <string name="word_RT_218">Odihnă</string>
+    <string name="word_RT_219">Creciun</string>
+    <string name="word_RT_220">Vamă</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_201">Munte</string>
+    <string name="word_LB_202">a învăţa</string>
+    <string name="word_LB_203">Alergare</string>
+    <string name="word_LB_204">Copac</string>
+    <string name="word_LB_205">Casă</string>
+    <string name="word_LB_206">Copac</string>
+    <string name="word_LB_207">Tort</string>
+    <string name="word_LB_208">Chitară</string>
+    <string name="word_LB_209">Timp liber</string>
+    <string name="word_LB_210">Sfârşit</string>
+    <string name="word_LB_211">a sări</string>
+    <string name="word_LB_212">Floare</string>
+    <string name="word_LB_213">Creciun</string>
+    <string name="word_LB_214">a căuta</string>
+    <string name="word_LB_215">a căuta</string>
+    <string name="word_LB_216">Avion</string>
+    <string name="word_LB_217">a rămâne</string>
+    <string name="word_LB_218">Munte</string>
+    <string name="word_LB_219">Fluture</string>
+    <string name="word_LB_220">Floare</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_201">Avion</string>
+    <string name="word_RB_202">a dărui</string>
+    <string name="word_RB_203">Floare</string>
+    <string name="word_RB_204">Pădure</string>
+    <string name="word_RB_205">Muzică</string>
+    <string name="word_RB_206">Joc</string>
+    <string name="word_RB_207">Fericire</string>
+    <string name="word_RB_208">Patine</string>
+    <string name="word_RB_209">Timp</string>
+    <string name="word_RB_210">Weekend</string>
+    <string name="word_RB_211">a lucra</string>
+    <string name="word_RB_212">Odihnă</string>
+    <string name="word_RB_213">Iarnă</string>
+    <string name="word_RB_214">a vizita</string>
+    <string name="word_RB_215">a dărui</string>
+    <string name="word_RB_216">Restaurant</string>
+    <string name="word_RB_217">a alerga</string>
+    <string name="word_RB_218">Valiză</string>
+    <string name="word_RB_219">Odihnă</string>
+    <string name="word_RB_220">Avion</string>
+    <!-- END -->
+</resources>

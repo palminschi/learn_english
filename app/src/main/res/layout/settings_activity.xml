@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageView
+        android:id="@+id/background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/main_act_background"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="5dp"
+        android:weightSum="100"
+        android:orientation="vertical">
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="7"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp">
+            <Button
+                android:id="@+id/btn_back"
+                android:onClick="onClickBtnBack"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:adjustViewBounds="true"
+                android:background="@drawable/style_btn_back"
+                app:backgroundTint="@null"
+                app:layout_constraintDimensionRatio="H,16:11"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"/>
+            <TextView
+                android:id="@+id/settings_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/settings_title"
+                android:textSize="32sp"
+                android:textColor="@color/violet_01"
+                android:textStyle="bold"
+                android:fontFamily="sans-serif-condensed"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"/>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="93">
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_marginStart="20dp"
+                android:layout_marginEnd="20dp"
+                android:layout_height="fill_parent">
+
+                <Button
+                    android:onClick="onClickSelLang"
+                    android:id="@+id/btn_lang"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:background="@drawable/style_settings_container"
+                    android:elevation="1dp"
+                    android:paddingStart="30dp"
+                    android:paddingEnd="30dp"
+                    android:text="@string/btn_lang"
+                    android:textAlignment="textStart"
+                    android:textAllCaps="false"
+                    android:textColor="@color/violet_01"
+                    android:textSize="20sp"
+                    app:layout_constraintBottom_toTopOf="@id/btn_like"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.9"
+                    tools:layout_editor_absoluteX="0dp" />
+
+                <ImageView
+                    android:id="@+id/img_flag"
+                    android:layout_width="60dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/flag_russia"
+                    android:layout_marginEnd="20dp"
+                    android:elevation="3dp"
+                    android:background="@drawable/style_img_flag"
+                    app:layout_constraintTop_toTopOf="@id/btn_lang"
+                    app:layout_constraintEnd_toEndOf="@id/btn_lang"
+                    app:layout_constraintBottom_toBottomOf="@id/btn_lang"/>
+
+                <Button
+                    android:id="@+id/btn_like"
+                    android:onClick="onClickLike"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:background="@drawable/style_settings_container"
+                    android:paddingStart="30dp"
+                    android:paddingEnd="30dp"
+                    android:text="@string/btn_like"
+                    android:textAlignment="textStart"
+                    android:textAllCaps="false"
+                    android:textColor="@color/violet_01"
+                    android:textSize="20sp"
+                    app:layout_constraintBottom_toTopOf="@id/btn_other"
+                    app:layout_constraintTop_toBottomOf="@id/btn_lang"
+                    tools:layout_editor_absoluteX="20dp" />
+
+                <ImageView
+                    android:elevation="3dp"
+                    android:layout_marginEnd="25dp"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/icon_s_like"
+                    app:layout_constraintEnd_toEndOf="@id/btn_like"
+                    app:layout_constraintTop_toTopOf="@id/btn_like"
+                    app:layout_constraintBottom_toBottomOf="@id/btn_like"
+                    />
+
+                <Button
+                    android:id="@+id/btn_other"
+                    android:onClick="onClickOther"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:background="@drawable/style_settings_container"
+                    android:paddingStart="30dp"
+                    android:paddingEnd="30dp"
+                    android:text="@string/btn_other"
+                    android:textAlignment="textStart"
+                    android:textAllCaps="false"
+                    android:textColor="@color/violet_01"
+                    android:textSize="20sp"
+                    app:layout_constraintBottom_toTopOf="@id/btn_promocode"
+                    app:layout_constraintTop_toBottomOf="@id/btn_like"
+                    tools:layout_editor_absoluteX="20dp" />
+
+                <ImageView
+                    android:elevation="3dp"
+                    android:layout_marginEnd="25dp"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/icon_s_apps"
+                    app:layout_constraintEnd_toEndOf="@id/btn_other"
+                    app:layout_constraintTop_toTopOf="@id/btn_other"
+                    app:layout_constraintBottom_toBottomOf="@id/btn_other"
+                    />
+
+                <Button
+                    android:id="@+id/btn_promocode"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:background="@drawable/style_settings_container"
+                    android:onClick="onClickPromoCode"
+                    android:paddingStart="30dp"
+                    android:paddingEnd="30dp"
+                    android:text="@string/btn_promocode"
+                    android:textAlignment="textStart"
+                    android:textAllCaps="false"
+                    android:textColor="@color/violet_01"
+                    android:textSize="20sp"
+                    app:layout_constraintBottom_toTopOf="@id/btn_help"
+                    app:layout_constraintTop_toBottomOf="@id/btn_other"
+                    tools:layout_editor_absoluteX="0dp" />
+
+                <ImageView
+                    android:elevation="3dp"
+                    android:layout_marginEnd="25dp"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/icon_s_promocode"
+                    app:layout_constraintEnd_toEndOf="@id/btn_promocode"
+                    app:layout_constraintTop_toTopOf="@id/btn_promocode"
+                    app:layout_constraintBottom_toBottomOf="@id/btn_promocode"
+                    />
+
+                <Button
+                    android:id="@+id/btn_help"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:background="@drawable/style_settings_container"
+                    android:onClick="onClickHelp"
+                    android:paddingStart="30dp"
+                    android:paddingEnd="30dp"
+                    android:text="@string/btn_help"
+                    android:textAlignment="textStart"
+                    android:textAllCaps="false"
+                    android:textColor="@color/violet_01"
+                    android:textSize="20sp"
+                    app:layout_constraintBottom_toTopOf="@id/btn_policy"
+                    app:layout_constraintTop_toBottomOf="@id/btn_promocode"
+                    tools:layout_editor_absoluteX="0dp" />
+
+                <ImageView
+                    android:elevation="3dp"
+                    android:layout_marginEnd="25dp"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/icon_s_help"
+                    app:layout_constraintEnd_toEndOf="@id/btn_help"
+                    app:layout_constraintTop_toTopOf="@id/btn_help"
+                    app:layout_constraintBottom_toBottomOf="@id/btn_help"
+                    />
+
+                <Button
+                    android:id="@+id/btn_policy"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:background="@drawable/style_settings_container"
+                    android:onClick="onClickPolicy"
+                    android:paddingStart="30dp"
+                    android:paddingEnd="30dp"
+                    android:text="@string/btn_policy"
+                    android:textAlignment="textStart"
+                    android:textAllCaps="false"
+                    android:textColor="@color/violet_01"
+                    android:textSize="20sp"
+                    android:layout_marginBottom="50dp"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/btn_help"
+                    tools:layout_editor_absoluteX="0dp" />
+
+                <ImageView
+                    android:elevation="3dp"
+                    android:layout_marginEnd="25dp"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/icon_s_info"
+                    app:layout_constraintEnd_toEndOf="@id/btn_policy"
+                    app:layout_constraintTop_toTopOf="@id/btn_policy"
+                    app:layout_constraintBottom_toBottomOf="@id/btn_policy"
+                    />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

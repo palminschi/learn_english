@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_341">le frère</string>
+    <string name="word_translate_342">les jumeaux</string>
+    <string name="word_translate_344">la fille</string>
+    <string name="word_translate_345">le fils</string>
+    <string name="word_translate_346">le grand-père</string>
+    <string name="word_translate_347">la grand-mère</string>
+    <string name="word_translate_348">aider</string>
+    <string name="word_translate_349">les ancêtres</string>
+    <string name="word_translate_350">le petit-fils</string>
+    <string name="word_translate_351">plaisanter</string>
+    <string name="word_translate_352">Le beau-père</string>
+    <string name="word_translate_353">les noces</string>
+    <string name="word_translate_354">se reposer</string>
+    <string name="word_translate_355">demander</string>
+    <string name="word_translate_356">la petite-fille</string>
+    <string name="word_translate_357">la femme</string>
+    <string name="word_translate_358">le mari</string>
+    <string name="word_translate_359">sourir</string>
+    <string name="word_translate_360">rire</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_341">Il est comme un frère pour moi.</string>
+    <string name="phrase_translate_342">Les jumeaux portent des vêtements.</string>
+    <string name="phrase_translate_343">Elle est ma soeur.</string>
+    <string name="phrase_translate_344">Ils ont des filles.</string>
+    <string name="phrase_translate_345">Mon fils est allé à l\'école.</string>
+    <string name="phrase_translate_346">Mon grand-père est vieux.</string>
+    <string name="phrase_translate_347">La grand-mère joue avec sa petite-fille.</string>
+    <string name="phrase_translate_348">Je dois aider ma grand-mère.</string>
+    <string name="phrase_translate_349">Ils ont les mêmes ancêtres.</string>
+    <string name="phrase_translate_350">Le petit-fils est venu chez son grand-père.</string>
+    <string name="phrase_translate_351">Je blague.</string>
+    <string name="phrase_translate_352">Mon beau-père travaille aujourd\'hui.</string>
+    <string name="phrase_translate_353">Ils ont bientôt un mariage.</string>
+    <string name="phrase_translate_354">Je me reposerai demain.</string>
+    <string name="phrase_translate_355">Je lui demande de l\'aide.</string>
+    <string name="phrase_translate_356">La petite-fille va chez sa grand-mère.</string>
+    <string name="phrase_translate_357">Ma femme étudie.</string>
+    <string name="phrase_translate_358">Mon mari travaille comme médecin.</string>
+    <string name="phrase_translate_359">Elle sourit.</string>
+    <string name="phrase_translate_360">Ils rient tous.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_341">le frère</string>
+    <string name="word_LT_342">la fleur</string>
+    <string name="word_LT_343">la grand-mère</string>
+    <string name="word_LT_344">la fille</string>
+    <string name="word_LT_345">le frère</string>
+    <string name="word_LT_346">la grand-mère</string>
+    <string name="word_LT_347">les noces</string>
+    <string name="word_LT_348">rire</string>
+    <string name="word_LT_349">l\'oeuvre</string>
+    <string name="word_LT_350">le petit-fils</string>
+    <string name="word_LT_351">chanter</string>
+    <string name="word_LT_352">le serveur</string>
+    <string name="word_LT_353">le temps</string>
+    <string name="word_LT_354">voler</string>
+    <string name="word_LT_355">demander</string>
+    <string name="word_LT_356">le grand-père</string>
+    <string name="word_LT_357">les noces</string>
+    <string name="word_LT_358">la femme</string>
+    <string name="word_LT_359">sourir</string>
+    <string name="word_LT_360">jouer</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_341">le pain</string>
+    <string name="word_RT_342">la soeur</string>
+    <string name="word_RT_343">la ville</string>
+    <string name="word_RT_344">le froid</string>
+    <string name="word_RT_345">le fils</string>
+    <string name="word_RT_346">l\'ami</string>
+    <string name="word_RT_347">le retraité</string>
+    <string name="word_RT_348">aider</string>
+    <string name="word_RT_349">l\'oiseau</string>
+    <string name="word_RT_350">l\'ami</string>
+    <string name="word_RT_351">laver</string>
+    <string name="word_RT_352">Le beau-père</string>
+    <string name="word_RT_353">le journal</string>
+    <string name="word_RT_354">tomber</string>
+    <string name="word_RT_355">jouer</string>
+    <string name="word_RT_356">le petit-fils</string>
+    <string name="word_RT_357">la femme</string>
+    <string name="word_RT_358">le parc</string>
+    <string name="word_RT_359">chanter</string>
+    <string name="word_RT_360">rire</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_341">la soeur</string>
+    <string name="word_LB_342">les jumeaux</string>
+    <string name="word_LB_343">la retraite</string>
+    <string name="word_LB_344">le fils</string>
+    <string name="word_LB_345">L\'été</string>
+    <string name="word_LB_346">le grand-père</string>
+    <string name="word_LB_347">le bois</string>
+    <string name="word_LB_348">se reposer</string>
+    <string name="word_LB_349">les ancêtres</string>
+    <string name="word_LB_350">le frère</string>
+    <string name="word_LB_351">rire</string>
+    <string name="word_LB_352">le père</string>
+    <string name="word_LB_353">les noces</string>
+    <string name="word_LB_354">demander</string>
+    <string name="word_LB_355">chanter</string>
+    <string name="word_LB_356">la petite-fille</string>
+    <string name="word_LB_357">l\'enseignant</string>
+    <string name="word_LB_358">le docteur</string>
+    <string name="word_LB_359">demander</string>
+    <string name="word_LB_360">chanter</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_341">le père</string>
+    <string name="word_RB_342">le château</string>
+    <string name="word_RB_343">la soeur</string>
+    <string name="word_RB_344">le grand-père</string>
+    <string name="word_RB_345">le soleil</string>
+    <string name="word_RB_346">l\'argent</string>
+    <string name="word_RB_347">la grand-mère</string>
+    <string name="word_RB_348">chanter</string>
+    <string name="word_RB_349">le pont</string>
+    <string name="word_RB_350">L\'été</string>
+    <string name="word_RB_351">plaisanter</string>
+    <string name="word_RB_352">l\'eau</string>
+    <string name="word_RB_353">le parc</string>
+    <string name="word_RB_354">se reposer</string>
+    <string name="word_RB_355">sourir</string>
+    <string name="word_RB_356">la grand-mère</string>
+    <string name="word_RB_357">l\'habillement</string>
+    <string name="word_RB_358">le mari</string>
+    <string name="word_RB_359">jouer</string>
+    <string name="word_RB_360">se reposer</string>
+    <!-- END -->
+</resources>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_81">la couleur</string>
+    <string name="word_translate_82">rouge</string>
+    <string name="word_translate_83">gris</string>
+    <string name="word_translate_84">le véhicule</string>
+    <string name="word_translate_85">le train</string>
+    <string name="word_translate_86">l\'avion</string>
+    <string name="word_translate_87">ralentir</string>
+    <string name="word_translate_88">longue</string>
+    <string name="word_translate_89">le tram</string>
+    <string name="word_translate_90">jaune</string>
+    <string name="word_translate_91">l\'autoroute</string>
+    <string name="word_translate_92">le parking</string>
+    <string name="word_translate_93">l\'espace</string>
+    <string name="word_translate_94">bleu</string>
+    <string name="word_translate_95">avitailler</string>
+    <string name="word_translate_96">commencer</string>
+    <string name="word_translate_97">station-essence</string>
+    <string name="word_translate_98">le chantier</string>
+    <string name="word_translate_99">blanche</string>
+    <string name="word_translate_100">construire</string>
+    <!-- END -->
+
+    <!-- PHRASE  -->
+    <string name="phrase_translate_81">Quelle couleur aimes-tu?</string>
+    <string name="phrase_translate_82">La pomme est rouge.</string>
+    <string name="phrase_translate_83">Il a les cheveux gris.</string>
+    <string name="phrase_translate_84">Il y a beaucoup de véhicules dans la ville.</string>
+    <string name="phrase_translate_85">Quand arrive le train ?</string>
+    <string name="phrase_translate_86">Notre vol part à 15 heures.</string>
+    <string name="phrase_translate_87">Vous marchez très lentement.</string>
+    <string name="phrase_translate_88">Tu as des longs cheveux.</string>
+    <string name="phrase_translate_89">Où va le tramway ?</string>
+    <string name="phrase_translate_90">Le soleil est jaune.</string>
+    <string name="phrase_translate_91">Je conduis sur l\'autoroute.</string>
+    <string name="phrase_translate_92">Je cherche une place de parking.</string>
+    <string name="phrase_translate_93">Il y a assez d\'espace ici.</string>
+    <string name="phrase_translate_94">Le ciel est bleu.</string>
+    <string name="phrase_translate_95">Nous devons remplir la voiture.</string>
+    <string name="phrase_translate_96">Démarre la voiture!</string>
+    <string name="phrase_translate_97">Où se trouve une station-service ?</string>
+    <string name="phrase_translate_98">Danger! Il y a un chantier.</string>
+    <string name="phrase_translate_99">blanc comme la neige</string>
+    <string name="phrase_translate_100">Je construis une maison.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_81">la couleur</string>
+    <string name="word_LT_82">vert</string>
+    <string name="word_LT_83">bleu</string>
+    <string name="word_LT_84">l\'avion</string>
+    <string name="word_LT_85">la route</string>
+    <string name="word_LT_86">l\'avion</string>
+    <string name="word_LT_87">chaud</string>
+    <string name="word_LT_88">Fermer</string>
+    <string name="word_LT_89">la piste</string>
+    <string name="word_LT_90">jaune</string>
+    <string name="word_LT_91">le service de voiture</string>
+    <string name="word_LT_92">le parc</string>
+    <string name="word_LT_93">la rue</string>
+    <string name="word_LT_94">bleu</string>
+    <string name="word_LT_95">construire</string>
+    <string name="word_LT_96">aller</string>
+    <string name="word_LT_97">l\'appartement</string>
+    <string name="word_LT_98">La terre</string>
+    <string name="word_LT_99">bleu</string>
+    <string name="word_LT_100">construire</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_81">l\'ami</string>
+    <string name="word_RT_82">rouge</string>
+    <string name="word_RT_83">vert</string>
+    <string name="word_RT_84">la bicyclette</string>
+    <string name="word_RT_85">la maison</string>
+    <string name="word_RT_86">le véhicule</string>
+    <string name="word_RT_87">ralentir</string>
+    <string name="word_RT_88">grand</string>
+    <string name="word_RT_89">le véhicule</string>
+    <string name="word_RT_90">gris</string>
+    <string name="word_RT_91">l\'éducation</string>
+    <string name="word_RT_92">le parking</string>
+    <string name="word_RT_93">le train</string>
+    <string name="word_RT_94">vert</string>
+    <string name="word_RT_95">avitailler</string>
+    <string name="word_RT_96">construire</string>
+    <string name="word_RT_97">le tank</string>
+    <string name="word_RT_98">la bicyclette</string>
+    <string name="word_RT_99">vert</string>
+    <string name="word_RT_100">laver</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_81">la fleur</string>
+    <string name="word_LB_82">bleu</string>
+    <string name="word_LB_83">rose</string>
+    <string name="word_LB_84">le véhicule</string>
+    <string name="word_LB_85">le lit</string>
+    <string name="word_LB_86">l\'aéroport</string>
+    <string name="word_LB_87">vite</string>
+    <string name="word_LB_88">longue</string>
+    <string name="word_LB_89">le tracteur</string>
+    <string name="word_LB_90">vert</string>
+    <string name="word_LB_91">l\'autoroute</string>
+    <string name="word_LB_92">station-essence</string>
+    <string name="word_LB_93">la piste</string>
+    <string name="word_LB_94">le noir</string>
+    <string name="word_LB_95">vivre</string>
+    <string name="word_LB_96">commencer</string>
+    <string name="word_LB_97">le tracteur</string>
+    <string name="word_LB_98">l\'autoroute</string>
+    <string name="word_LB_99">rose</string>
+    <string name="word_LB_100">aller</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_81">la vie</string>
+    <string name="word_RB_82">rose</string>
+    <string name="word_RB_83">gris</string>
+    <string name="word_RB_84">l\'autoroute</string>
+    <string name="word_RB_85">le train</string>
+    <string name="word_RB_86">le papillon</string>
+    <string name="word_RB_87">longue</string>
+    <string name="word_RB_88">loin</string>
+    <string name="word_RB_89">le tram</string>
+    <string name="word_RB_90">rouge</string>
+    <string name="word_RB_91">station-essence</string>
+    <string name="word_RB_92">le train</string>
+    <string name="word_RB_93">l\'espace</string>
+    <string name="word_RB_94">jaune</string>
+    <string name="word_RB_95">conduire</string>
+    <string name="word_RB_96">se tenir debout</string>
+    <string name="word_RB_97">station-essence</string>
+    <string name="word_RB_98">le chantier</string>
+    <string name="word_RB_99">blanche</string>
+    <string name="word_RB_100">avitailler</string>
+    <!-- END -->
+</resources>

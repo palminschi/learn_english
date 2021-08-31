@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_41">Солнце</string>
+    <string name="word_translate_42">Лето</string>
+    <string name="word_translate_43">Зима</string>
+    <string name="word_translate_44">Снег</string>
+    <string name="word_translate_45">Вопрос</string>
+    <string name="word_translate_46">Дождь</string>
+    <string name="word_translate_47">холодно</string>
+    <string name="word_translate_48">Море</string>
+    <string name="word_translate_49">тепло</string>
+    <string name="word_translate_50">путешествовать</string>
+    <string name="word_translate_51">Отпуск</string>
+    <string name="word_translate_52">работать</string>
+    <string name="word_translate_53">функционировать</string>
+    <string name="word_translate_54">Ответ</string>
+    <string name="word_translate_55">Врач</string>
+    <string name="word_translate_56">Болезнь</string>
+    <string name="word_translate_57">лечить</string>
+    <string name="word_translate_58">Кто?</string>
+    <string name="word_translate_59">Больница</string>
+    <string name="word_translate_60">Почему?</string>
+    <!-- END -->
+
+    <!-- PHRASE  -->
+    <string name="phrase_translate_41"><b>Солнце</b> светит!</string>
+    <string name="phrase_translate_42"><b>Лето</b>, это теплая время года.</string>
+    <string name="phrase_translate_43"><b>Зимой</b> холодно.</string>
+    <string name="phrase_translate_44">Выпал <b>снег</b>.</string>
+    <string name="phrase_translate_45">У меня <b>вопрос</b> к Вам.</string>
+    <string name="phrase_translate_46">Идёт <b>дождь</b>.</string>
+    <string name="phrase_translate_47">Мне <b>холодно</b>.</string>
+    <string name="phrase_translate_48">ездить к <b>морю</b></string>
+    <string name="phrase_translate_49">Тебе <b>тепло</b>?</string>
+    <string name="phrase_translate_50">Я люблю <b>путешествовать</b>.</string>
+    <string name="phrase_translate_51">Он был в <b>отпуске</b>.</string>
+    <string name="phrase_translate_52">Он работает <b>много</b>.</string>
+    <string name="phrase_translate_53">Это не работает!</string>
+    <string name="phrase_translate_54">Когда я получу <b>ответ</b>?</string>
+    <string name="phrase_translate_55">Он <b>врач</b> по профессии.</string>
+    <string name="phrase_translate_56">У него нету <b>болезни</b>.</string>
+    <string name="phrase_translate_57">Врач <b>лечит</b> людей.</string>
+    <string name="phrase_translate_58"><b>Кто</b> ты?</string>
+    <string name="phrase_translate_59">Больной был доставлен в <b>больницу</b>.</string>
+    <string name="phrase_translate_60"><b>Почему</b> нет?</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_41">Сын</string>
+    <string name="word_LT_42">Лето</string>
+    <string name="word_LT_43">Вода</string>
+    <string name="word_LT_44">Время</string>
+    <string name="word_LT_45">Ответ</string>
+    <string name="word_LT_46">Дождь</string>
+    <string name="word_LT_47">тепло</string>
+    <string name="word_LT_48">Яблоко</string>
+    <string name="word_LT_49">сегодня</string>
+    <string name="word_LT_50">думать</string>
+    <string name="word_LT_51">Отпуск</string>
+    <string name="word_LT_52">искать</string>
+    <string name="word_LT_53">искать</string>
+    <string name="word_LT_54">Ответ</string>
+    <string name="word_LT_55">Полицейский</string>
+    <string name="word_LT_56">Больница</string>
+    <string name="word_LT_57">переработать</string>
+    <string name="word_LT_58">Кто?</string>
+    <string name="word_LT_59">Солнце</string>
+    <string name="word_LT_60">Когда?</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_41">Солнце</string>
+    <string name="word_RT_42">Суббота</string>
+    <string name="word_RT_43">Зима</string>
+    <string name="word_RT_44">Погода</string>
+    <string name="word_RT_45">Друг</string>
+    <string name="word_RT_46">Правила</string>
+    <string name="word_RT_47">холодно</string>
+    <string name="word_RT_48">Мыло</string>
+    <string name="word_RT_49">холодно</string>
+    <string name="word_RT_50">кушать</string>
+    <string name="word_RT_51">Медведь</string>
+    <string name="word_RT_52">ездить</string>
+    <string name="word_RT_53">функционировать</string>
+    <string name="word_RT_54">Слово</string>
+    <string name="word_RT_55">Врач</string>
+    <string name="word_RT_56">Парк</string>
+    <string name="word_RT_57">получать</string>
+    <string name="word_RT_58">Почему?</string>
+    <string name="word_RT_59">Больница</string>
+    <string name="word_RT_60">Почему?</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_41">Лето</string>
+    <string name="word_LB_42">Сын</string>
+    <string name="word_LB_43">Стакан</string>
+    <string name="word_LB_44">Песок</string>
+    <string name="word_LB_45">Лед</string>
+    <string name="word_LB_46">Замок</string>
+    <string name="word_LB_47">быстро</string>
+    <string name="word_LB_48">Море</string>
+    <string name="word_LB_49">давно</string>
+    <string name="word_LB_50">ездить</string>
+    <string name="word_LB_51">Дерево</string>
+    <string name="word_LB_52">работать</string>
+    <string name="word_LB_53">считать</string>
+    <string name="word_LB_54">Форма</string>
+    <string name="word_LB_55">Учитель</string>
+    <string name="word_LB_56">Болезнь</string>
+    <string name="word_LB_57">отправить</string>
+    <string name="word_LB_58">Когда?</string>
+    <string name="word_LB_59">Снег</string>
+    <string name="word_LB_60">Кто?</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_41">Море</string>
+    <string name="word_RB_42">Зима</string>
+    <string name="word_RB_43">Осень</string>
+    <string name="word_RB_44">Снег</string>
+    <string name="word_RB_45">Вопрос</string>
+    <string name="word_RB_46">Религия</string>
+    <string name="word_RB_47">медлено</string>
+    <string name="word_RB_48">Дом</string>
+    <string name="word_RB_49">тепло</string>
+    <string name="word_RB_50">путешествовать</string>
+    <string name="word_RB_51">Океан</string>
+    <string name="word_RB_52">любить</string>
+    <string name="word_RB_53">находить</string>
+    <string name="word_RB_54">Вопрос</string>
+    <string name="word_RB_55">Строитель</string>
+    <string name="word_RB_56">Лес</string>
+    <string name="word_RB_57">лечить</string>
+    <string name="word_RB_58">Сколько?</string>
+    <string name="word_RB_59">Болезнь</string>
+    <string name="word_RB_60">Сколько?</string>
+    <!-- END -->
+</resources>

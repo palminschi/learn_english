@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_581">Дыня</string>
+    <string name="word_translate_582">Арбуз</string>
+    <string name="word_translate_583">лучше</string>
+    <string name="word_translate_584">больше</string>
+    <string name="word_translate_585">звать</string>
+    <string name="word_translate_586">звонить</string>
+    <string name="word_translate_587">Мёд</string>
+    <string name="word_translate_588">Пчела</string>
+    <string name="word_translate_589">Сахар</string>
+    <string name="word_translate_590">Горох</string>
+    <string name="word_translate_591">Бобы</string>
+    <string name="word_translate_592">позавчера</string>
+    <string name="word_translate_593">послезавтра</string>
+    <string name="word_translate_594">Раз</string>
+    <string name="word_translate_595">Весна</string>
+    <string name="word_translate_596">Осень</string>
+    <string name="word_translate_597">Карандаш</string>
+    <string name="word_translate_598">Буква</string>
+    <string name="word_translate_599">Словарь</string>
+    <string name="word_translate_600">Конец</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_581">В огороде растет дыня.</string>
+    <string name="phrase_translate_582">Я купил большой арбуз</string>
+    <string name="phrase_translate_583">Ты знаешь лучше.</string>
+    <string name="phrase_translate_584">Он читает больше, чем я.</string>
+    <string name="phrase_translate_585">Мне нужно его позвать.</string>
+    <string name="phrase_translate_586">Я звонил тебе вчера.</string>
+    <string name="phrase_translate_587">Пью чай с медом.</string>
+    <string name="phrase_translate_588">Я боюсь пчел.</string>
+    <string name="phrase_translate_589">Я пью кофе без сахара.</string>
+    <string name="phrase_translate_590">Я не ем горох.</string>
+    <string name="phrase_translate_591">Она готовит что-то из бобов.</string>
+    <string name="phrase_translate_592">Я был там позавчера.</string>
+    <string name="phrase_translate_593">Увидемся послезавтра.</string>
+    <string name="phrase_translate_594">Я звоню тебе уже второй раз.</string>
+    <string name="phrase_translate_595">Весной всё красиво.</string>
+    <string name="phrase_translate_596">Осенью часто идёт дождь.</string>
+    <string name="phrase_translate_597">Карандаш сломался.</string>
+    <string name="phrase_translate_598">Сколько букв в твоем имени?</string>
+    <string name="phrase_translate_599">Я не нашел слово в словаре</string>
+    <string name="phrase_translate_600">Конец</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_581">Гриб</string>
+    <string name="word_LT_582">Еда</string>
+    <string name="word_LT_583">вкусный</string>
+    <string name="word_LT_584">быстро</string>
+    <string name="word_LT_585">заплатить</string>
+    <string name="word_LT_586">брать</string>
+    <string name="word_LT_587">Молоко</string>
+    <string name="word_LT_588">Дерево</string>
+    <string name="word_LT_589">Соль</string>
+    <string name="word_LT_590">Салфетка</string>
+    <string name="word_LT_591">Ужин</string>
+    <string name="word_LT_592">позавчера</string>
+    <string name="word_LT_593">сегодня</string>
+    <string name="word_LT_594">Шаг</string>
+    <string name="word_LT_595">Лес</string>
+    <string name="word_LT_596">Облако</string>
+    <string name="word_LT_597">Игрушка</string>
+    <string name="word_LT_598">Число</string>
+    <string name="word_LT_599">Город</string>
+    <string name="word_LT_600">Конец</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_581">Дыня</string>
+    <string name="word_RT_582">Арбуз</string>
+    <string name="word_RT_583">слабый</string>
+    <string name="word_RT_584">холодно</string>
+    <string name="word_RT_585">прыгнуть</string>
+    <string name="word_RT_586">звонить</string>
+    <string name="word_RT_587">Мёд</string>
+    <string name="word_RT_588">Птица</string>
+    <string name="word_RT_589">Кофе</string>
+    <string name="word_RT_590">Горох</string>
+    <string name="word_RT_591">Обед</string>
+    <string name="word_RT_592">завтра</string>
+    <string name="word_RT_593">послезавтра</string>
+    <string name="word_RT_594">Перевод</string>
+    <string name="word_RT_595">Холод</string>
+    <string name="word_RT_596">Осень</string>
+    <string name="word_RT_597">Карандаш</string>
+    <string name="word_RT_598">Учебник</string>
+    <string name="word_RT_599">Письмо</string>
+    <string name="word_RT_600">Конец</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_581">Колбаса</string>
+    <string name="word_LB_582">Нож</string>
+    <string name="word_LB_583">большой</string>
+    <string name="word_LB_584">больше</string>
+    <string name="word_LB_585">работать</string>
+    <string name="word_LB_586">остаться</string>
+    <string name="word_LB_587">Чайник</string>
+    <string name="word_LB_588">Цветок</string>
+    <string name="word_LB_589">Сахар</string>
+    <string name="word_LB_590">Еда</string>
+    <string name="word_LB_591">Бобы</string>
+    <string name="word_LB_592">сегодня</string>
+    <string name="word_LB_593">вчера</string>
+    <string name="word_LB_594">Случай</string>
+    <string name="word_LB_595">Время года</string>
+    <string name="word_LB_596">Весна</string>
+    <string name="word_LB_597">Гитара</string>
+    <string name="word_LB_598">Буква</string>
+    <string name="word_LB_599">Книга</string>
+    <string name="word_LB_600">Конец</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_581">Овощи</string>
+    <string name="word_RB_582">Фрукты</string>
+    <string name="word_RB_583">лучше</string>
+    <string name="word_RB_584">больной</string>
+    <string name="word_RB_585">звать</string>
+    <string name="word_RB_586">бегать</string>
+    <string name="word_RB_587">Цветок</string>
+    <string name="word_RB_588">Пчела</string>
+    <string name="word_RB_589">Сок</string>
+    <string name="word_RB_590">Вкус</string>
+    <string name="word_RB_591">Диета</string>
+    <string name="word_RB_592">никогда</string>
+    <string name="word_RB_593">позавчера</string>
+    <string name="word_RB_594">Раз</string>
+    <string name="word_RB_595">Весна</string>
+    <string name="word_RB_596">Мороз</string>
+    <string name="word_RB_597">Ручка</string>
+    <string name="word_RB_598">Слово</string>
+    <string name="word_RB_599">Словарь</string>
+    <string name="word_RB_600">Конец</string>
+    <!-- END -->
+</resources>

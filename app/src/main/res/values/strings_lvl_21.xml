@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_title_401" translatable="false">el enchufe</string>
+    <string name="word_title_402" translatable="false">el fregadero</string>
+    <string name="word_title_403" translatable="false">similar</string>
+    <string name="word_title_404" translatable="false">roto</string>
+    <string name="word_title_405" translatable="false">el microondas</string>
+    <string name="word_title_406" translatable="false">el lavavajillas</string>
+    <string name="word_title_407" translatable="false">el bote de basura</string>
+    <string name="word_title_408" translatable="false">ordenar</string>
+    <string name="word_title_409" translatable="false">saber</string>
+    <string name="word_title_410" translatable="false">la lata</string>
+    <string name="word_title_411" translatable="false">oscuro</string>
+    <string name="word_title_412" translatable="false">luz</string>
+    <string name="word_title_413" translatable="false">caro</string>
+    <string name="word_title_414" translatable="false">entero</string>
+    <string name="word_title_415" translatable="false">suficiente</string>
+    <string name="word_title_416" translatable="false">el manual</string>
+    <string name="word_title_417" translatable="false">la enfermera</string>
+    <string name="word_title_418" translatable="false">la persona</string>
+    <string name="word_title_419" translatable="false">la piscina</string>
+    <string name="word_title_420" translatable="false">nadar</string>
+    <!-- END -->
+    <string name="word_translate_401">plug</string>
+    <string name="word_translate_402">sink</string>
+    <string name="word_translate_403">similar</string>
+    <string name="word_translate_404">broken</string>
+    <string name="word_translate_405">microwave</string>
+    <string name="word_translate_406">dishwasher</string>
+    <string name="word_translate_407">garbage can</string>
+    <string name="word_translate_408">to order</string>
+    <string name="word_translate_409">to know</string>
+    <string name="word_translate_410">can</string>
+    <string name="word_translate_411">dark</string>
+    <string name="word_translate_412">light</string>
+    <string name="word_translate_413">expensive</string>
+    <string name="word_translate_414">whole</string>
+    <string name="word_translate_415">enough</string>
+    <string name="word_translate_416">manual</string>
+    <string name="word_translate_417">nurse</string>
+    <string name="word_translate_418">person</string>
+    <string name="word_translate_419">pool</string>
+    <string name="word_translate_420">to swim</string>
+
+    <!-- PHRASE + TRANSLATE -->
+    <string name="phrase_401" translatable="false">Saqué el enchufe del enchufe.</string>
+    <string name="phrase_translate_401">I pulled the plug out of the socket.</string>
+
+    <string name="phrase_402" translatable="false">Se lava las manos en el fregadero</string>
+    <string name="phrase_translate_402">He washes his hands in the sink</string>
+
+    <string name="phrase_403" translatable="false">Ellos son muy similares.</string>
+    <string name="phrase_translate_403">They are very similar.</string>
+
+    <string name="phrase_404" translatable="false">Mi coche esta roto.</string>
+    <string name="phrase_translate_404">My car is broken.</string>
+
+    <string name="phrase_405" translatable="false">Pongo la comida en el microondas.</string>
+    <string name="phrase_translate_405">I put the food in the microwave.</string>
+
+    <string name="phrase_406" translatable="false">Compré un lavavajillas.</string>
+    <string name="phrase_translate_406">I bought a dishwasher.</string>
+
+    <string name="phrase_407" translatable="false">Tiro la basura a la basura.</string>
+    <string name="phrase_translate_407">I throw the garbage in the trash can.</string>
+
+    <string name="phrase_408" translatable="false">¿Que ordenaste?</string>
+    <string name="phrase_translate_408">What did you order?</string>
+
+    <string name="phrase_409" translatable="false">¿Lo conoces?</string>
+    <string name="phrase_translate_409">Do you know him?</string>
+
+    <string name="phrase_410" translatable="false">una lata de carne</string>
+    <string name="phrase_translate_410">a can of meat</string>
+
+    <string name="phrase_411" translatable="false">Está oscuro por la noche.</string>
+    <string name="phrase_translate_411">It is dark at night.</string>
+
+    <string name="phrase_412" translatable="false">El auto es gris claro.</string>
+    <string name="phrase_translate_412">The car is light gray.</string>
+
+    <string name="phrase_413" translatable="false">Es muy caro.</string>
+    <string name="phrase_translate_413">It is too expensive.</string>
+
+    <string name="phrase_414" translatable="false">El mundo entero</string>
+    <string name="phrase_translate_414">The whole world</string>
+
+    <string name="phrase_415" translatable="false">He comido lo suficiente.</string>
+    <string name="phrase_translate_415">I have eaten enough.</string>
+
+    <string name="phrase_416" translatable="false">Aprendo alemán con un manual.</string>
+    <string name="phrase_translate_416">I learn German from a manual.</string>
+
+    <string name="phrase_417" translatable="false">La enfermera le dio la inyección.</string>
+    <string name="phrase_translate_417">The nurse gave the injection.</string>
+
+    <string name="phrase_418" translatable="false">Una persona me ayudó.</string>
+    <string name="phrase_translate_418">One person helped me.</string>
+
+    <string name="phrase_419" translatable="false">A menudo voy a la piscina.</string>
+    <string name="phrase_translate_419">I often go to the swimming pool.</string>
+
+    <string name="phrase_420" translatable="false">Ella no sabe nadar.</string>
+    <string name="phrase_translate_420">She can\'t swim.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_401">zip</string>
+    <string name="word_LT_402">cupboard</string>
+    <string name="word_LT_403">rich</string>
+    <string name="word_LT_404">first</string>
+    <string name="word_LT_405">shop</string>
+    <string name="word_LT_406">soup</string>
+    <string name="word_LT_407">kitchen</string>
+    <string name="word_LT_408">to order</string>
+    <string name="word_LT_409">to live</string>
+    <string name="word_LT_410">glass</string>
+    <string name="word_LT_411">dark</string>
+    <string name="word_LT_412">wet</string>
+    <string name="word_LT_413">small</string>
+    <string name="word_LT_414">today</string>
+    <string name="word_LT_415">nothing</string>
+    <string name="word_LT_416">number</string>
+    <string name="word_LT_417">police officer</string>
+    <string name="word_LT_418">brother</string>
+    <string name="word_LT_419">island</string>
+    <string name="word_LT_420">to give</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_401">cravat</string>
+    <string name="word_RT_402">waiter</string>
+    <string name="word_RT_403">golden</string>
+    <string name="word_RT_404">married</string>
+    <string name="word_RT_405">microwave</string>
+    <string name="word_RT_406">kettle</string>
+    <string name="word_RT_407">garbage can</string>
+    <string name="word_RT_408">to earn</string>
+    <string name="word_RT_409">to search</string>
+    <string name="word_RT_410">can</string>
+    <string name="word_RT_411">yellow</string>
+    <string name="word_RT_412">windy</string>
+    <string name="word_RT_413">big</string>
+    <string name="word_RT_414">whole</string>
+    <string name="word_RT_415">few</string>
+    <string name="word_RT_416">manual</string>
+    <string name="word_RT_417">nurse</string>
+    <string name="word_RT_418">son</string>
+    <string name="word_RT_419">pool</string>
+    <string name="word_RT_420">to clean</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_401">plug</string>
+    <string name="word_LB_402">music</string>
+    <string name="word_LB_403">light</string>
+    <string name="word_LB_404">last</string>
+    <string name="word_LB_405">soup</string>
+    <string name="word_LB_406">dishwasher</string>
+    <string name="word_LB_407">drink</string>
+    <string name="word_LB_408">to sell</string>
+    <string name="word_LB_409">to know</string>
+    <string name="word_LB_410">fork</string>
+    <string name="word_LB_411">green</string>
+    <string name="word_LB_412">light</string>
+    <string name="word_LB_413">expensive</string>
+    <string name="word_LB_414">sunny</string>
+    <string name="word_LB_415">much</string>
+    <string name="word_LB_416">letter</string>
+    <string name="word_LB_417">teacher</string>
+    <string name="word_LB_418">person</string>
+    <string name="word_LB_419">flower</string>
+    <string name="word_LB_420">to swim</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_401">jeans</string>
+    <string name="word_RB_402">sink</string>
+    <string name="word_RB_403">similar</string>
+    <string name="word_RB_404">broken</string>
+    <string name="word_RB_405">pan</string>
+    <string name="word_RB_406">fridge</string>
+    <string name="word_RB_407">tea</string>
+    <string name="word_RB_408">to pay</string>
+    <string name="word_RB_409">to love</string>
+    <string name="word_RB_410">knife</string>
+    <string name="word_RB_411">pink</string>
+    <string name="word_RB_412">dark</string>
+    <string name="word_RB_413">sweet</string>
+    <string name="word_RB_414">warm</string>
+    <string name="word_RB_415">enough</string>
+    <string name="word_RB_416">word</string>
+    <string name="word_RB_417">builder</string>
+    <string name="word_RB_418">sun</string>
+    <string name="word_RB_419">car</string>
+    <string name="word_RB_420">to cook</string>
+    <!-- END -->
+</resources>

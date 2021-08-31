@@ -1,0 +1,1476 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <ImageView
+        android:id="@+id/background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/background"
+        tools:ignore="ContentDescription" />
+
+    <LinearLayout
+        android:id="@+id/content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="5dp"
+        android:orientation="vertical"
+        android:weightSum="100">
+
+        <LinearLayout
+            android:id="@+id/line_1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_weight="7"
+            android:orientation="horizontal">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent">
+
+                <Button
+                    android:id="@+id/btn_back"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:adjustViewBounds="true"
+                    android:background="@drawable/style_btn_back"
+                    android:onClick="onClickBtnBack"
+                    app:backgroundTint="@null"
+                    app:layout_constraintDimensionRatio="H,16:11"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+                <TextView
+                    android:id="@+id/tv_lastWord"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="25sp"
+                    android:text="@string/games_wordNum"
+                    android:textColor="@color/white50"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    android:layout_marginTop="5dp"
+                    />
+                <ImageView
+                    android:id="@+id/img_bestscore"
+                    android:src="@drawable/game_bestscore"
+                    android:layout_marginVertical="11dp"
+                    android:layout_marginEnd="2dp"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    app:layout_constraintDimensionRatio="H,4:4"
+                    app:layout_constraintEnd_toStartOf="@id/equal"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    />
+                <TextView
+                    android:id="@+id/equal"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:gravity="center"
+                    android:layout_marginEnd="5dp"
+                    android:text="="
+                    android:textSize="20sp"
+                    android:textColor="@color/white_violet_02"
+                    app:layout_constraintEnd_toStartOf="@id/best_score"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    />
+                <TextView
+                    android:id="@+id/best_score"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:gravity="center"
+                    android:layout_marginEnd="20dp"
+                    android:text="0"
+                    android:textSize="23sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/white_violet_02"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="28">
+
+            <Button
+                android:onClick="getSound"
+                android:visibility="gone"
+                android:id="@+id/btn_sound"
+                android:layout_width="70dp"
+                android:layout_height="0dp"
+                android:background="@drawable/style_game03_sound"
+                app:layout_constraintVertical_bias="0.3"
+                app:layout_constraintDimensionRatio="H,16:15"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                />
+            <TextView
+                android:id="@+id/text_win"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-thin"
+                android:text="@string/win"
+                android:textColor="@color/green_03"
+                android:textSize="48sp"
+                android:visibility="gone"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/text_lose"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-thin"
+                android:text="@string/lose"
+                android:textColor="@color/red_02"
+                android:textSize="48sp"
+                android:visibility="gone"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/stage_0"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_marginHorizontal="50dp"
+                android:src="@drawable/stage_0"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintDimensionRatio="W,16:9"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/stage_1"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_marginHorizontal="50dp"
+                android:src="@drawable/stage_1"
+                android:visibility="invisible"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintDimensionRatio="W,16:9"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/stage_2"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_marginHorizontal="50dp"
+                android:src="@drawable/stage_2"
+                android:visibility="invisible"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintDimensionRatio="W,16:9"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/stage_3"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_marginHorizontal="50dp"
+                android:src="@drawable/stage_3"
+                android:visibility="invisible"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintDimensionRatio="W,16:9"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/stage_4"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_marginHorizontal="50dp"
+                android:src="@drawable/stage_4"
+                android:visibility="invisible"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintDimensionRatio="W,16:9"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/stage_5"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_marginHorizontal="50dp"
+                android:src="@drawable/stage_5"
+                android:visibility="invisible"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintDimensionRatio="W,16:9"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <ImageView
+                android:id="@+id/stage_6"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_marginHorizontal="50dp"
+                android:src="@drawable/stage_6_final"
+                android:visibility="invisible"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintDimensionRatio="W,16:9"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="9"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <FrameLayout
+                android:id="@+id/con_let1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/let1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="D"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="25sp"
+                    android:visibility="visible" />
+
+                <TextView
+                    android:id="@+id/bg_let1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="11dp"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="_"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="12sp" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/con_let2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/let2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="D"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="25sp"
+                    android:visibility="visible" />
+
+                <TextView
+                    android:id="@+id/bg_let2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="11dp"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="_"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="12sp" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/con_let3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/let3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="D"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="25sp"
+                    android:visibility="visible" />
+
+                <TextView
+                    android:id="@+id/bg_let3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="11dp"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="_"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="12sp" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/con_let4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/let4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="D"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="25sp"
+                    android:visibility="invisible" />
+
+                <TextView
+                    android:id="@+id/bg_let4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="11dp"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="_"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="12sp" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/con_let5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/let5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="D"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="25sp"
+                    android:visibility="invisible" />
+
+                <TextView
+                    android:id="@+id/bg_let5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="11dp"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="_"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="12sp" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/con_let6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/let6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="D"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="25sp"
+                    android:visibility="invisible" />
+
+                <TextView
+                    android:id="@+id/bg_let6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="11dp"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="_"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="12sp" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/con_let7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/let7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="D"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="25sp"
+                    android:visibility="invisible" />
+
+                <TextView
+                    android:id="@+id/bg_let7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="11dp"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="_"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="12sp" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/con_let8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/let8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="D"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="25sp"
+                    android:visibility="visible" />
+
+                <TextView
+                    android:id="@+id/bg_let8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="11dp"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="_"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="12sp" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/con_let9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/let9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="D"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="25sp"
+                    android:visibility="invisible" />
+
+                <TextView
+                    android:id="@+id/bg_let9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="11dp"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="_"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="12sp" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/con_let10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/let10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="D"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="25sp"
+                    android:visibility="visible" />
+
+                <TextView
+                    android:id="@+id/bg_let10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="11dp"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="_"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="12sp" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/con_let11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/let11"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="D"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="25sp"
+                    android:visibility="visible" />
+
+                <TextView
+                    android:id="@+id/bg_let11"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="11dp"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="_"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="12sp" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/con_let12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/let12"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="D"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="25sp"
+                    android:visibility="invisible" />
+
+                <TextView
+                    android:id="@+id/bg_let12"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="11dp"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="_"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="12sp" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/con_let13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/let13"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="D"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="25sp"
+                    android:visibility="invisible" />
+
+                <TextView
+                    android:id="@+id/bg_let13"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="11dp"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="_"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="12sp" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/con_let14"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/let14"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="D"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="25sp"
+                    android:visibility="invisible" />
+
+                <TextView
+                    android:id="@+id/bg_let14"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="11dp"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="_"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="12sp" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/con_let15"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/let15"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="D"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="25sp"
+                    android:visibility="invisible" />
+
+                <TextView
+                    android:id="@+id/bg_let15"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="11dp"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="_"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="12sp" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/con_let16"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/let16"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="D"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="25sp"
+                    android:visibility="invisible" />
+
+                <TextView
+                    android:id="@+id/bg_let16"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="11dp"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="_"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="12sp" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/con_let17"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/let17"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="D"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="25sp"
+                    android:visibility="invisible" />
+
+                <TextView
+                    android:id="@+id/bg_let17"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="11dp"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="_"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="12sp" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/con_let18"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/let18"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="D"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="25sp"
+                    android:visibility="invisible" />
+
+                <TextView
+                    android:id="@+id/bg_let18"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="11dp"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="_"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="12sp" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/con_let19"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/let19"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="D"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="25sp"
+                    android:visibility="invisible" />
+
+                <TextView
+                    android:id="@+id/bg_let19"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="11dp"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="_"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="12sp" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/con_let20"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/let20"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="D"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="25sp"
+                    android:visibility="invisible" />
+
+                <TextView
+                    android:id="@+id/bg_let20"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="11dp"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="_"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="12sp" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/con_let21"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/let21"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="D"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="25sp"
+                    android:visibility="invisible" />
+
+                <TextView
+                    android:id="@+id/bg_let21"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="11dp"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="_"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="12sp" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/con_let22"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/let22"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="D"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="25sp"
+                    android:visibility="invisible" />
+
+                <TextView
+                    android:id="@+id/bg_let22"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="11dp"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="_"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="12sp" />
+            </FrameLayout>
+
+            <FrameLayout
+                android:id="@+id/con_let23"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/let23"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="D"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="25sp"
+                    android:visibility="invisible" />
+
+                <TextView
+                    android:id="@+id/bg_let23"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="11dp"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="_"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="12sp" />
+            </FrameLayout>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/word_translate"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_gravity="center"
+            android:layout_weight="5"
+            android:gravity="center"
+            android:text="Велосипед"
+            android:textColor="@color/white60"
+            android:textSize="30sp" />
+
+        <TextView
+            android:id="@+id/phrase"
+            android:visibility="invisible"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_gravity="center"
+            android:layout_weight="4"
+            android:gravity="center"
+            android:text="Ich werfe den Müll in den Abfalleimer."
+            android:textColor="@color/white_violet_02"
+            android:textSize="26sp" />
+
+        <TextView
+            android:id="@+id/phrase_translate"
+            android:visibility="invisible"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_gravity="center"
+            android:layout_weight="4"
+            android:gravity="center"
+            android:text="Я бросаю мусор в мусорном ведре."
+            android:textColor="@color/white60"
+            android:textSize="23sp" />
+
+        <LinearLayout
+            android:id="@+id/alphabet"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="28"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:weightSum="100"
+            tools:ignore="NestedWeights">
+
+            <LinearLayout
+                android:id="@+id/alphabet_l1"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_gravity="center"
+                android:layout_marginHorizontal="20dp"
+                android:layout_weight="25"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:weightSum="80">
+
+                <TextView
+                    android:onClick="onClick_A"
+                    android:id="@+id/let_A"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="10"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="A"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="30sp" />
+
+                <TextView
+                    android:visibility="gone"
+                    android:onClick="onClick_AE"
+                    android:id="@+id/let_AE"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="10"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="Ä"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="30sp" />
+
+                <TextView
+                    android:onClick="onClick_B"
+                    android:id="@+id/let_B"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="10"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="B"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="30sp" />
+
+                <TextView
+                    android:visibility="gone"
+                    android:onClick="onClick_SS"
+                    android:id="@+id/let_SS"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="10"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="ẞ"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="30sp" />
+
+                <TextView
+                    android:onClick="onClick_C"
+                    android:id="@+id/let_C"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="10"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="C"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="30sp" />
+
+                <TextView
+                    android:onClick="onClick_D"
+                    android:id="@+id/let_D"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="10"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="D"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="30sp" />
+
+                <TextView
+                    android:onClick="onClick_E"
+                    android:id="@+id/let_E"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="10"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="E"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="30sp" />
+
+                <TextView
+                    android:onClick="onClick_F"
+                    android:id="@+id/let_F"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="10"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="F"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="30sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/alphabet_l2"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_gravity="center"
+                android:layout_marginHorizontal="20dp"
+                android:layout_weight="25"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:weightSum="80">
+
+                <TextView
+                    android:onClick="onClick_G"
+                    android:id="@+id/let_G"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="10"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="G"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="30sp" />
+
+                <TextView
+                    android:onClick="onClick_H"
+                    android:id="@+id/let_H"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="10"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="H"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="30sp" />
+
+                <TextView
+                    android:onClick="onClick_I"
+                    android:id="@+id/let_I"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="10"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="I"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="30sp" />
+
+                <TextView
+                    android:onClick="onClick_J"
+                    android:id="@+id/let_J"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="10"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="J"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="30sp" />
+
+                <TextView
+                    android:onClick="onClick_K"
+                    android:id="@+id/let_K"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="10"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="K"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="30sp" />
+
+                <TextView
+                    android:onClick="onClick_L"
+                    android:id="@+id/let_L"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="10"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="L"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="30sp" />
+
+                <TextView
+                    android:onClick="onClick_M"
+                    android:id="@+id/let_M"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="10"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="M"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="30sp" />
+
+                <TextView
+                    android:onClick="onClick_N"
+                    android:id="@+id/let_N"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="10"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="N"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="30sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/alphabet_l3"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_gravity="center"
+                android:layout_marginHorizontal="20dp"
+                android:layout_weight="25"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:weightSum="80">
+
+                <TextView
+                    android:onClick="onClick_NN"
+                    android:id="@+id/let_NN"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="10"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="ñ"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="30sp" />
+                <TextView
+                    android:onClick="onClick_O"
+                    android:id="@+id/let_O"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="10"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="O"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="30sp" />
+
+                <TextView
+                    android:onClick="onClick_P"
+                    android:id="@+id/let_P"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="10"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="P"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="30sp" />
+
+                <TextView
+                    android:onClick="onClick_Q"
+                    android:id="@+id/let_Q"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="10"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="Q"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="30sp" />
+
+                <TextView
+                    android:onClick="onClick_R"
+                    android:id="@+id/let_R"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="10"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="R"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="30sp" />
+
+                <TextView
+                    android:onClick="onClick_S"
+                    android:id="@+id/let_S"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="10"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="S"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="30sp" />
+
+                <TextView
+                    android:onClick="onClick_T"
+                    android:id="@+id/let_T"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="10"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="T"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="30sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/alphabet_l4"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_gravity="center"
+                android:layout_marginHorizontal="20dp"
+                android:layout_weight="25"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:weightSum="80">
+
+                <TextView
+                    android:onClick="onClick_U"
+                    android:id="@+id/let_U"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="10"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="U"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="30sp" />
+
+                <TextView
+                    android:visibility="gone"
+                    android:onClick="onClick_UE"
+                    android:id="@+id/let_UE"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="10"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="Ü"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="30sp" />
+
+                <TextView
+                    android:onClick="onClick_V"
+                    android:id="@+id/let_V"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="10"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="V"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="30sp" />
+
+                <TextView
+                    android:onClick="onClick_W"
+                    android:id="@+id/let_W"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="10"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="W"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="30sp" />
+
+                <TextView
+                    android:onClick="onClick_X"
+                    android:id="@+id/let_X"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="10"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="X"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="30sp" />
+
+                <TextView
+                    android:onClick="onClick_Y"
+                    android:id="@+id/let_Y"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="10"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="Y"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="30sp" />
+
+                <TextView
+                    android:onClick="onClick_Z"
+                    android:id="@+id/let_Z"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="10"
+                    android:fontFamily="@font/chawp"
+                    android:gravity="center"
+                    android:text="Z"
+                    android:textColor="@color/white_violet_02"
+                    android:textSize="30sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/line_btn_next"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="12"
+            android:gravity="center|bottom"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btn_next"
+                android:layout_gravity="center|bottom"
+                android:gravity="center|bottom"
+                android:textAlignment="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingStart="20dp"
+                android:paddingEnd="20dp"
+                android:paddingBottom="7dp"
+                android:background="@drawable/style_btn"
+                android:onClick="onClickBtnNext"
+                android:text="@string/btn_next"
+                android:textAllCaps="false"
+                android:textColor="@color/violet_01"
+                android:textSize="40sp"
+                android:textStyle="bold"
+                android:backgroundTint="@null"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ads_border"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal" />
+
+        <LinearLayout
+            android:visibility="gone"
+            android:id="@+id/container_ads"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="8"
+            android:gravity="center"
+            android:orientation="horizontal"
+            >
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

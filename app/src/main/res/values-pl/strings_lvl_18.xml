@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_341">Brat</string>
+    <string name="word_translate_342">Bliźnięta</string>
+    <string name="word_translate_343">Siostra</string>
+    <string name="word_translate_344">Córka</string>
+    <string name="word_translate_345">Syn</string>
+    <string name="word_translate_346">dziadek</string>
+    <string name="word_translate_347">Babcia</string>
+    <string name="word_translate_348">pomóc</string>
+    <string name="word_translate_349">Przodkowie</string>
+    <string name="word_translate_350">Wnuk</string>
+    <string name="word_translate_351">żartować</string>
+    <string name="word_translate_352">Ojczym</string>
+    <string name="word_translate_353">Ślub</string>
+    <string name="word_translate_354">zrelaksować się</string>
+    <string name="word_translate_355">zapytać się</string>
+    <string name="word_translate_356">Wnuczka</string>
+    <string name="word_translate_357">Żona</string>
+    <string name="word_translate_358">Mąż</string>
+    <string name="word_translate_359">uśmiech</string>
+    <string name="word_translate_360">śmiać się</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_341">Jest dla mnie jak brat.</string>
+    <string name="phrase_translate_342">Bliźniacy noszą te same ubrania.</string>
+    <string name="phrase_translate_343">Ona jest moją siostrą.</string>
+    <string name="phrase_translate_344">Mają dwie córki.</string>
+    <string name="phrase_translate_345">Mój syn chodził do szkoły.</string>
+    <string name="phrase_translate_346">Mój dziadek jest stary.</string>
+    <string name="phrase_translate_347">Babcia bawi się z wnuczką.</string>
+    <string name="phrase_translate_348">Muszę pomóc babci.</string>
+    <string name="phrase_translate_349">Mamy tych samych przodków.</string>
+    <string name="phrase_translate_350">Wnuk przyszedł do dziadka.</string>
+    <string name="phrase_translate_351">Żartuję</string>
+    <string name="phrase_translate_352">Mój ojczym pracuje dzisiaj.</string>
+    <string name="phrase_translate_353">Wkrótce mają ślub.</string>
+    <string name="phrase_translate_354">Odpoczywam jutro.</string>
+    <string name="phrase_translate_355">Proszę go o pomoc.</string>
+    <string name="phrase_translate_356">Wnuczka idzie do babci.</string>
+    <string name="phrase_translate_357">Moja żona studiuje.</string>
+    <string name="phrase_translate_358">Mój mąż jest lekarzem.</string>
+    <string name="phrase_translate_359">Ona się uśmiecha.</string>
+    <string name="phrase_translate_360">Wszyscy się śmieją.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_341">Brat</string>
+    <string name="word_LT_342">Kwiat</string>
+    <string name="word_LT_343">Babcia</string>
+    <string name="word_LT_344">Córka</string>
+    <string name="word_LT_345">Brat</string>
+    <string name="word_LT_346">Babcia</string>
+    <string name="word_LT_347">Ślub</string>
+    <string name="word_LT_348">śmiać się</string>
+    <string name="word_LT_349">Praca</string>
+    <string name="word_LT_350">Wnuk</string>
+    <string name="word_LT_351">śpiewać</string>
+    <string name="word_LT_352">Kelner</string>
+    <string name="word_LT_353">Czas</string>
+    <string name="word_LT_354">kraść</string>
+    <string name="word_LT_355">zapytać się</string>
+    <string name="word_LT_356">dziadek</string>
+    <string name="word_LT_357">Ślub</string>
+    <string name="word_LT_358">Żona</string>
+    <string name="word_LT_359">uśmiech</string>
+    <string name="word_LT_360">bawić się</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_341">Chleb</string>
+    <string name="word_RT_342">Siostra</string>
+    <string name="word_RT_343">Miasto</string>
+    <string name="word_RT_344">Przeziębienie</string>
+    <string name="word_RT_345">Syn</string>
+    <string name="word_RT_346">Przyjaciel</string>
+    <string name="word_RT_347">Emeryt</string>
+    <string name="word_RT_348">pomóc</string>
+    <string name="word_RT_349">Ptak</string>
+    <string name="word_RT_350">Przyjaciel</string>
+    <string name="word_RT_351">myć się</string>
+    <string name="word_RT_352">Ojczym</string>
+    <string name="word_RT_353">Gazeta</string>
+    <string name="word_RT_354">ściąć</string>
+    <string name="word_RT_355">bawić się</string>
+    <string name="word_RT_356">Wnuk</string>
+    <string name="word_RT_357">Żona</string>
+    <string name="word_RT_358">Park</string>
+    <string name="word_RT_359">śpiewać</string>
+    <string name="word_RT_360">śmiać się</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_341">Siostra</string>
+    <string name="word_LB_342">Bliźnięta</string>
+    <string name="word_LB_343">Emerytura</string>
+    <string name="word_LB_344">Syn</string>
+    <string name="word_LB_345">Lato</string>
+    <string name="word_LB_346">dziadek</string>
+    <string name="word_LB_347">Drewno</string>
+    <string name="word_LB_348">zrelaksować się</string>
+    <string name="word_LB_349">Przodkowie</string>
+    <string name="word_LB_350">Brat</string>
+    <string name="word_LB_351">śmiać się</string>
+    <string name="word_LB_352">Ojciec</string>
+    <string name="word_LB_353">Ślub</string>
+    <string name="word_LB_354">zapytać się</string>
+    <string name="word_LB_355">śpiewać</string>
+    <string name="word_LB_356">Wnuczka</string>
+    <string name="word_LB_357">Nauczyciel</string>
+    <string name="word_LB_358">Lekarz</string>
+    <string name="word_LB_359">zapytać się</string>
+    <string name="word_LB_360">śpiewać</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_341">Ojciec</string>
+    <string name="word_RB_342">Zamek</string>
+    <string name="word_RB_343">Siostra</string>
+    <string name="word_RB_344">dziadek</string>
+    <string name="word_RB_345">Słońce</string>
+    <string name="word_RB_346">Pieniądze</string>
+    <string name="word_RB_347">Babcia</string>
+    <string name="word_RB_348">śpiewać</string>
+    <string name="word_RB_349">Most</string>
+    <string name="word_RB_350">Lato</string>
+    <string name="word_RB_351">żartować</string>
+    <string name="word_RB_352">Woda</string>
+    <string name="word_RB_353">Park</string>
+    <string name="word_RB_354">zrelaksować się</string>
+    <string name="word_RB_355">uśmiech</string>
+    <string name="word_RB_356">Babcia</string>
+    <string name="word_RB_357">odzież</string>
+    <string name="word_RB_358">Mąż</string>
+    <string name="word_RB_359">bawić się</string>
+    <string name="word_RB_360">zrelaksować się</string>
+    <!-- END -->
+</resources>

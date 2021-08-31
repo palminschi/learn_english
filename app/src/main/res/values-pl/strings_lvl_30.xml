@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_581">Melon</string>
+    <string name="word_translate_582">Arbuz</string>
+    <string name="word_translate_583">lepszy</string>
+    <string name="word_translate_584">jeszcze</string>
+    <string name="word_translate_585">zadzwonić po</string>
+    <string name="word_translate_586">zadzwonić</string>
+    <string name="word_translate_587">Miód</string>
+    <string name="word_translate_588">pszczoła</string>
+    <string name="word_translate_589">Cukier</string>
+    <string name="word_translate_590">Groszek</string>
+    <string name="word_translate_591">fasolki</string>
+    <string name="word_translate_592">przedwczoraj</string>
+    <string name="word_translate_593">pojutrze</string>
+    <string name="word_translate_594">Raz</string>
+    <string name="word_translate_595">Wiosna</string>
+    <string name="word_translate_596">Jesień</string>
+    <string name="word_translate_597">Ołówek</string>
+    <string name="word_translate_598">List</string>
+    <string name="word_translate_599">Słownictwo</string>
+    <string name="word_translate_600">Koniec</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_581">Melon rośnie w ogrodzie.</string>
+    <string name="phrase_translate_582">Kupiłem dużego arbuza</string>
+    <string name="phrase_translate_583">Wiesz lepiej.</string>
+    <string name="phrase_translate_584">Czyta więcej niż ja.</string>
+    <string name="phrase_translate_585">Muszę do niego zadzwonić.</string>
+    <string name="phrase_translate_586">Dzwoniłem do ciebie wczoraj.</string>
+    <string name="phrase_translate_587">Piję herbatę z miodem.</string>
+    <string name="phrase_translate_588">Boję się pszczół.</string>
+    <string name="phrase_translate_589">Piję kawę bez cukru.</string>
+    <string name="phrase_translate_590">Nie jem groszku.</string>
+    <string name="phrase_translate_591">Gotuje coś z fasoli.</string>
+    <string name="phrase_translate_592">Byłem tam przedwczoraj.</string>
+    <string name="phrase_translate_593">Do zobaczenia pojutrze.</string>
+    <string name="phrase_translate_594">Dzwonię po raz drugi.</string>
+    <string name="phrase_translate_595">Na wiosnę wszystko jest piękne.</string>
+    <string name="phrase_translate_596">Często pada jesienią.</string>
+    <string name="phrase_translate_597">Ołówek jest zepsuty.</string>
+    <string name="phrase_translate_598">Ile liter jest w twoim imieniu?</string>
+    <string name="phrase_translate_599">Nie znalazłem słowa w słowniku</string>
+    <string name="phrase_translate_600">Koniec</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_581">Grzyb</string>
+    <string name="word_LT_582">Żywność</string>
+    <string name="word_LT_583">smaczny</string>
+    <string name="word_LT_584">szybki</string>
+    <string name="word_LT_585">płacić</string>
+    <string name="word_LT_586">brać</string>
+    <string name="word_LT_587">mleko</string>
+    <string name="word_LT_588">Drewno</string>
+    <string name="word_LT_589">Sól</string>
+    <string name="word_LT_590">Serwetka</string>
+    <string name="word_LT_591">Kolacja</string>
+    <string name="word_LT_592">przedwczoraj</string>
+    <string name="word_LT_593">Dziś</string>
+    <string name="word_LT_594">Krok</string>
+    <string name="word_LT_595">Las</string>
+    <string name="word_LT_596">Chmura</string>
+    <string name="word_LT_597">Zabawka</string>
+    <string name="word_LT_598">Numer</string>
+    <string name="word_LT_599">Miasto</string>
+    <string name="word_LT_600">Koniec</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_581">Melon</string>
+    <string name="word_RT_582">Arbuz</string>
+    <string name="word_RT_583">słaby</string>
+    <string name="word_RT_584">przeziębienie</string>
+    <string name="word_RT_585">skakać</string>
+    <string name="word_RT_586">zadzwonić</string>
+    <string name="word_RT_587">Miód</string>
+    <string name="word_RT_588">Ptak</string>
+    <string name="word_RT_589">Kawa</string>
+    <string name="word_RT_590">Groszek</string>
+    <string name="word_RT_591">Kolacja</string>
+    <string name="word_RT_592">jutro</string>
+    <string name="word_RT_593">pojutrze</string>
+    <string name="word_RT_594">Tłumaczenie</string>
+    <string name="word_RT_595">Przeziębienie</string>
+    <string name="word_RT_596">Jesień</string>
+    <string name="word_RT_597">Ołówek</string>
+    <string name="word_RT_598">Podręcznik</string>
+    <string name="word_RT_599">List</string>
+    <string name="word_RT_600">Koniec</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_581">Kiełbasa</string>
+    <string name="word_LB_582">Nóż</string>
+    <string name="word_LB_583">wielki</string>
+    <string name="word_LB_584">jeszcze </string>
+    <string name="word_LB_585">Praca</string>
+    <string name="word_LB_586">zostać</string>
+    <string name="word_LB_587">Czajnik</string>
+    <string name="word_LB_588">Kwiat</string>
+    <string name="word_LB_589">Cukier</string>
+    <string name="word_LB_590">Żywność</string>
+    <string name="word_LB_591">fasolki</string>
+    <string name="word_LB_592">Dziś</string>
+    <string name="word_LB_593">Wczoraj</string>
+    <string name="word_LB_594">Wydarzenie</string>
+    <string name="word_LB_595">Pora roku</string>
+    <string name="word_LB_596">Wiosna</string>
+    <string name="word_LB_597">Gitara</string>
+    <string name="word_LB_598">List</string>
+    <string name="word_LB_599">Książka</string>
+    <string name="word_LB_600">Koniec</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_581">Warzywa</string>
+    <string name="word_RB_582">Owoce</string>
+    <string name="word_RB_583">lepszy</string>
+    <string name="word_RB_584">chory</string>
+    <string name="word_RB_585">zadzwonić po</string>
+    <string name="word_RB_586">uruchomić</string>
+    <string name="word_RB_587">Kwiat</string>
+    <string name="word_RB_588">pszczoła</string>
+    <string name="word_RB_589">Sok</string>
+    <string name="word_RB_590">Smak</string>
+    <string name="word_RB_591">Dieta</string>
+    <string name="word_RB_592">nigdy</string>
+    <string name="word_RB_593">przedwczoraj</string>
+    <string name="word_RB_594">Raz</string>
+    <string name="word_RB_595">Wiosna</string>
+    <string name="word_RB_596">zamrażanie</string>
+    <string name="word_RB_597">Długopis</string>
+    <string name="word_RB_598">Słowo</string>
+    <string name="word_RB_599">Słownictwo</string>
+    <string name="word_RB_600">Koniec</string>
+    <!-- END -->
+</resources>

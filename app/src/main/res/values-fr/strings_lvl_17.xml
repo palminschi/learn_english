@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_321">la retraite</string>
+    <string name="word_translate_323">le profit</string>
+    <string name="word_translate_324">le compte</string>
+    <string name="word_translate_325">La taxe</string>
+    <string name="word_translate_326">l\'assurance</string>
+    <string name="word_translate_327">payer</string>
+    <string name="word_translate_328">le salaire</string>
+    <string name="word_translate_329">le contrat</string>
+    <string name="word_translate_330">signer</string>
+    <string name="word_translate_331">la dépense</string>
+    <string name="word_translate_332">le reste</string>
+    <string name="word_translate_333">la pièce</string>
+    <string name="word_translate_334">billet de banque</string>
+    <string name="word_translate_335">le changement</string>
+    <string name="word_translate_336">la prime</string>
+    <string name="word_translate_337">le transfert</string>
+    <string name="word_translate_338">gagner</string>
+    <string name="word_translate_339">la poche</string>
+    <string name="word_translate_340">voler</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_321">A combien s\'élève votre retraite ?</string>
+    <string name="phrase_translate_322">Il est déjà retraité.</string>
+    <string name="phrase_translate_323">J\'ai fait un gros profit.</string>
+    <string name="phrase_translate_324">J\'ai ouvert un compte bancaire.</string>
+    <string name="phrase_translate_325">Je paie beaucoup d\'impôts.</string>
+    <string name="phrase_translate_326">Avez-vous une assurance?</string>
+    <string name="phrase_translate_327">Elle paie pour moi.</string>
+    <string name="phrase_translate_328">À combien s\'élève votre salaire?</string>
+    <string name="phrase_translate_329">Il a signé le contrat.</string>
+    <string name="phrase_translate_330">Il a signé le contrat.</string>
+    <string name="phrase_translate_331">Quelles sont vos dépenses mensuelles ?</string>
+    <string name="phrase_translate_332">Il a laissé l\'argent restant.</string>
+    <string name="phrase_translate_333">J\'ai beaucoup de pièces.</string>
+    <string name="phrase_translate_334">Le guichet automatique n\'accepte pas les pièces.</string>
+    <string name="phrase_translate_335">Avez-vous du changement?</string>
+    <string name="phrase_translate_336">J\'ai un bonus.</string>
+    <string name="phrase_translate_337">Je dois faire un virement.</string>
+    <string name="phrase_translate_338">J\'ai gagné beaucoup d\'argent.</string>
+    <string name="phrase_translate_339">J\'ai mis le portefeuille dans ma poche.</string>
+    <string name="phrase_translate_340">Il a volé quelque chose.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_321">le village</string>
+    <string name="word_LT_322">le retraité</string>
+    <string name="word_LT_323">l\'Ile</string>
+    <string name="word_LT_324">le salaire</string>
+    <string name="word_LT_325">le salaire</string>
+    <string name="word_LT_326">l\'assurance</string>
+    <string name="word_LT_327">acheter</string>
+    <string name="word_LT_328">le mois</string>
+    <string name="word_LT_329">le contrat</string>
+    <string name="word_LT_330">conduire</string>
+    <string name="word_LT_331">la mairie</string>
+    <string name="word_LT_332">le document</string>
+    <string name="word_LT_333">L\'été</string>
+    <string name="word_LT_334">billet de banque</string>
+    <string name="word_LT_335">le temps</string>
+    <string name="word_LT_336">le salaire</string>
+    <string name="word_LT_337">le village</string>
+    <string name="word_LT_338">vendre</string>
+    <string name="word_LT_339">le pantalon</string>
+    <string name="word_LT_340">voler</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_321">le magasin</string>
+    <string name="word_RT_322">la forêt</string>
+    <string name="word_RT_323">le cheval</string>
+    <string name="word_RT_324">le but</string>
+    <string name="word_RT_325">La taxe</string>
+    <string name="word_RT_326">le compte</string>
+    <string name="word_RT_327">gagner</string>
+    <string name="word_RT_328">l\'argent</string>
+    <string name="word_RT_329">la boutique</string>
+    <string name="word_RT_330">voler</string>
+    <string name="word_RT_331">le stade</string>
+    <string name="word_RT_332">l\'animal</string>
+    <string name="word_RT_333">le samedi</string>
+    <string name="word_RT_334">l\'hiver</string>
+    <string name="word_RT_335">le changement</string>
+    <string name="word_RT_336">la prime</string>
+    <string name="word_RT_337">le transfert</string>
+    <string name="word_RT_338">acheter</string>
+    <string name="word_RT_339">les lunettes</string>
+    <string name="word_RT_340">signer</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_321">la retraite</string>
+    <string name="word_LB_322">la nuit</string>
+    <string name="word_LB_323">le profit</string>
+    <string name="word_LB_324">le compte</string>
+    <string name="word_LB_325">l\'arrêt</string>
+    <string name="word_LB_326">le ballon</string>
+    <string name="word_LB_327">vendre</string>
+    <string name="word_LB_328">le salaire</string>
+    <string name="word_LB_329">le froid</string>
+    <string name="word_LB_330">signer</string>
+    <string name="word_LB_331">la dépense</string>
+    <string name="word_LB_332">le son</string>
+    <string name="word_LB_333">la pièce</string>
+    <string name="word_LB_334">le verre</string>
+    <string name="word_LB_335">le sable</string>
+    <string name="word_LB_336">l\'argent</string>
+    <string name="word_LB_337">la ville</string>
+    <string name="word_LB_338">gagner</string>
+    <string name="word_LB_339">la poche</string>
+    <string name="word_LB_340">tomber</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_321">l\'arbre</string>
+    <string name="word_RB_322">la retraite</string>
+    <string name="word_RB_323">le jeu</string>
+    <string name="word_RB_324">La taxe</string>
+    <string name="word_RB_325">la musique</string>
+    <string name="word_RB_326">le porte-feuille</string>
+    <string name="word_RB_327">payer</string>
+    <string name="word_RB_328">La taxe</string>
+    <string name="word_RB_329">la barrière</string>
+    <string name="word_RB_330">tomber</string>
+    <string name="word_RB_331">le revenu</string>
+    <string name="word_RB_332">le reste</string>
+    <string name="word_RB_333">l\'hiver</string>
+    <string name="word_RB_334">l\'automne</string>
+    <string name="word_RB_335">la neige</string>
+    <string name="word_RB_336">le verre</string>
+    <string name="word_RB_337">la retraite</string>
+    <string name="word_RB_338">voler</string>
+    <string name="word_RB_339">le jeu</string>
+    <string name="word_RB_340">aller</string>
+    <!-- END -->
+</resources>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_541">найти</string>
+    <string name="word_translate_542">Клад</string>
+    <string name="word_translate_543">искать</string>
+    <string name="word_translate_544">Поиск</string>
+    <string name="word_translate_545">Тюрьма</string>
+    <string name="word_translate_546">Преступник</string>
+    <string name="word_translate_547">Оружие</string>
+    <string name="word_translate_548">убивать</string>
+    <string name="word_translate_549">нарушать</string>
+    <string name="word_translate_550">Штраф</string>
+    <string name="word_translate_551">штрафовать</string>
+    <string name="word_translate_552">Страх</string>
+    <string name="word_translate_553">Веселье</string>
+    <string name="word_translate_554">спасать</string>
+    <string name="word_translate_555">Колесо</string>
+    <string name="word_translate_556">Шина</string>
+    <string name="word_translate_557">Руль</string>
+    <string name="word_translate_558">Аккумулятор</string>
+    <string name="word_translate_559">Багажник</string>
+    <string name="word_translate_560">Затор</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_541">Я не могу найти тебя.</string>
+    <string name="phrase_translate_542">Они нашли клад.</string>
+    <string name="phrase_translate_543">Он ищет работу.</string>
+    <string name="phrase_translate_544">Он в поиске счастья.</string>
+    <string name="phrase_translate_545">Он в тюрьме.</string>
+    <string name="phrase_translate_546">Полиция ищет преступника.</string>
+    <string name="phrase_translate_547">У него есть оружие.</string>
+    <string name="phrase_translate_548">Он никого не убил.</string>
+    <string name="phrase_translate_549">Водитель нарушил правила.</string>
+    <string name="phrase_translate_550">Она получила штраф.</string>
+    <string name="phrase_translate_551">Они оштрафовали его</string>
+    <string name="phrase_translate_552">Он боится.</string>
+    <string name="phrase_translate_553">Желаю отлично провести время!</string>
+    <string name="phrase_translate_554">Я его спас.</string>
+    <string name="phrase_translate_555">У машины четыре колеса.</string>
+    <string name="phrase_translate_556">Я купил зимние шины.</string>
+    <string name="phrase_translate_557">Я держу руль.</string>
+    <string name="phrase_translate_558">Аккумулятор сел.</string>
+    <string name="phrase_translate_559">Поставьте сумку в багажник.</string>
+    <string name="phrase_translate_560">На дороге затор.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_541">ждать</string>
+    <string name="word_LT_542">Клад</string>
+    <string name="word_LT_543">жить</string>
+    <string name="word_LT_544">Забота</string>
+    <string name="word_LT_545">Бег</string>
+    <string name="word_LT_546">Полицейский</string>
+    <string name="word_LT_547">Оружие</string>
+    <string name="word_LT_548">забыть</string>
+    <string name="word_LT_549">нарушать</string>
+    <string name="word_LT_550">Мысль</string>
+    <string name="word_LT_551">сломать</string>
+    <string name="word_LT_552">Страх</string>
+    <string name="word_LT_553">Веселье</string>
+    <string name="word_LT_554">дарить</string>
+    <string name="word_LT_555">Поезд</string>
+    <string name="word_LT_556">Квартира</string>
+    <string name="word_LT_557">Земля</string>
+    <string name="word_LT_558">Парк</string>
+    <string name="word_LT_559">Остров</string>
+    <string name="word_LT_560">Затор</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_541">забыть</string>
+    <string name="word_RT_542">Волосы</string>
+    <string name="word_RT_543">искать</string>
+    <string name="word_RT_544">Помощь</string>
+    <string name="word_RT_545">Ванная</string>
+    <string name="word_RT_546">Режиссёр</string>
+    <string name="word_RT_547">Чайник</string>
+    <string name="word_RT_548">искать</string>
+    <string name="word_RT_549">кушать</string>
+    <string name="word_RT_550">Штука</string>
+    <string name="word_RT_551">тестировать</string>
+    <string name="word_RT_552">Счастье</string>
+    <string name="word_RT_553">Музыка</string>
+    <string name="word_RT_554">играть</string>
+    <string name="word_RT_555">Колесо</string>
+    <string name="word_RT_556">Шина</string>
+    <string name="word_RT_557">Велосипед</string>
+    <string name="word_RT_558">Поезд</string>
+    <string name="word_RT_559">Багажник</string>
+    <string name="word_RT_560">Обучение</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_541">проверять</string>
+    <string name="word_LB_542">Кепка</string>
+    <string name="word_LB_543">идти</string>
+    <string name="word_LB_544">Случай</string>
+    <string name="word_LB_545">Собака</string>
+    <string name="word_LB_546">Актёр</string>
+    <string name="word_LB_547">Охота</string>
+    <string name="word_LB_548">знать</string>
+    <string name="word_LB_549">перейти</string>
+    <string name="word_LB_550">Штраф</string>
+    <string name="word_LB_551">лечить</string>
+    <string name="word_LB_552">Игрушка</string>
+    <string name="word_LB_553">Ресторан</string>
+    <string name="word_LB_554">поздравлять</string>
+    <string name="word_LB_555">Самолет</string>
+    <string name="word_LB_556">Трактор</string>
+    <string name="word_LB_557">Автострада</string>
+    <string name="word_LB_558">Аккумулятор</string>
+    <string name="word_LB_559">Отдых</string>
+    <string name="word_LB_560">Автострада</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_541">найти</string>
+    <string name="word_RB_542">Список</string>
+    <string name="word_RB_543">любить</string>
+    <string name="word_RB_544">Поиск</string>
+    <string name="word_RB_545">Тюрьма</string>
+    <string name="word_RB_546">Преступник</string>
+    <string name="word_RB_547">Одежда</string>
+    <string name="word_RB_548">убивать</string>
+    <string name="word_RB_549">путешествовать</string>
+    <string name="word_RB_550">Душа</string>
+    <string name="word_RB_551">штрафовать</string>
+    <string name="word_RB_552">Магазин</string>
+    <string name="word_RB_553">Бабочка</string>
+    <string name="word_RB_554">спасать</string>
+    <string name="word_RB_555">Лестица</string>
+    <string name="word_RB_556">Заправка</string>
+    <string name="word_RB_557">Руль</string>
+    <string name="word_RB_558">Музыка</string>
+    <string name="word_RB_559">Море</string>
+    <string name="word_RB_560">Заправка</string>
+    <!-- END -->
+</resources>

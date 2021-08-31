@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_201">Wycieczka</string>
+    <string name="word_translate_202">chodzić</string>
+    <string name="word_translate_203">Jogging</string>
+    <string name="word_translate_204">Las</string>
+    <string name="word_translate_205">Park</string>
+    <string name="word_translate_206">Rolki</string>
+    <string name="word_translate_207">Deskorolka</string>
+    <string name="word_translate_208">Łyżwy</string>
+    <string name="word_translate_209">Odpoczynek</string>
+    <string name="word_translate_210">Weekendy</string>
+    <string name="word_translate_211">latać</string>
+    <string name="word_translate_212">wakacje</string>
+    <string name="word_translate_213">Boże Narodzenie</string>
+    <string name="word_translate_214">odwiedzać</string>
+    <string name="word_translate_215">zarezerwować</string>
+    <string name="word_translate_216">Hotel</string>
+    <string name="word_translate_217">zostać</string>
+    <string name="word_translate_218">Walizka</string>
+    <string name="word_translate_219">Za granicą</string>
+    <string name="word_translate_220">Odprawa celna</string>
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_201">Idę na wędrówkę.</string>
+    <string name="phrase_translate_202">Lubię spacerować.</string>
+    <string name="phrase_translate_203">Czy idziesz pobiegać?</string>
+    <string name="phrase_translate_204">Biegnę przez las.</string>
+    <string name="phrase_translate_205">Piękny park</string>
+    <string name="phrase_translate_206">Syn ma rolki.</string>
+    <string name="phrase_translate_207">Jeżdżę na deskorolce.</string>
+    <string name="phrase_translate_208">łyżwiarstwo</string>
+    <string name="phrase_translate_209">Teraz odpoczywam.</string>
+    <string name="phrase_translate_210">Gdzie jedziesz na weekend?</string>
+    <string name="phrase_translate_211">Lecę nad morze.</string>
+    <string name="phrase_translate_212">Dziecko jest na wakacjach.</string>
+    <string name="phrase_translate_213">Święta nadchodzą.</string>
+    <string name="phrase_translate_214">Ile krajów odwiedziłeś?</string>
+    <string name="phrase_translate_215">Zarezerwowałem hotel.</string>
+    <string name="phrase_translate_216">mieszkam w hotelu?</string>
+    <string name="phrase_translate_217">Zostaje w domu.</string>
+    <string name="phrase_translate_218">Gdzie jest moja walizka?</string>
+    <string name="phrase_translate_219">Mieszka za granicą.</string>
+    <string name="phrase_translate_220">Musimy przejść przez odprawę celną.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_201">Kwiat</string>
+    <string name="word_LT_202">chodzić</string>
+    <string name="word_LT_203">Samolot</string>
+    <string name="word_LT_204">Morze</string>
+    <string name="word_LT_205">Park</string>
+    <string name="word_LT_206">Wyspa</string>
+    <string name="word_LT_207">Deskorolka</string>
+    <string name="word_LT_208">Zabawka</string>
+    <string name="word_LT_209">Samolot</string>
+    <string name="word_LT_210">Miesiąc</string>
+    <string name="word_LT_211">latać</string>
+    <string name="word_LT_212">Drewno</string>
+    <string name="word_LT_213">Noc</string>
+    <string name="word_LT_214">latać</string>
+    <string name="word_LT_215">zarezerwować</string>
+    <string name="word_LT_216">Kwiat</string>
+    <string name="word_LT_217">brać</string>
+    <string name="word_LT_218">Samolot</string>
+    <string name="word_LT_219">Za granicą</string>
+    <string name="word_LT_220">Drewno</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_201">Wycieczka</string>
+    <string name="word_RT_202">uruchomić</string>
+    <string name="word_RT_203">Motyl</string>
+    <string name="word_RT_204">Góra</string>
+    <string name="word_RT_205">Pociąg</string>
+    <string name="word_RT_206">Rolki</string>
+    <string name="word_RT_207">Gitara</string>
+    <string name="word_RT_208">cukierek</string>
+    <string name="word_RT_209">Drewno</string>
+    <string name="word_RT_210">Tydzień</string>
+    <string name="word_RT_211">śpiewać</string>
+    <string name="word_RT_212">wakacje</string>
+    <string name="word_RT_213">Motyl</string>
+    <string name="word_RT_214">znaleźć</string>
+    <string name="word_RT_215">uruchomić</string>
+    <string name="word_RT_216">Hotel</string>
+    <string name="word_RT_217">bawić się</string>
+    <string name="word_RT_218">Odpoczynek</string>
+    <string name="word_RT_219">Boże Narodzenie</string>
+    <string name="word_RT_220">Odprawa celna</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_201">Góra</string>
+    <string name="word_LB_202">uczyć się</string>
+    <string name="word_LB_203">Jogging</string>
+    <string name="word_LB_204">Drewno</string>
+    <string name="word_LB_205">Dom</string>
+    <string name="word_LB_206">Drewno</string>
+    <string name="word_LB_207">Ciasto</string>
+    <string name="word_LB_208">Gitara</string>
+    <string name="word_LB_209">Odpoczynek</string>
+    <string name="word_LB_210">Koniec</string>
+    <string name="word_LB_211">skakać</string>
+    <string name="word_LB_212">Kwiat</string>
+    <string name="word_LB_213">Boże Narodzenie</string>
+    <string name="word_LB_214">Szukaj</string>
+    <string name="word_LB_215">Szukaj</string>
+    <string name="word_LB_216">Samolot</string>
+    <string name="word_LB_217">zostać</string>
+    <string name="word_LB_218">Góra</string>
+    <string name="word_LB_219">Motyl</string>
+    <string name="word_LB_220">Kwiat</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_201">Samolot</string>
+    <string name="word_RB_202">teraźniejszość</string>
+    <string name="word_RB_203">Kwiat</string>
+    <string name="word_RB_204">Las</string>
+    <string name="word_RB_205">Muzyka</string>
+    <string name="word_RB_206">Gra</string>
+    <string name="word_RB_207">Szczęście</string>
+    <string name="word_RB_208">Łyżwy</string>
+    <string name="word_RB_209">Czas</string>
+    <string name="word_RB_210">Weekendy</string>
+    <string name="word_RB_211">Praca</string>
+    <string name="word_RB_212">Odpoczynek</string>
+    <string name="word_RB_213">Zima</string>
+    <string name="word_RB_214">odwiedzać</string>
+    <string name="word_RB_215">teraźniejszość</string>
+    <string name="word_RB_216">Restauracja</string>
+    <string name="word_RB_217">uruchomić</string>
+    <string name="word_RB_218">Walizka</string>
+    <string name="word_RB_219">Odpoczynek</string>
+    <string name="word_RB_220">Samolot</string>
+    <!-- END -->
+</resources>

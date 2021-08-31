@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_81">Цвет</string>
+    <string name="word_translate_82">красный</string>
+    <string name="word_translate_83">серый</string>
+    <string name="word_translate_84">Транспорт</string>
+    <string name="word_translate_85">Поезд</string>
+    <string name="word_translate_86">Самолет</string>
+    <string name="word_translate_87">медленно</string>
+    <string name="word_translate_88">длинный</string>
+    <string name="word_translate_89">Трамвай</string>
+    <string name="word_translate_90">жёлтый</string>
+    <string name="word_translate_91">Автострада</string>
+    <string name="word_translate_92">Парковка</string>
+    <string name="word_translate_93">Место</string>
+    <string name="word_translate_94">синий</string>
+    <string name="word_translate_95">заправить</string>
+    <string name="word_translate_96">запускать</string>
+    <string name="word_translate_97">Заправка</string>
+    <string name="word_translate_98">Стройка</string>
+    <string name="word_translate_99">белый</string>
+    <string name="word_translate_100">строить</string>
+    <!-- END -->
+
+    <!-- PHRASE  -->
+    <string name="phrase_translate_81">Какой цвет тебе нравится?</string>
+    <string name="phrase_translate_82">Яблоко красное.</string>
+    <string name="phrase_translate_83">У него седые волосы.</string>
+    <string name="phrase_translate_84">В городе много транспортных средств</string>
+    <string name="phrase_translate_85">Когда приедет поезд?</string>
+    <string name="phrase_translate_86">Наш самолет в 15:00.</string>
+    <string name="phrase_translate_87">Ты идешь очень медленно.</string>
+    <string name="phrase_translate_88">У тебя длинные волосы.</string>
+    <string name="phrase_translate_89">Где едет трамвай?</string>
+    <string name="phrase_translate_90">Солнце - жёлтое.</string>
+    <string name="phrase_translate_91">Я еду по автостраде.</string>
+    <string name="phrase_translate_92">Я ищу место для парковки.</string>
+    <string name="phrase_translate_93">Здесь достаточно места.</string>
+    <string name="phrase_translate_94">Небо синее.</string>
+    <string name="phrase_translate_95">Нам нужно заправить машину.</string>
+    <string name="phrase_translate_96">Заведи машину!</string>
+    <string name="phrase_translate_97">Где есть заправка?</string>
+    <string name="phrase_translate_98">Осторожно! Там стройплощадка.</string>
+    <string name="phrase_translate_99">белый как снег</string>
+    <string name="phrase_translate_100">Я строю дом.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_81">Цвет</string>
+    <string name="word_LT_82">зелёный</string>
+    <string name="word_LT_83">синий</string>
+    <string name="word_LT_84">Самолет</string>
+    <string name="word_LT_85">Дорога</string>
+    <string name="word_LT_86">Самолет</string>
+    <string name="word_LT_87">тепло</string>
+    <string name="word_LT_88">близко</string>
+    <string name="word_LT_89">Трасса</string>
+    <string name="word_LT_90">жёлтый</string>
+    <string name="word_LT_91">Автосервис</string>
+    <string name="word_LT_92">Парк</string>
+    <string name="word_LT_93">Улица</string>
+    <string name="word_LT_94">синий</string>
+    <string name="word_LT_95">строить</string>
+    <string name="word_LT_96">идти</string>
+    <string name="word_LT_97">Квартира</string>
+    <string name="word_LT_98">Земля</string>
+    <string name="word_LT_99">синий</string>
+    <string name="word_LT_100">строить</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_81">Друг</string>
+    <string name="word_RT_82">красный</string>
+    <string name="word_RT_83">зелёный</string>
+    <string name="word_RT_84">Велосипед</string>
+    <string name="word_RT_85">Дом</string>
+    <string name="word_RT_86">Транспорт</string>
+    <string name="word_RT_87">медленно</string>
+    <string name="word_RT_88">большой</string>
+    <string name="word_RT_89">Транспорт</string>
+    <string name="word_RT_90">серый</string>
+    <string name="word_RT_91">Обучение</string>
+    <string name="word_RT_92">Парковка</string>
+    <string name="word_RT_93">Поезд</string>
+    <string name="word_RT_94">зелёный</string>
+    <string name="word_RT_95">заправить</string>
+    <string name="word_RT_96">строить</string>
+    <string name="word_RT_97">Танк</string>
+    <string name="word_RT_98">Велосипед</string>
+    <string name="word_RT_99">зелёный</string>
+    <string name="word_RT_100">мыть</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_81">Цветок</string>
+    <string name="word_LB_82">синий</string>
+    <string name="word_LB_83">розовый</string>
+    <string name="word_LB_84">Транспорт</string>
+    <string name="word_LB_85">Кровать</string>
+    <string name="word_LB_86">Аэропорт</string>
+    <string name="word_LB_87">быстро</string>
+    <string name="word_LB_88">длинный</string>
+    <string name="word_LB_89">Трактор</string>
+    <string name="word_LB_90">зелёный</string>
+    <string name="word_LB_91">Автострада</string>
+    <string name="word_LB_92">Заправка</string>
+    <string name="word_LB_93">Трасса</string>
+    <string name="word_LB_94">чёрный</string>
+    <string name="word_LB_95">жить</string>
+    <string name="word_LB_96">запускать</string>
+    <string name="word_LB_97">Трактор</string>
+    <string name="word_LB_98">Автострада</string>
+    <string name="word_LB_99">розовый</string>
+    <string name="word_LB_100">идти</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_81">Жизнь</string>
+    <string name="word_RB_82">розовый</string>
+    <string name="word_RB_83">серый</string>
+    <string name="word_RB_84">Автострада</string>
+    <string name="word_RB_85">Поезд</string>
+    <string name="word_RB_86">Бабочка</string>
+    <string name="word_RB_87">длинный</string>
+    <string name="word_RB_88">далеко</string>
+    <string name="word_RB_89">Трамвай</string>
+    <string name="word_RB_90">красный</string>
+    <string name="word_RB_91">Заправка</string>
+    <string name="word_RB_92">Поезд</string>
+    <string name="word_RB_93">Место</string>
+    <string name="word_RB_94">жёлтый</string>
+    <string name="word_RB_95">ездить</string>
+    <string name="word_RB_96">стоять</string>
+    <string name="word_RB_97">Заправка</string>
+    <string name="word_RB_98">Стройка</string>
+    <string name="word_RB_99">белый</string>
+    <string name="word_RB_100">заправить</string>
+    <!-- END -->
+</resources>

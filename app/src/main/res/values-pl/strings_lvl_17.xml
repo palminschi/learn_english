@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_321">Emerytura</string>
+    <string name="word_translate_322">Emeryt</string>
+    <string name="word_translate_323">Zysk</string>
+    <string name="word_translate_324">Sprawdzać</string>
+    <string name="word_translate_325">Podatek</string>
+    <string name="word_translate_326">Ubezpieczenie</string>
+    <string name="word_translate_327">płacić</string>
+    <string name="word_translate_328">Pensja</string>
+    <string name="word_translate_329">Kontrakt</string>
+    <string name="word_translate_330">podpisać</string>
+    <string name="word_translate_331">Konsumpcja</string>
+    <string name="word_translate_332">Reszta</string>
+    <string name="word_translate_333">Moneta</string>
+    <string name="word_translate_334">Banknot</string>
+    <string name="word_translate_335">Drobiazg</string>
+    <string name="word_translate_336">Nagroda</string>
+    <string name="word_translate_337">Tłumaczenie</string>
+    <string name="word_translate_338">zarobić</string>
+    <string name="word_translate_339">Kieszeń</string>
+    <string name="word_translate_340">kraść</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_321">Ile wynosi Twoja emerytura?</string>
+    <string name="phrase_translate_322">Jest już emerytem.</string>
+    <string name="phrase_translate_323">Zarobiłem dużo.</string>
+    <string name="phrase_translate_324">Otworzyłem konto bankowe.</string>
+    <string name="phrase_translate_325">Płacę dużo podatków.</string>
+    <string name="phrase_translate_326">Czy masz ubezpieczenie?</string>
+    <string name="phrase_translate_327">Płaci za mnie.</string>
+    <string name="phrase_translate_328">Ile zarabiasz?</string>
+    <string name="phrase_translate_329">Podpisał kontrakt.</string>
+    <string name="phrase_translate_330">Podpisał kontrakt.</string>
+    <string name="phrase_translate_331">Jakie są Twoje miesięczne wydatki?</string>
+    <string name="phrase_translate_332">Zostawił zmianę.</string>
+    <string name="phrase_translate_333">Mam dużo monet.</string>
+    <string name="phrase_translate_334">Bankomat nie przyjmuje banknotów.</string>
+    <string name="phrase_translate_335">Masz zmianę?</string>
+    <string name="phrase_translate_336">Otrzymałem nagrodę.</string>
+    <string name="phrase_translate_337">Muszę złożyć przekaz pieniężny.</string>
+    <string name="phrase_translate_338">Zarobiłem dużo pieniędzy.</string>
+    <string name="phrase_translate_339">Wkładam portfel do kieszeni.</string>
+    <string name="phrase_translate_340">Coś ukradł.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_321">Wioska</string>
+    <string name="word_LT_322">Emeryt</string>
+    <string name="word_LT_323">Wyspa</string>
+    <string name="word_LT_324">Pensja</string>
+    <string name="word_LT_325">Pensja</string>
+    <string name="word_LT_326">Ubezpieczenie</string>
+    <string name="word_LT_327">Kup</string>
+    <string name="word_LT_328">Miesiąc</string>
+    <string name="word_LT_329">Kontrakt</string>
+    <string name="word_LT_330">jeździć</string>
+    <string name="word_LT_331">Ratusz</string>
+    <string name="word_LT_332">Dokument</string>
+    <string name="word_LT_333">Lato</string>
+    <string name="word_LT_334">Banknot</string>
+    <string name="word_LT_335">Czas</string>
+    <string name="word_LT_336">Pensja</string>
+    <string name="word_LT_337">Wioska</string>
+    <string name="word_LT_338">Sprzedać</string>
+    <string name="word_LT_339">Spodnie</string>
+    <string name="word_LT_340">kraść</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_321">Sklep</string>
+    <string name="word_RT_322">Las</string>
+    <string name="word_RT_323">Koń</string>
+    <string name="word_RT_324">Bramy</string>
+    <string name="word_RT_325">Podatek</string>
+    <string name="word_RT_326">Sprawdzać</string>
+    <string name="word_RT_327">zarobić</string>
+    <string name="word_RT_328">Pieniądze</string>
+    <string name="word_RT_329">Sklep</string>
+    <string name="word_RT_330">kraść</string>
+    <string name="word_RT_331">stadion</string>
+    <string name="word_RT_332">Zwierzę</string>
+    <string name="word_RT_333">sobota</string>
+    <string name="word_RT_334">Zima</string>
+    <string name="word_RT_335">Drobiazg</string>
+    <string name="word_RT_336">Nagroda</string>
+    <string name="word_RT_337">Tłumaczenie</string>
+    <string name="word_RT_338">Kup</string>
+    <string name="word_RT_339">Okulary</string>
+    <string name="word_RT_340">podpisać</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_321">Emerytura</string>
+    <string name="word_LB_322">Noc</string>
+    <string name="word_LB_323">Zysk</string>
+    <string name="word_LB_324">Sprawdzać</string>
+    <string name="word_LB_325">Zatrzymać</string>
+    <string name="word_LB_326">Piłka</string>
+    <string name="word_LB_327">Sprzedać</string>
+    <string name="word_LB_328">Pensja</string>
+    <string name="word_LB_329">Przeziębienie</string>
+    <string name="word_LB_330">podpisać</string>
+    <string name="word_LB_331">Konsumpcja</string>
+    <string name="word_LB_332">Dźwięk</string>
+    <string name="word_LB_333">Moneta</string>
+    <string name="word_LB_334">Puchar</string>
+    <string name="word_LB_335">Piasek</string>
+    <string name="word_LB_336">Pieniądze</string>
+    <string name="word_LB_337">Miasto</string>
+    <string name="word_LB_338">zarobić</string>
+    <string name="word_LB_339">Kieszeń</string>
+    <string name="word_LB_340">ściąć</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_321">Drewno</string>
+    <string name="word_RB_322">Emerytura</string>
+    <string name="word_RB_323">Gra</string>
+    <string name="word_RB_324">Podatek</string>
+    <string name="word_RB_325">Muzyka</string>
+    <string name="word_RB_326">Portfel</string>
+    <string name="word_RB_327">płacić</string>
+    <string name="word_RB_328">Podatek</string>
+    <string name="word_RB_329">Ogrodzenie</string>
+    <string name="word_RB_330">ściąć</string>
+    <string name="word_RB_331">Dochód</string>
+    <string name="word_RB_332">Reszta</string>
+    <string name="word_RB_333">Zima</string>
+    <string name="word_RB_334">Jesień</string>
+    <string name="word_RB_335">Śnieg</string>
+    <string name="word_RB_336">Puchar</string>
+    <string name="word_RB_337">Emerytura</string>
+    <string name="word_RB_338">kraść</string>
+    <string name="word_RB_339">Gra</string>
+    <string name="word_RB_340">jeździć</string>
+    <!-- END -->
+</resources>

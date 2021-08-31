@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_541">a găsi</string>
+    <string name="word_translate_542">Comoară</string>
+    <string name="word_translate_543">a căuta</string>
+    <string name="word_translate_544">Căutare</string>
+    <string name="word_translate_545">Pușcărie</string>
+    <string name="word_translate_546">Infractor</string>
+    <string name="word_translate_547">Armă</string>
+    <string name="word_translate_548">a ucide</string>
+    <string name="word_translate_549">a încălca</string>
+    <string name="word_translate_550">Amenda</string>
+    <string name="word_translate_551">a amenda</string>
+    <string name="word_translate_552">Frică</string>
+    <string name="word_translate_553">Veselie</string>
+    <string name="word_translate_554">a salva</string>
+    <string name="word_translate_555">Roată</string>
+    <string name="word_translate_556">Anvelopă</string>
+    <string name="word_translate_557">Volan</string>
+    <string name="word_translate_558">Baterie</string>
+    <string name="word_translate_559">Portbagaj</string>
+    <string name="word_translate_560">Ambuteiaj</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_541">Nu te pot găsi.</string>
+    <string name="phrase_translate_542">Ei au găsit comoara.</string>
+    <string name="phrase_translate_543">El își caută un loc de muncă.</string>
+    <string name="phrase_translate_544">El este în căutarea fericirii.</string>
+    <string name="phrase_translate_545">El este în închisoare.</string>
+    <string name="phrase_translate_546">Poliția îl caută pe infractor.</string>
+    <string name="phrase_translate_547">El are o armă.</string>
+    <string name="phrase_translate_548">El nu a ucis pe nimeni.</string>
+    <string name="phrase_translate_549">Șoferul a încălcat regulile.</string>
+    <string name="phrase_translate_550">Ea a primit o amendă.</string>
+    <string name="phrase_translate_551">Ei îl amendează pe el</string>
+    <string name="phrase_translate_552">El e speriat.</string>
+    <string name="phrase_translate_553">Distracție plăcută!</string>
+    <string name="phrase_translate_554">Eu l-am salvat.</string>
+    <string name="phrase_translate_555">Mașina are patru roți.</string>
+    <string name="phrase_translate_556">Mi-am cumpărat anvelope de iarnă.</string>
+    <string name="phrase_translate_557">Eu țin volanul.</string>
+    <string name="phrase_translate_558">Bateria este descărcată.</string>
+    <string name="phrase_translate_559">Puneți geanta în portbagaj.</string>
+    <string name="phrase_translate_560">Este un ambuteiaj.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_541">a aștepta</string>
+    <string name="word_LT_542">Comoară</string>
+    <string name="word_LT_543">a trăi</string>
+    <string name="word_LT_544">Îngrijire</string>
+    <string name="word_LT_545">Alergare</string>
+    <string name="word_LT_546">Polițist</string>
+    <string name="word_LT_547">Armă</string>
+    <string name="word_LT_548">a uita</string>
+    <string name="word_LT_549">a încălca</string>
+    <string name="word_LT_550">Gând</string>
+    <string name="word_LT_551">a strica</string>
+    <string name="word_LT_552">Frică</string>
+    <string name="word_LT_553">Veselie</string>
+    <string name="word_LT_554">a dărui</string>
+    <string name="word_LT_555">Tren</string>
+    <string name="word_LT_556">Apartament</string>
+    <string name="word_LT_557">Pământ</string>
+    <string name="word_LT_558">Parc</string>
+    <string name="word_LT_559">Insulă</string>
+    <string name="word_LT_560">Ambuteiaj</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_541">a uita</string>
+    <string name="word_RT_542">Păr</string>
+    <string name="word_RT_543">a căuta</string>
+    <string name="word_RT_544">Ajutor</string>
+    <string name="word_RT_545">Baie</string>
+    <string name="word_RT_546">Regizor</string>
+    <string name="word_RT_547">Ceainic</string>
+    <string name="word_RT_548">a căuta</string>
+    <string name="word_RT_549">a mânca</string>
+    <string name="word_RT_550">Bucată</string>
+    <string name="word_RT_551">a testa</string>
+    <string name="word_RT_552">Fericire</string>
+    <string name="word_RT_553">Muzică</string>
+    <string name="word_RT_554">a juca</string>
+    <string name="word_RT_555">Roată</string>
+    <string name="word_RT_556">Anvelopă</string>
+    <string name="word_RT_557">Bicicletă</string>
+    <string name="word_RT_558">Tren</string>
+    <string name="word_RT_559">Portbagaj</string>
+    <string name="word_RT_560">Instruire</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_541">a controla</string>
+    <string name="word_LB_542">Chipiu</string>
+    <string name="word_LB_543">a merge</string>
+    <string name="word_LB_544">Caz</string>
+    <string name="word_LB_545">Câine</string>
+    <string name="word_LB_546">Actor</string>
+    <string name="word_LB_547">Vânătoare</string>
+    <string name="word_LB_548">a ști</string>
+    <string name="word_LB_549">a traversa</string>
+    <string name="word_LB_550">Amenda</string>
+    <string name="word_LB_551">a lecui</string>
+    <string name="word_LB_552">Jucărie</string>
+    <string name="word_LB_553">Restaurant</string>
+    <string name="word_LB_554">a felicita</string>
+    <string name="word_LB_555">Avion</string>
+    <string name="word_LB_556">Tractor</string>
+    <string name="word_LB_557">Autostradă</string>
+    <string name="word_LB_558">Baterie</string>
+    <string name="word_LB_559">Odihnă</string>
+    <string name="word_LB_560">Autostradă</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_541">a găsi</string>
+    <string name="word_RB_542">Listă</string>
+    <string name="word_RB_543">a iubi</string>
+    <string name="word_RB_544">Căutare</string>
+    <string name="word_RB_545">Pușcărie</string>
+    <string name="word_RB_546">Infractor</string>
+    <string name="word_RB_547">Haine</string>
+    <string name="word_RB_548">a ucide</string>
+    <string name="word_RB_549">a călători</string>
+    <string name="word_RB_550">Suflet</string>
+    <string name="word_RB_551">a amenda</string>
+    <string name="word_RB_552">Magazin</string>
+    <string name="word_RB_553">Fluture</string>
+    <string name="word_RB_554">a salva</string>
+    <string name="word_RB_555">Scară</string>
+    <string name="word_RB_556">Benzinărie</string>
+    <string name="word_RB_557">Volan</string>
+    <string name="word_RB_558">Muzică</string>
+    <string name="word_RB_559">Mare</string>
+    <string name="word_RB_560">Benzinărie</string>
+    <!-- END -->
+</resources>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_241">le cuisinier</string>
+    <string name="word_translate_242">les nouilles</string>
+    <string name="word_translate_243">la soupe</string>
+    <string name="word_translate_244">la farine</string>
+    <string name="word_translate_245">le délicieux</string>
+    <string name="word_translate_246">cuisiner</string>
+    <string name="word_translate_247">le goût</string>
+    <string name="word_translate_248">Le régime</string>
+    <string name="word_translate_249">le dessert</string>
+    <string name="word_translate_250">la glace</string>
+    <string name="word_translate_251">les sucreries</string>
+    <string name="word_translate_252">la saucisse</string>
+    <string name="word_translate_253">la côtelette</string>
+    <string name="word_translate_254">le champignon</string>
+    <string name="word_translate_255">la bouillie</string>
+    <string name="word_translate_256">le lait</string>
+    <string name="word_translate_257">la carotte</string>
+    <string name="word_translate_258">sucré</string>
+    <string name="word_translate_259">épicé</string>
+    <string name="word_translate_260">le poivre</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_241">Il travaille comme cuisinier.</string>
+    <string name="phrase_translate_242">J\'ai des nouilles cuites.</string>
+    <string name="phrase_translate_243">La soupe est délicieuse.</string>
+    <string name="phrase_translate_244">Je dois acheter de la farine.</string>
+    <string name="phrase_translate_245">Elle cuisine très délicieusement.</string>
+    <string name="phrase_translate_246">Je n\'aime pas cuisiner.</string>
+    <string name="phrase_translate_247">Quel goût ?</string>
+    <string name="phrase_translate_248">Je suis au régime.</string>
+    <string name="phrase_translate_249">Qu\'est-ce qu\'il y a pour le dessert ?</string>
+    <string name="phrase_translate_250">Je mange de la glace.</string>
+    <string name="phrase_translate_251">Les enfants adorent les sucreries.</string>
+    <string name="phrase_translate_252">J\'ai acheté une saucisse.</string>
+    <string name="phrase_translate_253">Pâtes avec escalope</string>
+    <string name="phrase_translate_254">Nous recherchons des champignons.</string>
+    <string name="phrase_translate_255">Je mange du porridge le matin.</string>
+    <string name="phrase_translate_256">Café au lait.</string>
+    <string name="phrase_translate_257">Les carottes sont délicieuses.</string>
+    <string name="phrase_translate_258">La glace est trop sucrée.</string>
+    <string name="phrase_translate_259">La pizza était épicée.</string>
+    <string name="phrase_translate_260">Sans poivre, s\'il vous plaît.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_241">le cuisinier</string>
+    <string name="word_LT_242">l\'eau</string>
+    <string name="word_LT_243">la soupe</string>
+    <string name="word_LT_244">la serviette</string>
+    <string name="word_LT_245">le délicieux</string>
+    <string name="word_LT_246">jouer</string>
+    <string name="word_LT_247">la serviette</string>
+    <string name="word_LT_248">le dîner</string>
+    <string name="word_LT_249">le petit déjeuner</string>
+    <string name="word_LT_250">la nourriture</string>
+    <string name="word_LT_251">le couteau</string>
+    <string name="word_LT_252">le serveur</string>
+    <string name="word_LT_253">la cuillère</string>
+    <string name="word_LT_254">le champignon</string>
+    <string name="word_LT_255">le restaurant</string>
+    <string name="word_LT_256">le lait</string>
+    <string name="word_LT_257">la maison</string>
+    <string name="word_LT_258">peu</string>
+    <string name="word_LT_259">fort</string>
+    <string name="word_LT_260">l\'étoile</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_241">le serveur</string>
+    <string name="word_RT_242">les nouilles</string>
+    <string name="word_RT_243">la bouilloire</string>
+    <string name="word_RT_244">la bouteille</string>
+    <string name="word_RT_245">le faible</string>
+    <string name="word_RT_246">chanter</string>
+    <string name="word_RT_247">la plaque</string>
+    <string name="word_RT_248">le déjeuner</string>
+    <string name="word_RT_249">le dessert</string>
+    <string name="word_RT_250">la serviette</string>
+    <string name="word_RT_251">la bouche</string>
+    <string name="word_RT_252">la saucisse</string>
+    <string name="word_RT_253">la fourchette</string>
+    <string name="word_RT_254">la bouteille</string>
+    <string name="word_RT_255">le sous-sol</string>
+    <string name="word_RT_256">le serveur</string>
+    <string name="word_RT_257">l\'argent</string>
+    <string name="word_RT_258">grand</string>
+    <string name="word_RT_259">épicé</string>
+    <string name="word_RT_260">le pourboire</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_241">la musique</string>
+    <string name="word_LB_242">la boisson</string>
+    <string name="word_LB_243">le projet de loi</string>
+    <string name="word_LB_244">la cuillère</string>
+    <string name="word_LB_245">le grand</string>
+    <string name="word_LB_246">cuisiner</string>
+    <string name="word_LB_247">la nourriture</string>
+    <string name="word_LB_248">le soir</string>
+    <string name="word_LB_249">la bouilloire</string>
+    <string name="word_LB_250">le couteau</string>
+    <string name="word_LB_251">les sucreries</string>
+    <string name="word_LB_252">la fourchette</string>
+    <string name="word_LB_253">la boutique</string>
+    <string name="word_LB_254">l\'avion</string>
+    <string name="word_LB_255">la bouillie</string>
+    <string name="word_LB_256">la fleur</string>
+    <string name="word_LB_257">la carotte</string>
+    <string name="word_LB_258">vite</string>
+    <string name="word_LB_259">grand</string>
+    <string name="word_LB_260">la force</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_241">l\'avion</string>
+    <string name="word_RB_242">le thé</string>
+    <string name="word_RB_243">l\'habillement</string>
+    <string name="word_RB_244">la farine</string>
+    <string name="word_RB_245">le ralentissement</string>
+    <string name="word_RB_246">donner</string>
+    <string name="word_RB_247">le goût</string>
+    <string name="word_RB_248">Le régime</string>
+    <string name="word_RB_249">le déjeuner</string>
+    <string name="word_RB_250">la glace</string>
+    <string name="word_RB_251">la cuillère</string>
+    <string name="word_RB_252">le goût</string>
+    <string name="word_RB_253">la côtelette</string>
+    <string name="word_RB_254">la photo</string>
+    <string name="word_RB_255">l\'argent</string>
+    <string name="word_RB_256">la bouilloire</string>
+    <string name="word_RB_257">les personnes</string>
+    <string name="word_RB_258">sucré</string>
+    <string name="word_RB_259">ralentir</string>
+    <string name="word_RB_260">le poivre</string>
+    <!-- END -->
+</resources>

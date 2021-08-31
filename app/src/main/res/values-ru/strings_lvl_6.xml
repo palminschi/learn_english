@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_101">Страна</string>
+    <string name="word_translate_102">Город</string>
+    <string name="word_translate_103">Почта</string>
+    <string name="word_translate_104">Вход</string>
+    <string name="word_translate_105">Выход</string>
+    <string name="word_translate_106">главный</string>
+    <string name="word_translate_107">Вокзал</string>
+    <string name="word_translate_108">Путь</string>
+    <string name="word_translate_109">Магазин</string>
+    <string name="word_translate_110">Мусор</string>
+    <string name="word_translate_111">выбрасывать</string>
+    <string name="word_translate_112">сортировать</string>
+    <string name="word_translate_113">Гора</string>
+    <string name="word_translate_114">Лестица</string>
+    <string name="word_translate_115">подняться</string>
+    <string name="word_translate_116">высокий</string>
+    <string name="word_translate_117">сверху</string>
+    <string name="word_translate_118">снизу</string>
+    <string name="word_translate_119">справа</string>
+    <string name="word_translate_120">слева</string>
+
+    <!-- PHRASE  -->
+    <string name="phrase_translate_101">Моя страна многонациональная.</string>
+    <string name="phrase_translate_102">Я живу в городе.</string>
+    <string name="phrase_translate_103">Почтовое отделение открыта.</string>
+    <string name="phrase_translate_104">Вход в вокзал</string>
+    <string name="phrase_translate_105">Где выход?</string>
+    <string name="phrase_translate_106">Главная улица</string>
+    <string name="phrase_translate_107">Поезд уже на вокзале.</string>
+    <string name="phrase_translate_108">еще долгий путь</string>
+    <string name="phrase_translate_109">Магазины закрыты.</string>
+    <string name="phrase_translate_110">Мусор нужно сортировать.</string>
+    <string name="phrase_translate_111">Я должен старую одежду выбросить.</string>
+    <string name="phrase_translate_112">Ты сортируешь мусор?</string>
+    <string name="phrase_translate_113">Очень высокая гора</string>
+    <string name="phrase_translate_114">Я поднимаюсь по лестнице.</string>
+    <string name="phrase_translate_115">Он поднимается по горам и холмам.</string>
+    <string name="phrase_translate_116">Цена слишком высока.</string>
+    <string name="phrase_translate_117">Это находится сверху</string>
+    <string name="phrase_translate_118">Снизу есть подпись</string>
+    <string name="phrase_translate_119">Потом направо</string>
+    <string name="phrase_translate_120">Улица с левой стороны</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_101">Дом</string>
+    <string name="word_LT_102">Трамвай</string>
+    <string name="word_LT_103">Порт</string>
+    <string name="word_LT_104">Лестица</string>
+    <string name="word_LT_105">Выход</string>
+    <string name="word_LT_106">главный</string>
+    <string name="word_LT_107">Банк</string>
+    <string name="word_LT_108">Страна</string>
+    <string name="word_LT_109">Гора</string>
+    <string name="word_LT_110">Мусор</string>
+    <string name="word_LT_111">заправить</string>
+    <string name="word_LT_112">стоять</string>
+    <string name="word_LT_113">Город</string>
+    <string name="word_LT_114">Поезд</string>
+    <string name="word_LT_115">идти</string>
+    <string name="word_LT_116">низкий</string>
+    <string name="word_LT_117">сверху</string>
+    <string name="word_LT_118">снизу</string>
+    <string name="word_LT_119">слева</string>
+    <string name="word_LT_120">между</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_101">Город</string>
+    <string name="word_RT_102">Улица</string>
+    <string name="word_RT_103">Вокзал</string>
+    <string name="word_RT_104">Вход</string>
+    <string name="word_RT_105">Закат</string>
+    <string name="word_RT_106">старый</string>
+    <string name="word_RT_107">Вокзал</string>
+    <string name="word_RT_108">Квартира</string>
+    <string name="word_RT_109">Овощи</string>
+    <string name="word_RT_110">Море</string>
+    <string name="word_RT_111">выбрасывать</string>
+    <string name="word_RT_112">сортировать</string>
+    <string name="word_RT_113">Лес</string>
+    <string name="word_RT_114">Бабочка</string>
+    <string name="word_RT_115">упасть</string>
+    <string name="word_RT_116">высокий</string>
+    <string name="word_RT_117">справа</string>
+    <string name="word_RT_118">между</string>
+    <string name="word_RT_119">рядом</string>
+    <string name="word_RT_120">сзади</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_101">Замок</string>
+    <string name="word_LB_102">Город</string>
+    <string name="word_LB_103">Магазин</string>
+    <string name="word_LB_104">Восход</string>
+    <string name="word_LB_105">Поезд</string>
+    <string name="word_LB_106">новый</string>
+    <string name="word_LB_107">Вход</string>
+    <string name="word_LB_108">Путь</string>
+    <string name="word_LB_109">Фрукты</string>
+    <string name="word_LB_110">Порт</string>
+    <string name="word_LB_111">подняться</string>
+    <string name="word_LB_112">собирать</string>
+    <string name="word_LB_113">Гора</string>
+    <string name="word_LB_114">Самолет</string>
+    <string name="word_LB_115">подняться</string>
+    <string name="word_LB_116">длинный</string>
+    <string name="word_LB_117">снизу</string>
+    <string name="word_LB_118">быстро</string>
+    <string name="word_LB_119">справа</string>
+    <string name="word_LB_120">рядом</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_101">Страна</string>
+    <string name="word_RB_102">Гора</string>
+    <string name="word_RB_103">Почта</string>
+    <string name="word_RB_104">Автострада</string>
+    <string name="word_RB_105">Парк</string>
+    <string name="word_RB_106">первый</string>
+    <string name="word_RB_107">Выход</string>
+    <string name="word_RB_108">Жизнь</string>
+    <string name="word_RB_109">Магазин</string>
+    <string name="word_RB_110">Вокзал</string>
+    <string name="word_RB_111">упасть</string>
+    <string name="word_RB_112">стирать</string>
+    <string name="word_RB_113">Дерево</string>
+    <string name="word_RB_114">Лестица</string>
+    <string name="word_RB_115">играть</string>
+    <string name="word_RB_116">медленно</string>
+    <string name="word_RB_117">слева</string>
+    <string name="word_RB_118">слева</string>
+    <string name="word_RB_119">далеко</string>
+    <string name="word_RB_120">слева</string>
+    <!-- END -->
+</resources>

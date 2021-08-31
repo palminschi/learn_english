@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_481">Dziedziniec</string>
+    <string name="word_translate_482">Odpoczynek</string>
+    <string name="word_translate_483">Sypialnia</string>
+    <string name="word_translate_484">Fotel</string>
+    <string name="word_translate_485">Dywan</string>
+    <string name="word_translate_486">Właściciel</string>
+    <string name="word_translate_487">plaża</string>
+    <string name="word_translate_488">Most</string>
+    <string name="word_translate_489">Pole</string>
+    <string name="word_translate_490">Chodnik</string>
+    <string name="word_translate_491">Skrzyżowanie dróg</string>
+    <string name="word_translate_492">przejrzeć</string>
+    <string name="word_translate_493">Skała</string>
+    <string name="word_translate_494">rzucić</string>
+    <string name="word_translate_495">Trawa</string>
+    <string name="word_translate_496">Zakład</string>
+    <string name="word_translate_497">Łazienka</string>
+    <string name="word_translate_498">Prysznic</string>
+    <string name="word_translate_499">Toaleta</string>
+    <string name="word_translate_500">ściana</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_481">Dzieci bawią się na podwórku.</string>
+    <string name="phrase_translate_482">Potrzebuję odpoczynku.</string>
+    <string name="phrase_translate_483">W moim mieszkaniu są 2 sypialnie.</string>
+    <string name="phrase_translate_484">Usiadłem na krześle.</string>
+    <string name="phrase_translate_485">Dywan jest poplamiony.</string>
+    <string name="phrase_translate_486">Właściciel domu chce go sprzedać.</string>
+    <string name="phrase_translate_487">Odpoczywam na plaży.</string>
+    <string name="phrase_translate_488">Most jest bardzo stary.</string>
+    <string name="phrase_translate_489">Na polu rośnie kukurydza.</string>
+    <string name="phrase_translate_490">Idę chodnikiem.</string>
+    <string name="phrase_translate_491">Minęliśmy skrzyżowanie.</string>
+    <string name="phrase_translate_492">Przeszedł przez ulicę</string>
+    <string name="phrase_translate_493">Z góry spadł kamień.</string>
+    <string name="phrase_translate_494">Rzucił kamieniem.</string>
+    <string name="phrase_translate_495">Latem trawa jest zielona.</string>
+    <string name="phrase_translate_496">W swoim mieszkaniu ma dużo roślin.</string>
+    <string name="phrase_translate_497">Gdzie jest twoja łazienka?</string>
+    <string name="phrase_translate_498">Chcę wziąć prysznic.</string>
+    <string name="phrase_translate_499">Muszę iść do toalety.</string>
+    <string name="phrase_translate_500">Obraz wisi na ścianie.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_481">Wioska</string>
+    <string name="word_LT_482">Drewno</string>
+    <string name="word_LT_483">Wioska</string>
+    <string name="word_LT_484">Wyspa</string>
+    <string name="word_LT_485">Kwiat</string>
+    <string name="word_LT_486">Właściciel</string>
+    <string name="word_LT_487">Zamek</string>
+    <string name="word_LT_488">Wioska</string>
+    <string name="word_LT_489">Ślad</string>
+    <string name="word_LT_490">Łazienka</string>
+    <string name="word_LT_491">Gałąź</string>
+    <string name="word_LT_492">komponować</string>
+    <string name="word_LT_493">Portfel</string>
+    <string name="word_LT_494">rzucić</string>
+    <string name="word_LT_495">Zespół</string>
+    <string name="word_LT_496">Czapka</string>
+    <string name="word_LT_497">Uruchomić</string>
+    <string name="word_LT_498">Prysznic</string>
+    <string name="word_LT_499">Ogrodzenie</string>
+    <string name="word_LT_500">odzież</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_481">Zamek</string>
+    <string name="word_RT_482">Zwierzę</string>
+    <string name="word_RT_483">Sypialnia</string>
+    <string name="word_RT_484">Fotel</string>
+    <string name="word_RT_485">Dywan</string>
+    <string name="word_RT_486">Motyl</string>
+    <string name="word_RT_487">plaża</string>
+    <string name="word_RT_488">Most</string>
+    <string name="word_RT_489">Ramię</string>
+    <string name="word_RT_490">Źródło</string>
+    <string name="word_RT_491">Dźwięk</string>
+    <string name="word_RT_492">jeść</string>
+    <string name="word_RT_493">Skała</string>
+    <string name="word_RT_494">zebrać</string>
+    <string name="word_RT_495">Włosy</string>
+    <string name="word_RT_496">Głowa</string>
+    <string name="word_RT_497">Łazienka</string>
+    <string name="word_RT_498">Ciało</string>
+    <string name="word_RT_499">Zatrzymać</string>
+    <string name="word_RT_500">Skrzyżowanie dróg</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_481">Tankowanie</string>
+    <string name="word_LB_482">Odpoczynek</string>
+    <string name="word_LB_483">Góra</string>
+    <string name="word_LB_484">Drewno</string>
+    <string name="word_LB_485">Ogród</string>
+    <string name="word_LB_486">Warzywa</string>
+    <string name="word_LB_487">Ogrodzenie</string>
+    <string name="word_LB_488">Góra</string>
+    <string name="word_LB_489">Pole</string>
+    <string name="word_LB_490">Chodnik</string>
+    <string name="word_LB_491">Skrzyżowanie dróg</string>
+    <string name="word_LB_492">przejrzeć</string>
+    <string name="word_LB_493">Gabinet</string>
+    <string name="word_LB_494">podlewać</string>
+    <string name="word_LB_495">Czapka</string>
+    <string name="word_LB_496">Zakład</string>
+    <string name="word_LB_497">Pies</string>
+    <string name="word_LB_498">odzież</string>
+    <string name="word_LB_499">Głowa</string>
+    <string name="word_LB_500">Dziedziniec</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_481">Dziedziniec</string>
+    <string name="word_RB_482">Most</string>
+    <string name="word_RB_483">Drewno</string>
+    <string name="word_RB_484">Gra</string>
+    <string name="word_RB_485">Samolot</string>
+    <string name="word_RB_486">Pies</string>
+    <string name="word_RB_487">Ziemia</string>
+    <string name="word_RB_488">Okno</string>
+    <string name="word_RB_489">Morze</string>
+    <string name="word_RB_490">Las</string>
+    <string name="word_RB_491">Okulary</string>
+    <string name="word_RB_492">podróż</string>
+    <string name="word_RB_493">Kościół</string>
+    <string name="word_RB_494">skakać</string>
+    <string name="word_RB_495">Trawa</string>
+    <string name="word_RB_496">Usta</string>
+    <string name="word_RB_497">Kapelusz</string>
+    <string name="word_RB_498">Bramy</string>
+    <string name="word_RB_499">Toaleta</string>
+    <string name="word_RB_500">ściana</string>
+    <!-- END -->
+</resources>

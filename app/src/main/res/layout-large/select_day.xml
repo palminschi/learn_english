@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <ImageView
+        android:id="@+id/background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/background" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="5dp"
+        android:weightSum="100">
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="7"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp">
+            <Button
+                android:id="@+id/btn_back"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:adjustViewBounds="true"
+                android:background="@drawable/style_btn_back"
+                app:backgroundTint="@null"
+                app:layout_constraintDimensionRatio="H,16:11"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"/>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <LinearLayout
+            android:layout_weight="93"
+            android:id="@+id/days"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/text_select_day"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:textColor="@color/white"
+                android:textSize="35sp"
+                android:gravity="center"
+                android:text="@string/selectDay" />
+            <LinearLayout
+                android:id="@+id/line1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/day1"
+                    android:onClick="selectDay1"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:textSize="40sp"
+                    android:gravity="center"
+                    android:textColor="@color/white_violet"
+                    android:background="@drawable/style_btn_select_actual"
+                    android:text="1" />
+
+                <TextView
+                    android:id="@+id/day2"
+                    android:onClick="selectDay2"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:textSize="40sp"
+                    android:gravity="center"
+                    android:textColor="@color/white_violet"
+                    android:background="@drawable/style_btn_select_not_passed"
+                    android:text="2" />
+
+                <TextView
+                    android:id="@+id/day3"
+                    android:onClick="selectDay3"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:textSize="40sp"
+                    android:gravity="center"
+                    android:textColor="@color/white_violet"
+                    android:background="@drawable/style_btn_select_not_passed"
+                    android:text="3" />
+
+                <TextView
+                    android:id="@+id/day4"
+                    android:onClick="selectDay4"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:textSize="40sp"
+                    android:gravity="center"
+                    android:textColor="@color/white_violet"
+                    android:background="@drawable/style_btn_select_not_passed"
+                    android:text="4" />
+
+                <TextView
+                    android:id="@+id/day5"
+                    android:onClick="selectDay5"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:textSize="40sp"
+                    android:gravity="center"
+                    android:textColor="@color/white_violet"
+                    android:background="@drawable/style_btn_select_not_passed"
+                    android:text="5" />
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/line2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/day6"
+                    android:onClick="selectDay6"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:textSize="40sp"
+                    android:gravity="center"
+                    android:textColor="@color/white_violet"
+                    android:background="@drawable/style_btn_select_not_passed"
+                    android:text="6" />
+
+                <TextView
+                    android:id="@+id/day7"
+                    android:onClick="selectDay7"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:textSize="40sp"
+                    android:gravity="center"
+                    android:textColor="@color/white_violet"
+                    android:background="@drawable/style_btn_select_not_passed"
+                    android:text="7" />
+
+                <TextView
+                    android:id="@+id/day8"
+                    android:onClick="selectDay8"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:textSize="40sp"
+                    android:gravity="center"
+                    android:textColor="@color/white_violet"
+                    android:background="@drawable/style_btn_select_not_passed"
+                    android:text="8" />
+
+                <TextView
+                    android:id="@+id/day9"
+                    android:onClick="selectDay9"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:textSize="40sp"
+                    android:gravity="center"
+                    android:textColor="@color/white_violet"
+                    android:background="@drawable/style_btn_select_not_passed"
+                    android:text="9" />
+
+                <TextView
+                    android:id="@+id/day10"
+                    android:onClick="selectDay10"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:textSize="40sp"
+                    android:gravity="center"
+                    android:textColor="@color/white_violet"
+                    android:background="@drawable/style_btn_select_not_passed"
+                    android:text="10" />
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/line3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/day11"
+                    android:onClick="selectDay11"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:textSize="40sp"
+                    android:gravity="center"
+                    android:textColor="@color/white_violet"
+                    android:background="@drawable/style_btn_select_not_passed"
+                    android:text="11" />
+
+                <TextView
+                    android:id="@+id/day12"
+                    android:onClick="selectDay12"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:textSize="40sp"
+                    android:gravity="center"
+                    android:textColor="@color/white_violet"
+                    android:background="@drawable/style_btn_select_not_passed"
+                    android:text="12" />
+
+                <TextView
+                    android:id="@+id/day13"
+                    android:onClick="selectDay13"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:textSize="40sp"
+                    android:gravity="center"
+                    android:textColor="@color/white_violet"
+                    android:background="@drawable/style_btn_select_not_passed"
+                    android:text="13" />
+
+                <TextView
+                    android:id="@+id/day14"
+                    android:onClick="selectDay14"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:textSize="40sp"
+                    android:gravity="center"
+                    android:textColor="@color/white_violet"
+                    android:background="@drawable/style_btn_select_not_passed"
+                    android:text="14" />
+
+                <TextView
+                    android:id="@+id/day15"
+                    android:onClick="selectDay15"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:textSize="40sp"
+                    android:gravity="center"
+                    android:textColor="@color/white_violet"
+                    android:background="@drawable/style_btn_select_not_passed"
+                    android:text="15" />
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/line4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/day16"
+                    android:onClick="selectDay16"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:textSize="40sp"
+                    android:gravity="center"
+                    android:textColor="@color/white_violet"
+                    android:background="@drawable/style_btn_select_not_passed"
+                    android:text="16" />
+
+                <TextView
+                    android:id="@+id/day17"
+                    android:onClick="selectDay17"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:textSize="40sp"
+                    android:gravity="center"
+                    android:textColor="@color/white_violet"
+                    android:background="@drawable/style_btn_select_not_passed"
+                    android:text="17" />
+
+                <TextView
+                    android:id="@+id/day18"
+                    android:onClick="selectDay18"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:textSize="40sp"
+                    android:gravity="center"
+                    android:textColor="@color/white_violet"
+                    android:background="@drawable/style_btn_select_not_passed"
+                    android:text="18" />
+
+                <TextView
+                    android:id="@+id/day19"
+                    android:onClick="selectDay19"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:textSize="40sp"
+                    android:gravity="center"
+                    android:textColor="@color/white_violet"
+                    android:background="@drawable/style_btn_select_not_passed"
+                    android:text="19" />
+
+                <TextView
+                    android:id="@+id/day20"
+                    android:onClick="selectDay20"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:textSize="40sp"
+                    android:gravity="center"
+                    android:textColor="@color/white_violet"
+                    android:background="@drawable/style_btn_select_not_passed"
+                    android:text="20" />
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/line5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/day21"
+                    android:onClick="selectDay21"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:textSize="40sp"
+                    android:gravity="center"
+                    android:textColor="@color/white_violet"
+                    android:background="@drawable/style_btn_select_not_passed"
+                    android:text="21" />
+
+                <TextView
+                    android:id="@+id/day22"
+                    android:onClick="selectDay22"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:textSize="40sp"
+                    android:gravity="center"
+                    android:textColor="@color/white_violet"
+                    android:background="@drawable/style_btn_select_not_passed"
+                    android:text="22" />
+
+                <TextView
+                    android:id="@+id/day23"
+                    android:onClick="selectDay23"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:textSize="40sp"
+                    android:gravity="center"
+                    android:textColor="@color/white_violet"
+                    android:background="@drawable/style_btn_select_not_passed"
+                    android:text="23" />
+
+                <TextView
+                    android:id="@+id/day24"
+                    android:onClick="selectDay24"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:textSize="40sp"
+                    android:gravity="center"
+                    android:textColor="@color/white_violet"
+                    android:background="@drawable/style_btn_select_not_passed"
+                    android:text="24" />
+
+                <TextView
+                    android:id="@+id/day25"
+                    android:onClick="selectDay25"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:textSize="40sp"
+                    android:gravity="center"
+                    android:textColor="@color/white_violet"
+                    android:background="@drawable/style_btn_select_not_passed"
+                    android:text="25" />
+            </LinearLayout>
+            <LinearLayout
+                android:id="@+id/line6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/day26"
+                    android:onClick="selectDay26"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:textSize="40sp"
+                    android:gravity="center"
+                    android:textColor="@color/white_violet"
+                    android:background="@drawable/style_btn_select_not_passed"
+                    android:text="26" />
+
+                <TextView
+                    android:id="@+id/day27"
+                    android:onClick="selectDay27"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:textSize="40sp"
+                    android:gravity="center"
+                    android:textColor="@color/white_violet"
+                    android:background="@drawable/style_btn_select_not_passed"
+                    android:text="27" />
+
+                <TextView
+                    android:id="@+id/day28"
+                    android:onClick="selectDay28"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:textSize="40sp"
+                    android:gravity="center"
+                    android:textColor="@color/white_violet"
+                    android:background="@drawable/style_btn_select_not_passed"
+                    android:text="28" />
+
+                <TextView
+                    android:id="@+id/day29"
+                    android:onClick="selectDay29"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:textSize="40sp"
+                    android:gravity="center"
+                    android:textColor="@color/white_violet"
+                    android:background="@drawable/style_btn_select_not_passed"
+                    android:text="29" />
+
+                <TextView
+                    android:id="@+id/day30"
+                    android:onClick="selectDay30"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:textSize="40sp"
+                    android:gravity="center"
+                    android:textColor="@color/white_violet"
+                    android:background="@drawable/style_btn_select_not_passed"
+                    android:text="30" />
+            </LinearLayout>
+            <LinearLayout
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:visibility="invisible"
+                    android:id="@+id/gone"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:textSize="40sp"
+                    android:gravity="center"
+                    android:textColor="@color/white_violet"
+                    android:background="@drawable/style_btn_select_not_passed"/>
+                <TextView
+                    android:visibility="invisible"
+                    android:id="@+id/gone2"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:textSize="40sp"
+                    android:gravity="center"
+                    android:textColor="@color/white_violet"
+                    android:background="@drawable/style_btn_select_not_passed"/>
+                <TextView
+                    android:visibility="invisible"
+                    android:id="@+id/gone3"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:textSize="40sp"
+                    android:gravity="center"
+                    android:textColor="@color/white_violet"
+                    android:background="@drawable/style_btn_select_not_passed"/>
+                <TextView
+                    android:visibility="invisible"
+                    android:id="@+id/gone4"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:textSize="40sp"
+                    android:gravity="center"
+                    android:textColor="@color/white_violet"
+                    android:background="@drawable/style_btn_select_not_passed"/>
+                <TextView
+                    android:id="@+id/end"
+                    android:onClick="selectDayEnd"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_margin="5dp"
+                    android:textStyle="bold"
+                    android:textSize="40sp"
+                    android:gravity="center"
+                    android:textColor="@color/white_violet"
+                    android:background="@drawable/style_btn_select_not_passed"
+                    android:text="…" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+
+
+
+
+
+</RelativeLayout>

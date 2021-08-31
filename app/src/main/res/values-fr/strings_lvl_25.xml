@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_481">la Cour</string>
+    <string name="word_translate_482">le reste</string>
+    <string name="word_translate_483">"la chambre "</string>
+    <string name="word_translate_484">le fauteuil</string>
+    <string name="word_translate_485">le tapis</string>
+    <string name="word_translate_486">Le propriétaire</string>
+    <string name="word_translate_487">la plage</string>
+    <string name="word_translate_488">le pont</string>
+    <string name="word_translate_489">le champ</string>
+    <string name="word_translate_491">Les carrefours</string>
+    <string name="word_translate_492">traverser</string>
+    <string name="word_translate_493">la pierre</string>
+    <string name="word_translate_494">lancer</string>
+    <string name="word_translate_495">l\'herbe</string>
+    <string name="word_translate_496">la plante</string>
+    <string name="word_translate_497">la salle de bain</string>
+    <string name="word_translate_498">la douche</string>
+    <string name="word_translate_499">les toilettes</string>
+    <string name="word_translate_500">le mur</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_481">Enfants jouant dans la cour.</string>
+    <string name="phrase_translate_482">J\'ai besoin de repos.</string>
+    <string name="phrase_translate_483">Mon appartement a deux chambres.</string>
+    <string name="phrase_translate_484">je me suis assis sur le fauteuil</string>
+    <string name="phrase_translate_485">La moquette est tachée.</string>
+    <string name="phrase_translate_486">Le propriétaire veut vendre la maison.</string>
+    <string name="phrase_translate_487">Je me repose sur la plage.</string>
+    <string name="phrase_translate_488">Le pont est très ancien.</string>
+    <string name="phrase_translate_489">Le maïs pousse dans le champ.</string>
+    <string name="phrase_translate_490">Je marche le long du trottoir.</string>
+    <string name="phrase_translate_491">Nous avons passé le carrefour.</string>
+    <string name="phrase_translate_492">Il a traversé la route</string>
+    <string name="phrase_translate_493">Une pierre est tombée de la montagne.</string>
+    <string name="phrase_translate_494">Il a jeté une pierre.</string>
+    <string name="phrase_translate_495">L\'herbe est verte en été.</string>
+    <string name="phrase_translate_496">Il a beaucoup de plantes dans son appartement</string>
+    <string name="phrase_translate_497">Où est ta salle de bain ?</string>
+    <string name="phrase_translate_498">Je voudrais prendre une douche.</string>
+    <string name="phrase_translate_499">J\'ai besoin d\'aller aux toilettes.</string>
+    <string name="phrase_translate_500">Le tableau est accroché au mur.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_481">le village</string>
+    <string name="word_LT_482">l\'arbre</string>
+    <string name="word_LT_483">le village</string>
+    <string name="word_LT_484">l\'Ile</string>
+    <string name="word_LT_485">la fleur</string>
+    <string name="word_LT_486">Le propriétaire</string>
+    <string name="word_LT_487">le château</string>
+    <string name="word_LT_488">le village</string>
+    <string name="word_LT_489">le chemin</string>
+    <string name="word_LT_490">la salle de bain</string>
+    <string name="word_LT_491">la branche</string>
+    <string name="word_LT_492">composer</string>
+    <string name="word_LT_493">le porte-feuille</string>
+    <string name="word_LT_494">lancer</string>
+    <string name="word_LT_495">l\'équipe</string>
+    <string name="word_LT_496">le capuchon</string>
+    <string name="word_LT_497">la course</string>
+    <string name="word_LT_498">la douche</string>
+    <string name="word_LT_499">la barrière</string>
+    <string name="word_LT_500">l\'habillement</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_481">le château</string>
+    <string name="word_RT_482">l\'animal</string>
+    <string name="word_RT_483">"la chambre "</string>
+    <string name="word_RT_484">le fauteuil</string>
+    <string name="word_RT_485">le tapis</string>
+    <string name="word_RT_486">le papillon</string>
+    <string name="word_RT_487">la plage</string>
+    <string name="word_RT_488">le pont</string>
+    <string name="word_RT_489">la main</string>
+    <string name="word_RT_490">la racine</string>
+    <string name="word_RT_491">le son</string>
+    <string name="word_RT_492">manger</string>
+    <string name="word_RT_493">la pierre</string>
+    <string name="word_RT_494">collecter</string>
+    <string name="word_RT_495">les cheveux</string>
+    <string name="word_RT_496">la tête</string>
+    <string name="word_RT_497">la salle de bain</string>
+    <string name="word_RT_498">le corps</string>
+    <string name="word_RT_499">l\'arrêt</string>
+    <string name="word_RT_500">le carrefour</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_481">station-essence</string>
+    <string name="word_LB_482">le reste</string>
+    <string name="word_LB_483">la montagne</string>
+    <string name="word_LB_484">l\'arbre</string>
+    <string name="word_LB_485">le jardin</string>
+    <string name="word_LB_486">les légumes</string>
+    <string name="word_LB_487">la barrière</string>
+    <string name="word_LB_488">la montagne</string>
+    <string name="word_LB_489">le champ</string>
+    <string name="word_LB_490">le trottoir</string>
+    <string name="word_LB_491">Les carrefours</string>
+    <string name="word_LB_492">traverser</string>
+    <string name="word_LB_493">le placard</string>
+    <string name="word_LB_494">arroser</string>
+    <string name="word_LB_495">le capuchon</string>
+    <string name="word_LB_496">la plante</string>
+    <string name="word_LB_497">le chien</string>
+    <string name="word_LB_498">l\'habillement</string>
+    <string name="word_LB_499">la tête</string>
+    <string name="word_LB_500">la Cour</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_481">la Cour</string>
+    <string name="word_RB_482">le pont</string>
+    <string name="word_RB_483">l\'arbre</string>
+    <string name="word_RB_484">le jeu</string>
+    <string name="word_RB_485">l\'avion</string>
+    <string name="word_RB_486">le chien</string>
+    <string name="word_RB_487">La terre</string>
+    <string name="word_RB_488">la fenêtre</string>
+    <string name="word_RB_489">la mer</string>
+    <string name="word_RB_490">la forêt</string>
+    <string name="word_RB_491">les lunettes</string>
+    <string name="word_RB_492">voyager</string>
+    <string name="word_RB_493">l\'église</string>
+    <string name="word_RB_494">sauter</string>
+    <string name="word_RB_495">l\'herbe</string>
+    <string name="word_RB_496">la bouche</string>
+    <string name="word_RB_497">la hutte</string>
+    <string name="word_RB_498">Les portes</string>
+    <string name="word_RB_499">les toilettes</string>
+    <string name="word_RB_500">le mur</string>
+    <!-- END -->
+</resources>

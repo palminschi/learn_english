@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_title_561" translatable="false">el papel</string>
+    <string name="word_title_562" translatable="false">el bolígrafo</string>
+    <string name="word_title_563" translatable="false">firmar</string>
+    <string name="word_title_564" translatable="false">el contrato</string>
+    <string name="word_title_565" translatable="false">los salarios</string>
+    <string name="word_title_566" translatable="false">la clave</string>
+    <string name="word_title_567" translatable="false">la puerta</string>
+    <string name="word_title_568" translatable="false">cerrar</string>
+    <string name="word_title_569" translatable="false">abrir</string>
+    <string name="word_title_570" translatable="false">el extranjero</string>
+    <string name="word_title_571" translatable="false">el domicilio</string>
+    <string name="word_title_572" translatable="false">el número</string>
+    <string name="word_title_573" translatable="false">el primero</string>
+    <string name="word_title_574" translatable="false">algunos</string>
+    <string name="word_title_575" translatable="false">ahora</string>
+    <string name="word_title_576" translatable="false">juntos</string>
+    <string name="word_title_577" translatable="false">el error</string>
+    <string name="word_title_578" translatable="false">también</string>
+    <string name="word_title_579" translatable="false">luego</string>
+    <string name="word_title_580" translatable="false">el anuncio</string>
+
+    <string name="word_translate_561">paper</string>
+    <string name="word_translate_562">pen</string>
+    <string name="word_translate_563">to sign</string>
+    <string name="word_translate_564">contract</string>
+    <string name="word_translate_565">wages</string>
+    <string name="word_translate_566">key</string>
+    <string name="word_translate_567">door</string>
+    <string name="word_translate_568">to close</string>
+    <string name="word_translate_569">to open</string>
+    <string name="word_translate_570">foreigner</string>
+    <string name="word_translate_571">domicile</string>
+    <string name="word_translate_572">number</string>
+    <string name="word_translate_573">first</string>
+    <string name="word_translate_574">some</string>
+    <string name="word_translate_575">now</string>
+    <string name="word_translate_576">together</string>
+    <string name="word_translate_577">mistake</string>
+    <string name="word_translate_578">too</string>
+    <string name="word_translate_579">then</string>
+    <string name="word_translate_580">advertisement</string>
+    <!-- END -->
+
+    <!-- PHRASE + TRANSLATE -->
+    <string name="phrase_561" translatable="false">Escribo en papel.</string>
+    <string name="phrase_translate_561">I write on paper.</string>
+
+    <string name="phrase_562" translatable="false">No tengo bolígrafo.</string>
+    <string name="phrase_translate_562">I don\'t have a pen.</string>
+
+    <string name="phrase_563" translatable="false">Firmó el contrato.</string>
+    <string name="phrase_translate_563">He signed the contract.</string>
+
+    <string name="phrase_564" translatable="false">Conseguí un nuevo contrato.</string>
+    <string name="phrase_translate_564">I got a new contract.</string>
+
+    <string name="phrase_565" translatable="false">Cual es su salario?</string>
+    <string name="phrase_translate_565">What is your wages?</string>
+
+    <string name="phrase_566" translatable="false">He perdido mi llave.</string>
+    <string name="phrase_translate_566">I have lost my key.</string>
+
+    <string name="phrase_567" translatable="false">La puerta está cerrada.</string>
+    <string name="phrase_translate_567">The door is closed.</string>
+
+    <string name="phrase_568" translatable="false">Yo cerré la puerta.</string>
+    <string name="phrase_translate_568">I closed the door.</string>
+
+    <string name="phrase_569" translatable="false">La tienda abre</string>
+    <string name="phrase_translate_569">The store opens</string>
+
+    <string name="phrase_570" translatable="false">Hay muchos extranjeros en Berlín.</string>
+    <string name="phrase_translate_570">There are a lot of foreigners in Berlin.</string>
+
+    <string name="phrase_571" translatable="false">Escriba su lugar de residencia.</string>
+    <string name="phrase_translate_571">Write your place of residence.</string>
+
+    <string name="phrase_572" translatable="false">9 es el número más alto.</string>
+    <string name="phrase_translate_572">9 is the highest number.</string>
+
+    <string name="phrase_573" translatable="false">Fui el primero</string>
+    <string name="phrase_translate_573">I was the first</string>
+
+    <string name="phrase_574" translatable="false">Quiero comer algo.</string>
+    <string name="phrase_translate_574">I want to eat something.</string>
+
+    <string name="phrase_575" translatable="false">Ahora estoy en casa.</string>
+    <string name="phrase_translate_575">I am now at home.</string>
+
+    <string name="phrase_576" translatable="false">Vamos juntos.</string>
+    <string name="phrase_translate_576">We go together.</string>
+
+    <string name="phrase_577" translatable="false">¡Lo siento! Mi error.</string>
+    <string name="phrase_translate_577">Sorry! My mistake.</string>
+
+    <string name="phrase_578" translatable="false">Estuve ahí también.</string>
+    <string name="phrase_translate_578">I was there too.</string>
+
+    <string name="phrase_579" translatable="false">entonces nos vemos mañana</string>
+    <string name="phrase_translate_579">then see you tomorrow</string>
+
+    <string name="phrase_580" translatable="false">Lo leí en el anuncio</string>
+    <string name="phrase_translate_580">I read that in the ad</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_561">train</string>
+    <string name="word_LT_562">toy</string>
+    <string name="word_LT_563">to drive</string>
+    <string name="word_LT_564">contract</string>
+    <string name="word_LT_565">month</string>
+    <string name="word_LT_566">island</string>
+    <string name="word_LT_567">bed</string>
+    <string name="word_LT_568">to pay</string>
+    <string name="word_LT_569">to give</string>
+    <string name="word_LT_570">police officer</string>
+    <string name="word_LT_571">document</string>
+    <string name="word_LT_572">number</string>
+    <string name="word_LT_573">mushroom</string>
+    <string name="word_LT_574">cleanly</string>
+    <string name="word_LT_575">yesterday</string>
+    <string name="word_LT_576">together</string>
+    <string name="word_LT_577">salary</string>
+    <string name="word_LT_578">yet</string>
+    <string name="word_LT_579">then</string>
+    <string name="word_LT_580">advice</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_561">paper</string>
+    <string name="word_RT_562">candy</string>
+    <string name="word_RT_563">to steal</string>
+    <string name="word_RT_564">to shop</string>
+    <string name="word_RT_565">money</string>
+    <string name="word_RT_566">luggage boot</string>
+    <string name="word_RT_567">table</string>
+    <string name="word_RT_568">to close</string>
+    <string name="word_RT_569">to play</string>
+    <string name="word_RT_570">foreigner</string>
+    <string name="word_RT_571">development</string>
+    <string name="word_RT_572">manual</string>
+    <string name="word_RT_573">bottle</string>
+    <string name="word_RT_574">quiet</string>
+    <string name="word_RT_575">tomorrow</string>
+    <string name="word_RT_576">much</string>
+    <string name="word_RT_577">premium</string>
+    <string name="word_RT_578">already</string>
+    <string name="word_RT_579">nearby</string>
+    <string name="word_RT_580">advertisement</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_561">bill</string>
+    <string name="word_LB_562">guitar</string>
+    <string name="word_LB_563">to sign</string>
+    <string name="word_LB_564">cold</string>
+    <string name="word_LB_565">wages</string>
+    <string name="word_LB_566">rest</string>
+    <string name="word_LB_567">chair</string>
+    <string name="word_LB_568">to work</string>
+    <string name="word_LB_569">to open</string>
+    <string name="word_LB_570">actor</string>
+    <string name="word_LB_571">domicile</string>
+    <string name="word_LB_572">letter</string>
+    <string name="word_LB_573">plane</string>
+    <string name="word_LB_574">last</string>
+    <string name="word_LB_575">today</string>
+    <string name="word_LB_576">little</string>
+    <string name="word_LB_577">mistake</string>
+    <string name="word_LB_578">then</string>
+    <string name="word_LB_579">right</string>
+    <string name="word_LB_580">solution</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_561">clothing</string>
+    <string name="word_RB_562">pen</string>
+    <string name="word_RB_563">to fall</string>
+    <string name="word_RB_564">fence</string>
+    <string name="word_RB_565">tax</string>
+    <string name="word_RB_566">key</string>
+    <string name="word_RB_567">door</string>
+    <string name="word_RB_568">to stay</string>
+    <string name="word_RB_569">to save</string>
+    <string name="word_RB_570">developer</string>
+    <string name="word_RB_571">odd money</string>
+    <string name="word_RB_572">word</string>
+    <string name="word_RB_573">first</string>
+    <string name="word_RB_574">some</string>
+    <string name="word_RB_575">now</string>
+    <string name="word_RB_576">nobody</string>
+    <string name="word_RB_577">glass</string>
+    <string name="word_RB_578">too</string>
+    <string name="word_RB_579">far</string>
+    <string name="word_RB_580">dispute</string>
+    <!-- END -->
+</resources>

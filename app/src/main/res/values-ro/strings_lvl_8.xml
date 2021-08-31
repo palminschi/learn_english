@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_141">sănătos</string>
+    <string name="word_translate_142">bolnav</string>
+    <string name="word_translate_143">Muci</string>
+    <string name="word_translate_144">Fiebră</string>
+    <string name="word_translate_145">Tusă</string>
+    <string name="word_translate_146">Inimă</string>
+    <string name="word_translate_147">Burtă</string>
+    <string name="word_translate_148">Piept</string>
+    <string name="word_translate_149">Dinte</string>
+    <string name="word_translate_150">Dentist</string>
+    <string name="word_translate_151">Barbă</string>
+    <string name="word_translate_152">a freza</string>
+    <string name="word_translate_153">Ochi</string>
+    <string name="word_translate_154">Ochelari</string>
+    <string name="word_translate_155">a vedea</string>
+    <string name="word_translate_156">Fotografie</string>
+    <string name="word_translate_157">Reclamă</string>
+    <string name="word_translate_158">Muzică</string>
+    <string name="word_translate_159">a auzi</string>
+    <string name="word_translate_160">a dansa</string>
+    <!-- END -->
+
+    <!-- PHRASE  -->
+    <string name="phrase_translate_141">Rămâi sănătos!</string>
+    <string name="phrase_translate_142">Eu sunt bolnav.</string>
+    <string name="phrase_translate_143">El are muci.</string>
+    <string name="phrase_translate_144">Ea are febră.</string>
+    <string name="phrase_translate_145">remediu pentru tuse</string>
+    <string name="phrase_translate_146">Mă doare inima.</string>
+    <string name="phrase_translate_147">Eu am burtă mare.</string>
+    <string name="phrase_translate_148">Mîinele stau pe piept.</string>
+    <string name="phrase_translate_149">Mă doare dintele.</string>
+    <string name="phrase_translate_150">Eu merg la dentist.</string>
+    <string name="phrase_translate_151">Barbă lungă</string>
+    <string name="phrase_translate_152">a freza părul</string>
+    <string name="phrase_translate_153">Ea are ochi frumoşi.</string>
+    <string name="phrase_translate_154">Eu mi-am pierdut ochelarii.</string>
+    <string name="phrase_translate_155">Eu nu te văd.</string>
+    <string name="phrase_translate_156">Fotografia sa primit frumoasă.</string>
+    <string name="phrase_translate_157">Eu privesc o reclamă</string>
+    <string name="phrase_translate_158">Bună muzică!</string>
+    <string name="phrase_translate_159">Eu ascult muzică.</string>
+    <string name="phrase_translate_160">Eu nu pot dansa bine.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_141">sănătos</string>
+    <string name="word_LT_142">repede</string>
+    <string name="word_LT_143">Încălţăminte</string>
+    <string name="word_LT_144">Inimă</string>
+    <string name="word_LT_145">Tusă</string>
+    <string name="word_LT_146">Inimă</string>
+    <string name="word_LT_147">Piept</string>
+    <string name="word_LT_148">Gard</string>
+    <string name="word_LT_149">Muci</string>
+    <string name="word_LT_150">Dentist</string>
+    <string name="word_LT_151">Barbă</string>
+    <string name="word_LT_152">a strica</string>
+    <string name="word_LT_153">Corp</string>
+    <string name="word_LT_154">Haine</string>
+    <string name="word_LT_155">a aştepta</string>
+    <string name="word_LT_156">Barbă</string>
+    <string name="word_LT_157">Reclamă</string>
+    <string name="word_LT_158">Concert</string>
+    <string name="word_LT_159">a dansa</string>
+    <string name="word_LT_160">a cânta</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_141">bolnav</string>
+    <string name="word_RT_142">frig</string>
+    <string name="word_RT_143">Haine</string>
+    <string name="word_RT_144">Fiebră</string>
+    <string name="word_RT_145">Cal</string>
+    <string name="word_RT_146">Muzica</string>
+    <string name="word_RT_147">Barbă</string>
+    <string name="word_RT_148">Munte</string>
+    <string name="word_RT_149">Dinte</string>
+    <string name="word_RT_150">Doctor</string>
+    <string name="word_RT_151">Burtă</string>
+    <string name="word_RT_152">a freza</string>
+    <string name="word_RT_153">Mâină</string>
+    <string name="word_RT_154">Încălţămimte</string>
+    <string name="word_RT_155">a uita</string>
+    <string name="word_RT_156">Fotografie</string>
+    <string name="word_RT_157">Magazin</string>
+    <string name="word_RT_158">Muzică</string>
+    <string name="word_RT_159">a striga</string>
+    <string name="word_RT_160">a juca</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_141">galben</string>
+    <string name="word_LB_142">galben</string>
+    <string name="word_LB_143">Muci</string>
+    <string name="word_LB_144">frig</string>
+    <string name="word_LB_145">Dinte</string>
+    <string name="word_LB_146">Gard</string>
+    <string name="word_LB_147">Fotografie</string>
+    <string name="word_LB_148">Piept</string>
+    <string name="word_LB_149">Dentist</string>
+    <string name="word_LB_150">Haine</string>
+    <string name="word_LB_151">Păr</string>
+    <string name="word_LB_152">a lecui</string>
+    <string name="word_LB_153">Ochi</string>
+    <string name="word_LB_154">Picior</string>
+    <string name="word_LB_155">a vedea</string>
+    <string name="word_LB_156">Muzică</string>
+    <string name="word_LB_157">Lucru</string>
+    <string name="word_LB_158">Avion</string>
+    <string name="word_LB_159">a auzi</string>
+    <string name="word_LB_160">a trăi</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_141">frig</string>
+    <string name="word_RB_142">bolnav</string>
+    <string name="word_RB_143">Tusă</string>
+    <string name="word_RB_144">Păr</string>
+    <string name="word_RB_145">Ochelari</string>
+    <string name="word_RB_146">Chipiu</string>
+    <string name="word_RB_147">Burtă</string>
+    <string name="word_RB_148">Picior</string>
+    <string name="word_RB_149">Doctor</string>
+    <string name="word_RB_150">Ochelari</string>
+    <string name="word_RB_151">Cap</string>
+    <string name="word_RB_152">a cade</string>
+    <string name="word_RB_153">Gură</string>
+    <string name="word_RB_154">Ochelari</string>
+    <string name="word_RB_155">a sta</string>
+    <string name="word_RB_156">Copac</string>
+    <string name="word_RB_157">Piaţă</string>
+    <string name="word_RB_158">Scară</string>
+    <string name="word_RB_159">a cânta</string>
+    <string name="word_RB_160">a dansa</string>
+    <!-- END -->
+</resources>

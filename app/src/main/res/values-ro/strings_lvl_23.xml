@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_441">Robinet</string>
+    <string name="word_translate_442">Perdea</string>
+    <string name="word_translate_443">Țeavă</string>
+    <string name="word_translate_444">Oglindă</string>
+    <string name="word_translate_445">Cuptor</string>
+    <string name="word_translate_446">a coace</string>
+    <string name="word_translate_447">Biscuiți</string>
+    <string name="word_translate_448">Tort</string>
+    <string name="word_translate_449">Bucătărie</string>
+    <string name="word_translate_450">Microundă</string>
+    <string name="word_translate_451">Aragaz</string>
+    <string name="word_translate_452">Cârnaţ</string>
+    <string name="word_translate_453">Crenvușcă</string>
+    <string name="word_translate_454">Terci</string>
+    <string name="word_translate_455">Porumb</string>
+    <string name="word_translate_456">Castraveț</string>
+    <string name="word_translate_457">Varză</string>
+    <string name="word_translate_458">Fruct</string>
+    <string name="word_translate_459">Legume</string>
+    <string name="word_translate_460">Ceapă</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_441">Apa curge din robinet.</string>
+    <string name="phrase_translate_442">A închis perdelele.</string>
+    <string name="phrase_translate_443">Țeava este gudronată.</string>
+    <string name="phrase_translate_444">Mă uit în oglindă și mă văd.</string>
+    <string name="phrase_translate_445">Ea pune prăjitura în cuptor.</string>
+    <string name="phrase_translate_446">Ce coci?</string>
+    <string name="phrase_translate_447">Îmi plac biscuiții.</string>
+    <string name="phrase_translate_448">Noi mâncăm tort.</string>
+    <string name="phrase_translate_449">Ea lucrează la bucătărie.</string>
+    <string name="phrase_translate_450">Eu pun mâncarea în cuptorul cu microunde.</string>
+    <string name="phrase_translate_451">Oala este pe aragaz.</string>
+    <string name="phrase_translate_452">Vrei un cârnaț?</string>
+    <string name="phrase_translate_453">Pisicii îi plac foarte mult crenvurștile.</string>
+    <string name="phrase_translate_454">Mănânc terci dimineața.</string>
+    <string name="phrase_translate_455">Porumbul crește pe câmp.</string>
+    <string name="phrase_translate_456">Salată de castraveți.</string>
+    <string name="phrase_translate_457">Varza este bună pentru sănătate.</string>
+    <string name="phrase_translate_458">Ea mănâncă multe fructe.</string>
+    <string name="phrase_translate_459">Legumele sunt sănătoase.</string>
+    <string name="phrase_translate_460">Am uitat să cumpăr ceapă.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_441">Dulap</string>
+    <string name="word_LT_442">Raft</string>
+    <string name="word_LT_443">Cuptor</string>
+    <string name="word_LT_444">Floare</string>
+    <string name="word_LT_445">Supă</string>
+    <string name="word_LT_446">a dărui</string>
+    <string name="word_LT_447">Șervețel</string>
+    <string name="word_LT_448">Făină</string>
+    <string name="word_LT_449">Bucătărie</string>
+    <string name="word_LT_450">Magazin</string>
+    <string name="word_LT_451">Lingură</string>
+    <string name="word_LT_452">Ciupearcă</string>
+    <string name="word_LT_453">Restaurant</string>
+    <string name="word_LT_454">Înghețată</string>
+    <string name="word_LT_455">Porumb</string>
+    <string name="word_LT_456">Castraveț</string>
+    <string name="word_LT_457">Cină</string>
+    <string name="word_LT_458">Mâncare</string>
+    <string name="word_LT_459">Ciupearcă</string>
+    <string name="word_LT_460">Lingură</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_441">Chelner</string>
+    <string name="word_RT_442">Sticlă</string>
+    <string name="word_RT_443">Robinet</string>
+    <string name="word_RT_444">Pisică</string>
+    <string name="word_RT_445">Ceainic</string>
+    <string name="word_RT_446">a curăți</string>
+    <string name="word_RT_447">Biscuiți</string>
+    <string name="word_RT_448">Cârnaţ</string>
+    <string name="word_RT_449">Tăiței</string>
+    <string name="word_RT_450">Microundă</string>
+    <string name="word_RT_451">Furculiţă</string>
+    <string name="word_RT_452">Sticlă</string>
+    <string name="word_RT_453">Subsol</string>
+    <string name="word_RT_454">Terci</string>
+    <string name="word_RT_455">Cremă</string>
+    <string name="word_RT_456">Cârnaţ</string>
+    <string name="word_RT_457">Varză</string>
+    <string name="word_RT_458">Șervețel</string>
+    <string name="word_RT_459">Sticlă</string>
+    <string name="word_RT_460">Furculiţă</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_441">Robinet</string>
+    <string name="word_LB_442">Perdea</string>
+    <string name="word_LB_443">Chiuvetă</string>
+    <string name="word_LB_444">Grădină</string>
+    <string name="word_LB_445">Cuptor</string>
+    <string name="word_LB_446">a prăji</string>
+    <string name="word_LB_447">Lingură</string>
+    <string name="word_LB_448">Tort</string>
+    <string name="word_LB_449">Băutură</string>
+    <string name="word_LB_450">Supă</string>
+    <string name="word_LB_451">Aragaz</string>
+    <string name="word_LB_452">Cârnaţ</string>
+    <string name="word_LB_453">Terci</string>
+    <string name="word_LB_454">Floare</string>
+    <string name="word_LB_455">Morcov</string>
+    <string name="word_LB_456">Furculiţă</string>
+    <string name="word_LB_457">Fasole</string>
+    <string name="word_LB_458">Cuțit</string>
+    <string name="word_LB_459">Avion</string>
+    <string name="word_LB_460">Magazin</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_441">Chiuvetă</string>
+    <string name="word_RB_442">Făină</string>
+    <string name="word_RB_443">Țeavă</string>
+    <string name="word_RB_444">Oglindă</string>
+    <string name="word_RB_445">Frigider</string>
+    <string name="word_RB_446">a coace</string>
+    <string name="word_RB_447">Făină</string>
+    <string name="word_RB_448">Biscuiți</string>
+    <string name="word_RB_449">Ceai</string>
+    <string name="word_RB_450">Oală</string>
+    <string name="word_RB_451">Ceapă</string>
+    <string name="word_RB_452">Legume</string>
+    <string name="word_RB_453">Crenvușcă</string>
+    <string name="word_RB_454">Ceainic</string>
+    <string name="word_RB_455">Oameni</string>
+    <string name="word_RB_456">Farfurie</string>
+    <string name="word_RB_457">Dietă</string>
+    <string name="word_RB_458">Fruct</string>
+    <string name="word_RB_459">Legume</string>
+    <string name="word_RB_460">Ceapă</string>
+    <!-- END -->
+</resources>

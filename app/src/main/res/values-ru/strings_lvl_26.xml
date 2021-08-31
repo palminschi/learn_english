@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_501">Доставка</string>
+    <string name="word_translate_502">доставить</string>
+    <string name="word_translate_503">Посылка</string>
+    <string name="word_translate_504">назад</string>
+    <string name="word_translate_505">смотреть</string>
+    <string name="word_translate_506">Актёр</string>
+    <string name="word_translate_507">Театр</string>
+    <string name="word_translate_508">Цирк</string>
+    <string name="word_translate_509">Фильм</string>
+    <string name="word_translate_510">снять</string>
+    <string name="word_translate_511">Сериал</string>
+    <string name="word_translate_512">Режиссёр</string>
+    <string name="word_translate_513">Достижение</string>
+    <string name="word_translate_514">достигать</string>
+    <string name="word_translate_515">Обязанность</string>
+    <string name="word_translate_516">посещать</string>
+    <string name="word_translate_517">Порядок</string>
+    <string name="word_translate_518">чисто</string>
+    <string name="word_translate_519">Пара</string>
+    <string name="word_translate_520">Шаг</string>
+
+    <!-- PHRASE  -->
+    <string name="phrase_translate_501">Ваша доставка прибыла.</string>
+    <string name="phrase_translate_502">Он доставляет почту.</string>
+    <string name="phrase_translate_503">У меня есть одна посылка.</string>
+    <string name="phrase_translate_504">Я иду назад домой.</string>
+    <string name="phrase_translate_505">Я смотрю на тебя.</string>
+    <string name="phrase_translate_506">Я хочу быть актером.</string>
+    <string name="phrase_translate_507">В субботу я иду в театр.</string>
+    <string name="phrase_translate_508">В цирке было весело.</string>
+    <string name="phrase_translate_509">Очень интересный фильм.</string>
+    <string name="phrase_translate_510">Я снимаю видео.</string>
+    <string name="phrase_translate_511">Этот сериал имеет много серий.</string>
+    <string name="phrase_translate_512">Его профессия режиссер</string>
+    <string name="phrase_translate_513">Это большое достижение</string>
+    <string name="phrase_translate_514">Он сам достиг это.</string>
+    <string name="phrase_translate_515">Это моя обязанность.</string>
+    <string name="phrase_translate_516">Мы посетили музей.</string>
+    <string name="phrase_translate_517">Мне нужно сделать порядок в доме.</string>
+    <string name="phrase_translate_518">Я убираюсь в квартире.</string>
+    <string name="phrase_translate_519">пару дней спустя</string>
+    <string name="phrase_translate_520">Сделайте шаг назад.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_501">Дождь</string>
+    <string name="word_LT_502">доставить</string>
+    <string name="word_LT_503">Команда</string>
+    <string name="word_LT_504">ничего</string>
+    <string name="word_LT_505">надевать</string>
+    <string name="word_LT_506">Полицейский</string>
+    <string name="word_LT_507">Деревня</string>
+    <string name="word_LT_508">Кошелек</string>
+    <string name="word_LT_509">Деревня</string>
+    <string name="word_LT_510">заказывать</string>
+    <string name="word_LT_511">Дерево</string>
+    <string name="word_LT_512">Полицейский</string>
+    <string name="word_LT_513">Опыт</string>
+    <string name="word_LT_514">достигать</string>
+    <string name="word_LT_515">Страхование</string>
+    <string name="word_LT_516">кидать</string>
+    <string name="word_LT_517">Порядок</string>
+    <string name="word_LT_518">чисто</string>
+    <string name="word_LT_519">Мысль</string>
+    <string name="word_LT_520">Шаг</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_501">Правила</string>
+    <string name="word_RT_502">надевать</string>
+    <string name="word_RT_503">Доставка</string>
+    <string name="word_RT_504">назад</string>
+    <string name="word_RT_505">смеяться</string>
+    <string name="word_RT_506">Режиссёр</string>
+    <string name="word_RT_507">Театр</string>
+    <string name="word_RT_508">Цирк</string>
+    <string name="word_RT_509">Спальня</string>
+    <string name="word_RT_510">снять</string>
+    <string name="word_RT_511">Животное</string>
+    <string name="word_RT_512">Режиссёр</string>
+    <string name="word_RT_513">Память</string>
+    <string name="word_RT_514">искать</string>
+    <string name="word_RT_515">Счёт</string>
+    <string name="word_RT_516">собирать</string>
+    <string name="word_RT_517">Польза</string>
+    <string name="word_RT_518">тихий</string>
+    <string name="word_RT_519">Премия</string>
+    <string name="word_RT_520">Перевод</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_501">Доставка</string>
+    <string name="word_LB_502">раздевать</string>
+    <string name="word_LB_503">Кепка</string>
+    <string name="word_LB_504">много</string>
+    <string name="word_LB_505">смотреть</string>
+    <string name="word_LB_506">Актёр</string>
+    <string name="word_LB_507">Гора</string>
+    <string name="word_LB_508">Шкаф</string>
+    <string name="word_LB_509">Фильм</string>
+    <string name="word_LB_510">продать</string>
+    <string name="word_LB_511">Отдых</string>
+    <string name="word_LB_512">Учитель</string>
+    <string name="word_LB_513">Воспоминание</string>
+    <string name="word_LB_514">знать</string>
+    <string name="word_LB_515">Обязанность</string>
+    <string name="word_LB_516">посещать</string>
+    <string name="word_LB_517">Душа</string>
+    <string name="word_LB_518">последний</string>
+    <string name="word_LB_519">Пара</string>
+    <string name="word_LB_520">Случай</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_501">Погода</string>
+    <string name="word_RB_502">просить</string>
+    <string name="word_RB_503">Посылка</string>
+    <string name="word_RB_504">достаточно</string>
+    <string name="word_RB_505">отдыхать</string>
+    <string name="word_RB_506">Строитель</string>
+    <string name="word_RB_507">Окно</string>
+    <string name="word_RB_508">Церковь</string>
+    <string name="word_RB_509">Дерево</string>
+    <string name="word_RB_510">платить</string>
+    <string name="word_RB_511">Сериал</string>
+    <string name="word_RB_512">Строитель</string>
+    <string name="word_RB_513">Достижение</string>
+    <string name="word_RB_514">любить</string>
+    <string name="word_RB_515">Преимущество</string>
+    <string name="word_RB_516">прыгнуть</string>
+    <string name="word_RB_517">Налог</string>
+    <string name="word_RB_518">сломанный</string>
+    <string name="word_RB_519">Душа</string>
+    <string name="word_RB_520">Пенсия</string>
+    <!-- END -->
+</resources>

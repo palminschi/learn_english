@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_521">Bucată</string>
+    <string name="word_translate_522">puțin</string>
+    <string name="word_translate_523">Listă</string>
+    <string name="word_translate_524">Dezvoltare</string>
+    <string name="word_translate_525">Programator</string>
+    <string name="word_translate_526">Programator</string>
+    <string name="word_translate_527">a elabora</string>
+    <string name="word_translate_528">Soluție</string>
+    <string name="word_translate_529">Sfat</string>
+    <string name="word_translate_530">a sfătui</string>
+    <string name="word_translate_531">Dispută</string>
+    <string name="word_translate_532">a disputa</string>
+    <string name="word_translate_533">Ajutor</string>
+    <string name="word_translate_534">a ajuta</string>
+    <string name="word_translate_535">a se îngrijora</string>
+    <string name="word_translate_536">Îngrijire</string>
+    <string name="word_translate_537">Test</string>
+    <string name="word_translate_538">a testa</string>
+    <string name="word_translate_539">a verifica</string>
+    <string name="word_translate_540">a economisi</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_521">Dați-mi două bucăți, vă rog.</string>
+    <string name="phrase_translate_522">Vorbesc un pic germana.</string>
+    <string name="phrase_translate_523">Am o listă de sarcini.</string>
+    <string name="phrase_translate_524">Dezvoltarea companiei.</string>
+    <string name="phrase_translate_525">El lucrează ca programator.</string>
+    <string name="phrase_translate_526">Un programator îmi face un site web.</string>
+    <string name="phrase_translate_527">Noi am elaborat un nou program</string>
+    <string name="phrase_translate_528">Nu pot găsi o soluție.</string>
+    <string name="phrase_translate_529">Am nevoie de un sfat.</string>
+    <string name="phrase_translate_530">Vă sfătuiesc să o faceți.</string>
+    <string name="phrase_translate_531">A apărut o dispută</string>
+    <string name="phrase_translate_532">Ei se dispută cu noi.</string>
+    <string name="phrase_translate_533">El are nevoie de ajutor.</string>
+    <string name="phrase_translate_534">Trebuie s-o ajut pe bunica mea.</string>
+    <string name="phrase_translate_535">Eu mă îngrijorez pentru el.</string>
+    <string name="phrase_translate_536">Câinele are nevoie de îngrijire.</string>
+    <string name="phrase_translate_537">Eu am făcut un test.</string>
+    <string name="phrase_translate_538">Eu voi testa mașina.</string>
+    <string name="phrase_translate_539">Profesorul verifică cum noi scriem.</string>
+    <string name="phrase_translate_540">Eu economisesc bani.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_521">Gând</string>
+    <string name="word_LT_522">nimic</string>
+    <string name="word_LT_523">Blugi</string>
+    <string name="word_LT_524">Document</string>
+    <string name="word_LT_525">Polițist</string>
+    <string name="word_LT_526">Actor</string>
+    <string name="word_LT_527">a elabora</string>
+    <string name="word_LT_528">Gând</string>
+    <string name="word_LT_529">Sat</string>
+    <string name="word_LT_530">a uita</string>
+    <string name="word_LT_531">Sfat</string>
+    <string name="word_LT_532">a fura</string>
+    <string name="word_LT_533">Îngrijire</string>
+    <string name="word_LT_534">a râde</string>
+    <string name="word_LT_535">a se îngrijora</string>
+    <string name="word_LT_536">Memorie</string>
+    <string name="word_LT_537">Ieșire</string>
+    <string name="word_LT_538">a strica</string>
+    <string name="word_LT_539">a aștepta</string>
+    <string name="word_LT_540">a controla</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_521">Bucată</string>
+    <string name="word_RT_522">încet</string>
+    <string name="word_RT_523">Păr</string>
+    <string name="word_RT_524">Dezvoltare</string>
+    <string name="word_RT_525">Regizor</string>
+    <string name="word_RT_526">Programator</string>
+    <string name="word_RT_527">a mânca</string>
+    <string name="word_RT_528">Premie</string>
+    <string name="word_RT_529">Experiență</string>
+    <string name="word_RT_530">a căuta</string>
+    <string name="word_RT_531">Dezvoltare</string>
+    <string name="word_RT_532">a disputa</string>
+    <string name="word_RT_533">Ajutor</string>
+    <string name="word_RT_534">a ajuta</string>
+    <string name="word_RT_535">a colecta</string>
+    <string name="word_RT_536">Îngrijire</string>
+    <string name="word_RT_537">Instruire</string>
+    <string name="word_RT_538">a testa</string>
+    <string name="word_RT_539">a uita</string>
+    <string name="word_RT_540">a cânta</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_521">Pereche</string>
+    <string name="word_LB_522">mult</string>
+    <string name="word_LB_523">Chipiu</string>
+    <string name="word_LB_524">Folos</string>
+    <string name="word_LB_525">Actor</string>
+    <string name="word_LB_526">Polițist</string>
+    <string name="word_LB_527">a traversa</string>
+    <string name="word_LB_528">Soluție</string>
+    <string name="word_LB_529">Pensie</string>
+    <string name="word_LB_530">a cunoaște</string>
+    <string name="word_LB_531">Soluție</string>
+    <string name="word_LB_532">a cade</string>
+    <string name="word_LB_533">Caz</string>
+    <string name="word_LB_534">a se odihni</string>
+    <string name="word_LB_535">a uda</string>
+    <string name="word_LB_536">Venit</string>
+    <string name="word_LB_537">Examen</string>
+    <string name="word_LB_538">a lecui</string>
+    <string name="word_LB_539">a verifica</string>
+    <string name="word_LB_540">a sări</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_521">Suflet</string>
+    <string name="word_RB_522">puțin</string>
+    <string name="word_RB_523">Listă</string>
+    <string name="word_RB_524">Rest</string>
+    <string name="word_RB_525">Programator</string>
+    <string name="word_RB_526">Regizor</string>
+    <string name="word_RB_527">a călători</string>
+    <string name="word_RB_528">Suflet</string>
+    <string name="word_RB_529">Sfat</string>
+    <string name="word_RB_530">a sfătui</string>
+    <string name="word_RB_531">Dispută</string>
+    <string name="word_RB_532">a fuma</string>
+    <string name="word_RB_533">Transfer</string>
+    <string name="word_RB_534">a cânta</string>
+    <string name="word_RB_535">a sări</string>
+    <string name="word_RB_536">Joacă</string>
+    <string name="word_RB_537">Test</string>
+    <string name="word_RB_538">a cade</string>
+    <string name="word_RB_539">a sta</string>
+    <string name="word_RB_540">a economisi</string>
+    <!-- END -->
+</resources>

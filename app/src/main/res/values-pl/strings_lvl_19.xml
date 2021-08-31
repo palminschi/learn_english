@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_361">Gabinet</string>
+    <string name="word_translate_362">Kuchnia</string>
+    <string name="word_translate_363">Lodówka</string>
+    <string name="word_translate_364">Półka</string>
+    <string name="word_translate_365">Patelnia</string>
+    <string name="word_translate_366">czysty</string>
+    <string name="word_translate_367">Groszek</string>
+    <string name="word_translate_368">fasolki</string>
+    <string name="word_translate_369">Ziemniak</string>
+    <string name="word_translate_370">smażyć</string>
+    <string name="word_translate_371">Czosnek</string>
+    <string name="word_translate_372">pyszny</string>
+    <string name="word_translate_373">Cebula</string>
+    <string name="word_translate_374">Warzywa</string>
+    <string name="word_translate_375">Cytrynowy</string>
+    <string name="word_translate_376">Lody</string>
+    <string name="word_translate_377">Krem</string>
+    <string name="word_translate_378">Gruszka</string>
+    <string name="word_translate_379">Owoce</string>
+    <string name="word_translate_380">Szczęście</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_361">Kupiłem nową szafę.</string>
+    <string name="phrase_translate_362">Pracuje w kuchni.</string>
+    <string name="phrase_translate_363">Jedzenie jest w lodówce.</string>
+    <string name="phrase_translate_364">W szafie są 3 półki.</string>
+    <string name="phrase_translate_365">Zupę gotuje się w rondlu.</string>
+    <string name="phrase_translate_366">Sprzątam mieszkanie.</string>
+    <string name="phrase_translate_367">Nie jem groszku.</string>
+    <string name="phrase_translate_368">Gotuje coś z fasoli.</string>
+    <string name="phrase_translate_369">Zjem ziemniaki i mięso.</string>
+    <string name="phrase_translate_370">Smażę mięso.</string>
+    <string name="phrase_translate_371">Nie jem czosnku.</string>
+    <string name="phrase_translate_372">Zupa jest pyszna.</string>
+    <string name="phrase_translate_373">Zapomniałem kupić łuk.</string>
+    <string name="phrase_translate_374">Warzywa są zdrowe.</string>
+    <string name="phrase_translate_375">Herbata z cytryną.</string>
+    <string name="phrase_translate_376">Dziecko je lody.</string>
+    <string name="phrase_translate_377">Uwielbiam kawę ze śmietanką.</string>
+    <string name="phrase_translate_378">Piję sok gruszkowy.</string>
+    <string name="phrase_translate_379">Zjada dużo owoców.</string>
+    <string name="phrase_translate_380">Życzę Ci szczęścia.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_361">Gabinet</string>
+    <string name="word_LT_362">Kuchnia</string>
+    <string name="word_LT_363">zupa</string>
+    <string name="word_LT_364">Półka</string>
+    <string name="word_LT_365">Sklep</string>
+    <string name="word_LT_366">czysty</string>
+    <string name="word_LT_367">Serwetka</string>
+    <string name="word_LT_368">Kolacja</string>
+    <string name="word_LT_369">Śniadanie</string>
+    <string name="word_LT_370">teraźniejszość</string>
+    <string name="word_LT_371">Nóż</string>
+    <string name="word_LT_372">mały</string>
+    <string name="word_LT_373">Łyżka</string>
+    <string name="word_LT_374">Grzyb</string>
+    <string name="word_LT_375">Restauracja</string>
+    <string name="word_LT_376">Lody</string>
+    <string name="word_LT_377">Dom</string>
+    <string name="word_LT_378">Gruszka</string>
+    <string name="word_LT_379">Żywność</string>
+    <string name="word_LT_380">Gwiazda</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_361">Kelner</string>
+    <string name="word_RT_362">Makaron</string>
+    <string name="word_RT_363">Czajnik</string>
+    <string name="word_RT_364">Butelka</string>
+    <string name="word_RT_365">Makaron</string>
+    <string name="word_RT_366">śpiewać</string>
+    <string name="word_RT_367">Groszek</string>
+    <string name="word_RT_368">Kolacja</string>
+    <string name="word_RT_369">Ziemniak</string>
+    <string name="word_RT_370">czysty</string>
+    <string name="word_RT_371">Czosnek</string>
+    <string name="word_RT_372">wielki</string>
+    <string name="word_RT_373">Widelec</string>
+    <string name="word_RT_374">Butelka</string>
+    <string name="word_RT_375">Piwnica</string>
+    <string name="word_RT_376">Kelner</string>
+    <string name="word_RT_377">Krem</string>
+    <string name="word_RT_378">Kiełbasa</string>
+    <string name="word_RT_379">Serwetka</string>
+    <string name="word_RT_380">Szczęście</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_361">Muzyka</string>
+    <string name="word_LB_362">Drink</string>
+    <string name="word_LB_363">Sprawdzać</string>
+    <string name="word_LB_364">Łyżka</string>
+    <string name="word_LB_365">zupa</string>
+    <string name="word_LB_366">przygotować</string>
+    <string name="word_LB_367">Żywność</string>
+    <string name="word_LB_368">fasolki</string>
+    <string name="word_LB_369">Czajnik</string>
+    <string name="word_LB_370">smażyć</string>
+    <string name="word_LB_371">Słodycze</string>
+    <string name="word_LB_372">pyszny</string>
+    <string name="word_LB_373">Sklep</string>
+    <string name="word_LB_374">Samolot</string>
+    <string name="word_LB_375">Owsianka</string>
+    <string name="word_LB_376">Kwiat</string>
+    <string name="word_LB_377">Marchewka</string>
+    <string name="word_LB_378">Widelec</string>
+    <string name="word_LB_379">Nóż</string>
+    <string name="word_LB_380">Moc</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_361">Samolot</string>
+    <string name="word_RB_362">Herbata</string>
+    <string name="word_RB_363">Lodówka</string>
+    <string name="word_RB_364">Mąka</string>
+    <string name="word_RB_365">Patelnia</string>
+    <string name="word_RB_366">teraźniejszość</string>
+    <string name="word_RB_367">Smak</string>
+    <string name="word_RB_368">Dieta</string>
+    <string name="word_RB_369">Kolacja</string>
+    <string name="word_RB_370">przygotować</string>
+    <string name="word_RB_371">Łyżka</string>
+    <string name="word_RB_372">Słodkie</string>
+    <string name="word_RB_373">Cebula</string>
+    <string name="word_RB_374">Warzywa</string>
+    <string name="word_RB_375">Cytrynowy</string>
+    <string name="word_RB_376">Czajnik</string>
+    <string name="word_RB_377">Ludzie</string>
+    <string name="word_RB_378">Płyta</string>
+    <string name="word_RB_379">Owoce</string>
+    <string name="word_RB_380">Pieprz</string>
+    <!-- END -->
+</resources>

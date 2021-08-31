@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    translatable="false">
+
+    <string name="support_email" translatable="false">devpalminschi@gmail.com</string>
+    <string name="AD_APP_ID" translatable="false">ca-app-pub-6012847014470005~7937546910</string>
+    <string name="AD_UNIT_INTERSTITIAL_ID" translatable="false">ca-app-pub-6012847014470005/5356433847</string>
+    <string name="AD_UNIT_BANNER_ID" translatable="false">ca-app-pub-6012847014470005/7223231041</string>
+    <string name="base64Key" translatable="false">123</string>
+    <string name="privacy_policy" translatable="false">https://spanish-in-30-days.flycricket.io/privacy.html</string>
+
+    <!-- Preferences -->
+    <string name="save" translatable="false">Save</string>
+    <string name="show_ads" translatable="false">ShowAds</string>
+    <string name="completedLevels" translatable="false">completedLevels</string>
+    <string name="wordsLearned" translatable="false">wordsLearned</string>
+    <string name="game_01_lastWord" translatable="false">game_01_lastWord</string>
+    <string name="game_01_bestScore" translatable="false">game_01_bestScore</string>
+    <string name="game_01_livesLeft" translatable="false">game_01_livesLeft</string>
+    <string name="game_01_winOrLose" translatable="false">game_01_winOrLose</string>
+    <string name="game_02_bestScore" translatable="false">game_02_bestScore</string>
+    <string name="game_02_actualWord" translatable="false">game_02_actualWord</string>
+    <string name="game_03_bestScore" translatable="false">game_03_bestScore</string>
+    <string name="game_03_actualWord" translatable="false">game_03_actualWord</string>
+    <string name="ads_game_counter" translatable="false">ads_game_counter</string>
+    <!-- Preferences END -->
+
+    <!-- Promo codes -->
+    <string name="reset_lastWord" translatable="false">rlastword</string>
+    <string name="promo_put" translatable="false">Radmin</string>
+    <string name="promo_disable" translatable="false">Rdisable</string>
+    <string name="resetlvl" translatable="false">resetlvl</string>
+    <string name="set01lvl" translatable="false">set01lvl</string>
+    <string name="set02lvl" translatable="false">set02lvl</string>
+    <string name="set03lvl" translatable="false">set03lvl</string>
+    <string name="set04lvl" translatable="false">set04lvl</string>
+    <string name="set05lvl" translatable="false">set05lvl</string>
+    <string name="set06lvl" translatable="false">set06lvl</string>
+    <string name="set07lvl" translatable="false">set07lvl</string>
+    <string name="set08lvl" translatable="false">set08lvl</string>
+    <string name="set09lvl" translatable="false">set09lvl</string>
+    <string name="set10lvl" translatable="false">set10lvl</string>
+    <string name="set11lvl" translatable="false">set11lvl</string>
+    <string name="set12lvl" translatable="false">set12lvl</string>
+    <string name="set13lvl" translatable="false">set13lvl</string>
+    <string name="set14lvl" translatable="false">set14lvl</string>
+    <string name="set15lvl" translatable="false">set15lvl</string>
+    <string name="set16lvl" translatable="false">set16lvl</string>
+    <string name="set17lvl" translatable="false">set17lvl</string>
+    <string name="set18lvl" translatable="false">set18lvl</string>
+    <string name="set19lvl" translatable="false">set19lvl</string>
+    <string name="set20lvl" translatable="false">set20lvl</string>
+    <string name="set21lvl" translatable="false">set21lvl</string>
+    <string name="set22lvl" translatable="false">set22lvl</string>
+    <string name="set23lvl" translatable="false">set23lvl</string>
+    <string name="set24lvl" translatable="false">set24lvl</string>
+    <string name="set25lvl" translatable="false">set25lvl</string>
+    <string name="set26lvl" translatable="false">set26lvl</string>
+    <string name="set27lvl" translatable="false">set27lvl</string>
+    <string name="set28lvl" translatable="false">set28lvl</string>
+    <string name="set29lvl" translatable="false">set29lvl</string>
+    <string name="set30lvl" translatable="false">set30lvl</string>
+    <!-- Promo codes END -->
+</resources>

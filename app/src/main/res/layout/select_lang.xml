@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/background"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/main_act_background" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="5dp"
+        android:orientation="vertical"
+        android:weightSum="100">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_weight="7">
+
+            <Button
+                android:id="@+id/btn_back"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:adjustViewBounds="true"
+                android:background="@drawable/style_btn_back"
+                android:onClick="onClickBtnBack"
+                app:backgroundTint="@null"
+                app:layout_constraintDimensionRatio="H,16:11"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck" />
+
+            <TextView
+                android:id="@+id/settings_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif-condensed"
+                android:text="@string/languages"
+                android:textColor="@color/violet_01"
+                android:textSize="32sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="93">
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:layout_marginStart="45dp"
+                android:layout_marginEnd="45dp">
+
+                <Button
+                    android:onClick="onClickEN"
+                    android:layout_marginTop="30dp"
+                    android:id="@+id/btn_lang_EN"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:background="@drawable/style_sel_lang_actual"
+                    android:elevation="1dp"
+                    android:paddingStart="30dp"
+                    android:paddingEnd="30dp"
+                    android:text="@string/lang_EN"
+                    android:textAlignment="textStart"
+                    android:textAllCaps="false"
+                    android:textColor="@color/violet_01"
+                    android:textSize="24sp"
+                    android:textStyle="bold"
+                    app:layout_constraintBottom_toTopOf="@id/btn_lang_FR"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.9"
+                    tools:layout_editor_absoluteX="0dp" />
+                <ImageView
+                    android:id="@+id/img_flag_EN"
+                    android:layout_width="60dp"
+                    android:layout_height="40dp"
+                    android:layout_marginEnd="20dp"
+                    android:background="@drawable/style_img_flag"
+                    android:elevation="3dp"
+                    android:src="@drawable/flag_eng"
+                    app:layout_constraintBottom_toBottomOf="@id/btn_lang_EN"
+                    app:layout_constraintEnd_toEndOf="@id/btn_lang_EN"
+                    app:layout_constraintTop_toTopOf="@id/btn_lang_EN" />
+
+                <Button
+                    android:onClick="onClickFR"
+                    android:id="@+id/btn_lang_FR"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:background="@drawable/style_sel_lang"
+                    android:elevation="1dp"
+                    android:paddingStart="30dp"
+                    android:paddingEnd="30dp"
+                    android:text="@string/lang_FR"
+                    android:textAlignment="textStart"
+                    android:textAllCaps="false"
+                    android:textColor="@color/violet_01"
+                    android:textSize="24sp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="20dp"
+                    app:layout_constraintBottom_toTopOf="@id/btn_lang_RU"
+                    app:layout_constraintTop_toBottomOf="@id/btn_lang_EN"
+                    app:layout_constraintVertical_bias="0.9"
+                    tools:layout_editor_absoluteX="0dp" />
+                <ImageView
+                    android:id="@+id/img_flag_FR"
+                    android:layout_width="60dp"
+                    android:layout_height="40dp"
+                    android:layout_marginEnd="20dp"
+                    android:background="@drawable/style_img_flag"
+                    android:elevation="3dp"
+                    android:src="@drawable/flag_france"
+                    app:layout_constraintBottom_toBottomOf="@id/btn_lang_FR"
+                    app:layout_constraintEnd_toEndOf="@id/btn_lang_FR"
+                    app:layout_constraintTop_toTopOf="@id/btn_lang_FR" />
+
+                <Button
+                    android:onClick="onClickRU"
+                    android:id="@+id/btn_lang_RU"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:background="@drawable/style_sel_lang"
+                    android:elevation="1dp"
+                    android:paddingStart="30dp"
+                    android:paddingEnd="30dp"
+                    android:text="@string/lang_RU"
+                    android:textAlignment="textStart"
+                    android:textAllCaps="false"
+                    android:textColor="@color/violet_01"
+                    android:textSize="24sp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="20dp"
+                    app:layout_constraintBottom_toTopOf="@id/btn_lang_PL"
+                    app:layout_constraintTop_toBottomOf="@+id/btn_lang_FR"
+                    app:layout_constraintVertical_bias="0.9"
+                    tools:layout_editor_absoluteX="0dp" />
+                <ImageView
+                    android:id="@+id/img_flag_RU"
+                    android:layout_width="60dp"
+                    android:layout_height="40dp"
+                    android:layout_marginEnd="20dp"
+                    android:background="@drawable/style_img_flag"
+                    android:elevation="3dp"
+                    android:src="@drawable/flag_russia"
+                    app:layout_constraintBottom_toBottomOf="@id/btn_lang_RU"
+                    app:layout_constraintEnd_toEndOf="@id/btn_lang_RU"
+                    app:layout_constraintTop_toTopOf="@id/btn_lang_RU" />
+
+                <Button
+                    android:onClick="onClickPL"
+                    android:id="@+id/btn_lang_PL"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:background="@drawable/style_sel_lang"
+                    android:elevation="1dp"
+                    android:paddingStart="30dp"
+                    android:paddingEnd="30dp"
+                    android:text="@string/lang_PL"
+                    android:textAlignment="textStart"
+                    android:textAllCaps="false"
+                    android:textColor="@color/violet_01"
+                    android:textSize="24sp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="20dp"
+                    app:layout_constraintBottom_toTopOf="@id/btn_lang_RO"
+                    app:layout_constraintTop_toBottomOf="@+id/btn_lang_RU"
+                    app:layout_constraintVertical_bias="0.9"
+                    tools:layout_editor_absoluteX="0dp" />
+                <ImageView
+                    android:id="@+id/img_flag_PL"
+                    android:layout_width="60dp"
+                    android:layout_height="40dp"
+                    android:layout_marginEnd="20dp"
+                    android:background="@drawable/style_img_flag"
+                    android:elevation="3dp"
+                    android:src="@drawable/flag_poland"
+                    app:layout_constraintBottom_toBottomOf="@id/btn_lang_PL"
+                    app:layout_constraintEnd_toEndOf="@id/btn_lang_PL"
+                    app:layout_constraintTop_toTopOf="@id/btn_lang_PL" />
+
+                <Button
+                    android:onClick="onClickRO"
+                    android:id="@+id/btn_lang_RO"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:background="@drawable/style_sel_lang"
+                    android:elevation="1dp"
+                    android:paddingStart="30dp"
+                    android:paddingEnd="30dp"
+                    android:text="@string/lang_RO"
+                    android:textAlignment="textStart"
+                    android:textAllCaps="false"
+                    android:textColor="@color/violet_01"
+                    android:textSize="24sp"
+                    android:textStyle="bold"
+                    android:layout_marginTop="20dp"
+                    app:layout_constraintTop_toBottomOf="@+id/btn_lang_PL"
+                    app:layout_constraintVertical_bias="0.9"
+                    tools:layout_editor_absoluteX="0dp" />
+
+                <ImageView
+                    android:id="@+id/img_flag_RO"
+                    android:layout_width="60dp"
+                    android:layout_height="40dp"
+                    android:layout_marginEnd="20dp"
+                    android:background="@drawable/style_img_flag"
+                    android:elevation="3dp"
+                    android:src="@drawable/flag_romania"
+                    app:layout_constraintBottom_toBottomOf="@id/btn_lang_RO"
+                    app:layout_constraintEnd_toEndOf="@id/btn_lang_RO"
+                    app:layout_constraintTop_toTopOf="@id/btn_lang_RO" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

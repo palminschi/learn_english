@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_61">Профессия</string>
+    <string name="word_translate_62">Обучение</string>
+    <string name="word_translate_63">Мир</string>
+    <string name="word_translate_64">Люди</string>
+    <string name="word_translate_65">Родители</string>
+    <string name="word_translate_66">жить</string>
+    <string name="word_translate_67">Жизнь</string>
+    <string name="word_translate_68">уже</string>
+    <string name="word_translate_69">красивый</string>
+    <string name="word_translate_70">любить</string>
+    <string name="word_translate_71">Что?</string>
+    <string name="word_translate_72">быстро</string>
+    <string name="word_translate_73">женатый</string>
+    <string name="word_translate_74">быть должным</string>
+    <string name="word_translate_75">Квартира</string>
+    <string name="word_translate_76">Комната</string>
+    <string name="word_translate_77">Кровать</string>
+    <string name="word_translate_78">Цветок</string>
+    <string name="word_translate_79">Дерево</string>
+    <string name="word_translate_80">зелёный</string>
+    <!-- END -->
+
+    <!-- PHRASE + TRANSLATE -->
+    <string name="phrase_translate_61">Он <b>врач</b> по профессии.</string>
+    <string name="phrase_translate_62">В настоящее время я прохожу <b>обучение</b>.</string>
+    <string name="phrase_translate_63">Я путешествую по <b>миру</b>.</string>
+    <string name="phrase_translate_64">Он знает здесь много <b>людей</b>.</string>
+    <string name="phrase_translate_65">Что делают твои <b>родители</b>?</string>
+    <string name="phrase_translate_66">Я <b>живу</b> в квартире.</string>
+    <string name="phrase_translate_67">никогда в <b>жизни</b></string>
+    <string name="phrase_translate_68">Я <b>уже</b> здесь.</string>
+    <string name="phrase_translate_69">Это <b>красиво</b>!</string>
+    <string name="phrase_translate_70">Я люблю <b>тебя</b>!</string>
+    <string name="phrase_translate_71"><b>Что</b> ты делаешь?</string>
+    <string name="phrase_translate_72">Ты ездишь <b>быстро</b>.</string>
+    <string name="phrase_translate_73">Я <b>женат</b>.</string>
+    <string name="phrase_translate_74">Я <b>должен</b> работать.</string>
+    <string name="phrase_translate_75">Я живу в <b>квартире</b>.</string>
+    <string name="phrase_translate_76">Моя квартира имеет две <b>комнаты</b>.</string>
+    <string name="phrase_translate_77">идти спать <i>(идти в кровать)</i></string>
+    <string name="phrase_translate_78">Ей нравится <b>цветы</b>.</string>
+    <string name="phrase_translate_79"><b>Это дерево</b> очень старое.</string>
+    <string name="phrase_translate_80">Моя машина <b>зелёная</b>.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_61">Письмо</string>
+    <string name="word_LT_62">Выход</string>
+    <string name="word_LT_63">Деньги</string>
+    <string name="word_LT_64">Люди</string>
+    <string name="word_LT_65">Кровать</string>
+    <string name="word_LT_66">жить</string>
+    <string name="word_LT_67">Любовь</string>
+    <string name="word_LT_68">еще</string>
+    <string name="word_LT_69">красивый</string>
+    <string name="word_LT_70">жить</string>
+    <string name="word_LT_71">Почему?</string>
+    <string name="word_LT_72">быстро</string>
+    <string name="word_LT_73">первый</string>
+    <string name="word_LT_74">быть должным</string>
+    <string name="word_LT_75">Комната</string>
+    <string name="word_LT_76">Зима</string>
+    <string name="word_LT_77">Кровать</string>
+    <string name="word_LT_78">Дверь</string>
+    <string name="word_LT_79">Земля</string>
+    <string name="word_LT_80">зелёный</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_61">Профессия</string>
+    <string name="word_RT_62">Обучение</string>
+    <string name="word_RT_63">Отпуск</string>
+    <string name="word_RT_64">Лодка</string>
+    <string name="word_RT_65">Дети</string>
+    <string name="word_RT_66">выйти</string>
+    <string name="word_RT_67">Свобода</string>
+    <string name="word_RT_68">уже</string>
+    <string name="word_RT_69">красный</string>
+    <string name="word_RT_70">искать</string>
+    <string name="word_RT_71">Когда?</string>
+    <string name="word_RT_72">холодно</string>
+    <string name="word_RT_73">женатый</string>
+    <string name="word_RT_74">мыть</string>
+    <string name="word_RT_75">Кровать</string>
+    <string name="word_RT_76">Море</string>
+    <string name="word_RT_77">Стол</string>
+    <string name="word_RT_78">Дерево</string>
+    <string name="word_RT_79">Ванная</string>
+    <string name="word_RT_80">серый</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_61">Книга</string>
+    <string name="word_LB_62">Айсберг</string>
+    <string name="word_LB_63">Море</string>
+    <string name="word_LB_64">Голова</string>
+    <string name="word_LB_65">Родители</string>
+    <string name="word_LB_66">спрашивать</string>
+    <string name="word_LB_67">Жизнь</string>
+    <string name="word_LB_68">тогда</string>
+    <string name="word_LB_69">быстрый</string>
+    <string name="word_LB_70">идти</string>
+    <string name="word_LB_71">Кто?</string>
+    <string name="word_LB_72">медлено</string>
+    <string name="word_LB_73">последний</string>
+    <string name="word_LB_74">мочь</string>
+    <string name="word_LB_75">Квартира</string>
+    <string name="word_LB_76">Отпуск</string>
+    <string name="word_LB_77">Стул</string>
+    <string name="word_LB_78">Цветок</string>
+    <string name="word_LB_79">Кровать</string>
+    <string name="word_LB_80">жёлтый</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_61">Буква</string>
+    <string name="word_RB_62">Океан</string>
+    <string name="word_RB_63">Мир</string>
+    <string name="word_RB_64">Дерево</string>
+    <string name="word_RB_65">Квартира</string>
+    <string name="word_RB_66">войти</string>
+    <string name="word_RB_67">Дом</string>
+    <string name="word_RB_68">красивый</string>
+    <string name="word_RB_69">медленный</string>
+    <string name="word_RB_70">любить</string>
+    <string name="word_RB_71">Что?</string>
+    <string name="word_RB_72">тепло</string>
+    <string name="word_RB_73">разведенный</string>
+    <string name="word_RB_74">уметь</string>
+    <string name="word_RB_75">Жизнь</string>
+    <string name="word_RB_76">Комната</string>
+    <string name="word_RB_77">Дверь</string>
+    <string name="word_RB_78">Земля</string>
+    <string name="word_RB_79">Дерево</string>
+    <string name="word_RB_80">чёрный</string>
+    <!-- END -->
+</resources>

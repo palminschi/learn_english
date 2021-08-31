@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_281">Przeziębienie</string>
+    <string name="word_translate_282">zamrażanie</string>
+    <string name="word_translate_283">Chmura</string>
+    <string name="word_translate_284">Mróz</string>
+    <string name="word_translate_285">Wiatr</string>
+    <string name="word_translate_286">Pogoda</string>
+    <string name="word_translate_287">mokry</string>
+    <string name="word_translate_288">wietrzny</string>
+    <string name="word_translate_289">słoneczny</string>
+    <string name="word_translate_290">blask</string>
+    <string name="word_translate_291">stopić</string>
+    <string name="word_translate_292">pochmurny</string>
+    <string name="word_translate_293">ponury</string>
+    <string name="word_translate_294">zamrażać</string>
+    <string name="word_translate_295">Obudź się</string>
+    <string name="word_translate_296">Pora roku</string>
+    <string name="word_translate_297">Jesień</string>
+    <string name="word_translate_298">Wiosna</string>
+    <string name="word_translate_299">ciemny</string>
+    <string name="word_translate_300">lekki</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_281">Zimno nie do zniesienia.</string>
+    <string name="phrase_translate_282">Mróz jest obiecany jutro.</string>
+    <string name="phrase_translate_283">Po niebie unoszą się chmury.</string>
+    <string name="phrase_translate_284">Szron pokrywa drzewa i łąki.</string>
+    <string name="phrase_translate_285">Wieje silny wiatr.</string>
+    <string name="phrase_translate_286">Dziś jest ładna pogoda.</string>
+    <string name="phrase_translate_287">Moje buty są mokre.</string>
+    <string name="phrase_translate_288">Na morzu zawsze jest wietrznie.</string>
+    <string name="phrase_translate_289">Dzisiaj jest słonecznie.</string>
+    <string name="phrase_translate_290">Słońce świeciło cały dzień.</string>
+    <string name="phrase_translate_291">Śnieg się roztopił.</string>
+    <string name="phrase_translate_292">Pogoda będzie przejrzysta lub pochmurna.</string>
+    <string name="phrase_translate_293">To paskudny dzień.</string>
+    <string name="phrase_translate_294">Jeziora i rzeki są zamarznięte.</string>
+    <string name="phrase_translate_295">Wiosną budzi się przyroda.</string>
+    <string name="phrase_translate_296">Moja ulubiona pora roku to lato.</string>
+    <string name="phrase_translate_297">Często pada jesienią.</string>
+    <string name="phrase_translate_298">Na wiosnę wszystko jest piękne.</string>
+    <string name="phrase_translate_299">Ciemnieje powoli.</string>
+    <string name="phrase_translate_300">jasny dzień</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_281">Przeziębienie</string>
+    <string name="word_LT_282">Lato</string>
+    <string name="word_LT_283">Woda</string>
+    <string name="word_LT_284">Mróz</string>
+    <string name="word_LT_285">Odpowiadać</string>
+    <string name="word_LT_286">Deszcz</string>
+    <string name="word_LT_287">serdecznie</string>
+    <string name="word_LT_288">pochmurny</string>
+    <string name="word_LT_289">Dziś</string>
+    <string name="word_LT_290">myśleć</string>
+    <string name="word_LT_291">Szukaj</string>
+    <string name="word_LT_292">przeziębienie</string>
+    <string name="word_LT_293">ciemny</string>
+    <string name="word_LT_294">zamrażać</string>
+    <string name="word_LT_295">leczyć</string>
+    <string name="word_LT_296">Pora roku</string>
+    <string name="word_LT_297">Chmura</string>
+    <string name="word_LT_298">Las</string>
+    <string name="word_LT_299">ciemny</string>
+    <string name="word_LT_300">mokry</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_281">Słońce</string>
+    <string name="word_RT_282">zamrażanie</string>
+    <string name="word_RT_283">Zima</string>
+    <string name="word_RT_284">Pogoda</string>
+    <string name="word_RT_285">Wiatr</string>
+    <string name="word_RT_286">Zasady</string>
+    <string name="word_RT_287">przeziębienie</string>
+    <string name="word_RT_288">wietrzny</string>
+    <string name="word_RT_289">przeziębienie</string>
+    <string name="word_RT_290">jeść</string>
+    <string name="word_RT_291">stopić</string>
+    <string name="word_RT_292">słoneczny</string>
+    <string name="word_RT_293">ponury</string>
+    <string name="word_RT_294">dostwać</string>
+    <string name="word_RT_295">Obudź się</string>
+    <string name="word_RT_296">Park</string>
+    <string name="word_RT_297">Jesień</string>
+    <string name="word_RT_298">Przeziębienie</string>
+    <string name="word_RT_299">żółty</string>
+    <string name="word_RT_300">wietrzny</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_281">Lato</string>
+    <string name="word_LB_282">Syn</string>
+    <string name="word_LB_283">Chmura</string>
+    <string name="word_LB_284">Piasek</string>
+    <string name="word_LB_285">lód</string>
+    <string name="word_LB_286">Zamek</string>
+    <string name="word_LB_287">mokry</string>
+    <string name="word_LB_288">ponury</string>
+    <string name="word_LB_289">słoneczny</string>
+    <string name="word_LB_290">blask</string>
+    <string name="word_LB_291">Praca</string>
+    <string name="word_LB_292">ponury</string>
+    <string name="word_LB_293">mokry</string>
+    <string name="word_LB_294">wysłać</string>
+    <string name="word_LB_295">blask</string>
+    <string name="word_LB_296">Choroba</string>
+    <string name="word_LB_297">Wiosna</string>
+    <string name="word_LB_298">Pora roku</string>
+    <string name="word_LB_299">Zielony</string>
+    <string name="word_LB_300">lekki</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_281">Morze</string>
+    <string name="word_RB_282">Zima</string>
+    <string name="word_RB_283">Jesień</string>
+    <string name="word_RB_284">Śnieg</string>
+    <string name="word_RB_285">Pytanie</string>
+    <string name="word_RB_286">Pogoda</string>
+    <string name="word_RB_287">powolny</string>
+    <string name="word_RB_288">mokry</string>
+    <string name="word_RB_289">serdecznie</string>
+    <string name="word_RB_290">podróż</string>
+    <string name="word_RB_291">być zakochanym</string>
+    <string name="word_RB_292">pochmurny</string>
+    <string name="word_RB_293">serdecznie</string>
+    <string name="word_RB_294">leczyć</string>
+    <string name="word_RB_295">zamrażać</string>
+    <string name="word_RB_296">Las</string>
+    <string name="word_RB_297">zamrażanie</string>
+    <string name="word_RB_298">Wiosna</string>
+    <string name="word_RB_299">różowy</string>
+    <string name="word_RB_300">ciemny</string>
+    <!-- END -->
+</resources>

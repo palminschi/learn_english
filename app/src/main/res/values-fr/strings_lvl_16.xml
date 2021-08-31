@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_302">le pont</string>
+    <string name="word_translate_303">le magasin</string>
+    <string name="word_translate_304">la maternelle</string>
+    <string name="word_translate_305">le jardin</string>
+    <string name="word_translate_306">les légumes</string>
+    <string name="word_translate_307">le jardinier</string>
+    <string name="word_translate_308">arroser</string>
+    <string name="word_translate_309">le chemin</string>
+    <string name="word_translate_310">la racine</string>
+    <string name="word_translate_311">la branche</string>
+    <string name="word_translate_312">la mairie</string>
+    <string name="word_translate_313">l\'église</string>
+    <string name="word_translate_314">le stade</string>
+    <string name="word_translate_315">l\'équipe</string>
+    <string name="word_translate_316">le football</string>
+    <string name="word_translate_317">la course</string>
+    <string name="word_translate_318">le but</string>
+    <string name="word_translate_319">le ballon</string>
+    <string name="word_translate_320">jouer</string>
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_301">Il existe de nombreux châteaux en Allemagne.</string>
+    <string name="phrase_translate_302">Nous avons traversé le pont.</string>
+    <string name="phrase_translate_303">Je vais au grand magasin.</string>
+    <string name="phrase_translate_304">Mes enfants sont à la maternelle.</string>
+    <string name="phrase_translate_305">J\'ai beaucoup de travail à faire dans le jardin.</string>
+    <string name="phrase_translate_306">Je dois acheter des légumes.</string>
+    <string name="phrase_translate_307">Il travaille comme jardinier.</string>
+    <string name="phrase_translate_308">Il arrose les fleurs.</string>
+    <string name="phrase_translate_309">Le chemin s\'est interrompu ici.</string>
+    <string name="phrase_translate_310">Ces arbres ont beaucoup de racines.</string>
+    <string name="phrase_translate_311">L\'arbre a beaucoup de branches.</string>
+    <string name="phrase_translate_312">Où est la mairie ?</string>
+    <string name="phrase_translate_313">Elle va à l\'église le dimanche.</string>
+    <string name="phrase_translate_314">Ils jouent au football dans le stade.</string>
+    <string name="phrase_translate_315">La première équipe a gagné.</string>
+    <string name="phrase_translate_316">Il joue au football.</string>
+    <string name="phrase_translate_317">Courir est bon pour la santé.</string>
+    <string name="phrase_translate_318">Le ballon est dans le but.</string>
+    <string name="phrase_translate_319">Je lui ai donné le ballon.</string>
+    <string name="phrase_translate_320">Je joue de la guitare.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_301">le village</string>
+    <string name="word_LT_302">l\'arbre</string>
+    <string name="word_LT_303">le village</string>
+    <string name="word_LT_304">l\'Ile</string>
+    <string name="word_LT_305">la fleur</string>
+    <string name="word_LT_306">l\'avion</string>
+    <string name="word_LT_307">le château</string>
+    <string name="word_LT_308">demander</string>
+    <string name="word_LT_309">le chemin</string>
+    <string name="word_LT_310">la salle de bain</string>
+    <string name="word_LT_311">la branche</string>
+    <string name="word_LT_312">la chaise</string>
+    <string name="word_LT_313">le porte-feuille</string>
+    <string name="word_LT_314">l\'habillement</string>
+    <string name="word_LT_315">l\'équipe</string>
+    <string name="word_LT_316">le capuchon</string>
+    <string name="word_LT_317">la course</string>
+    <string name="word_LT_318">la main</string>
+    <string name="word_LT_319">la barrière</string>
+    <string name="word_LT_320">jouer</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_301">le château</string>
+    <string name="word_RT_302">l\'animal</string>
+    <string name="word_RT_303">le magasin</string>
+    <string name="word_RT_304">la maternelle</string>
+    <string name="word_RT_305">le chat</string>
+    <string name="word_RT_306">le papillon</string>
+    <string name="word_RT_307">le jardinier</string>
+    <string name="word_RT_308">collecter</string>
+    <string name="word_RT_309">la main</string>
+    <string name="word_RT_310">la racine</string>
+    <string name="word_RT_311">le son</string>
+    <string name="word_RT_312">les lunettes</string>
+    <string name="word_RT_313">l\'argent</string>
+    <string name="word_RT_314">le stade</string>
+    <string name="word_RT_315">les cheveux</string>
+    <string name="word_RT_316">la tête</string>
+    <string name="word_RT_317">le cheval</string>
+    <string name="word_RT_318">le corps</string>
+    <string name="word_RT_319">l\'arrêt</string>
+    <string name="word_RT_320">voler</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_301">station-essence</string>
+    <string name="word_LB_302">la fleur</string>
+    <string name="word_LB_303">la montagne</string>
+    <string name="word_LB_304">l\'arbre</string>
+    <string name="word_LB_305">le jardin</string>
+    <string name="word_LB_306">les légumes</string>
+    <string name="word_LB_307">la barrière</string>
+    <string name="word_LB_308">arroser</string>
+    <string name="word_LB_309">la bouche</string>
+    <string name="word_LB_310">la montagne</string>
+    <string name="word_LB_311">le pantalon</string>
+    <string name="word_LB_312">la mairie</string>
+    <string name="word_LB_313">le placard</string>
+    <string name="word_LB_314">les chaussures</string>
+    <string name="word_LB_315">le capuchon</string>
+    <string name="word_LB_316">le football</string>
+    <string name="word_LB_317">le chien</string>
+    <string name="word_LB_318">l\'habillement</string>
+    <string name="word_LB_319">la tête</string>
+    <string name="word_LB_320">conduire</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_301">la construction</string>
+    <string name="word_RB_302">le pont</string>
+    <string name="word_RB_303">l\'arbre</string>
+    <string name="word_RB_304">le jeu</string>
+    <string name="word_RB_305">l\'avion</string>
+    <string name="word_RB_306">le chien</string>
+    <string name="word_RB_307">La terre</string>
+    <string name="word_RB_308">sauter</string>
+    <string name="word_RB_309">la mer</string>
+    <string name="word_RB_310">la forêt</string>
+    <string name="word_RB_311">les lunettes</string>
+    <string name="word_RB_312">les chaussures</string>
+    <string name="word_RB_313">l\'église</string>
+    <string name="word_RB_314">les lunettes</string>
+    <string name="word_RB_315">le chapeau</string>
+    <string name="word_RB_316">la bouche</string>
+    <string name="word_RB_317">le chapeau</string>
+    <string name="word_RB_318">le but</string>
+    <string name="word_RB_319">le ballon</string>
+    <string name="word_RB_320">laver</string>
+    <!-- END -->
+</resources>

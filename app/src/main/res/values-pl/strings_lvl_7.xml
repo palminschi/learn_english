@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_121">Przystanek</string>
+    <string name="word_translate_122">zostać</string>
+    <string name="word_translate_123">Wieś</string>
+    <string name="word_translate_124">tam</string>
+    <string name="word_translate_125">tutaj</string>
+    <string name="word_translate_126">daleko</string>
+    <string name="word_translate_127">Płot</string>
+    <string name="word_translate_128">skakać</string>
+    <string name="word_translate_129">upadły</string>
+    <string name="word_translate_130">Noga</string>
+    <string name="word_translate_131">Spodnie</string>
+    <string name="word_translate_132">Obuwie</string>
+    <string name="word_translate_133">Portfel</string>
+    <string name="word_translate_134">Kurtka</string>
+    <string name="word_translate_135">Włosy</string>
+    <string name="word_translate_136">Czapka</string>
+    <string name="word_translate_137">Kapelusz</string>
+    <string name="word_translate_138">Odzież</string>
+    <string name="word_translate_139">Głowa</string>
+    <string name="word_translate_140">Usta</string>
+    <!-- END -->
+
+    <!-- PHRASE  -->
+    <string name="phrase_translate_121">Ja czekam na przystanku</string>
+    <string name="phrase_translate_122">Zatrzymaj się tutaj.</string>
+    <string name="phrase_translate_123">Czy mieszkasz w mieście czy na wsi?</string>
+    <string name="phrase_translate_124">Ja tam mieszkam.</string>
+    <string name="phrase_translate_125">Tu i teraz.</string>
+    <string name="phrase_translate_126">Ja wyjeżdżam daleko.</string>
+    <string name="phrase_translate_127">Płot jest wysoki</string>
+    <string name="phrase_translate_128">Ja przeskakuję przez płot.</string>
+    <string name="phrase_translate_129">Czy upadłeś?</string>
+    <string name="phrase_translate_130">Boli mnie noga.</string>
+    <string name="phrase_translate_131">Spodnie są za krótkie.</string>
+    <string name="phrase_translate_132">Muszę kupić obuwie.</string>
+    <string name="phrase_translate_133">Ja zgubiłem portfel.</string>
+    <string name="phrase_translate_134">Twoja kurtka jest brudna.</string>
+    <string name="phrase_translate_135">Ty masz długie włosy.</string>
+    <string name="phrase_translate_136">Gdzie jest moja czapka?</string>
+    <string name="phrase_translate_137">Ona ma duży kapelusz.</string>
+    <string name="phrase_translate_138">Sklep odzieżowy</string>
+    <string name="phrase_translate_139">Boli mnie głowa.</string>
+    <string name="phrase_translate_140">Oddychanie przez usta</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_121">Wioska</string>
+    <string name="word_LT_122">jeść</string>
+    <string name="word_LT_123">Wieś</string>
+    <string name="word_LT_124">za</string>
+    <string name="word_LT_125">blisko</string>
+    <string name="word_LT_126">szybki</string>
+    <string name="word_LT_127">Zamek</string>
+    <string name="word_LT_128">zapytać</string>
+    <string name="word_LT_129">upadły</string>
+    <string name="word_LT_130">Łazienka</string>
+    <string name="word_LT_131">Koń</string>
+    <string name="word_LT_132">Krzesło</string>
+    <string name="word_LT_133">Portfel</string>
+    <string name="word_LT_134">Odzież</string>
+    <string name="word_LT_135">Spodnie</string>
+    <string name="word_LT_136">Czapka</string>
+    <string name="word_LT_137">Usta</string>
+    <string name="word_LT_138">Dłoń</string>
+    <string name="word_LT_139">Ogrodzenie</string>
+    <string name="word_LT_140">Kot</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_121">Przystanek</string>
+    <string name="word_RT_122">jeździć</string>
+    <string name="word_RT_123">Dom</string>
+    <string name="word_RT_124">tam</string>
+    <string name="word_RT_125">od dołu</string>
+    <string name="word_RT_126">daleko</string>
+    <string name="word_RT_127">Sauna</string>
+    <string name="word_RT_128">zebrać</string>
+    <string name="word_RT_129">kraść</string>
+    <string name="word_RT_130">Noga</string>
+    <string name="word_RT_131">Dźwięk</string>
+    <string name="word_RT_132">Okulary</string>
+    <string name="word_RT_133">Pieniądze</string>
+    <string name="word_RT_134">Kurtka</string>
+    <string name="word_RT_135">Włosy</string>
+    <string name="word_RT_136">Głowa</string>
+    <string name="word_RT_137">Koń</string>
+    <string name="word_RT_138">Ciało</string>
+    <string name="word_RT_139">Przystanek</string>
+    <string name="word_RT_140">Dłoń</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_121">Tankowanie</string>
+    <string name="word_LB_122">wyruszać</string>
+    <string name="word_LB_123">Góra</string>
+    <string name="word_LB_124">lewo</string>
+    <string name="word_LB_125">tutaj</string>
+    <string name="word_LB_126">wysoki</string>
+    <string name="word_LB_127">Płot</string>
+    <string name="word_LB_128">myśleć</string>
+    <string name="word_LB_129">jeździć</string>
+    <string name="word_LB_130">Góra</string>
+    <string name="word_LB_131">Spodnie</string>
+    <string name="word_LB_132">Odzież</string>
+    <string name="word_LB_133">Kredens</string>
+    <string name="word_LB_134">Obuwie</string>
+    <string name="word_LB_135">Czapka</string>
+    <string name="word_LB_136">Włosy</string>
+    <string name="word_LB_137">Pies</string>
+    <string name="word_LB_138">Odzież</string>
+    <string name="word_LB_139">Głowa</string>
+    <string name="word_LB_140">Usta</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_121">Budowa</string>
+    <string name="word_RB_122">zostać</string>
+    <string name="word_RB_123">Drewno</string>
+    <string name="word_RB_124">blisko</string>
+    <string name="word_RB_125">między</string>
+    <string name="word_RB_126">blisko</string>
+    <string name="word_RB_127">Ziemia</string>
+    <string name="word_RB_128">skakać</string>
+    <string name="word_RB_129">umyć</string>
+    <string name="word_RB_130">Las</string>
+    <string name="word_RB_131">Okulary</string>
+    <string name="word_RB_132">Obuwie</string>
+    <string name="word_RB_133">Podkoszulek</string>
+    <string name="word_RB_134">Okulary</string>
+    <string name="word_RB_135">Kapelusz</string>
+    <string name="word_RB_136">Usta</string>
+    <string name="word_RB_137">Kapelusz</string>
+    <string name="word_RB_138">Okulary</string>
+    <string name="word_RB_139">Budowa</string>
+    <string name="word_RB_140">Morze</string>
+    <!-- END -->
+</resources>

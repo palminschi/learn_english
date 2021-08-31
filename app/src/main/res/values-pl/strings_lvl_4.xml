@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_61">Zawód</string>
+    <string name="word_translate_62">Szkolenie</string>
+    <string name="word_translate_63">Świat</string>
+    <string name="word_translate_64">Ludzie</string>
+    <string name="word_translate_65">Rodzice</string>
+    <string name="word_translate_66">mieszkać</string>
+    <string name="word_translate_67">Życie</string>
+    <string name="word_translate_68">już</string>
+    <string name="word_translate_69">piękna</string>
+    <string name="word_translate_70">kochać kogoś</string>
+    <string name="word_translate_71">Co?</string>
+    <string name="word_translate_72">szybko</string>
+    <string name="word_translate_73">żonaty</string>
+    <string name="word_translate_74">musieć</string>
+    <string name="word_translate_75">Mieszkanie</string>
+    <string name="word_translate_76">Pokój</string>
+    <string name="word_translate_77">Łóżko</string>
+    <string name="word_translate_78">Kwiat</string>
+    <string name="word_translate_79">Drewno</string>
+    <string name="word_translate_80">zielony</string>
+    <!-- END -->
+
+    <!-- PHRASE + TRANSLATE -->
+    <string name="phrase_translate_61">On jest <b>lekarzem</b> z zawodu.</string>
+    <string name="phrase_translate_62">Obecnie jestem w trakcie <b>szkolenia</b>.</string>
+    <string name="phrase_translate_63">Podróżuję po <b>świecie</b>.</string>
+    <string name="phrase_translate_64">On zna tu wielu <b>ludzi</b>.</string>
+    <string name="phrase_translate_65">Czym zajmują się twoi <b>rodzice</b>?</string>
+    <string name="phrase_translate_66">Ja <b>mieszkam</b> w mieszkaniu.</string>
+    <string name="phrase_translate_67">nigdy w życiu</string>
+    <string name="phrase_translate_68">Już tu jestem.</string>
+    <string name="phrase_translate_69">To jest <b>piękne</b>!</string>
+    <string name="phrase_translate_70">Kocham cię!</string>
+    <string name="phrase_translate_71">Co ty robisz?</string>
+    <string name="phrase_translate_72">Ty jedziesz <b>szybko</b>.</string>
+    <string name="phrase_translate_73">Ja jestem żonaty.</string>
+    <string name="phrase_translate_74">Ja <b>muszę</b> pracować.</string>
+    <string name="phrase_translate_75">Mieszkam w <b>mieszkaniu</b>.</string>
+    <string name="phrase_translate_76">Moje mieszkanie ma dwa <b>pokoje</b>.</string>
+    <string name="phrase_translate_77">przejdź do <b>łóżka</b></string>
+    <string name="phrase_translate_78">Ona lubi <b>kwiaty</b>.</string>
+    <string name="phrase_translate_79"><b>To drzewo</b> jest bardzo stare.</string>
+    <string name="phrase_translate_80">Mój samochód jest <b>zielony</b>.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_61">List</string>
+    <string name="word_LT_62">Wynik</string>
+    <string name="word_LT_63">Pieniądze</string>
+    <string name="word_LT_64">Ludzie</string>
+    <string name="word_LT_65">Łóżko</string>
+    <string name="word_LT_66">mieszkać</string>
+    <string name="word_LT_67">Miłość</string>
+    <string name="word_LT_68">jeszcze</string>
+    <string name="word_LT_69">piękna</string>
+    <string name="word_LT_70">mieszkać</string>
+    <string name="word_LT_71">Dlaczego?</string>
+    <string name="word_LT_72">szybko</string>
+    <string name="word_LT_73">pierwszy</string>
+    <string name="word_LT_74">musieć</string>
+    <string name="word_LT_75">Pokój</string>
+    <string name="word_LT_76">Zimowy</string>
+    <string name="word_LT_77">Łóżko</string>
+    <string name="word_LT_78">Drzwi</string>
+    <string name="word_LT_79">Ziemia</string>
+    <string name="word_LT_80">zielony</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_61">Zawód</string>
+    <string name="word_RT_62">Szkolenie</string>
+    <string name="word_RT_63">Wakacje</string>
+    <string name="word_RT_64">Łódź</string>
+    <string name="word_RT_65">Dzieci</string>
+    <string name="word_RT_66">wychodzić</string>
+    <string name="word_RT_67">Wolność</string>
+    <string name="word_RT_68">już</string>
+    <string name="word_RT_69">czerwony</string>
+    <string name="word_RT_70">szukać</string>
+    <string name="word_RT_71">Gdy?</string>
+    <string name="word_RT_72">zimno</string>
+    <string name="word_RT_73">żonaty</string>
+    <string name="word_RT_74">prać</string>
+    <string name="word_RT_75">Łóżko</string>
+    <string name="word_RT_76">Morze</string>
+    <string name="word_RT_77">Stół</string>
+    <string name="word_RT_78">Drewno</string>
+    <string name="word_RT_79">Łazienka</string>
+    <string name="word_RT_80">szary</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_61">Książka</string>
+    <string name="word_LB_62">Góra lodowa</string>
+    <string name="word_LB_63">Morze</string>
+    <string name="word_LB_64">Głowa</string>
+    <string name="word_LB_65">Rodzice</string>
+    <string name="word_LB_66">zapytać</string>
+    <string name="word_LB_67">Życie</string>
+    <string name="word_LB_68">następnie</string>
+    <string name="word_LB_69">szybki</string>
+    <string name="word_LB_70">udać się</string>
+    <string name="word_LB_71">Kto?</string>
+    <string name="word_LB_72">powolny</string>
+    <string name="word_LB_73">ostatni</string>
+    <string name="word_LB_74">móc</string>
+    <string name="word_LB_75">Mieszkanie</string>
+    <string name="word_LB_76">Wakacje</string>
+    <string name="word_LB_77">Krzesło</string>
+    <string name="word_LB_78">Kwiat</string>
+    <string name="word_LB_79">Łóżko</string>
+    <string name="word_LB_80">żółty</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_61">Liczbowy</string>
+    <string name="word_RB_62">Ocean</string>
+    <string name="word_RB_63">Świat</string>
+    <string name="word_RB_64">Drewno</string>
+    <string name="word_RB_65">Mieszkanie</string>
+    <string name="word_RB_66">wejść</string>
+    <string name="word_RB_67">Dom</string>
+    <string name="word_RB_68">piękny</string>
+    <string name="word_RB_69">powolny</string>
+    <string name="word_RB_70">kochać kogoś</string>
+    <string name="word_RB_71">Co?</string>
+    <string name="word_RB_72">ciepło</string>
+    <string name="word_RB_73">rozcieńczony</string>
+    <string name="word_RB_74">umieć</string>
+    <string name="word_RB_75">Życie</string>
+    <string name="word_RB_76">Pokój</string>
+    <string name="word_RB_77">Drzwi</string>
+    <string name="word_RB_78">Ziemia</string>
+    <string name="word_RB_79">Drewno</string>
+    <string name="word_RB_80">czarny</string>
+    <!-- END -->
+</resources>

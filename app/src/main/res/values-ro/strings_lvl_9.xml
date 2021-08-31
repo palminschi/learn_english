@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_161">Chelner</string>
+    <string name="word_translate_162">Bacşiş</string>
+    <string name="word_translate_163">Cont</string>
+    <string name="word_translate_164">Reducere</string>
+    <string name="word_translate_165">Bani gheaţă</string>
+    <string name="word_translate_166">Preţ</string>
+    <string name="word_translate_167">timp p/u mâncare</string>
+    <string name="word_translate_168">Cină</string>
+    <string name="word_translate_169">Prânz</string>
+    <string name="word_translate_170">Şerveţel</string>
+    <string name="word_translate_171">Cuţit</string>
+    <string name="word_translate_172">Farfurie</string>
+    <string name="word_translate_173">Lingură</string>
+    <string name="word_translate_174">Sticlă</string>
+    <string name="word_translate_175">Vin</string>
+    <string name="word_translate_176">Ceainic</string>
+    <string name="word_translate_177">Mărime</string>
+    <string name="word_translate_178">mic</string>
+    <string name="word_translate_179">mare</string>
+    <string name="word_translate_180">Putere</string>
+    <!-- END -->
+
+    <!-- PHRASE  -->
+    <string name="phrase_translate_161">Eu lucrez chelner.</string>
+    <string name="phrase_translate_162">El a lăsat bacşiş.</string>
+    <string name="phrase_translate_163">Contul, vă rog.</string>
+    <string name="phrase_translate_164">Azi sunt multe reduceri.</string>
+    <string name="phrase_translate_165">Am doar bani gheaţă.</string>
+    <string name="phrase_translate_166">Preţul e prea înalt.</string>
+    <string name="phrase_translate_167">Poftă bună!</string>
+    <string name="phrase_translate_168">Cină într-un restaurant</string>
+    <string name="phrase_translate_169">Prânzul este gata.</string>
+    <string name="phrase_translate_170">Pot eu încă un şerveţel să primesc?</string>
+    <string name="phrase_translate_171">Cuţitul nu taie.</string>
+    <string name="phrase_translate_172">Aduceţi o farfurie, vă rog.</string>
+    <string name="phrase_translate_173">Eu mănânc asta cu lingura.</string>
+    <string name="phrase_translate_174">o sticlă de lapte</string>
+    <string name="phrase_translate_175">Noi vom bea vin.</string>
+    <string name="phrase_translate_176">Ceainicul a fiert.</string>
+    <string name="phrase_translate_177">Ce mărime la pantofi aveţi?</string>
+    <string name="phrase_translate_178">El este incă mic.</string>
+    <string name="phrase_translate_179">Blugii sunt prea mari pentru mine</string>
+    <string name="phrase_translate_180">El e foarte puternic.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_161">Subsol</string>
+    <string name="word_LT_162">Apă</string>
+    <string name="word_LT_163">Tren</string>
+    <string name="word_LT_164">Şerveţel</string>
+    <string name="word_LT_165">Bani gheaţă</string>
+    <string name="word_LT_166">Mâncare</string>
+    <string name="word_LT_167">Şerveţel</string>
+    <string name="word_LT_168">Cină</string>
+    <string name="word_LT_169">Dejun</string>
+    <string name="word_LT_170">Mâncare</string>
+    <string name="word_LT_171">Cuţit</string>
+    <string name="word_LT_172">Chelner</string>
+    <string name="word_LT_173">Lingură</string>
+    <string name="word_LT_174">Floare</string>
+    <string name="word_LT_175">Restaurant</string>
+    <string name="word_LT_176">Bani</string>
+    <string name="word_LT_177">Casă</string>
+    <string name="word_LT_178">mic</string>
+    <string name="word_LT_179">puternic</string>
+    <string name="word_LT_180">Stea</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_161">Chelner</string>
+    <string name="word_RT_162">Bacşiş</string>
+    <string name="word_RT_163">Ceainic</string>
+    <string name="word_RT_164">Sticlă</string>
+    <string name="word_RT_165">Muzică</string>
+    <string name="word_RT_166">Preţ</string>
+    <string name="word_RT_167">Farfurie</string>
+    <string name="word_RT_168">Prânz</string>
+    <string name="word_RT_169">Cuţit</string>
+    <string name="word_RT_170">Şerveţel</string>
+    <string name="word_RT_171">Gură</string>
+    <string name="word_RT_172">Lingură</string>
+    <string name="word_RT_173">Furculiţă</string>
+    <string name="word_RT_174">Sticlă</string>
+    <string name="word_RT_175">Subsol</string>
+    <string name="word_RT_176">Chelner</string>
+    <string name="word_RT_177">Bani</string>
+    <string name="word_RT_178">mare</string>
+    <string name="word_RT_179">slab</string>
+    <string name="word_RT_180">Bacşiş</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_161">Muzică</string>
+    <string name="word_LB_162">Băutură</string>
+    <string name="word_LB_163">Cont</string>
+    <string name="word_LB_164">Lingură</string>
+    <string name="word_LB_165">Bani</string>
+    <string name="word_LB_166">Cont</string>
+    <string name="word_LB_167">timp p/u mâncare</string>
+    <string name="word_LB_168">Seară</string>
+    <string name="word_LB_169">Ceainic</string>
+    <string name="word_LB_170">Cuţit</string>
+    <string name="word_LB_171">Musor</string>
+    <string name="word_LB_172">Furculiţă</string>
+    <string name="word_LB_173">Magazin</string>
+    <string name="word_LB_174">Avion</string>
+    <string name="word_LB_175">Vin</string>
+    <string name="word_LB_176">Floare</string>
+    <string name="word_LB_177">Mărime</string>
+    <string name="word_LB_178">repede</string>
+    <string name="word_LB_179">mare</string>
+    <string name="word_LB_180">Putere</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_161">Avion</string>
+    <string name="word_RB_162">Ceai</string>
+    <string name="word_RB_163">Haine</string>
+    <string name="word_RB_164">Reducere</string>
+    <string name="word_RB_165">Бутылка</string>
+    <string name="word_RB_166">Reducere</string>
+    <string name="word_RB_167">Lingură</string>
+    <string name="word_RB_168">Dejun</string>
+    <string name="word_RB_169">Prânz</string>
+    <string name="word_RB_170">Ceainic</string>
+    <string name="word_RB_171">Lingură</string>
+    <string name="word_RB_172">Farfurie</string>
+    <string name="word_RB_173">Scară</string>
+    <string name="word_RB_174">Fotografie</string>
+    <string name="word_RB_175">Bani</string>
+    <string name="word_RB_176">Ceainic</string>
+    <string name="word_RB_177">Oameni</string>
+    <string name="word_RB_178">departe</string>
+    <string name="word_RB_179">încet</string>
+    <string name="word_RB_180">Reducere</string>
+    <!-- END -->
+</resources>

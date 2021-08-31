@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_title_261" translatable="false">el gato</string>
+    <string name="word_title_262" translatable="false">el perro</string>
+    <string name="word_title_263" translatable="false">ladrar</string>
+    <string name="word_title_264" translatable="false">el lobo</string>
+    <string name="word_title_265" translatable="false">el zorro</string>
+    <string name="word_title_266" translatable="false">el caballo</string>
+    <string name="word_title_267" translatable="false">correr</string>
+    <string name="word_title_268" translatable="false">el pez</string>
+    <string name="word_title_269" translatable="false">la pesca</string>
+    <string name="word_title_270" translatable="false">la caza</string>
+    <string name="word_title_271" translatable="false">a cazar</string>
+    <string name="word_title_272" translatable="false">el animal</string>
+    <string name="word_title_273" translatable="false">El oso</string>
+    <string name="word_title_274" translatable="false">el pato</string>
+    <string name="word_title_275" translatable="false">el arma</string>
+    <string name="word_title_276" translatable="false">la caña de pescar</string>
+    <string name="word_title_277" translatable="false">atrapar</string>
+    <string name="word_title_278" translatable="false">pescar</string>
+    <string name="word_title_279" translatable="false">El conejo</string>
+    <string name="word_title_280" translatable="false">el pájaro</string>
+
+    <string name="word_translate_261">cat</string>
+    <string name="word_translate_262">dog</string>
+    <string name="word_translate_263">to bark</string>
+    <string name="word_translate_264">wolf</string>
+    <string name="word_translate_265">fox</string>
+    <string name="word_translate_266">horse</string>
+    <string name="word_translate_267">to run</string>
+    <string name="word_translate_268">fish</string>
+    <string name="word_translate_269">fishing</string>
+    <string name="word_translate_270">hunt</string>
+    <string name="word_translate_271">to hunt</string>
+    <string name="word_translate_272">animal</string>
+    <string name="word_translate_273">bear</string>
+    <string name="word_translate_274">duck</string>
+    <string name="word_translate_275">gun</string>
+    <string name="word_translate_276">fishing rod</string>
+    <string name="word_translate_277">to catch</string>
+    <string name="word_translate_278">to fish</string>
+    <string name="word_translate_279">rabbit</string>
+    <string name="word_translate_280">bird</string>
+    <!-- END -->
+
+    <!-- PHRASE + TRANSLATE -->
+    <string name="phrase_261" translatable="false">Tiene tres gatos.</string>
+    <string name="phrase_translate_261">She has three cats.</string>
+
+    <string name="phrase_262" translatable="false">Mi perro ya es viejo.</string>
+    <string name="phrase_translate_262">My dog is already old.</string>
+
+    <string name="phrase_263" translatable="false">El perro está ladrando.</string>
+    <string name="phrase_translate_263">The dog is barking.</string>
+
+    <string name="phrase_264" translatable="false">Hay lobos en el bosque.</string>
+    <string name="phrase_translate_264">There are wolves in the forest.</string>
+
+    <string name="phrase_265" translatable="false">El zorro es hermoso.</string>
+    <string name="phrase_translate_265">The fox is beautiful.</string>
+
+    <string name="phrase_266" translatable="false">No puedo montar a caballo.</string>
+    <string name="phrase_translate_266">I cannot ride a horse.</string>
+
+    <string name="phrase_267" translatable="false">Corre muy rápido.</string>
+    <string name="phrase_translate_267">You run very fast.</string>
+
+    <string name="phrase_268" translatable="false">Cogí un pez.</string>
+    <string name="phrase_translate_268">I have caught a fish.</string>
+
+    <string name="phrase_269" translatable="false">Estamos pescando.</string>
+    <string name="phrase_translate_269">We\'re fishing.</string>
+
+    <string name="phrase_270" translatable="false">Estaba de caza.</string>
+    <string name="phrase_translate_270">He was on the hunt.</string>
+
+    <string name="phrase_271" translatable="false">Son animales cazadores.</string>
+    <string name="phrase_translate_271">They are hunting animals.</string>
+
+    <string name="phrase_272" translatable="false">Tenemos que cuidar a los animales.</string>
+    <string name="phrase_translate_272">We have to take care of the animals.</string>
+
+    <string name="phrase_273" translatable="false">El oso se come un pescado.</string>
+    <string name="phrase_translate_273">The bear is eating a fish.</string>
+
+    <string name="phrase_274" translatable="false">Los patos nadan en el lago.</string>
+    <string name="phrase_translate_274">Ducks swim in the lake.</string>
+
+    <string name="phrase_275" translatable="false">Los soldados tienen pistolas.</string>
+    <string name="phrase_translate_275">Soldats have guns.</string>
+
+    <string name="phrase_276" translatable="false">Tiré la caña de pescar al agua.</string>
+    <string name="phrase_translate_276">I threw the fishing rod into the water.</string>
+
+    <string name="phrase_277" translatable="false">Cojo un pez.</string>
+    <string name="phrase_translate_277">I catch a fish.</string>
+
+    <string name="phrase_278" translatable="false">Estás pescando.</string>
+    <string name="phrase_translate_278">You are fishing.</string>
+
+    <string name="phrase_279" translatable="false">El conejo corre por el campo.</string>
+    <string name="phrase_translate_279">The rabbit runs in the field.</string>
+
+    <string name="phrase_280" translatable="false">En la primavera, los pájaros cantan.</string>
+    <string name="phrase_translate_280">In the spring birds chirp.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_261">flower</string>
+    <string name="word_LT_262">plane</string>
+    <string name="word_LT_263">to walk</string>
+    <string name="word_LT_264">wolf</string>
+    <string name="word_LT_265">park</string>
+    <string name="word_LT_266">island</string>
+    <string name="word_LT_267">to run</string>
+    <string name="word_LT_268">toy</string>
+    <string name="word_LT_269">fishing</string>
+    <string name="word_LT_270">soup</string>
+    <string name="word_LT_271">to fly</string>
+    <string name="word_LT_272">tree</string>
+    <string name="word_LT_273">night</string>
+    <string name="word_LT_274">animal</string>
+    <string name="word_LT_275">clothing</string>
+    <string name="word_LT_276">flower</string>
+    <string name="word_LT_277">to take</string>
+    <string name="word_LT_278">to hunt</string>
+    <string name="word_LT_279">rabbit</string>
+    <string name="word_LT_280">tree</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_261">cat</string>
+    <string name="word_RT_262">butterfly</string>
+    <string name="word_RT_263">to run</string>
+    <string name="word_RT_264">mountain</string>
+    <string name="word_RT_265">train</string>
+    <string name="word_RT_266">horse</string>
+    <string name="word_RT_267">to sing</string>
+    <string name="word_RT_268">sweet</string>
+    <string name="word_RT_269">tree</string>
+    <string name="word_RT_270">kettle</string>
+    <string name="word_RT_271">to sing</string>
+    <string name="word_RT_272">animal</string>
+    <string name="word_RT_273">butterfly</string>
+    <string name="word_RT_274">forest</string>
+    <string name="word_RT_275">gun</string>
+    <string name="word_RT_276">fishing rod</string>
+    <string name="word_RT_277">to play</string>
+    <string name="word_RT_278">to run</string>
+    <string name="word_RT_279">Christmas</string>
+    <string name="word_RT_280">bird</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_261">mountain</string>
+    <string name="word_LB_262">jogging</string>
+    <string name="word_LB_263">to bark</string>
+    <string name="word_LB_264">tree</string>
+    <string name="word_LB_265">fox</string>
+    <string name="word_LB_266">tree</string>
+    <string name="word_LB_267">to cook</string>
+    <string name="word_LB_268">guitar</string>
+    <string name="word_LB_269">holiday</string>
+    <string name="word_LB_270">hunt</string>
+    <string name="word_LB_271">to jump</string>
+    <string name="word_LB_272">flower</string>
+    <string name="word_LB_273">bear</string>
+    <string name="word_LB_274">night</string>
+    <string name="word_LB_275">hunt</string>
+    <string name="word_LB_276">plane</string>
+    <string name="word_LB_277">to stay</string>
+    <string name="word_LB_278">to search</string>
+    <string name="word_LB_279">flower</string>
+    <string name="word_LB_280">flower</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_261">plane</string>
+    <string name="word_RB_262">dog</string>
+    <string name="word_RB_263">to give</string>
+    <string name="word_RB_264">forest</string>
+    <string name="word_RB_265">music</string>
+    <string name="word_RB_266">game</string>
+    <string name="word_RB_267">to give</string>
+    <string name="word_RB_268">fish</string>
+    <string name="word_RB_269">time</string>
+    <string name="word_RB_270">clothing</string>
+    <string name="word_RB_271">to hunt</string>
+    <string name="word_RB_272">holiday</string>
+    <string name="word_RB_273">winter</string>
+    <string name="word_RB_274">duck</string>
+    <string name="word_RB_275">guitar</string>
+    <string name="word_RB_276">restaurant</string>
+    <string name="word_RB_277">to catch</string>
+    <string name="word_RB_278">to fish</string>
+    <string name="word_RB_279">holiday</string>
+    <string name="word_RB_280">plane</string>
+    <!-- END -->
+</resources>

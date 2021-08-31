@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_541">znaleźć</string>
+    <string name="word_translate_542">Skarb</string>
+    <string name="word_translate_543">Szukaj</string>
+    <string name="word_translate_544">Szukaj</string>
+    <string name="word_translate_545">Więzienie</string>
+    <string name="word_translate_546">Kryminalista</string>
+    <string name="word_translate_547">Broń</string>
+    <string name="word_translate_548">zabić</string>
+    <string name="word_translate_549">naruszać</string>
+    <string name="word_translate_550">W porządku</string>
+    <string name="word_translate_551">Cienki</string>
+    <string name="word_translate_552">Strach</string>
+    <string name="word_translate_553">Zabawa</string>
+    <string name="word_translate_554">ratować</string>
+    <string name="word_translate_555">Koło</string>
+    <string name="word_translate_556">Opona</string>
+    <string name="word_translate_557">Kierownica</string>
+    <string name="word_translate_558">Bateria</string>
+    <string name="word_translate_559">Pień</string>
+    <string name="word_translate_560">Przeludnienie</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_541">Nie mogę cię znaleźć.</string>
+    <string name="phrase_translate_542">Znaleźli skarb.</string>
+    <string name="phrase_translate_543">Szuka pracy.</string>
+    <string name="phrase_translate_544">Szuka szczęścia.</string>
+    <string name="phrase_translate_545">Jest w więzieniu.</string>
+    <string name="phrase_translate_546">Policja szuka przestępcy.</string>
+    <string name="phrase_translate_547">Ma broń.</string>
+    <string name="phrase_translate_548">Nikogo nie zabił.</string>
+    <string name="phrase_translate_549">Kierowca złamał zasady.</string>
+    <string name="phrase_translate_550">Otrzymała grzywnę.</string>
+    <string name="phrase_translate_551">Ukarali go grzywną</string>
+    <string name="phrase_translate_552">On się boi.</string>
+    <string name="phrase_translate_553">Baw się dobrze!</string>
+    <string name="phrase_translate_554">Uratowałem go.</string>
+    <string name="phrase_translate_555">Samochód ma cztery koła.</string>
+    <string name="phrase_translate_556">Kupiłem opony zimowe.</string>
+    <string name="phrase_translate_557">Trzymam kierownicę.</string>
+    <string name="phrase_translate_558">Bateria jest rozładowana.</string>
+    <string name="phrase_translate_559">Umieść torbę w bagażniku.</string>
+    <string name="phrase_translate_560">Na drodze jest korek.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_541">czekać</string>
+    <string name="word_LT_542">Skarb</string>
+    <string name="word_LT_543">relacja na żywo</string>
+    <string name="word_LT_544">Opieka</string>
+    <string name="word_LT_545">Uruchomić</string>
+    <string name="word_LT_546">Policjant</string>
+    <string name="word_LT_547">Broń</string>
+    <string name="word_LT_548">zapominać</string>
+    <string name="word_LT_549">naruszać</string>
+    <string name="word_LT_550">Myśl</string>
+    <string name="word_LT_551">złamać</string>
+    <string name="word_LT_552">Strach</string>
+    <string name="word_LT_553">Zabawa</string>
+    <string name="word_LT_554">teraźniejszość</string>
+    <string name="word_LT_555">Pociąg</string>
+    <string name="word_LT_556">Apartament</string>
+    <string name="word_LT_557">Ziemia</string>
+    <string name="word_LT_558">Park</string>
+    <string name="word_LT_559">Wyspa</string>
+    <string name="word_LT_560">Przeludnienie</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_541">zapominać</string>
+    <string name="word_RT_542">Włosy</string>
+    <string name="word_RT_543">Szukaj</string>
+    <string name="word_RT_544">Pomoc</string>
+    <string name="word_RT_545">Łazienka</string>
+    <string name="word_RT_546">Producent</string>
+    <string name="word_RT_547">Czajnik</string>
+    <string name="word_RT_548">Szukaj</string>
+    <string name="word_RT_549">jeść</string>
+    <string name="word_RT_550">Rzecz</string>
+    <string name="word_RT_551">test</string>
+    <string name="word_RT_552">Szczęście</string>
+    <string name="word_RT_553">Muzyka</string>
+    <string name="word_RT_554">bawić się</string>
+    <string name="word_RT_555">Koło</string>
+    <string name="word_RT_556">Opona</string>
+    <string name="word_RT_557">Rower</string>
+    <string name="word_RT_558">Pociąg</string>
+    <string name="word_RT_559">Pień</string>
+    <string name="word_RT_560">Edukacja</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_541">sprawdzać</string>
+    <string name="word_LB_542">Czapka</string>
+    <string name="word_LB_543">iść</string>
+    <string name="word_LB_544">Wydarzenie</string>
+    <string name="word_LB_545">Pies</string>
+    <string name="word_LB_546">Aktor</string>
+    <string name="word_LB_547">Polowanie</string>
+    <string name="word_LB_548">wiedzieć</string>
+    <string name="word_LB_549">przejrzeć</string>
+    <string name="word_LB_550">W porządku</string>
+    <string name="word_LB_551">leczyć</string>
+    <string name="word_LB_552">Zabawka</string>
+    <string name="word_LB_553">Restauracja</string>
+    <string name="word_LB_554">pogratulować</string>
+    <string name="word_LB_555">Samolot</string>
+    <string name="word_LB_556">Ciągnik</string>
+    <string name="word_LB_557">Autostrada</string>
+    <string name="word_LB_558">Bateria</string>
+    <string name="word_LB_559">Odpoczynek</string>
+    <string name="word_LB_560">Autostrada</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_541">znaleźć</string>
+    <string name="word_RB_542">Lista</string>
+    <string name="word_RB_543">być zakochanym</string>
+    <string name="word_RB_544">Szukaj</string>
+    <string name="word_RB_545">Więzienie</string>
+    <string name="word_RB_546">Kryminalista</string>
+    <string name="word_RB_547">odzież</string>
+    <string name="word_RB_548">zabić</string>
+    <string name="word_RB_549">podróż</string>
+    <string name="word_RB_550">Dusza</string>
+    <string name="word_RB_551">Cienki</string>
+    <string name="word_RB_552">Sklep</string>
+    <string name="word_RB_553">Motyl</string>
+    <string name="word_RB_554">ratować</string>
+    <string name="word_RB_555">Drabina</string>
+    <string name="word_RB_556">Tankowanie</string>
+    <string name="word_RB_557">Kierownica</string>
+    <string name="word_RB_558">Muzyka</string>
+    <string name="word_RB_559">Morze</string>
+    <string name="word_RB_560">Tankowanie</string>
+    <!-- END -->
+</resources>

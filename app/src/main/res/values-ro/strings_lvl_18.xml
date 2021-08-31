@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_341">Frate</string>
+    <string name="word_translate_342">Gemănări</string>
+    <string name="word_translate_343">Soră</string>
+    <string name="word_translate_344">Fiică</string>
+    <string name="word_translate_345">Fiu</string>
+    <string name="word_translate_346">Bunel</string>
+    <string name="word_translate_347">Bunică</string>
+    <string name="word_translate_348">a ajuta</string>
+    <string name="word_translate_349">Strămoși</string>
+    <string name="word_translate_350">Nepot</string>
+    <string name="word_translate_351">a glumi</string>
+    <string name="word_translate_352">Tată vitreg</string>
+    <string name="word_translate_353">Nuntă</string>
+    <string name="word_translate_354">a se odihni</string>
+    <string name="word_translate_355">a cere</string>
+    <string name="word_translate_356">Nepoată</string>
+    <string name="word_translate_357">Soție</string>
+    <string name="word_translate_358">Soț</string>
+    <string name="word_translate_359">a zâmbi</string>
+    <string name="word_translate_360">a râde</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_341">El îmi este ca frate.</string>
+    <string name="phrase_translate_342">Gemănările poartă haine la fel.</string>
+    <string name="phrase_translate_343">Ea este sora mea.</string>
+    <string name="phrase_translate_344">Ei au două fiici.</string>
+    <string name="phrase_translate_345">Fiul s-a dus la școală.</string>
+    <string name="phrase_translate_346">Bunelul meu este bătrân.</string>
+    <string name="phrase_translate_347">Bunica se joacă cu nepotul eo</string>
+    <string name="phrase_translate_348">Eu trebuie să-mi ajut bunica.</string>
+    <string name="phrase_translate_349">Noi avem aceeași strămoși.</string>
+    <string name="phrase_translate_350">Nepotul a venit la bunelul său.</string>
+    <string name="phrase_translate_351">Eu glumesc</string>
+    <string name="phrase_translate_352">Tatăl meu vitreg azi lucrează.</string>
+    <string name="phrase_translate_353">Ei au nuntă degrabă.</string>
+    <string name="phrase_translate_354">Eu mă odihnesc azi.</string>
+    <string name="phrase_translate_355">Eu îi cer ajutor.</string>
+    <string name="phrase_translate_356">Nepoata merge la bunica ei.</string>
+    <string name="phrase_translate_357">Soția mea studiază</string>
+    <string name="phrase_translate_358">Soțul meu lucrează doctor.</string>
+    <string name="phrase_translate_359">Ea zâmbește.</string>
+    <string name="phrase_translate_360">Ei se râd toți.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_341">Frate</string>
+    <string name="word_LT_342">Floare</string>
+    <string name="word_LT_343">Bunică</string>
+    <string name="word_LT_344">Fiică</string>
+    <string name="word_LT_345">Frate</string>
+    <string name="word_LT_346">Bunică</string>
+    <string name="word_LT_347">Nuntă</string>
+    <string name="word_LT_348">a râde</string>
+    <string name="word_LT_349">Lucru</string>
+    <string name="word_LT_350">Nepot</string>
+    <string name="word_LT_351">a cânta</string>
+    <string name="word_LT_352">Chelner</string>
+    <string name="word_LT_353">Timp</string>
+    <string name="word_LT_354">a fura</string>
+    <string name="word_LT_355">a cere</string>
+    <string name="word_LT_356">Bunel</string>
+    <string name="word_LT_357">Nuntă</string>
+    <string name="word_LT_358">Soție</string>
+    <string name="word_LT_359">a zâmbi</string>
+    <string name="word_LT_360">a juca</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_341">Pâine</string>
+    <string name="word_RT_342">Soră</string>
+    <string name="word_RT_343">Oraș</string>
+    <string name="word_RT_344">Frig</string>
+    <string name="word_RT_345">Fiu</string>
+    <string name="word_RT_346">Prieten</string>
+    <string name="word_RT_347">Pensionar</string>
+    <string name="word_RT_348">a ajuta</string>
+    <string name="word_RT_349">Pasăre</string>
+    <string name="word_RT_350">Prieten</string>
+    <string name="word_RT_351">a spăla</string>
+    <string name="word_RT_352">Tată vitreg</string>
+    <string name="word_RT_353">Ziar</string>
+    <string name="word_RT_354">a cade</string>
+    <string name="word_RT_355">a juca</string>
+    <string name="word_RT_356">Nepot</string>
+    <string name="word_RT_357">Soție</string>
+    <string name="word_RT_358">Parc</string>
+    <string name="word_RT_359">a cânta</string>
+    <string name="word_RT_360">a râde</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_341">Soră</string>
+    <string name="word_LB_342">Gemănări</string>
+    <string name="word_LB_343">Pensie</string>
+    <string name="word_LB_344">Fiu</string>
+    <string name="word_LB_345">Vară</string>
+    <string name="word_LB_346">Bunel</string>
+    <string name="word_LB_347">Copac</string>
+    <string name="word_LB_348">a se odihni</string>
+    <string name="word_LB_349">Strămoși</string>
+    <string name="word_LB_350">Frate</string>
+    <string name="word_LB_351">a râde</string>
+    <string name="word_LB_352">Tată</string>
+    <string name="word_LB_353">Nuntă</string>
+    <string name="word_LB_354">a cere</string>
+    <string name="word_LB_355">a cânta</string>
+    <string name="word_LB_356">Nepoată</string>
+    <string name="word_LB_357">Profesor</string>
+    <string name="word_LB_358">Doctor</string>
+    <string name="word_LB_359">a cere</string>
+    <string name="word_LB_360">a cânta</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_341">Tată</string>
+    <string name="word_RB_342">Castel</string>
+    <string name="word_RB_343">Soră</string>
+    <string name="word_RB_344">Bunel</string>
+    <string name="word_RB_345">Soare</string>
+    <string name="word_RB_346">Bani</string>
+    <string name="word_RB_347">Bunică</string>
+    <string name="word_RB_348">a cânta</string>
+    <string name="word_RB_349">Pod</string>
+    <string name="word_RB_350">Vară</string>
+    <string name="word_RB_351">a glumi</string>
+    <string name="word_RB_352">Apă</string>
+    <string name="word_RB_353">Parc</string>
+    <string name="word_RB_354">a se odihni</string>
+    <string name="word_RB_355">a râde</string>
+    <string name="word_RB_356">Bunică</string>
+    <string name="word_RB_357">Haine</string>
+    <string name="word_RB_358">Soț</string>
+    <string name="word_RB_359">a juca</string>
+    <string name="word_RB_360">a se odihni</string>
+    <!-- END -->
+</resources>

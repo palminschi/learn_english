@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_title_281" translatable="false">el frío</string>
+    <string name="word_title_282" translatable="false">la escarcha</string>
+    <string name="word_title_283" translatable="false">la nube</string>
+    <string name="word_title_284" translatable="false">la escarcha</string>
+    <string name="word_title_285" translatable="false">el viento</string>
+    <string name="word_title_286" translatable="false">el tiempo</string>
+    <string name="word_title_287" translatable="false">mojado</string>
+    <string name="word_title_288" translatable="false">Ventoso</string>
+    <string name="word_title_289" translatable="false">hijo</string>
+    <string name="word_title_290" translatable="false">brillar</string>
+    <string name="word_title_291" translatable="false">al deshielo</string>
+    <string name="word_title_292" translatable="false">nublado</string>
+    <string name="word_title_293" translatable="false">nublado</string>
+    <string name="word_title_294" translatable="false">congelar</string>
+    <string name="word_title_295" translatable="false">despertarse</string>
+    <string name="word_title_296" translatable="false">la temporada</string>
+    <string name="word_title_297" translatable="false">el otoño</string>
+    <string name="word_title_298" translatable="false">la primavera</string>
+    <string name="word_title_299" translatable="false">oscuro</string>
+    <string name="word_title_300" translatable="false">luz</string>
+
+    <string name="word_translate_281">cold</string>
+    <string name="word_translate_282">frost</string>
+    <string name="word_translate_283">cloud</string>
+    <string name="word_translate_284">rime</string>
+    <string name="word_translate_285">wind</string>
+    <string name="word_translate_286">weather</string>
+    <string name="word_translate_287">wet</string>
+    <string name="word_translate_288">windy</string>
+    <string name="word_translate_289">sonny</string>
+    <string name="word_translate_290">to shine</string>
+    <string name="word_translate_291">to thaw</string>
+    <string name="word_translate_292">cloudy</string>
+    <string name="word_translate_293">cloudy</string>
+    <string name="word_translate_294">to freeze over</string>
+    <string name="word_translate_295">to awake</string>
+    <string name="word_translate_296">season</string>
+    <string name="word_translate_297">autumn</string>
+    <string name="word_translate_298">spring</string>
+    <string name="word_translate_299">dark</string>
+    <string name="word_translate_300">light</string>
+    <!-- END -->
+
+    <!-- PHRASE + TRANSLATE -->
+    <string name="phrase_281" translatable="false">El frío es insoportable.</string>
+    <string name="phrase_translate_281">The cold in unbearable.</string>
+
+    <string name="phrase_282" translatable="false">Para mañana es helada.</string>
+    <string name="phrase_translate_282">For tomorrow it\'s frost.</string>
+
+    <string name="phrase_283" translatable="false">Las nubes se mueven en el cielo.</string>
+    <string name="phrase_translate_283">The clouds are moving in the sky.</string>
+
+    <string name="phrase_284" translatable="false">La escarcha cubre los árboles y los prados.</string>
+    <string name="phrase_translate_284">Rime covers the trees and meadows.</string>
+
+    <string name="phrase_285" translatable="false">Sopla un viento fuerte.</string>
+    <string name="phrase_translate_285">There is a strong wind blowing.</string>
+
+    <string name="phrase_286" translatable="false">El clima es agradable hoy.</string>
+    <string name="phrase_translate_286">The weather is nice today.</string>
+
+    <string name="phrase_287" translatable="false">Mis zapatos están mojados.</string>
+    <string name="phrase_translate_287">My shoes are wet.</string>
+
+    <string name="phrase_288" translatable="false">Cerca del mar siempre hace viento.</string>
+    <string name="phrase_translate_288">Near the see it\'s always windy.</string>
+
+    <string name="phrase_289" translatable="false">Hoy hace sol.</string>
+    <string name="phrase_translate_289">Today it\'s sunny.</string>
+
+    <string name="phrase_290" translatable="false">El sol estuvo brillando todo el día.</string>
+    <string name="phrase_translate_290">The sun was shining all day.</string>
+
+    <string name="phrase_291" translatable="false">La nieve se derritió.</string>
+    <string name="phrase_translate_291">The snow melted.</string>
+
+    <string name="phrase_292" translatable="false">El clima es de claro a nublado.</string>
+    <string name="phrase_translate_292">The weather is clear to cloudy.</string>
+
+    <string name="phrase_293" translatable="false">Está nublado.</string>
+    <string name="phrase_translate_293">It\'s cloudy.</string>
+
+    <string name="phrase_294" translatable="false">Los lagos y ríos están congelados.</string>
+    <string name="phrase_translate_294">The lakes and rivers are frozen over.</string>
+
+    <string name="phrase_295" translatable="false">En la primavera se despierta la naturaleza.</string>
+    <string name="phrase_translate_295">In the spring nature awakes.</string>
+
+    <string name="phrase_296" translatable="false">Mi estación favorita es el verano.</string>
+    <string name="phrase_translate_296">My favourite season is summer.</string>
+
+    <string name="phrase_297" translatable="false">En otoño llueve mucho.</string>
+    <string name="phrase_translate_297">In the autumn it rains a lot.</string>
+
+    <string name="phrase_298" translatable="false">En primavera todo es hermoso.</string>
+    <string name="phrase_translate_298">In the spring everything is beautiful.</string>
+
+    <string name="phrase_299" translatable="false">Está oscureciendo lentamente.</string>
+    <string name="phrase_translate_299">It\'s slowly getting dark.</string>
+
+    <string name="phrase_300" translatable="false">A plena luz del día</string>
+    <string name="phrase_translate_300">In broad daylight</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_281">cold</string>
+    <string name="word_LT_282">summer</string>
+    <string name="word_LT_283">water</string>
+    <string name="word_LT_284">rime</string>
+    <string name="word_LT_285">answer</string>
+    <string name="word_LT_286">rain</string>
+    <string name="word_LT_287">warm</string>
+    <string name="word_LT_288">cloudy</string>
+    <string name="word_LT_289">today</string>
+    <string name="word_LT_290">to think</string>
+    <string name="word_LT_291">to search</string>
+    <string name="word_LT_292">cold</string>
+    <string name="word_LT_293">dark</string>
+    <string name="word_LT_294">to freeze over</string>
+    <string name="word_LT_295">to heal</string>
+    <string name="word_LT_296">season</string>
+    <string name="word_LT_297">cloud</string>
+    <string name="word_LT_298">forest</string>
+    <string name="word_LT_299">dark</string>
+    <string name="word_LT_300">wet</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_281">sun</string>
+    <string name="word_RT_282">frost</string>
+    <string name="word_RT_283">winter</string>
+    <string name="word_RT_284">weather</string>
+    <string name="word_RT_285">wind</string>
+    <string name="word_RT_286">rules</string>
+    <string name="word_RT_287">cold</string>
+    <string name="word_RT_288">windy</string>
+    <string name="word_RT_289">cold</string>
+    <string name="word_RT_290">to eat</string>
+    <string name="word_RT_291">to thaw</string>
+    <string name="word_RT_292">sunny</string>
+    <string name="word_RT_293">cloudy</string>
+    <string name="word_RT_294">to get</string>
+    <string name="word_RT_295">to awake</string>
+    <string name="word_RT_296">park</string>
+    <string name="word_RT_297">autumn</string>
+    <string name="word_RT_298">cold</string>
+    <string name="word_RT_299">yellow</string>
+    <string name="word_RT_300">windy</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_281">summer</string>
+    <string name="word_LB_282">son</string>
+    <string name="word_LB_283">cloud</string>
+    <string name="word_LB_284">sand</string>
+    <string name="word_LB_285">ice</string>
+    <string name="word_LB_286">castle</string>
+    <string name="word_LB_287">wet</string>
+    <string name="word_LB_288">gloomy</string>
+    <string name="word_LB_289">sonny</string>
+    <string name="word_LB_290">to shine</string>
+    <string name="word_LB_291">to work</string>
+    <string name="word_LB_292">gloomy</string>
+    <string name="word_LB_293">wet</string>
+    <string name="word_LB_294">to send</string>
+    <string name="word_LB_295">to shine</string>
+    <string name="word_LB_296">disease</string>
+    <string name="word_LB_297">spring</string>
+    <string name="word_LB_298">season</string>
+    <string name="word_LB_299">green</string>
+    <string name="word_LB_300">light</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_281">sea</string>
+    <string name="word_RB_282">winter</string>
+    <string name="word_RB_283">autumn</string>
+    <string name="word_RB_284">snow</string>
+    <string name="word_RB_285">question</string>
+    <string name="word_RB_286">weather</string>
+    <string name="word_RB_287">slow</string>
+    <string name="word_RB_288">wet</string>
+    <string name="word_RB_289">warm</string>
+    <string name="word_RB_290">to travel</string>
+    <string name="word_RB_291">to love</string>
+    <string name="word_RB_292">cloudy</string>
+    <string name="word_RB_293">warm</string>
+    <string name="word_RB_294">to heal</string>
+    <string name="word_RB_295">to freeze</string>
+    <string name="word_RB_296">forest</string>
+    <string name="word_RB_297">frost</string>
+    <string name="word_RB_298">spring</string>
+    <string name="word_RB_299">pink</string>
+    <string name="word_RB_300">dark</string>
+    <!-- END -->
+</resources>

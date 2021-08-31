@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_561">Бумага</string>
+    <string name="word_translate_562">Ручка</string>
+    <string name="word_translate_563">подписывать</string>
+    <string name="word_translate_564">Контрак</string>
+    <string name="word_translate_565">Зарплата</string>
+    <string name="word_translate_566">Ключ</string>
+    <string name="word_translate_567">Дверь</string>
+    <string name="word_translate_568">закрыть</string>
+    <string name="word_translate_569">открывать</string>
+    <string name="word_translate_570">Иностранец</string>
+    <string name="word_translate_571">Местожительство</string>
+    <string name="word_translate_572">Число</string>
+    <string name="word_translate_573">Первый</string>
+    <string name="word_translate_574">что-нибудь</string>
+    <string name="word_translate_575">сейчас</string>
+    <string name="word_translate_576">вместе</string>
+    <string name="word_translate_577">Ошибка</string>
+    <string name="word_translate_578">тоже</string>
+    <string name="word_translate_579">тогда</string>
+    <string name="word_translate_580">Объявление</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_561">Я пишу на бумаге.</string>
+    <string name="phrase_translate_562">У меня нет ручки.</string>
+    <string name="phrase_translate_563">Он подписал контракт.</string>
+    <string name="phrase_translate_564">Я получил новый контракт.</string>
+    <string name="phrase_translate_565">Какая у тебя зарплата?</string>
+    <string name="phrase_translate_566">Я потерял свой ключ.</string>
+    <string name="phrase_translate_567">Дверь закрыта.</string>
+    <string name="phrase_translate_568">Я закрыл дверь.</string>
+    <string name="phrase_translate_569">Магазин открывается</string>
+    <string name="phrase_translate_570">В Берлине много иностранцев.</string>
+    <string name="phrase_translate_571">Напишите свое местожительство.</string>
+    <string name="phrase_translate_572">9 - самое большое число.</string>
+    <string name="phrase_translate_573">Я был первым</string>
+    <string name="phrase_translate_574">Я хочу что-нибудь поесть.</string>
+    <string name="phrase_translate_575">Я сейчас дома.</string>
+    <string name="phrase_translate_576">Мы вместе идем.</string>
+    <string name="phrase_translate_577">Извините! Моя ошибка.</string>
+    <string name="phrase_translate_578">Я тоже был там.</string>
+    <string name="phrase_translate_579">тогда увидимся завтра</string>
+    <string name="phrase_translate_580">Я прочитал это в объявлении</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_561">Поезд</string>
+    <string name="word_LT_562">Игрушка</string>
+    <string name="word_LT_563">ездить</string>
+    <string name="word_LT_564">Контрак</string>
+    <string name="word_LT_565">Месяц</string>
+    <string name="word_LT_566">Остров</string>
+    <string name="word_LT_567">Кровать</string>
+    <string name="word_LT_568">заплатить</string>
+    <string name="word_LT_569">дарить</string>
+    <string name="word_LT_570">Полицейский</string>
+    <string name="word_LT_571">Документ</string>
+    <string name="word_LT_572">Число</string>
+    <string name="word_LT_573">Гриб</string>
+    <string name="word_LT_574">чисто</string>
+    <string name="word_LT_575">вчера</string>
+    <string name="word_LT_576">вместе</string>
+    <string name="word_LT_577">Зарплата</string>
+    <string name="word_LT_578">еще</string>
+    <string name="word_LT_579">тогда</string>
+    <string name="word_LT_580">Совет</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_561">Бумага</string>
+    <string name="word_RT_562">Конфета</string>
+    <string name="word_RT_563">красть</string>
+    <string name="word_RT_564">Магазин</string>
+    <string name="word_RT_565">Деньги</string>
+    <string name="word_RT_566">Багажник</string>
+    <string name="word_RT_567">Стол</string>
+    <string name="word_RT_568">закрыть</string>
+    <string name="word_RT_569">играть</string>
+    <string name="word_RT_570">Иностранец</string>
+    <string name="word_RT_571">Развитие</string>
+    <string name="word_RT_572">Учебник</string>
+    <string name="word_RT_573">Бутылка</string>
+    <string name="word_RT_574">тихо</string>
+    <string name="word_RT_575">завтра</string>
+    <string name="word_RT_576">много</string>
+    <string name="word_RT_577">Премия</string>
+    <string name="word_RT_578">уже</string>
+    <string name="word_RT_579">рядом</string>
+    <string name="word_RT_580">Объявление</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_561">Счёт</string>
+    <string name="word_LB_562">Гитара</string>
+    <string name="word_LB_563">подписывать</string>
+    <string name="word_LB_564">Холод</string>
+    <string name="word_LB_565">Зарплата</string>
+    <string name="word_LB_566">Отдых</string>
+    <string name="word_LB_567">Стул</string>
+    <string name="word_LB_568">работать</string>
+    <string name="word_LB_569">открывать</string>
+    <string name="word_LB_570">Актёр</string>
+    <string name="word_LB_571">Местожительство</string>
+    <string name="word_LB_572">Буква</string>
+    <string name="word_LB_573">Самолет</string>
+    <string name="word_LB_574">последний</string>
+    <string name="word_LB_575">сегодня</string>
+    <string name="word_LB_576">немного</string>
+    <string name="word_LB_577">Ошибка</string>
+    <string name="word_LB_578">тогда</string>
+    <string name="word_LB_579">справа</string>
+    <string name="word_LB_580">Решение</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_561">Одежда</string>
+    <string name="word_RB_562">Ручка</string>
+    <string name="word_RB_563">упасть</string>
+    <string name="word_RB_564">Забор</string>
+    <string name="word_RB_565">Налог</string>
+    <string name="word_RB_566">Ключ</string>
+    <string name="word_RB_567">Дверь</string>
+    <string name="word_RB_568">остаться</string>
+    <string name="word_RB_569">спасать</string>
+    <string name="word_RB_570">Разработчик</string>
+    <string name="word_RB_571">Сдача</string>
+    <string name="word_RB_572">Слово</string>
+    <string name="word_RB_573">Первый</string>
+    <string name="word_RB_574">что-нибудь</string>
+    <string name="word_RB_575">сейчас</string>
+    <string name="word_RB_576">никто</string>
+    <string name="word_RB_577">Стакан</string>
+    <string name="word_RB_578">тоже</string>
+    <string name="word_RB_579">далеко</string>
+    <string name="word_RB_580">Спор</string>
+    <!-- END -->
+</resources>

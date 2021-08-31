@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_401">Ștecher</string>
+    <string name="word_translate_402">Chiuvetă</string>
+    <string name="word_translate_403">asemănător</string>
+    <string name="word_translate_404">stricat</string>
+    <string name="word_translate_405">Microundă</string>
+    <string name="word_translate_406">m. de spălat vase</string>
+    <string name="word_translate_407">Coș de gunoi</string>
+    <string name="word_translate_408">a comanda</string>
+    <string name="word_translate_409">a cunoaște</string>
+    <string name="word_translate_410">Conservă</string>
+    <string name="word_translate_411">întunecat</string>
+    <string name="word_translate_412">deschis</string>
+    <string name="word_translate_413">scump</string>
+    <string name="word_translate_414">întreg</string>
+    <string name="word_translate_415">destul</string>
+    <string name="word_translate_416">Manual</string>
+    <string name="word_translate_417">Asistentă</string>
+    <string name="word_translate_418">Om</string>
+    <string name="word_translate_419">Piscină</string>
+    <string name="word_translate_420">a înota</string>
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_401">Am scos ștecherul din priză.</string>
+    <string name="phrase_translate_402">Își spală mâinile în chiuvetă</string>
+    <string name="phrase_translate_403">Ele sunt foarte asemănătoare.</string>
+    <string name="phrase_translate_404">Mașina mea s-a stricat.</string>
+    <string name="phrase_translate_405">Eu pun mâncarea în cuptorul cu microunde.</string>
+    <string name="phrase_translate_406">Am cumpărat o mașină de spălat vase.</string>
+    <string name="phrase_translate_407">Eu arunc gunoiul în coșul de gunoi.</string>
+    <string name="phrase_translate_408">Ce ai comandat?</string>
+    <string name="phrase_translate_409">Îl cunoști?</string>
+    <string name="phrase_translate_410">o conservă de carne</string>
+    <string name="phrase_translate_411">Este întuneric noaptea.</string>
+    <string name="phrase_translate_412">Mașina este de culoare gri deschis.</string>
+    <string name="phrase_translate_413">Este prea scump.</string>
+    <string name="phrase_translate_414">Întreaga lume</string>
+    <string name="phrase_translate_415">Eu am mâncat destul.</string>
+    <string name="phrase_translate_416">Învăț germana dintr-un manual.</string>
+    <string name="phrase_translate_417">Asistenta a făcut injecția.</string>
+    <string name="phrase_translate_418">O persoană m-a ajutat.</string>
+    <string name="phrase_translate_419">Mă duc des la piscină.</string>
+    <string name="phrase_translate_420">Ea nu știe să înoate.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_401">Fermoar</string>
+    <string name="word_LT_402">Dulap</string>
+    <string name="word_LT_403">bogat</string>
+    <string name="word_LT_404">primul</string>
+    <string name="word_LT_405">Magazin</string>
+    <string name="word_LT_406">Supă</string>
+    <string name="word_LT_407">Bucătărie</string>
+    <string name="word_LT_408">a comanda</string>
+    <string name="word_LT_409">a trăi</string>
+    <string name="word_LT_410">Păhar</string>
+    <string name="word_LT_411">întunecat</string>
+    <string name="word_LT_412">ud</string>
+    <string name="word_LT_413">mic</string>
+    <string name="word_LT_414">azi</string>
+    <string name="word_LT_415">nimic</string>
+    <string name="word_LT_416">Cifră</string>
+    <string name="word_LT_417">Polițist</string>
+    <string name="word_LT_418">Frate</string>
+    <string name="word_LT_419">Insulă</string>
+    <string name="word_LT_420">a dărui</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_401">Cravată</string>
+    <string name="word_RT_402">Chelner</string>
+    <string name="word_RT_403">de aur</string>
+    <string name="word_RT_404">însurat</string>
+    <string name="word_RT_405">Microundă</string>
+    <string name="word_RT_406">Ceainic</string>
+    <string name="word_RT_407">Coș de gunoi</string>
+    <string name="word_RT_408">a face bani</string>
+    <string name="word_RT_409">a căuta</string>
+    <string name="word_RT_410">Conservă</string>
+    <string name="word_RT_411">galben</string>
+    <string name="word_RT_412">vânturos</string>
+    <string name="word_RT_413">mare</string>
+    <string name="word_RT_414">întreg</string>
+    <string name="word_RT_415">puțin</string>
+    <string name="word_RT_416">Manual</string>
+    <string name="word_RT_417">Asistentă</string>
+    <string name="word_RT_418">Fiu</string>
+    <string name="word_RT_419">Piscină</string>
+    <string name="word_RT_420">a face curat</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_401">Ștecher</string>
+    <string name="word_LB_402">Muzică</string>
+    <string name="word_LB_403">deschis</string>
+    <string name="word_LB_404">ultimul</string>
+    <string name="word_LB_405">Supă</string>
+    <string name="word_LB_406">m. de spălat vase</string>
+    <string name="word_LB_407">Băutură</string>
+    <string name="word_LB_408">a vinde</string>
+    <string name="word_LB_409">a cunoaște</string>
+    <string name="word_LB_410">Ștecher</string>
+    <string name="word_LB_411">verde</string>
+    <string name="word_LB_412">deschis</string>
+    <string name="word_LB_413">scump</string>
+    <string name="word_LB_414">însorat</string>
+    <string name="word_LB_415">mult</string>
+    <string name="word_LB_416">Literă</string>
+    <string name="word_LB_417">Profesor</string>
+    <string name="word_LB_418">Om</string>
+    <string name="word_LB_419">Floare</string>
+    <string name="word_LB_420">a înota</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_401">Blugi</string>
+    <string name="word_RB_402">Chiuvetă</string>
+    <string name="word_RB_403">asemănător</string>
+    <string name="word_RB_404">stricat</string>
+    <string name="word_RB_405">Oală</string>
+    <string name="word_RB_406">Frigider</string>
+    <string name="word_RB_407">Ceai</string>
+    <string name="word_RB_408">a achita</string>
+    <string name="word_RB_409">a iubi</string>
+    <string name="word_RB_410">Cuțit</string>
+    <string name="word_RB_411">roz</string>
+    <string name="word_RB_412">întunecat</string>
+    <string name="word_RB_413">dulce</string>
+    <string name="word_RB_414">cald</string>
+    <string name="word_RB_415">destul</string>
+    <string name="word_RB_416">Cuvânt</string>
+    <string name="word_RB_417">Constructor</string>
+    <string name="word_RB_418">Soare</string>
+    <string name="word_RB_419">Automobil</string>
+    <string name="word_RB_420">a găti</string>
+    <!-- END -->
+</resources>

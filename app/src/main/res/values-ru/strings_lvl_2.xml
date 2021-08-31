@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_21">Время</string>
+    <string name="word_translate_22">Час</string>
+    <string name="word_translate_23">Часы</string>
+    <string name="word_translate_24">Месяц</string>
+    <string name="word_translate_25">много</string>
+    <string name="word_translate_26">ждать</string>
+    <string name="word_translate_27">сегодня</string>
+    <string name="word_translate_28">вчера</string>
+    <string name="word_translate_29">думать</string>
+    <string name="word_translate_30">Когда?</string>
+    <string name="word_translate_31">пить</string>
+    <string name="word_translate_32">Сок</string>
+    <string name="word_translate_33">Стакан</string>
+    <string name="word_translate_34">кушать</string>
+    <string name="word_translate_35">Вода</string>
+    <string name="word_translate_36">Мясо</string>
+    <string name="word_translate_37">Завтрак</string>
+    <string name="word_translate_38">Сыр</string>
+    <string name="word_translate_39">Масло</string>
+    <string name="word_translate_40">мыть</string>
+    <!-- END -->
+
+    <!-- PHRASE  -->
+    <string name="phrase_translate_21">У меня много <b>времени</b>.</string>
+    <string name="phrase_translate_22">Я буду через 2 <b>часа</b> там.</string>
+    <string name="phrase_translate_23"><b>Часы</b> не работают.</string>
+    <string name="phrase_translate_24">У меня отпуск через <b>месяц</b>.</string>
+    <string name="phrase_translate_25">Он работает <b>много</b>.</string>
+    <string name="phrase_translate_26"><b>Ждите</b> здесь!</string>
+    <string name="phrase_translate_27">Я работаю <b>сегодня</b>.</string>
+    <string name="phrase_translate_28">Он уехал <b>вчера</b>.</string>
+    <string name="phrase_translate_29">Я думаю, …</string>
+    <string name="phrase_translate_30"><b>Когда</b> ты придешь?</string>
+    <string name="phrase_translate_31">Я <b>пью</b> кофе.</string>
+    <string name="phrase_translate_32">Стакан <b>сока</b>, пожалуйста.</string>
+    <string name="phrase_translate_33"><b>Стакан</b> упал.</string>
+    <string name="phrase_translate_34">Когда Вы <b>кушайте</b>?</string>
+    <string name="phrase_translate_35"><b>Вода</b> холодная.</string>
+    <string name="phrase_translate_36">Он не ест <b>мяса</b>.</string>
+    <string name="phrase_translate_37">Я <b>завтракаю</b> дома.</string>
+    <string name="phrase_translate_38">Я хочу покушать <b>сыр</b>.</string>
+    <string name="phrase_translate_39">Я должен купить <b>масло</b>.</string>
+    <string name="phrase_translate_40">Мне нужно <b>помыть</b> мою машину.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_21">Газета</string>
+    <string name="word_LT_22">Секунда</string>
+    <string name="word_LT_23">Урок</string>
+    <string name="word_LT_24">Месяц</string>
+    <string name="word_LT_25">все</string>
+    <string name="word_LT_26">ждать</string>
+    <string name="word_LT_27">вчера</string>
+    <string name="word_LT_28">тогда</string>
+    <string name="word_LT_29">благодарить</string>
+    <string name="word_LT_30">Кто?</string>
+    <string name="word_LT_31">пить</string>
+    <string name="word_LT_32">Соль</string>
+    <string name="word_LT_33">Стакан</string>
+    <string name="word_LT_34">мыть</string>
+    <string name="word_LT_35">Еда</string>
+    <string name="word_LT_36">Мясо</string>
+    <string name="word_LT_37">Обед</string>
+    <string name="word_LT_38">Помидор</string>
+    <string name="word_LT_39">Яйца</string>
+    <string name="word_LT_40">мыть</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_21">Город</string>
+    <string name="word_RT_22">Час</string>
+    <string name="word_RT_23">Человек</string>
+    <string name="word_RT_24">Море</string>
+    <string name="word_RT_25">много</string>
+    <string name="word_RT_26">кушать</string>
+    <string name="word_RT_27">завтра</string>
+    <string name="word_RT_28">вчера</string>
+    <string name="word_RT_29">заправиться</string>
+    <string name="word_RT_30">Где?</string>
+    <string name="word_RT_31">жить</string>
+    <string name="word_RT_32">Кофе</string>
+    <string name="word_RT_33">Тарелка</string>
+    <string name="word_RT_34">кушать</string>
+    <string name="word_RT_35">Напиток</string>
+    <string name="word_RT_36">Бутылка</string>
+    <string name="word_RT_37">Завтрак</string>
+    <string name="word_RT_38">Нож</string>
+    <string name="word_RT_39">Мороженое</string>
+    <string name="word_RT_40">пить</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_21">Дом</string>
+    <string name="word_LB_22">Гора</string>
+    <string name="word_LB_23">Шкаф</string>
+    <string name="word_LB_24">Билет</string>
+    <string name="word_LB_25">немного</string>
+    <string name="word_LB_26">пить</string>
+    <string name="word_LB_27">сегодня</string>
+    <string name="word_LB_28">всегда</string>
+    <string name="word_LB_29">думать</string>
+    <string name="word_LB_30">Когда?</string>
+    <string name="word_LB_31">мыть</string>
+    <string name="word_LB_32">Сахар</string>
+    <string name="word_LB_33">Вилка</string>
+    <string name="word_LB_34">налить</string>
+    <string name="word_LB_35">Море</string>
+    <string name="word_LB_36">Рыба</string>
+    <string name="word_LB_37">Банкет</string>
+    <string name="word_LB_38">Стол</string>
+    <string name="word_LB_39">Масло</string>
+    <string name="word_LB_40">учиться</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_21">Время</string>
+    <string name="word_RB_22">Город</string>
+    <string name="word_RB_23">Часы</string>
+    <string name="word_RB_24">Еда</string>
+    <string name="word_RB_25">никто</string>
+    <string name="word_RB_26">жить</string>
+    <string name="word_RB_27">никогда</string>
+    <string name="word_RB_28">завтра</string>
+    <string name="word_RB_29">работать</string>
+    <string name="word_RB_30">Почему?</string>
+    <string name="word_RB_31">петь</string>
+    <string name="word_RB_32">Сок</string>
+    <string name="word_RB_33">Нож</string>
+    <string name="word_RB_34">ездить</string>
+    <string name="word_RB_35">Вода</string>
+    <string name="word_RB_36">Хлеб</string>
+    <string name="word_RB_37">Ужин</string>
+    <string name="word_RB_38">Сыр</string>
+    <string name="word_RB_39">Ложка</string>
+    <string name="word_RB_40">ездить</string>
+    <!-- END -->
+</resources>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_561">Hârtie</string>
+    <string name="word_translate_562">Stilou</string>
+    <string name="word_translate_563">a semna</string>
+    <string name="word_translate_564">Contract</string>
+    <string name="word_translate_565">Salariu</string>
+    <string name="word_translate_566">Cheie</string>
+    <string name="word_translate_567">Ușă</string>
+    <string name="word_translate_568">a închide</string>
+    <string name="word_translate_569">a deschide</string>
+    <string name="word_translate_570">Străin</string>
+    <string name="word_translate_571">Reședința</string>
+    <string name="word_translate_572">Cifra</string>
+    <string name="word_translate_573">Primul</string>
+    <string name="word_translate_574">ceva</string>
+    <string name="word_translate_575">acum</string>
+    <string name="word_translate_576">împreună</string>
+    <string name="word_translate_577">Greșeală</string>
+    <string name="word_translate_578">tot</string>
+    <string name="word_translate_579">atunci</string>
+    <string name="word_translate_580">Anunț</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_561">Eu scriu pe hârtie.</string>
+    <string name="phrase_translate_562">Nu am un stilou.</string>
+    <string name="phrase_translate_563">El a semnat contractul.</string>
+    <string name="phrase_translate_564">Am primit un nou contract.</string>
+    <string name="phrase_translate_565">Care este salariul tău?</string>
+    <string name="phrase_translate_566">Mi-am pierdut cheia.</string>
+    <string name="phrase_translate_567">Ușa este închisă.</string>
+    <string name="phrase_translate_568">Eu am închis ușa.</string>
+    <string name="phrase_translate_569">Magazinul se deschide</string>
+    <string name="phrase_translate_570">Sunt mulți străini în Berlin.</string>
+    <string name="phrase_translate_571">Scrieți locul de reședință.</string>
+    <string name="phrase_translate_572">9 este cea mai mare cifră.</string>
+    <string name="phrase_translate_573">Eu am fost primul</string>
+    <string name="phrase_translate_574">Vreau să mănânc ceva.</string>
+    <string name="phrase_translate_575">Acum sunt acasă.</string>
+    <string name="phrase_translate_576">Noi mergem împreună.</string>
+    <string name="phrase_translate_577">Scuzați-mă! Greșeala mea.</string>
+    <string name="phrase_translate_578">Am fost și eu acolo.</string>
+    <string name="phrase_translate_579">atunci ne vedem mâine.</string>
+    <string name="phrase_translate_580">Am citit asta în anunț</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_561">Tren</string>
+    <string name="word_LT_562">Jucărie</string>
+    <string name="word_LT_563">a merge</string>
+    <string name="word_LT_564">Contract</string>
+    <string name="word_LT_565">Lună</string>
+    <string name="word_LT_566">Insulă</string>
+    <string name="word_LT_567">Pat</string>
+    <string name="word_LT_568">a achita</string>
+    <string name="word_LT_569">a dărui</string>
+    <string name="word_LT_570">Polițist</string>
+    <string name="word_LT_571">Document</string>
+    <string name="word_LT_572">Cifra</string>
+    <string name="word_LT_573">Ciupearcă</string>
+    <string name="word_LT_574">curat</string>
+    <string name="word_LT_575">ieri</string>
+    <string name="word_LT_576">împreună</string>
+    <string name="word_LT_577">Salariu</string>
+    <string name="word_LT_578">încă</string>
+    <string name="word_LT_579">atunci</string>
+    <string name="word_LT_580">Sfat</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_561">Hârtie</string>
+    <string name="word_RT_562">Bomboană</string>
+    <string name="word_RT_563">a fura</string>
+    <string name="word_RT_564">Magazin</string>
+    <string name="word_RT_565">Bani</string>
+    <string name="word_RT_566">Portbagaj</string>
+    <string name="word_RT_567">Masă</string>
+    <string name="word_RT_568">a închide</string>
+    <string name="word_RT_569">a juca</string>
+    <string name="word_RT_570">Străin</string>
+    <string name="word_RT_571">Dezvoltare</string>
+    <string name="word_RT_572">Manual</string>
+    <string name="word_RT_573">Sticlă</string>
+    <string name="word_RT_574">încet</string>
+    <string name="word_RT_575">mâine</string>
+    <string name="word_RT_576">mult</string>
+    <string name="word_RT_577">Premie</string>
+    <string name="word_RT_578">deja</string>
+    <string name="word_RT_579">alături</string>
+    <string name="word_RT_580">Anunț</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_561">Contă</string>
+    <string name="word_LB_562">Chitară</string>
+    <string name="word_LB_563">a semna</string>
+    <string name="word_LB_564">Frig</string>
+    <string name="word_LB_565">Salariu</string>
+    <string name="word_LB_566">Odihnă</string>
+    <string name="word_LB_567">Scaun</string>
+    <string name="word_LB_568">a lucra</string>
+    <string name="word_LB_569">a deschide</string>
+    <string name="word_LB_570">Actor</string>
+    <string name="word_LB_571">Reședința</string>
+    <string name="word_LB_572">Literă</string>
+    <string name="word_LB_573">Avion</string>
+    <string name="word_LB_574">ultimul</string>
+    <string name="word_LB_575">azi</string>
+    <string name="word_LB_576">puțin</string>
+    <string name="word_LB_577">Greșeală</string>
+    <string name="word_LB_578">atunci</string>
+    <string name="word_LB_579">dreapta</string>
+    <string name="word_LB_580">Soluție</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_561">Haine</string>
+    <string name="word_RB_562">Stilou</string>
+    <string name="word_RB_563">a cade</string>
+    <string name="word_RB_564">Gard</string>
+    <string name="word_RB_565">Impozit</string>
+    <string name="word_RB_566">Cheie</string>
+    <string name="word_RB_567">Ușă</string>
+    <string name="word_RB_568">a rămâine</string>
+    <string name="word_RB_569">a salva</string>
+    <string name="word_RB_570">Programator</string>
+    <string name="word_RB_571">Rest</string>
+    <string name="word_RB_572">Cuvânt</string>
+    <string name="word_RB_573">Primul</string>
+    <string name="word_RB_574">ceva</string>
+    <string name="word_RB_575">acum</string>
+    <string name="word_RB_576">nimeni</string>
+    <string name="word_RB_577">Păhar</string>
+    <string name="word_RB_578">tot</string>
+    <string name="word_RB_579">departe</string>
+    <string name="word_RB_580">Conflict</string>
+    <!-- END -->
+</resources>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_361">Шкаф</string>
+    <string name="word_translate_362">Кухня</string>
+    <string name="word_translate_363">Холодильник</string>
+    <string name="word_translate_364">Полка</string>
+    <string name="word_translate_365">Кастрюля</string>
+    <string name="word_translate_366">чистить</string>
+    <string name="word_translate_367">Горох</string>
+    <string name="word_translate_368">Бобы</string>
+    <string name="word_translate_369">Картофель</string>
+    <string name="word_translate_370">жарить</string>
+    <string name="word_translate_371">Чеснок</string>
+    <string name="word_translate_372">вкусная</string>
+    <string name="word_translate_373">Лук</string>
+    <string name="word_translate_374">Овощи</string>
+    <string name="word_translate_375">Лимон</string>
+    <string name="word_translate_376">Мороженое</string>
+    <string name="word_translate_377">Сливки</string>
+    <string name="word_translate_378">Груша</string>
+    <string name="word_translate_379">Фрукты</string>
+    <string name="word_translate_380">Счастье</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_361">Я купил новый шкаф.</string>
+    <string name="phrase_translate_362">Она работает на кухне.</string>
+    <string name="phrase_translate_363">Еда находится в холодильнике.</string>
+    <string name="phrase_translate_364">В шкафу 3 полок.</string>
+    <string name="phrase_translate_365">Суп варится в кастрюле.</string>
+    <string name="phrase_translate_366">Я убираю квартиру.</string>
+    <string name="phrase_translate_367">Я не ем горох.</string>
+    <string name="phrase_translate_368">Она готовит что-то из бобов.</string>
+    <string name="phrase_translate_369">Я буду есть картофель и мясо.</string>
+    <string name="phrase_translate_370">Я жарю мясо.</string>
+    <string name="phrase_translate_371">Я не ем чеснок.</string>
+    <string name="phrase_translate_372">Суп очень вкусный.</string>
+    <string name="phrase_translate_373">Я забыл купить лук.</string>
+    <string name="phrase_translate_374">Овощи полезны.</string>
+    <string name="phrase_translate_375">Чай с лимоном.</string>
+    <string name="phrase_translate_376">Ребенок ест мороженое.</string>
+    <string name="phrase_translate_377">Я люблю кофе со сливками.</string>
+    <string name="phrase_translate_378">Я пью сок из груши.</string>
+    <string name="phrase_translate_379">Она ест много фруктов.</string>
+    <string name="phrase_translate_380">Желаю тебе счастье.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_361">Шкаф</string>
+    <string name="word_LT_362">Кухня</string>
+    <string name="word_LT_363">Суп</string>
+    <string name="word_LT_364">Полка</string>
+    <string name="word_LT_365">Магазин</string>
+    <string name="word_LT_366">чистить</string>
+    <string name="word_LT_367">Салфетка</string>
+    <string name="word_LT_368">Ужин</string>
+    <string name="word_LT_369">Завтрак</string>
+    <string name="word_LT_370">дарить</string>
+    <string name="word_LT_371">Нож</string>
+    <string name="word_LT_372">маленький</string>
+    <string name="word_LT_373">Ложка</string>
+    <string name="word_LT_374">Гриб</string>
+    <string name="word_LT_375">Ресторан</string>
+    <string name="word_LT_376">Мороженое</string>
+    <string name="word_LT_377">Дом</string>
+    <string name="word_LT_378">Груша</string>
+    <string name="word_LT_379">Еда</string>
+    <string name="word_LT_380">Звезда</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_361">Официант</string>
+    <string name="word_RT_362">Лапша</string>
+    <string name="word_RT_363">Чайник</string>
+    <string name="word_RT_364">Бутылка</string>
+    <string name="word_RT_365">Лапша</string>
+    <string name="word_RT_366">петь</string>
+    <string name="word_RT_367">Горох</string>
+    <string name="word_RT_368">Обед</string>
+    <string name="word_RT_369">Картофель</string>
+    <string name="word_RT_370">чистить</string>
+    <string name="word_RT_371">Чеснок</string>
+    <string name="word_RT_372">большой</string>
+    <string name="word_RT_373">Вилка</string>
+    <string name="word_RT_374">Бутылка</string>
+    <string name="word_RT_375">Подвал</string>
+    <string name="word_RT_376">Официант</string>
+    <string name="word_RT_377">Сливки</string>
+    <string name="word_RT_378">Колбаса</string>
+    <string name="word_RT_379">Салфетка</string>
+    <string name="word_RT_380">Счастье</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_361">Музыка</string>
+    <string name="word_LB_362">Напиток</string>
+    <string name="word_LB_363">Счёт</string>
+    <string name="word_LB_364">Ложка</string>
+    <string name="word_LB_365">Суп</string>
+    <string name="word_LB_366">готовить</string>
+    <string name="word_LB_367">Еда</string>
+    <string name="word_LB_368">Бобы</string>
+    <string name="word_LB_369">Чайник</string>
+    <string name="word_LB_370">жарить</string>
+    <string name="word_LB_371">Сладости</string>
+    <string name="word_LB_372">вкусная</string>
+    <string name="word_LB_373">Магазин</string>
+    <string name="word_LB_374">Самолет</string>
+    <string name="word_LB_375">Каша</string>
+    <string name="word_LB_376">Цветок</string>
+    <string name="word_LB_377">Морковь</string>
+    <string name="word_LB_378">Вилка</string>
+    <string name="word_LB_379">Нож</string>
+    <string name="word_LB_380">Сила</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_361">Самолет</string>
+    <string name="word_RB_362">Чай</string>
+    <string name="word_RB_363">Холодильник</string>
+    <string name="word_RB_364">Мука</string>
+    <string name="word_RB_365">Кастрюля</string>
+    <string name="word_RB_366">дарить</string>
+    <string name="word_RB_367">Вкус</string>
+    <string name="word_RB_368">Диета</string>
+    <string name="word_RB_369">Обед</string>
+    <string name="word_RB_370">готовить</string>
+    <string name="word_RB_371">Ложка</string>
+    <string name="word_RB_372">сладкий</string>
+    <string name="word_RB_373">Лук</string>
+    <string name="word_RB_374">Овощи</string>
+    <string name="word_RB_375">Лимон</string>
+    <string name="word_RB_376">Чайник</string>
+    <string name="word_RB_377">Люди</string>
+    <string name="word_RB_378">Тарелка</string>
+    <string name="word_RB_379">Фрукты</string>
+    <string name="word_RB_380">Перец</string>
+    <!-- END -->
+</resources>

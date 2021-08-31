@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_461">Опыт</string>
+    <string name="word_translate_462">Память</string>
+    <string name="word_translate_463">Воспоминание</string>
+    <string name="word_translate_464">забыть</string>
+    <string name="word_translate_465">Польза</string>
+    <string name="word_translate_466">Преимущество</string>
+    <string name="word_translate_467">Знание</string>
+    <string name="word_translate_468">Душа</string>
+    <string name="word_translate_469">Привычка</string>
+    <string name="word_translate_470">Средство</string>
+    <string name="word_translate_471">Чудо</string>
+    <string name="word_translate_472">удивлять</string>
+    <string name="word_translate_473">Огонь</string>
+    <string name="word_translate_474">Пожарная</string>
+    <string name="word_translate_475">Зажигалка</string>
+    <string name="word_translate_476">курить</string>
+    <string name="word_translate_477">Случай</string>
+    <string name="word_translate_478">Мысль</string>
+    <string name="word_translate_479">Выбор</string>
+    <string name="word_translate_480">выбирать</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_461">Так я получаю много опыта.</string>
+    <string name="phrase_translate_462">Он потерял память.</string>
+    <string name="phrase_translate_463">У меня тут много воспоминаний</string>
+    <string name="phrase_translate_464">Я забыл свой рюкзак.</string>
+    <string name="phrase_translate_465">Спорт приносит пользу</string>
+    <string name="phrase_translate_466">Первая команда имеет преимущество.</string>
+    <string name="phrase_translate_467">Знание - сила.</string>
+    <string name="phrase_translate_468">У него хорошая душа.</string>
+    <string name="phrase_translate_469">Это моя привычка.</string>
+    <string name="phrase_translate_470">Моющее средство</string>
+    <string name="phrase_translate_471">Я не верю в чудо.</string>
+    <string name="phrase_translate_472">Он меня удивляет.</string>
+    <string name="phrase_translate_473">Я разжог огонь.</string>
+    <string name="phrase_translate_474">Мы должны вызвать пожарную.</string>
+    <string name="phrase_translate_475">У Вас есть зажигалка?</string>
+    <string name="phrase_translate_476">Я не курю.</string>
+    <string name="phrase_translate_477">в любом случае</string>
+    <string name="phrase_translate_478">У меня возникла мысль</string>
+    <string name="phrase_translate_479">Нам нужно сделать выбор.</string>
+    <string name="phrase_translate_480">Я выбираю второй вариант.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_461">Деревня</string>
+    <string name="word_LT_462">Память</string>
+    <string name="word_LT_463">Пенсионер</string>
+    <string name="word_LT_464">забыть</string>
+    <string name="word_LT_465">Документ</string>
+    <string name="word_LT_466">Страхование</string>
+    <string name="word_LT_467">Опыт</string>
+    <string name="word_LT_468">Месяц</string>
+    <string name="word_LT_469">Контрак</string>
+    <string name="word_LT_470">Средство</string>
+    <string name="word_LT_471">Мэрия</string>
+    <string name="word_LT_472">дарить</string>
+    <string name="word_LT_473">Лето</string>
+    <string name="word_LT_474">Пожарная</string>
+    <string name="word_LT_475">Время</string>
+    <string name="word_LT_476">красть</string>
+    <string name="word_LT_477">Деревня</string>
+    <string name="word_LT_478">Мысль</string>
+    <string name="word_LT_479">Штаны</string>
+    <string name="word_LT_480">заказывать</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_461">Опыт</string>
+    <string name="word_RT_462">Лошадь</string>
+    <string name="word_RT_463">Воспоминание</string>
+    <string name="word_RT_464">искать</string>
+    <string name="word_RT_465">Животное</string>
+    <string name="word_RT_466">Счёт</string>
+    <string name="word_RT_467">Память</string>
+    <string name="word_RT_468">Польза</string>
+    <string name="word_RT_469">Магазин</string>
+    <string name="word_RT_470">Вилка</string>
+    <string name="word_RT_471">Стадион</string>
+    <string name="word_RT_472">праздновать</string>
+    <string name="word_RT_473">Суббота</string>
+    <string name="word_RT_474">Зима</string>
+    <string name="word_RT_475">Зажигалка</string>
+    <string name="word_RT_476">подписывать</string>
+    <string name="word_RT_477">Перевод</string>
+    <string name="word_RT_478">Премия</string>
+    <string name="word_RT_479">Очки</string>
+    <string name="word_RT_480">выбирать</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_461">Пенсия</string>
+    <string name="word_LB_462">Прибыль</string>
+    <string name="word_LB_463">Ночь</string>
+    <string name="word_LB_464">знать</string>
+    <string name="word_LB_465">Польза</string>
+    <string name="word_LB_466">Мяч</string>
+    <string name="word_LB_467">Воспоминание</string>
+    <string name="word_LB_468">Душа</string>
+    <string name="word_LB_469">Холод</string>
+    <string name="word_LB_470">Плита</string>
+    <string name="word_LB_471">Чудо</string>
+    <string name="word_LB_472">удивлять</string>
+    <string name="word_LB_473">Огонь</string>
+    <string name="word_LB_474">Стакан</string>
+    <string name="word_LB_475">Песок</string>
+    <string name="word_LB_476">упасть</string>
+    <string name="word_LB_477">Случай</string>
+    <string name="word_LB_478">Деньги</string>
+    <string name="word_LB_479">Выбор</string>
+    <string name="word_LB_480">продать</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_461">Дерево</string>
+    <string name="word_RB_462">Игра</string>
+    <string name="word_RB_463">Пенсия</string>
+    <string name="word_RB_464">любить</string>
+    <string name="word_RB_465">Сдача</string>
+    <string name="word_RB_466">Преимущество</string>
+    <string name="word_RB_467">Знание</string>
+    <string name="word_RB_468">Налог</string>
+    <string name="word_RB_469">Привычка</string>
+    <string name="word_RB_470">Лук</string>
+    <string name="word_RB_471">Знание</string>
+    <string name="word_RB_472">играть</string>
+    <string name="word_RB_473">Зима</string>
+    <string name="word_RB_474">Осень</string>
+    <string name="word_RB_475">Снег</string>
+    <string name="word_RB_476">курить</string>
+    <string name="word_RB_477">Пенсия</string>
+    <string name="word_RB_478">Душа</string>
+    <string name="word_RB_479">Игра</string>
+    <string name="word_RB_480">платить</string>
+    <!-- END -->
+</resources>

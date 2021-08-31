@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_21">Timp</string>
+    <string name="word_translate_22">Oră</string>
+    <string name="word_translate_23">Ceas</string>
+    <string name="word_translate_24">Lună</string>
+    <string name="word_translate_25">mult</string>
+    <string name="word_translate_26">a aştepta</string>
+    <string name="word_translate_27">azi</string>
+    <string name="word_translate_28">ieri</string>
+    <string name="word_translate_29">a gândi</string>
+    <string name="word_translate_30">Când?</string>
+    <string name="word_translate_31">a bea</string>
+    <string name="word_translate_32">Suc</string>
+    <string name="word_translate_33">Păhar</string>
+    <string name="word_translate_34">a mânca</string>
+    <string name="word_translate_35">Apă</string>
+    <string name="word_translate_36">Carne</string>
+    <string name="word_translate_37">Dejun</string>
+    <string name="word_translate_38">Brânză</string>
+    <string name="word_translate_39">Ulei</string>
+    <string name="word_translate_40">a spăla</string>
+    <!-- END -->
+
+    <!-- PHRASE  -->
+    <string name="phrase_translate_21">Eu am mult <b>timp</b>.</string>
+    <string name="phrase_translate_22">Eu sunt in 2 <b>ore</b> acolo.</string>
+    <string name="phrase_translate_23"><b>Ceasul</b> nu funcţionează.</string>
+    <string name="phrase_translate_24">Eu am vacanţă peste o <b>lună</b>.</string>
+    <string name="phrase_translate_25">El lucrează <b>mult</b>.</string>
+    <string name="phrase_translate_26"><b>Aşteptaţi</b> aici!</string>
+    <string name="phrase_translate_27">Eu lucrez <b>azi</b>.</string>
+    <string name="phrase_translate_28">El a precat <b>ieri</b>.</string>
+    <string name="phrase_translate_29">Eu mă gândesc, …</string>
+    <string name="phrase_translate_30"><b>Când</b> vii tu?</string>
+    <string name="phrase_translate_31">Eu <b>beau</b> cafea.</string>
+    <string name="phrase_translate_32">Un păhar cu <b>suc</b>, vă rog.</string>
+    <string name="phrase_translate_33"><b>Păharul</b> a căzut.</string>
+    <string name="phrase_translate_34">Când <b>mâncaţi</b> Dumneavoatră?</string>
+    <string name="phrase_translate_35"><b>Apa</b> este rece.</string>
+    <string name="phrase_translate_36">El nu mănâncă <b>carne</b>.</string>
+    <string name="phrase_translate_37">Eu iau micul dejun acasă.</string>
+    <string name="phrase_translate_38">Eu vreau sa mănânc <b>brânză</b>.</string>
+    <string name="phrase_translate_39">Trebuie să cumpăr <b>ulei</b>.</string>
+    <string name="phrase_translate_40">Trebuie <b>să-mi spăl</b> maşina mea.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_21">Ziar</string>
+    <string name="word_LT_22">Secundă</string>
+    <string name="word_LT_23">Lecţie</string>
+    <string name="word_LT_24">Lună</string>
+    <string name="word_LT_25">toţi</string>
+    <string name="word_LT_26">a aştepta</string>
+    <string name="word_LT_27">ieri</string>
+    <string name="word_LT_28">atunci</string>
+    <string name="word_LT_29">a mulţumi</string>
+    <string name="word_LT_30">Cine?</string>
+    <string name="word_LT_31">a bea</string>
+    <string name="word_LT_32">Sare</string>
+    <string name="word_LT_33">Păhar</string>
+    <string name="word_LT_34">a spăla</string>
+    <string name="word_LT_35">Mâncare</string>
+    <string name="word_LT_36">Carne</string>
+    <string name="word_LT_37">Prânzul</string>
+    <string name="word_LT_38">Roşie</string>
+    <string name="word_LT_39">Ouă</string>
+    <string name="word_LT_40">a spăla</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_21">Oraş</string>
+    <string name="word_RT_22">Oră</string>
+    <string name="word_RT_23">Om</string>
+    <string name="word_RT_24">Mare</string>
+    <string name="word_RT_25">mult</string>
+    <string name="word_RT_26">a mânca</string>
+    <string name="word_RT_27">mâine</string>
+    <string name="word_RT_28">ieri</string>
+    <string name="word_RT_29">a se alimenta</string>
+    <string name="word_RT_30">Unde?</string>
+    <string name="word_RT_31">a trăi</string>
+    <string name="word_RT_32">Cafea</string>
+    <string name="word_RT_33">Farfurie</string>
+    <string name="word_RT_34">a mânca</string>
+    <string name="word_RT_35">Băutură</string>
+    <string name="word_RT_36">Sticlă</string>
+    <string name="word_RT_37">Dejun</string>
+    <string name="word_RT_38">Cuţit</string>
+    <string name="word_RT_39">Îngheţată</string>
+    <string name="word_RT_40">a bea</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_21">Casă</string>
+    <string name="word_LB_22">Munte</string>
+    <string name="word_LB_23">Dulap</string>
+    <string name="word_LB_24">Bilet</string>
+    <string name="word_LB_25">puţin</string>
+    <string name="word_LB_26">a bea</string>
+    <string name="word_LB_27">azi</string>
+    <string name="word_LB_28">mereu</string>
+    <string name="word_LB_29">a gândi</string>
+    <string name="word_LB_30">Când?</string>
+    <string name="word_LB_31">a spăla</string>
+    <string name="word_LB_32">Sare</string>
+    <string name="word_LB_33">Furculiţă</string>
+    <string name="word_LB_34">a turna</string>
+    <string name="word_LB_35">Mare</string>
+    <string name="word_LB_36">Peşte</string>
+    <string name="word_LB_37">Banchet</string>
+    <string name="word_LB_38">Masă</string>
+    <string name="word_LB_39">Ulei</string>
+    <string name="word_LB_40">a învăţa</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_21">Timp</string>
+    <string name="word_RB_22">Oraş</string>
+    <string name="word_RB_23">Ceas</string>
+    <string name="word_RB_24">Mâncare</string>
+    <string name="word_RB_25">nimeni</string>
+    <string name="word_RB_26">a trăi</string>
+    <string name="word_RB_27">niciodata</string>
+    <string name="word_RB_28">mâine</string>
+    <string name="word_RB_29">a lucra</string>
+    <string name="word_RB_30">De ce?</string>
+    <string name="word_RB_31">a cânta</string>
+    <string name="word_RB_32">Suc</string>
+    <string name="word_RB_33">Cuţit</string>
+    <string name="word_RB_34">a merge</string>
+    <string name="word_RB_35">Apă</string>
+    <string name="word_RB_36">Pâine</string>
+    <string name="word_RB_37">Cină</string>
+    <string name="word_RB_38">Brânză</string>
+    <string name="word_RB_39">Lingură</string>
+    <string name="word_RB_40">a merge</string>
+    <!-- END -->
+</resources>

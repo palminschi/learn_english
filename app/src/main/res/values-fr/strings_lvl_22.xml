@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TITLE -->
+    <string name="word_translate_421">enseigner</string>
+    <string name="word_translate_422">la lecture</string>
+    <string name="word_translate_423">l\'examen</string>
+    <string name="word_translate_424">composer</string>
+    <string name="word_translate_425">être diplômé</string>
+    <string name="word_translate_426">l\'enseignant</string>
+    <string name="word_translate_428">enseigner</string>
+    <string name="word_translate_429">la cantine</string>
+    <string name="word_translate_430">le quartier</string>
+    <string name="word_translate_431">le journal</string>
+    <string name="word_translate_432">ouvert</string>
+    <string name="word_translate_433">fermé</string>
+    <string name="word_translate_434">calmer</string>
+    <string name="word_translate_435">peut être</string>
+    <string name="word_translate_436">le revenu</string>
+    <string name="word_translate_437">les salaires</string>
+    <string name="word_translate_438">la fenêtre</string>
+    <string name="word_translate_439">le sol</string>
+    <string name="word_translate_440">le sous-sol</string>
+    <!-- END -->
+
+    <!-- PHRASE -->
+    <string name="phrase_translate_421">Il m\'apprend à jouer au football.</string>
+    <string name="phrase_translate_422">Je suis dans une conférence en ce moment.</string>
+    <string name="phrase_translate_423">J\'ai un examen samedi.</string>
+    <string name="phrase_translate_424">J\'ai composé une chanson.</string>
+    <string name="phrase_translate_425">Je suis diplômé de l\'école.</string>
+    <string name="phrase_translate_426">J\'ai un bon professeur.</string>
+    <string name="phrase_translate_427">Je reçois une grosse bourse.</string>
+    <string name="phrase_translate_428">Elle enseigne à l\'université.</string>
+    <string name="phrase_translate_429">On mange à la cantine.</string>
+    <string name="phrase_translate_430">Un nouveau trimestre a commencé.</string>
+    <string name="phrase_translate_431">Je l\'ai lu dans le journal.</string>
+    <string name="phrase_translate_432">Le magasin est-il toujours ouvert ?</string>
+    <string name="phrase_translate_433">Toutes les écoles sont fermées.</string>
+    <string name="phrase_translate_434">Mon chien est très calme.</string>
+    <string name="phrase_translate_435">Peut-être! Mais je ne suis pas sûr.</string>
+    <string name="phrase_translate_436">Quel est votre revenu?</string>
+    <string name="phrase_translate_437">Il a un niveau de salaire élevé.</string>
+    <string name="phrase_translate_438">La fenêtre est fermée.</string>
+    <string name="phrase_translate_439">Le sol de la maison est sale.</string>
+    <string name="phrase_translate_440">Mon vélo est au sous-sol.</string>
+    <!-- END -->
+
+
+    <!-- WORD_LT -->
+    <string name="word_LT_421">mettre</string>
+    <string name="word_LT_422">la lettre</string>
+    <string name="word_LT_423">La sortie</string>
+    <string name="word_LT_424">composer</string>
+    <string name="word_LT_425">être diplômé</string>
+    <string name="word_LT_426">le flic</string>
+    <string name="word_LT_427">le nombre</string>
+    <string name="word_LT_428">danser</string>
+    <string name="word_LT_429">le restaurant</string>
+    <string name="word_LT_430">le quartier</string>
+    <string name="word_LT_431">le temps</string>
+    <string name="word_LT_432">vieille</string>
+    <string name="word_LT_433">fermé</string>
+    <string name="word_LT_434">première</string>
+    <string name="word_LT_435">rien</string>
+    <string name="word_LT_436">le revenu</string>
+    <string name="word_LT_437">les salaires</string>
+    <string name="word_LT_438">le village</string>
+    <string name="word_LT_439">l\'Ile</string>
+    <string name="word_LT_440">le sous-sol</string>
+    <!-- END -->
+
+    <!-- WORD_RT -->
+    <string name="word_RT_421">rire</string>
+    <string name="word_RT_422">la profession</string>
+    <string name="word_RT_423">l\'instruction</string>
+    <string name="word_RT_424">manger</string>
+    <string name="word_RT_425">chanter</string>
+    <string name="word_RT_426">le docteur</string>
+    <string name="word_RT_427">la bourse</string>
+    <string name="word_RT_428">crier</string>
+    <string name="word_RT_429">le sous-sol</string>
+    <string name="word_RT_430">la nourriture</string>
+    <string name="word_RT_431">le journal</string>
+    <string name="word_RT_432">ouvert</string>
+    <string name="word_RT_433">rouge</string>
+    <string name="word_RT_434">calmer</string>
+    <string name="word_RT_435">peu</string>
+    <string name="word_RT_436">la prime</string>
+    <string name="word_RT_437">le transfert</string>
+    <string name="word_RT_438">la maison</string>
+    <string name="word_RT_439">la piscine</string>
+    <string name="word_RT_440">le serveur</string>
+    <!-- END -->
+
+    <!-- WORD_LB -->
+    <string name="word_LB_421">enseigner</string>
+    <string name="word_LB_422">le livre</string>
+    <string name="word_LB_423">l\'examen</string>
+    <string name="word_LB_424">briller</string>
+    <string name="word_LB_425">cuisiner</string>
+    <string name="word_LB_426">l\'enseignant</string>
+    <string name="word_LB_427">la lettre</string>
+    <string name="word_LB_428">écouter</string>
+    <string name="word_LB_429">la cantine</string>
+    <string name="word_LB_430">les chaussures</string>
+    <string name="word_LB_431">les noces</string>
+    <string name="word_LB_432">magnifique</string>
+    <string name="word_LB_433">vite</string>
+    <string name="word_LB_434">dernier</string>
+    <string name="word_LB_435">beaucoup</string>
+    <string name="word_LB_436">l\'argent</string>
+    <string name="word_LB_437">la ville</string>
+    <string name="word_LB_438">la montagne</string>
+    <string name="word_LB_439">le sol</string>
+    <string name="word_LB_440">la musique</string>
+    <!-- END -->
+
+    <!-- WORD_RB -->
+    <string name="word_RB_421">se reposer</string>
+    <string name="word_RB_422">la lecture</string>
+    <string name="word_RB_423">l\'océan</string>
+    <string name="word_RB_424">voyager</string>
+    <string name="word_RB_425">pour donner</string>
+    <string name="word_RB_426">le constructeur</string>
+    <string name="word_RB_427">le mot</string>
+    <string name="word_RB_428">enseigner</string>
+    <string name="word_RB_429">l\'argent</string>
+    <string name="word_RB_430">les lunettes</string>
+    <string name="word_RB_431">le parc</string>
+    <string name="word_RB_432">fermé</string>
+    <string name="word_RB_433">ralentir</string>
+    <string name="word_RB_434">cassé</string>
+    <string name="word_RB_435">peut être</string>
+    <string name="word_RB_436">le verre</string>
+    <string name="word_RB_437">la retraite</string>
+    <string name="word_RB_438">la fenêtre</string>
+    <string name="word_RB_439">la voiture</string>
+    <string name="word_RB_440">l\'avion</string>
+    <!-- END -->
+</resources>

@@ -6,8 +6,8 @@
     <string name="AD_APP_ID" translatable="false">ca-app-pub-6012847014470005~7937546910</string>
     <string name="AD_UNIT_INTERSTITIAL_ID" translatable="false">ca-app-pub-6012847014470005/5356433847</string>
     <string name="AD_UNIT_BANNER_ID" translatable="false">ca-app-pub-6012847014470005/7223231041</string>
-    <string name="base64Key" translatable="false">123</string>
-    <string name="privacy_policy" translatable="false">https://spanish-in-30-days.flycricket.io/privacy.html</string>
+    <string name="base64Key" translatable="false">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhbscp5UUTSHMn2/ldlObI4k/4Gs+3TJl+jSSCXSZgSClumf0j+yBQCfewtr+7t5E199v0xdrIyncKA43NZKAwpZZPZ1ki6YxThfnc3kt3LG54aHGxaiEbhlkBZH0SUlBv6qxDWH9xTXEsc9kD5TW55cn/QfPX2TykzZT5HbEl5YhoMNoPnLRu7f5uvlNiLe23DIYbSbAOEIKCTvDrAh1FEr+XM5mgneSSm/b7EHf4nmZ1fJ6r6mkgdWD51CEyU9yKUVHRxKSKhAbsLLdd+VjHSRkjc3wThY4kXSYsZYheHZ6g3oU/OVuO1e49b+Pjm5N7DQ96e70V7Wq2+brvPCN3wIDAQAB</string>
+    <string name="privacy_policy" translatable="false">https://english-in-30-days.flycricket.io/privacy.html</string>
 
     <!-- Preferences -->
     <string name="save" translatable="false">Save</string>

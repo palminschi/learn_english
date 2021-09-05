@@ -1,201 +1,201 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- TITLE -->
-    <string name="word_title_81" translatable="false">el color</string>
-    <string name="word_title_82" translatable="false">rojo</string>
-    <string name="word_title_83" translatable="false">gris</string>
-    <string name="word_title_84" translatable="false">el vehículo</string>
-    <string name="word_title_85" translatable="false">el tren</string>
-    <string name="word_title_86" translatable="false">el avión</string>
-    <string name="word_title_87" translatable="false">lento</string>
-    <string name="word_title_88" translatable="false">largo</string>
-    <string name="word_title_89" translatable="false">el tranvía</string>
-    <string name="word_title_90" translatable="false">amarillo</string>
-    <string name="word_title_91" translatable="false">la autopista</string>
-    <string name="word_title_92" translatable="false">el aparcamiento</string>
-    <string name="word_title_93" translatable="false">el espacio</string>
-    <string name="word_title_94" translatable="false">azul</string>
-    <string name="word_title_95" translatable="false">repostar</string>
-    <string name="word_title_96" translatable="false">encender</string>
-    <string name="word_title_97" translatable="false">la gasolinera</string>
-    <string name="word_title_98" translatable="false">la сonstrucción</string>
-    <string name="word_title_99" translatable="false">blanco</string>
-    <string name="word_title_100" translatable="false">construir</string>
+    <string name="word_title_81" translatable="false">color</string>
+    <string name="word_title_82" translatable="false">red</string>
+    <string name="word_title_83" translatable="false">grey</string>
+    <string name="word_title_84" translatable="false">vehicle</string>
+    <string name="word_title_85" translatable="false">train</string>
+    <string name="word_title_86" translatable="false">plane</string>
+    <string name="word_title_87" translatable="false">slow</string>
+    <string name="word_title_88" translatable="false">long</string>
+    <string name="word_title_89" translatable="false">tram</string>
+    <string name="word_title_90" translatable="false">yellow</string>
+    <string name="word_title_91" translatable="false">freeway</string>
+    <string name="word_title_92" translatable="false">parking</string>
+    <string name="word_title_93" translatable="false">space</string>
+    <string name="word_title_94" translatable="false">blue</string>
+    <string name="word_title_95" translatable="false">to refuel</string>
+    <string name="word_title_96" translatable="false">to start</string>
+    <string name="word_title_97" translatable="false">filling station</string>
+    <string name="word_title_98" translatable="false">construction site</string>
+    <string name="word_title_99" translatable="false">white</string>
+    <string name="word_title_100" translatable="false">to build</string>
 
-    <string name="word_translate_81">color</string>
-    <string name="word_translate_82">red</string>
-    <string name="word_translate_83">grey</string>
-    <string name="word_translate_84">vehicle</string>
-    <string name="word_translate_85">train</string>
-    <string name="word_translate_86">plane</string>
-    <string name="word_translate_87">slow</string>
-    <string name="word_translate_88">long</string>
-    <string name="word_translate_89">tram</string>
-    <string name="word_translate_90">yellow</string>
-    <string name="word_translate_91">freeway</string>
-    <string name="word_translate_92">parking</string>
-    <string name="word_translate_93">space</string>
-    <string name="word_translate_94">blue</string>
-    <string name="word_translate_95">to refuel</string>
-    <string name="word_translate_96">to start</string>
-    <string name="word_translate_97">filling station</string>
-    <string name="word_translate_98">construction site</string>
-    <string name="word_translate_99">white</string>
-    <string name="word_translate_100">to build</string>
+    <string name="word_translate_81">el color</string>
+    <string name="word_translate_82">rojo</string>
+    <string name="word_translate_83">gris</string>
+    <string name="word_translate_84">el vehículo</string>
+    <string name="word_translate_85">el tren</string>
+    <string name="word_translate_86">el avión</string>
+    <string name="word_translate_87">lento</string>
+    <string name="word_translate_88">largo</string>
+    <string name="word_translate_89">el tranvía</string>
+    <string name="word_translate_90">amarillo</string>
+    <string name="word_translate_91">la autopista</string>
+    <string name="word_translate_92">el aparcamiento</string>
+    <string name="word_translate_93">el espacio</string>
+    <string name="word_translate_94">azul</string>
+    <string name="word_translate_95">repostar</string>
+    <string name="word_translate_96">encender</string>
+    <string name="word_translate_97">la gasolinera</string>
+    <string name="word_translate_98">la сonstrucción</string>
+    <string name="word_translate_99">blanco</string>
+    <string name="word_translate_100">construir</string>
     <!-- END -->
 
     <!-- PHRASE + TRANSLATE -->
-    <string name="phrase_81" translatable="false">¿Cual color te gusta?</string>
-    <string name="phrase_translate_81">Which color do you like?</string>
+    <string name="phrase_81" translatable="false">Which color do you like?</string>
+    <string name="phrase_translate_81">¿Cual color te gusta?</string>
 
-    <string name="phrase_82" translatable="false">La manzana es roja.</string>
-    <string name="phrase_translate_82">The apple is red.</string>
+    <string name="phrase_82" translatable="false">The apple is red.</string>
+    <string name="phrase_translate_82">La manzana es roja.</string>
 
-    <string name="phrase_83" translatable="false">El tiene el cabello gris.</string>
-    <string name="phrase_translate_83">He has grey hair.</string>
+    <string name="phrase_83" translatable="false">He has grey hair.</string>
+    <string name="phrase_translate_83">El tiene el cabello gris.</string>
 
-    <string name="phrase_84" translatable="false">Hay muchos vehículos en la ciudad.</string>
-    <string name="phrase_translate_84">There are many vehicles in the city.</string>
+    <string name="phrase_84" translatable="false">There are many vehicles in the city.</string>
+    <string name="phrase_translate_84">Hay muchos vehículos en la ciudad.</string>
 
-    <string name="phrase_85" translatable="false">¿Cuándo llega el tren?</string>
-    <string name="phrase_translate_85">When does the train arrive?</string>
+    <string name="phrase_85" translatable="false">When does the train arrive?</string>
+    <string name="phrase_translate_85">¿Cuándo llega el tren?</string>
 
-    <string name="phrase_86" translatable="false">Nuestro vuelo sale a las 15 horas.</string>
-    <string name="phrase_translate_86">Our flight goes at 15 o\'clock.</string>
+    <string name="phrase_86" translatable="false">Our flight goes at 15 o\'clock.</string>
+    <string name="phrase_translate_86">Nuestro vuelo sale a las 15 horas.</string>
 
-    <string name="phrase_87" translatable="false">Caminas muy despacio.</string>
-    <string name="phrase_translate_87">You are walking very slowly.</string>
+    <string name="phrase_87" translatable="false">You are walking very slowly.</string>
+    <string name="phrase_translate_87">Caminas muy despacio.</string>
 
-    <string name="phrase_88" translatable="false">Tienes cabello largo.</string>
-    <string name="phrase_translate_88">You have long hair.</string>
+    <string name="phrase_88" translatable="false">You have long hair.</string>
+    <string name="phrase_translate_88">Tienes cabello largo.</string>
 
-    <string name="phrase_89" translatable="false">¿A dónde va el tranvía?</string>
-    <string name="phrase_translate_89">Where does the tram go?</string>
+    <string name="phrase_89" translatable="false">Where does the tram go?</string>
+    <string name="phrase_translate_89">¿A dónde va el tranvía?</string>
 
-    <string name="phrase_90" translatable="false">El sol es amarillo.</string>
-    <string name="phrase_translate_90">The sun is yellow.</string>
+    <string name="phrase_90" translatable="false">The sun is yellow.</string>
+    <string name="phrase_translate_90">El sol es amarillo.</string>
 
-    <string name="phrase_91" translatable="false">Conduzco por la autopista.</string>
-    <string name="phrase_translate_91">I\'m driving on the freeway.</string>
+    <string name="phrase_91" translatable="false">I\'m driving on the freeway.</string>
+    <string name="phrase_translate_91">Conduzco por la autopista.</string>
 
-    <string name="phrase_92" translatable="false">Estoy buscando una plaza de aparcamiento.</string>
-    <string name="phrase_translate_92">I\'m searching for a parking slot.</string>
+    <string name="phrase_92" translatable="false">I\'m searching for a parking slot.</string>
+    <string name="phrase_translate_92">Estoy buscando una plaza de aparcamiento.</string>
 
-    <string name="phrase_93" translatable="false">Aquí hay suficiente espacio.</string>
-    <string name="phrase_translate_93">There is enough space here.</string>
+    <string name="phrase_93" translatable="false">There is enough space here.</string>
+    <string name="phrase_translate_93">Aquí hay suficiente espacio.</string>
 
-    <string name="phrase_94" translatable="false">El cielo es azul.</string>
-    <string name="phrase_translate_94">The sky is blue.</string>
+    <string name="phrase_94" translatable="false">The sky is blue.</string>
+    <string name="phrase_translate_94">El cielo es azul.</string>
 
-    <string name="phrase_95" translatable="false">Tenemos que llenar el auto.</string>
-    <string name="phrase_translate_95">We have to fill up the car.</string>
+    <string name="phrase_95" translatable="false">We have to fill up the car.</string>
+    <string name="phrase_translate_95">Tenemos que llenar el auto.</string>
 
-    <string name="phrase_96" translatable="false">¡Enciende el auto!</string>
-    <string name="phrase_translate_96">Start the car!</string>
+    <string name="phrase_96" translatable="false">Start the car!</string>
+    <string name="phrase_translate_96">¡Enciende el auto!</string>
 
-    <string name="phrase_97" translatable="false">¿Dónde hay una gasolinera?</string>
-    <string name="phrase_translate_97">Where is a filling station? </string>
+    <string name="phrase_97" translatable="false">"Where is a filling station? "</string>
+    <string name="phrase_translate_97">¿Dónde hay una gasolinera?</string>
 
-    <string name="phrase_98" translatable="false">¡Peligro! Hay un sitio de construcción.</string>
-    <string name="phrase_translate_98">Danger! There is a construction site.</string>
+    <string name="phrase_98" translatable="false">Danger! There is a construction site.</string>
+    <string name="phrase_translate_98">¡Peligro! Hay un sitio de construcción.</string>
 
-    <string name="phrase_99" translatable="false">blanco como la nieve</string>
-    <string name="phrase_translate_99">white as snow</string>
+    <string name="phrase_99" translatable="false">white as snow</string>
+    <string name="phrase_translate_99">blanco como la nieve</string>
 
-    <string name="phrase_100" translatable="false">Estoy construyendo una casa.</string>
-    <string name="phrase_translate_100">I\'m building a house.</string>
+    <string name="phrase_100" translatable="false">I\'m building a house.</string>
+    <string name="phrase_translate_100">Estoy construyendo una casa.</string>
     <!-- END -->
 
 
     <!-- WORD_LT -->
-    <string name="word_LT_81">color</string>
-    <string name="word_LT_82">green</string>
-    <string name="word_LT_83">blue</string>
-    <string name="word_LT_84">plane</string>
-    <string name="word_LT_85">road</string>
-    <string name="word_LT_86">plane</string>
-    <string name="word_LT_87">warm</string>
-    <string name="word_LT_88">close</string>
-    <string name="word_LT_89">track</string>
-    <string name="word_LT_90">yellow</string>
-    <string name="word_LT_91">car service</string>
-    <string name="word_LT_92">park</string>
-    <string name="word_LT_93">street</string>
-    <string name="word_LT_94">blue</string>
-    <string name="word_LT_95">to build</string>
-    <string name="word_LT_96">to go</string>
-    <string name="word_LT_97">apartment</string>
-    <string name="word_LT_98">earth</string>
-    <string name="word_LT_99">blue</string>
-    <string name="word_LT_100">to build</string>
+    <string name="word_LT_81">el color</string>
+    <string name="word_LT_82">verde</string>
+    <string name="word_LT_83">azul</string>
+    <string name="word_LT_84">el avión</string>
+    <string name="word_LT_85">El camino</string>
+    <string name="word_LT_86">el avión</string>
+    <string name="word_LT_87">cálido</string>
+    <string name="word_LT_88">cerrar</string>
+    <string name="word_LT_89">la pista</string>
+    <string name="word_LT_90">amarillo</string>
+    <string name="word_LT_91">servicio de auto</string>
+    <string name="word_LT_92">el parque</string>
+    <string name="word_LT_93">la calle</string>
+    <string name="word_LT_94">azul</string>
+    <string name="word_LT_95">para construir</string>
+    <string name="word_LT_96">ir</string>
+    <string name="word_LT_97">el apartamento</string>
+    <string name="word_LT_98">la tierra</string>
+    <string name="word_LT_99">azul</string>
+    <string name="word_LT_100">construir</string>
     <!-- END -->
 
     <!-- WORD_RT -->
-    <string name="word_RT_81">friend</string>
-    <string name="word_RT_82">red</string>
-    <string name="word_RT_83">green</string>
-    <string name="word_RT_84">bicycle</string>
-    <string name="word_RT_85">house</string>
-    <string name="word_RT_86">vehicle</string>
-    <string name="word_RT_87">slow</string>
-    <string name="word_RT_88">big</string>
-    <string name="word_RT_89">vehicle</string>
-    <string name="word_RT_90">grey</string>
-    <string name="word_RT_91">education</string>
-    <string name="word_RT_92">parking</string>
-    <string name="word_RT_93">train</string>
-    <string name="word_RT_94">green</string>
-    <string name="word_RT_95">to refuel</string>
-    <string name="word_RT_96">to build</string>
-    <string name="word_RT_97">tank</string>
-    <string name="word_RT_98">bicycle</string>
-    <string name="word_RT_99">green</string>
-    <string name="word_RT_100">to wash</string>
+    <string name="word_RT_81">el amigo</string>
+    <string name="word_RT_82">rojo</string>
+    <string name="word_RT_83">verde</string>
+    <string name="word_RT_84">la bicicleta</string>
+    <string name="word_RT_85">la casa</string>
+    <string name="word_RT_86">el vehículo</string>
+    <string name="word_RT_87">lento</string>
+    <string name="word_RT_88">grande</string>
+    <string name="word_RT_89">el vehículo</string>
+    <string name="word_RT_90">gris</string>
+    <string name="word_RT_91">la educación</string>
+    <string name="word_RT_92">el aparcamiento</string>
+    <string name="word_RT_93">el tren</string>
+    <string name="word_RT_94">verde</string>
+    <string name="word_RT_95">repostar</string>
+    <string name="word_RT_96">construir</string>
+    <string name="word_RT_97">el tanque</string>
+    <string name="word_RT_98">la bicicleta</string>
+    <string name="word_RT_99">verde</string>
+    <string name="word_RT_100">lavar</string>
     <!-- END -->
 
     <!-- WORD_LB -->
-    <string name="word_LB_81">flower</string>
-    <string name="word_LB_82">blue</string>
-    <string name="word_LB_83">pink</string>
-    <string name="word_LB_84">vehicle</string>
-    <string name="word_LB_85">bed</string>
-    <string name="word_LB_86">airport</string>
-    <string name="word_LB_87">fast</string>
-    <string name="word_LB_88">long</string>
-    <string name="word_LB_89">tractor</string>
-    <string name="word_LB_90">green</string>
-    <string name="word_LB_91">freeway</string>
-    <string name="word_LB_92">filling station</string>
-    <string name="word_LB_93">track</string>
-    <string name="word_LB_94">black</string>
-    <string name="word_LB_95">to live</string>
-    <string name="word_LB_96">to start</string>
-    <string name="word_LB_97">tractor</string>
-    <string name="word_LB_98">freeway</string>
-    <string name="word_LB_99">pink</string>
-    <string name="word_LB_100">to go</string>
+    <string name="word_LB_81">la flor</string>
+    <string name="word_LB_82">azul</string>
+    <string name="word_LB_83">rosado</string>
+    <string name="word_LB_84">el vehículo</string>
+    <string name="word_LB_85">la cama</string>
+    <string name="word_LB_86">el aeropuerto</string>
+    <string name="word_LB_87">rápido</string>
+    <string name="word_LB_88">largo</string>
+    <string name="word_LB_89">el tractor</string>
+    <string name="word_LB_90">verde</string>
+    <string name="word_LB_91">la autopista</string>
+    <string name="word_LB_92">la gasolinera</string>
+    <string name="word_LB_93">la pista</string>
+    <string name="word_LB_94">negro</string>
+    <string name="word_LB_95">vivir</string>
+    <string name="word_LB_96">encender</string>
+    <string name="word_LB_97">el tractor</string>
+    <string name="word_LB_98">La autopista</string>
+    <string name="word_LB_99">rosado</string>
+    <string name="word_LB_100">ir</string>
     <!-- END -->
 
     <!-- WORD_RB -->
-    <string name="word_RB_81">life</string>
-    <string name="word_RB_82">pink</string>
-    <string name="word_RB_83">grey</string>
-    <string name="word_RB_84">freeway</string>
-    <string name="word_RB_85">train</string>
-    <string name="word_RB_86">butterfly</string>
-    <string name="word_RB_87">long</string>
-    <string name="word_RB_88">far</string>
-    <string name="word_RB_89">tram</string>
-    <string name="word_RB_90">red</string>
-    <string name="word_RB_91">filling station</string>
-    <string name="word_RB_92">train</string>
-    <string name="word_RB_93">space</string>
-    <string name="word_RB_94">yellow</string>
-    <string name="word_RB_95">to drive</string>
-    <string name="word_RB_96">to stand</string>
-    <string name="word_RB_97">filling station</string>
-    <string name="word_RB_98">construction site</string>
-    <string name="word_RB_99">white</string>
-    <string name="word_RB_100">to refuel</string>
+    <string name="word_RB_81">la vida</string>
+    <string name="word_RB_82">rosado</string>
+    <string name="word_RB_83">gris</string>
+    <string name="word_RB_84">La autopista</string>
+    <string name="word_RB_85">el tren</string>
+    <string name="word_RB_86">la mariposa</string>
+    <string name="word_RB_87">largo</string>
+    <string name="word_RB_88">lejos</string>
+    <string name="word_RB_89">el tranvía</string>
+    <string name="word_RB_90">rojo</string>
+    <string name="word_RB_91">la gasolinera</string>
+    <string name="word_RB_92">el tren</string>
+    <string name="word_RB_93">el espacio</string>
+    <string name="word_RB_94">amarillo</string>
+    <string name="word_RB_95">conducir</string>
+    <string name="word_RB_96">estar de pie</string>
+    <string name="word_RB_97">la gasolinera</string>
+    <string name="word_RB_98">la сonstrucción</string>
+    <string name="word_RB_99">blanco</string>
+    <string name="word_RB_100">repostar</string>
     <!-- END -->
 </resources>

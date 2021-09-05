@@ -65,37 +65,50 @@
                 android:layout_marginStart="45dp"
                 android:layout_marginEnd="45dp">
 
+                <TextView
+                    android:id="@+id/sub_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/sub_title"
+                    android:textColor="@color/violet_01"
+                    android:textSize="18sp"
+                    android:layout_marginTop="10dp"
+                    android:textStyle="bold"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    />
                 <Button
-                    android:onClick="onClickEN"
-                    android:layout_marginTop="30dp"
-                    android:id="@+id/btn_lang_EN"
+                    android:onClick="onClickES"
+                    android:layout_marginTop="10dp"
+                    android:id="@+id/btn_lang_ES"
                     android:layout_width="match_parent"
                     android:layout_height="60dp"
                     android:background="@drawable/style_sel_lang_actual"
                     android:elevation="1dp"
                     android:paddingStart="30dp"
                     android:paddingEnd="30dp"
-                    android:text="@string/lang_EN"
+                    android:text="@string/lang_ES"
                     android:textAlignment="textStart"
                     android:textAllCaps="false"
                     android:textColor="@color/violet_01"
                     android:textSize="24sp"
                     android:textStyle="bold"
                     app:layout_constraintBottom_toTopOf="@id/btn_lang_FR"
-                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/sub_title"
                     app:layout_constraintVertical_bias="0.9"
                     tools:layout_editor_absoluteX="0dp" />
                 <ImageView
-                    android:id="@+id/img_flag_EN"
+                    android:id="@+id/img_flag_ES"
                     android:layout_width="60dp"
                     android:layout_height="40dp"
                     android:layout_marginEnd="20dp"
                     android:background="@drawable/style_img_flag"
                     android:elevation="3dp"
-                    android:src="@drawable/flag_eng"
-                    app:layout_constraintBottom_toBottomOf="@id/btn_lang_EN"
-                    app:layout_constraintEnd_toEndOf="@id/btn_lang_EN"
-                    app:layout_constraintTop_toTopOf="@id/btn_lang_EN" />
+                    android:src="@drawable/flag_spain"
+                    app:layout_constraintBottom_toBottomOf="@id/btn_lang_ES"
+                    app:layout_constraintEnd_toEndOf="@id/btn_lang_ES"
+                    app:layout_constraintTop_toTopOf="@id/btn_lang_ES" />
 
                 <Button
                     android:onClick="onClickFR"
@@ -114,7 +127,7 @@
                     android:textStyle="bold"
                     android:layout_marginTop="20dp"
                     app:layout_constraintBottom_toTopOf="@id/btn_lang_RU"
-                    app:layout_constraintTop_toBottomOf="@id/btn_lang_EN"
+                    app:layout_constraintTop_toBottomOf="@id/btn_lang_ES"
                     app:layout_constraintVertical_bias="0.9"
                     tools:layout_editor_absoluteX="0dp" />
                 <ImageView

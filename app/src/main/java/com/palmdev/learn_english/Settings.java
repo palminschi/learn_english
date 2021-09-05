@@ -29,7 +29,7 @@ public class Settings extends AppCompatActivity {
         ImageView flag = findViewById(R.id.img_flag);
         flag.setClipToOutline(true);
 
-        flag.setImageResource(R.drawable.flag_eng);
+        flag.setImageResource(R.drawable.flag_spain);
         String locale = Locale.getDefault().getLanguage();
         switch (locale) {
             case "ru":

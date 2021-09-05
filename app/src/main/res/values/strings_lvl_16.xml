@@ -1,200 +1,200 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- TITLE -->
-    <string name="word_title_301" translatable="false">el castillo</string>
-    <string name="word_title_302" translatable="false">el puente</string>
-    <string name="word_title_303" translatable="false">la tienda</string>
-    <string name="word_title_304" translatable="false">jardín de niños</string>
-    <string name="word_title_305" translatable="false">el jardín</string>
-    <string name="word_title_306" translatable="false">los vegetales</string>
-    <string name="word_title_307" translatable="false">El jardinero</string>
-    <string name="word_title_308" translatable="false">regar</string>
-    <string name="word_title_309" translatable="false">el camino</string>
-    <string name="word_title_310" translatable="false">la raíz</string>
-    <string name="word_title_311" translatable="false">la rama</string>
-    <string name="word_title_312" translatable="false">Ayuntamiento</string>
-    <string name="word_title_313" translatable="false">la Iglesia</string>
-    <string name="word_title_314" translatable="false">el estadio</string>
-    <string name="word_title_315" translatable="false">el equipo</string>
-    <string name="word_title_316" translatable="false">El fútbol</string>
-    <string name="word_title_317" translatable="false">la carrera</string>
-    <string name="word_title_318" translatable="false">la meta</string>
-    <string name="word_title_319" translatable="false">la pelota</string>
-    <string name="word_title_320" translatable="false">jugar</string>
+    <string name="word_title_301" translatable="false">castle</string>
+    <string name="word_title_302" translatable="false">bridge</string>
+    <string name="word_title_303" translatable="false">store</string>
+    <string name="word_title_304" translatable="false">kindergarten</string>
+    <string name="word_title_305" translatable="false">garden</string>
+    <string name="word_title_306" translatable="false">vegetables</string>
+    <string name="word_title_307" translatable="false">gardener</string>
+    <string name="word_title_308" translatable="false">to water</string>
+    <string name="word_title_309" translatable="false">path</string>
+    <string name="word_title_310" translatable="false">root</string>
+    <string name="word_title_311" translatable="false">branch</string>
+    <string name="word_title_312" translatable="false">city hall</string>
+    <string name="word_title_313" translatable="false">church</string>
+    <string name="word_title_314" translatable="false">stadium</string>
+    <string name="word_title_315" translatable="false">team</string>
+    <string name="word_title_316" translatable="false">football</string>
+    <string name="word_title_317" translatable="false">running</string>
+    <string name="word_title_318" translatable="false">goal</string>
+    <string name="word_title_319" translatable="false">ball</string>
+    <string name="word_title_320" translatable="false">to play</string>
     <!-- END -->
-    <string name="word_translate_301">castle</string>
-    <string name="word_translate_302">bridge</string>
-    <string name="word_translate_303">store</string>
-    <string name="word_translate_304">kindergarten</string>
-    <string name="word_translate_305">garden</string>
-    <string name="word_translate_306">vegetables</string>
-    <string name="word_translate_307">gardener</string>
-    <string name="word_translate_308">to water</string>
-    <string name="word_translate_309">path</string>
-    <string name="word_translate_310">root</string>
-    <string name="word_translate_311">branch</string>
-    <string name="word_translate_312">city hall</string>
-    <string name="word_translate_313">church</string>
-    <string name="word_translate_314">stadium</string>
-    <string name="word_translate_315">team</string>
-    <string name="word_translate_316">football</string>
-    <string name="word_translate_317">running</string>
-    <string name="word_translate_318">goal</string>
-    <string name="word_translate_319">ball</string>
-    <string name="word_translate_320">to play</string>
+    <string name="word_translate_301">el castillo</string>
+    <string name="word_translate_302">el puente</string>
+    <string name="word_translate_303">la tienda</string>
+    <string name="word_translate_304">jardín de niños</string>
+    <string name="word_translate_305">el jardín</string>
+    <string name="word_translate_306">los vegetales</string>
+    <string name="word_translate_307">El jardinero</string>
+    <string name="word_translate_308">regar</string>
+    <string name="word_translate_309">el camino</string>
+    <string name="word_translate_310">la raíz</string>
+    <string name="word_translate_311">la rama</string>
+    <string name="word_translate_312">Ayuntamiento</string>
+    <string name="word_translate_313">la Iglesia</string>
+    <string name="word_translate_314">el estadio</string>
+    <string name="word_translate_315">el equipo</string>
+    <string name="word_translate_316">El fútbol</string>
+    <string name="word_translate_317">la carrera</string>
+    <string name="word_translate_318">la meta</string>
+    <string name="word_translate_319">la pelota</string>
+    <string name="word_translate_320">jugar</string>
 
     <!-- PHRASE + TRANSLATE -->
-    <string name="phrase_301" translatable="false">Hay muchos castillos en Alemania.</string>
-    <string name="phrase_translate_301">There are many castles in Germany.</string>
+    <string name="phrase_301" translatable="false">There are many castles in Germany.</string>
+    <string name="phrase_translate_301">Hay muchos castillos en Alemania.</string>
 
-    <string name="phrase_302" translatable="false">Condujimos por el puente.</string>
-    <string name="phrase_translate_302">We drove over the bridge.</string>
+    <string name="phrase_302" translatable="false">We drove over the bridge.</string>
+    <string name="phrase_translate_302">Condujimos por el puente.</string>
 
-    <string name="phrase_303" translatable="false">Voy a los grandes almacenes.</string>
-    <string name="phrase_translate_303">I go to the department store.</string>
+    <string name="phrase_303" translatable="false">I go to the department store.</string>
+    <string name="phrase_translate_303">Voy a los grandes almacenes.</string>
 
-    <string name="phrase_304" translatable="false">Mis hijos están en el jardín de infancia.</string>
-    <string name="phrase_translate_304">My children are in the kindergarten.</string>
+    <string name="phrase_304" translatable="false">My children are in the kindergarten.</string>
+    <string name="phrase_translate_304">Mis hijos están en el jardín de infancia.</string>
 
-    <string name="phrase_305" translatable="false">Tengo mucho trabajo que hacer en el jardín.</string>
-    <string name="phrase_translate_305">I have a lot of work to do in the garden.</string>
+    <string name="phrase_305" translatable="false">I have a lot of work to do in the garden.</string>
+    <string name="phrase_translate_305">Tengo mucho trabajo que hacer en el jardín.</string>
 
-    <string name="phrase_306" translatable="false">Tengo que comprar verduras.</string>
-    <string name="phrase_translate_306">I have to buy vegetables.</string>
+    <string name="phrase_306" translatable="false">I have to buy vegetables.</string>
+    <string name="phrase_translate_306">Tengo que comprar verduras.</string>
 
-    <string name="phrase_307" translatable="false">Trabaja como jardinero.</string>
-    <string name="phrase_translate_307">He works as a gardener.</string>
+    <string name="phrase_307" translatable="false">He works as a gardener.</string>
+    <string name="phrase_translate_307">Trabaja como jardinero.</string>
 
-    <string name="phrase_308" translatable="false">Está regando las flores.</string>
-    <string name="phrase_translate_308">He is watering the flowers.</string>
+    <string name="phrase_308" translatable="false">He is watering the flowers.</string>
+    <string name="phrase_translate_308">Está regando las flores.</string>
 
-    <string name="phrase_309" translatable="false">El camino se rompió aquí.</string>
-    <string name="phrase_translate_309">The path broke off here.</string>
+    <string name="phrase_309" translatable="false">The path broke off here.</string>
+    <string name="phrase_translate_309">El camino se rompió aquí.</string>
 
-    <string name="phrase_310" translatable="false">Estos árboles tienen muchas raíces.</string>
-    <string name="phrase_translate_310">These trees have a lot of roots.</string>
+    <string name="phrase_310" translatable="false">These trees have a lot of roots.</string>
+    <string name="phrase_translate_310">Estos árboles tienen muchas raíces.</string>
 
-    <string name="phrase_311" translatable="false">El árbol tiene muchas ramas.</string>
-    <string name="phrase_translate_311">The tree has a lot of branches.</string>
+    <string name="phrase_311" translatable="false">The tree has a lot of branches.</string>
+    <string name="phrase_translate_311">El árbol tiene muchas ramas.</string>
 
-    <string name="phrase_312" translatable="false">¿Dónde está el ayuntamiento?</string>
-    <string name="phrase_translate_312">Where is the city hall?</string>
+    <string name="phrase_312" translatable="false">Where is the city hall?</string>
+    <string name="phrase_translate_312">¿Dónde está el ayuntamiento?</string>
 
-    <string name="phrase_313" translatable="false">Va a la iglesia los domingos.</string>
-    <string name="phrase_translate_313">She goes to church on Sundays.</string>
+    <string name="phrase_313" translatable="false">She goes to church on Sundays.</string>
+    <string name="phrase_translate_313">Va a la iglesia los domingos.</string>
 
-    <string name="phrase_314" translatable="false">Están jugando al fútbol en el estadio.</string>
-    <string name="phrase_translate_314">They\'re playing football in the stadium.</string>
+    <string name="phrase_314" translatable="false">They\'re playing football in the stadium.</string>
+    <string name="phrase_translate_314">Están jugando al fútbol en el estadio.</string>
 
-    <string name="phrase_315" translatable="false">Ganó el primer equipo.</string>
-    <string name="phrase_translate_315">The first team won.</string>
+    <string name="phrase_315" translatable="false">The first team won.</string>
+    <string name="phrase_translate_315">Ganó el primer equipo.</string>
 
-    <string name="phrase_316" translatable="false">Él juega fútbol.</string>
-    <string name="phrase_translate_316">He plays football.</string>
+    <string name="phrase_316" translatable="false">He plays football.</string>
+    <string name="phrase_translate_316">Él juega fútbol.</string>
 
-    <string name="phrase_317" translatable="false">Correr es bueno para la salud.</string>
-    <string name="phrase_translate_317">Running is good for your health.</string>
+    <string name="phrase_317" translatable="false">Running is good for your health.</string>
+    <string name="phrase_translate_317">Correr es bueno para la salud.</string>
 
-    <string name="phrase_318" translatable="false">La pelota está en la portería.</string>
-    <string name="phrase_translate_318">The ball is in the goal.</string>
+    <string name="phrase_318" translatable="false">The ball is in the goal.</string>
+    <string name="phrase_translate_318">La pelota está en la portería.</string>
 
-    <string name="phrase_319" translatable="false">Le he dado la pelota.</string>
-    <string name="phrase_translate_319">I have given him the ball.</string>
+    <string name="phrase_319" translatable="false">I have given him the ball.</string>
+    <string name="phrase_translate_319">Le he dado la pelota.</string>
 
-    <string name="phrase_320" translatable="false">Yo toco la guitarra.</string>
-    <string name="phrase_translate_320">I play the guitar.</string>
+    <string name="phrase_320" translatable="false">I play the guitar.</string>
+    <string name="phrase_translate_320">Yo toco la guitarra.</string>
     <!-- END -->
 
 
     <!-- WORD_LT -->
-    <string name="word_LT_301">village</string>
-    <string name="word_LT_302">tree</string>
-    <string name="word_LT_303">village</string>
-    <string name="word_LT_304">island</string>
-    <string name="word_LT_305">flower</string>
-    <string name="word_LT_306">plane</string>
-    <string name="word_LT_307">castle</string>
-    <string name="word_LT_308">to ask</string>
-    <string name="word_LT_309">path</string>
-    <string name="word_LT_310">bathroom</string>
-    <string name="word_LT_311">branch</string>
-    <string name="word_LT_312">chair</string>
-    <string name="word_LT_313">wallet</string>
-    <string name="word_LT_314">clothing</string>
-    <string name="word_LT_315">team</string>
-    <string name="word_LT_316">cap</string>
-    <string name="word_LT_317">running</string>
-    <string name="word_LT_318">hand</string>
-    <string name="word_LT_319">fence</string>
-    <string name="word_LT_320">to play</string>
+    <string name="word_LT_301">La aldea</string>
+    <string name="word_LT_302">el árbol</string>
+    <string name="word_LT_303">La aldea</string>
+    <string name="word_LT_304">la isla</string>
+    <string name="word_LT_305">la flor</string>
+    <string name="word_LT_306">el avión</string>
+    <string name="word_LT_307">el castillo</string>
+    <string name="word_LT_308">preguntar</string>
+    <string name="word_LT_309">el camino</string>
+    <string name="word_LT_310">el cuarto de baño</string>
+    <string name="word_LT_311">la rama</string>
+    <string name="word_LT_312">la silla</string>
+    <string name="word_LT_313">la cartera</string>
+    <string name="word_LT_314">el atuendo</string>
+    <string name="word_LT_315">el equipo</string>
+    <string name="word_LT_316">la tapa</string>
+    <string name="word_LT_317">la carrera</string>
+    <string name="word_LT_318">la mano</string>
+    <string name="word_LT_319">la cerca</string>
+    <string name="word_LT_320">jugar</string>
     <!-- END -->
 
     <!-- WORD_RT -->
-    <string name="word_RT_301">castle</string>
-    <string name="word_RT_302">animal</string>
-    <string name="word_RT_303">store</string>
-    <string name="word_RT_304">kindergarten</string>
-    <string name="word_RT_305">cat</string>
-    <string name="word_RT_306">butterfly</string>
-    <string name="word_RT_307">gardener</string>
-    <string name="word_RT_308">to collect</string>
-    <string name="word_RT_309">hand</string>
-    <string name="word_RT_310">root</string>
-    <string name="word_RT_311">sound</string>
-    <string name="word_RT_312">glasses</string>
-    <string name="word_RT_313">money</string>
-    <string name="word_RT_314">stadium</string>
-    <string name="word_RT_315">hair</string>
-    <string name="word_RT_316">head</string>
-    <string name="word_RT_317">horse</string>
-    <string name="word_RT_318">body</string>
-    <string name="word_RT_319">stop</string>
-    <string name="word_RT_320">to steal</string>
+    <string name="word_RT_301">el castillo</string>
+    <string name="word_RT_302">el animal</string>
+    <string name="word_RT_303">la tienda</string>
+    <string name="word_RT_304">jardín de niños</string>
+    <string name="word_RT_305">el gato</string>
+    <string name="word_RT_306">la mariposa</string>
+    <string name="word_RT_307">El jardinero</string>
+    <string name="word_RT_308">coleccionar</string>
+    <string name="word_RT_309">la mano</string>
+    <string name="word_RT_310">la raíz</string>
+    <string name="word_RT_311">El sonido</string>
+    <string name="word_RT_312">los lentes</string>
+    <string name="word_RT_313">el dinero</string>
+    <string name="word_RT_314">el estadio</string>
+    <string name="word_RT_315">el pelo</string>
+    <string name="word_RT_316">la cabeza</string>
+    <string name="word_RT_317">el caballo</string>
+    <string name="word_RT_318">el cuerpo</string>
+    <string name="word_RT_319">la parada</string>
+    <string name="word_RT_320">robar</string>
     <!-- END -->
 
     <!-- WORD_LB -->
-    <string name="word_LB_301">filling station</string>
-    <string name="word_LB_302">flower</string>
-    <string name="word_LB_303">mountain</string>
-    <string name="word_LB_304">tree</string>
-    <string name="word_LB_305">garden</string>
-    <string name="word_LB_306">vegetables</string>
-    <string name="word_LB_307">fence</string>
-    <string name="word_LB_308">to water</string>
-    <string name="word_LB_309">mouth</string>
-    <string name="word_LB_310">mountain</string>
-    <string name="word_LB_311">pants</string>
-    <string name="word_LB_312">city hall</string>
-    <string name="word_LB_313">cupboard</string>
-    <string name="word_LB_314">shoes</string>
-    <string name="word_LB_315">cap</string>
-    <string name="word_LB_316">football</string>
-    <string name="word_LB_317">dog</string>
-    <string name="word_LB_318">clothing</string>
-    <string name="word_LB_319">head</string>
-    <string name="word_LB_320">to drive</string>
+    <string name="word_LB_301">la gasolinera</string>
+    <string name="word_LB_302">la flor</string>
+    <string name="word_LB_303">la montaña</string>
+    <string name="word_LB_304">el árbol</string>
+    <string name="word_LB_305">el jardín</string>
+    <string name="word_LB_306">los vegetales</string>
+    <string name="word_LB_307">la cerca</string>
+    <string name="word_LB_308">regar</string>
+    <string name="word_LB_309">la boca</string>
+    <string name="word_LB_310">la montaña</string>
+    <string name="word_LB_311">los pantalones</string>
+    <string name="word_LB_312">Ayuntamiento</string>
+    <string name="word_LB_313">el armario</string>
+    <string name="word_LB_314">los zapatos</string>
+    <string name="word_LB_315">la tapa</string>
+    <string name="word_LB_316">El fútbol</string>
+    <string name="word_LB_317">el perro</string>
+    <string name="word_LB_318">el atuendo</string>
+    <string name="word_LB_319">la cabeza</string>
+    <string name="word_LB_320">conducir</string>
     <!-- END -->
 
     <!-- WORD_RB -->
-    <string name="word_RB_301">construction</string>
-    <string name="word_RB_302">bridge</string>
-    <string name="word_RB_303">tree</string>
-    <string name="word_RB_304">game</string>
-    <string name="word_RB_305">plane</string>
-    <string name="word_RB_306">dog</string>
-    <string name="word_RB_307">earth</string>
-    <string name="word_RB_308">to jump</string>
-    <string name="word_RB_309">sea</string>
-    <string name="word_RB_310">forest</string>
-    <string name="word_RB_311">glasses</string>
-    <string name="word_RB_312">shoes</string>
-    <string name="word_RB_313">church</string>
-    <string name="word_RB_314">glasses</string>
-    <string name="word_RB_315">hat</string>
-    <string name="word_RB_316">mouth</string>
-    <string name="word_RB_317">hat</string>
-    <string name="word_RB_318">goal</string>
-    <string name="word_RB_319">ball</string>
-    <string name="word_RB_320">to wash</string>
+    <string name="word_RB_301">la construcción</string>
+    <string name="word_RB_302">el puente</string>
+    <string name="word_RB_303">el árbol</string>
+    <string name="word_RB_304">el juego</string>
+    <string name="word_RB_305">el avión</string>
+    <string name="word_RB_306">el perro</string>
+    <string name="word_RB_307">la tierra</string>
+    <string name="word_RB_308">saltar</string>
+    <string name="word_RB_309">el mar</string>
+    <string name="word_RB_310">el bosque</string>
+    <string name="word_RB_311">los lentes</string>
+    <string name="word_RB_312">los zapatos</string>
+    <string name="word_RB_313">la Iglesia</string>
+    <string name="word_RB_314">los lentes</string>
+    <string name="word_RB_315">el sombrero</string>
+    <string name="word_RB_316">la boca</string>
+    <string name="word_RB_317">el sombrero</string>
+    <string name="word_RB_318">la meta</string>
+    <string name="word_RB_319">la pelota</string>
+    <string name="word_RB_320">lavar</string>
     <!-- END -->
 </resources>

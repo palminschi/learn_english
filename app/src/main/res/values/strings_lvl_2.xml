@@ -1,201 +1,201 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- TITLE -->
-    <string name="word_title_21" translatable="false">el tiempo</string>
-    <string name="word_title_22" translatable="false">la hora</string>
-    <string name="word_title_23" translatable="false">el reloj</string>
-    <string name="word_title_24" translatable="false">el mes</string>
-    <string name="word_title_25" translatable="false">mucho</string>
-    <string name="word_title_26" translatable="false">esperar</string>
-    <string name="word_title_27" translatable="false">hoy</string>
-    <string name="word_title_28" translatable="false">ayer</string>
-    <string name="word_title_29" translatable="false">pensar</string>
-    <string name="word_title_30" translatable="false">¿Cuándo?</string>
-    <string name="word_title_31" translatable="false">beber</string>
-    <string name="word_title_32" translatable="false">el jugo</string>
-    <string name="word_title_33" translatable="false">el vaso</string>
-    <string name="word_title_34" translatable="false">comer</string>
-    <string name="word_title_35" translatable="false">el agua</string>
-    <string name="word_title_36" translatable="false">la carne</string>
-    <string name="word_title_37" translatable="false">el desayuno</string>
-    <string name="word_title_38" translatable="false">el queso</string>
-    <string name="word_title_39" translatable="false">el aceite</string>
-    <string name="word_title_40" translatable="false">lavar</string>
+    <string name="word_title_21" translatable="false">time</string>
+    <string name="word_title_22" translatable="false">hour</string>
+    <string name="word_title_23" translatable="false">clock</string>
+    <string name="word_title_24" translatable="false">month</string>
+    <string name="word_title_25" translatable="false">much</string>
+    <string name="word_title_26" translatable="false">to wait</string>
+    <string name="word_title_27" translatable="false">today</string>
+    <string name="word_title_28" translatable="false">yesterday</string>
+    <string name="word_title_29" translatable="false">to think</string>
+    <string name="word_title_30" translatable="false">When?</string>
+    <string name="word_title_31" translatable="false">to drink</string>
+    <string name="word_title_32" translatable="false">juice</string>
+    <string name="word_title_33" translatable="false">glass</string>
+    <string name="word_title_34" translatable="false">to eat</string>
+    <string name="word_title_35" translatable="false">water</string>
+    <string name="word_title_36" translatable="false">meat</string>
+    <string name="word_title_37" translatable="false">breakfast</string>
+    <string name="word_title_38" translatable="false">cheese</string>
+    <string name="word_title_39" translatable="false">oil</string>
+    <string name="word_title_40" translatable="false">to wash</string>
 
-    <string name="word_translate_21">time</string>
-    <string name="word_translate_22">hour</string>
-    <string name="word_translate_23">clock</string>
-    <string name="word_translate_24">month</string>
-    <string name="word_translate_25">much</string>
-    <string name="word_translate_26">to wait</string>
-    <string name="word_translate_27">today</string>
-    <string name="word_translate_28">yesterday</string>
-    <string name="word_translate_29">to think</string>
-    <string name="word_translate_30">When?</string>
-    <string name="word_translate_31">to drink</string>
-    <string name="word_translate_32">juice</string>
-    <string name="word_translate_33">glass</string>
-    <string name="word_translate_34">to eat</string>
-    <string name="word_translate_35">water</string>
-    <string name="word_translate_36">meat</string>
-    <string name="word_translate_37">breakfast</string>
-    <string name="word_translate_38">cheese</string>
-    <string name="word_translate_39">oil</string>
-    <string name="word_translate_40">to wash</string>
+    <string name="word_translate_21">el tiempo</string>
+    <string name="word_translate_22">la hora</string>
+    <string name="word_translate_23">el reloj</string>
+    <string name="word_translate_24">el mes</string>
+    <string name="word_translate_25">mucho</string>
+    <string name="word_translate_26">esperar</string>
+    <string name="word_translate_27">hoy</string>
+    <string name="word_translate_28">ayer</string>
+    <string name="word_translate_29">pensar</string>
+    <string name="word_translate_30">¿Cuándo?</string>
+    <string name="word_translate_31">beber</string>
+    <string name="word_translate_32">el jugo</string>
+    <string name="word_translate_33">el vidrio</string>
+    <string name="word_translate_34">comer</string>
+    <string name="word_translate_35">el agua</string>
+    <string name="word_translate_36">la carne</string>
+    <string name="word_translate_37">el desayuno</string>
+    <string name="word_translate_38">el queso</string>
+    <string name="word_translate_39">el aceite</string>
+    <string name="word_translate_40">lavar</string>
     <!-- END -->
 
     <!-- PHRASE + TRANSLATE -->
-    <string name="phrase_21" translatable="false">Yo tengo mucho <b>tiempo</b>.</string>
-    <string name="phrase_translate_21">I have a lot of <b>time</b>.</string>
+    <string name="phrase_21" translatable="false">I have a lot of <b>time</b>.</string>
+    <string name="phrase_translate_21">Yo tengo mucho <b>tiempo</b>.</string>
 
-    <string name="phrase_22" translatable="false">Yo estaré allí en 2 <b>horas</b>.</string>
-    <string name="phrase_translate_22">I am there in 2 <b>hours</b>.</string>
+    <string name="phrase_22" translatable="false">I am there in 2 <b>hours</b>.</string>
+    <string name="phrase_translate_22">Yo estaré allí en 2 <b>horas</b>.</string>
 
-    <string name="phrase_23" translatable="false"><b>El reloj</b> no funciona.</string>
-    <string name="phrase_translate_23"><b>The clock</b> does not work.</string>
+    <string name="phrase_23" translatable="false"><b>The clock</b> does not work.</string>
+    <string name="phrase_translate_23"><b>El reloj</b> no funciona.</string>
 
-    <string name="phrase_24" translatable="false">Yo tengo vacaciones en un <b>mes</b>.</string>
-    <string name="phrase_translate_24">I have holidays in a <b>month</b>.</string>
+    <string name="phrase_24" translatable="false">I have holidays in a <b>month</b>.</string>
+    <string name="phrase_translate_24">Yo tengo vacaciones en un <b>mes</b>.</string>
 
-    <string name="phrase_25" translatable="false">Él trabaja <b>mucho</b>.</string>
-    <string name="phrase_translate_25">He works <b>much</b>.</string>
+    <string name="phrase_25" translatable="false">He works <b>much</b>.</string>
+    <string name="phrase_translate_25">Él trabaja <b>mucho</b>.</string>
 
-    <string name="phrase_26" translatable="false">¡<b>Espera</b> aquí!</string>
-    <string name="phrase_translate_26"><b>Wait</b> here!</string>
+    <string name="phrase_26" translatable="false"><b>Wait</b> here!</string>
+    <string name="phrase_translate_26">¡<b>Espera</b> aquí!</string>
 
-    <string name="phrase_27" translatable="false">Yo trabajo <b>hoy</b>.</string>
-    <string name="phrase_translate_27">I am working <b>today</b>.</string>
+    <string name="phrase_27" translatable="false">I am working <b>today</b>.</string>
+    <string name="phrase_translate_27">Yo trabajo <b>hoy</b>.</string>
 
-    <string name="phrase_28" translatable="false">Él se fue ayer.</string>
-    <string name="phrase_translate_28">He left <b>yesterday</b>.</string>
+    <string name="phrase_28" translatable="false">He left <b>yesterday</b>.</string>
+    <string name="phrase_translate_28">Él se fue ayer.</string>
 
-    <string name="phrase_29" translatable="false">Yo <b>pienso</b>, ...</string>
-    <string name="phrase_translate_29">I think, …</string>
+    <string name="phrase_29" translatable="false">I think, ...</string>
+    <string name="phrase_translate_29">Yo <b>pienso</b>, ...</string>
 
-    <string name="phrase_30" translatable="false">¿Cuándo vas a venir?</string>
-    <string name="phrase_translate_30"><b>When</b> are you coming?</string>
+    <string name="phrase_30" translatable="false"><b>When</b> are you coming?</string>
+    <string name="phrase_translate_30">¿Cuándo vas a venir?</string>
 
-    <string name="phrase_31" translatable="false">Yo <b>bebo</b> café.</string>
-    <string name="phrase_translate_31">I <b>drink</b> coffee.</string>
+    <string name="phrase_31" translatable="false">I <b>drink</b> coffee.</string>
+    <string name="phrase_translate_31">Yo <b>bebo</b> café.</string>
 
-    <string name="phrase_32" translatable="false">Un vaso de <b>jugo</b> por favor.</string>
-    <string name="phrase_translate_32">A glass of <b>juice</b> please.</string>
+    <string name="phrase_32" translatable="false">A glass of <b>juice</b> please.</string>
+    <string name="phrase_translate_32">Un vaso de <b>jugo</b> por favor.</string>
 
-    <string name="phrase_33" translatable="false"><b>El vaso</b> cayó.</string>
-    <string name="phrase_translate_33"><b>The glass</b> fell.</string>
+    <string name="phrase_33" translatable="false"><b>The glass</b> fell.</string>
+    <string name="phrase_translate_33"><b>El vaso</b> cayó.</string>
 
-    <string name="phrase_34" translatable="false">¿Cuándo <b>comes</b>?</string>
-    <string name="phrase_translate_34">When do you <b>eat</b>?</string>
+    <string name="phrase_34" translatable="false">When do you <b>eat</b>?</string>
+    <string name="phrase_translate_34">¿Cuándo <b>comes</b>?</string>
 
-    <string name="phrase_35" translatable="false"><b>El agua</b> está fría.</string>
-    <string name="phrase_translate_35"><b>The water</b> is cold.</string>
+    <string name="phrase_35" translatable="false"><b>The water</b> is cold.</string>
+    <string name="phrase_translate_35"><b>El agua</b> está fría.</string>
 
-    <string name="phrase_36" translatable="false">Él no come <b>carne</b>.</string>
-    <string name="phrase_translate_36">He does not eat <b>meat</b>.</string>
+    <string name="phrase_36" translatable="false">He does not eat <b>meat</b>.</string>
+    <string name="phrase_translate_36">Él no come <b>carne</b>.</string>
 
-    <string name="phrase_37" translatable="false">Yo <b>desayuno</b> en casa.</string>
-    <string name="phrase_translate_37">I have <b>breakfast</b> at home.</string>
+    <string name="phrase_37" translatable="false">I have <b>breakfast</b> at home.</string>
+    <string name="phrase_translate_37">Yo <b>desayuno</b> en casa.</string>
 
-    <string name="phrase_38" translatable="false">Yo quiero comer <b>queso</b>.</string>
-    <string name="phrase_translate_38">I want to eat <b>cheese</b>.</string>
+    <string name="phrase_38" translatable="false">Я хочу покушать <b>сыр</b>.</string>
+    <string name="phrase_translate_38">Yo quiero comer <b>queso</b>.</string>
 
-    <string name="phrase_39" translatable="false">Yo necesito comprar <b>aceite</b>.</string>
-    <string name="phrase_translate_39">I need to buy <b>oil</b>.</string>
+    <string name="phrase_39" translatable="false">I need to buy <b>oil</b>.</string>
+    <string name="phrase_translate_39">Yo necesito comprar <b>aceite</b>.</string>
 
-    <string name="phrase_40" translatable="false">Yo necesito <b>lavar</b> mi coche.</string>
-    <string name="phrase_translate_40">I need to <b>wash</b> my car.</string>
+    <string name="phrase_40" translatable="false">I need to <b>wash</b> my car.</string>
+    <string name="phrase_translate_40">Yo necesito <b>lavar</b> mi coche.</string>
     <!-- END -->
 
 
     <!-- WORD_LT -->
-    <string name="word_LT_21">newspaper</string>
-    <string name="word_LT_22">second</string>
-    <string name="word_LT_23">lesson</string>
-    <string name="word_LT_24">month</string>
-    <string name="word_LT_25">all</string>
-    <string name="word_LT_26">to wait</string>
-    <string name="word_LT_27">yesterday</string>
-    <string name="word_LT_28">now</string>
-    <string name="word_LT_29">to thank</string>
-    <string name="word_LT_30">Who?</string>
-    <string name="word_LT_31">to drink</string>
-    <string name="word_LT_32">salt</string>
-    <string name="word_LT_33">glass</string>
-    <string name="word_LT_34">to wash</string>
-    <string name="word_LT_35">food</string>
-    <string name="word_LT_36">meat</string>
-    <string name="word_LT_37">dinner</string>
-    <string name="word_LT_38">tomato</string>
-    <string name="word_LT_39">eggs</string>
-    <string name="word_LT_40">to wash</string>
+    <string name="word_LT_21">el periódico</string>
+    <string name="word_LT_22">La segunda</string>
+    <string name="word_LT_23">la leccion</string>
+    <string name="word_LT_24">el mes</string>
+    <string name="word_LT_25">todos</string>
+    <string name="word_LT_26">esperar</string>
+    <string name="word_LT_27">ayer</string>
+    <string name="word_LT_28">ahora</string>
+    <string name="word_LT_29">agradecer</string>
+    <string name="word_LT_30">¿Quién?</string>
+    <string name="word_LT_31">beber</string>
+    <string name="word_LT_32">la sal</string>
+    <string name="word_LT_33">el vidrio</string>
+    <string name="word_LT_34">lavar</string>
+    <string name="word_LT_35">la comida</string>
+    <string name="word_LT_36">la carne</string>
+    <string name="word_LT_37">la cena</string>
+    <string name="word_LT_38">el tomate</string>
+    <string name="word_LT_39">los huevos</string>
+    <string name="word_LT_40">lavar</string>
     <!-- END -->
 
     <!-- WORD_RT -->
-    <string name="word_RT_21">city</string>
-    <string name="word_RT_22">hour</string>
-    <string name="word_RT_23">human</string>
-    <string name="word_RT_24">sea</string>
-    <string name="word_RT_25">much</string>
-    <string name="word_RT_26">to eat</string>
-    <string name="word_RT_27">tomorrow</string>
-    <string name="word_RT_28">yesterday</string>
-    <string name="word_RT_29">to refuel</string>
-    <string name="word_RT_30">Where?</string>
-    <string name="word_RT_31">to live</string>
-    <string name="word_RT_32">coffee</string>
-    <string name="word_RT_33">plate</string>
-    <string name="word_RT_34">to eat</string>
-    <string name="word_RT_35">drink</string>
-    <string name="word_RT_36">bottle</string>
-    <string name="word_RT_37">breakfast</string>
-    <string name="word_RT_38">knife</string>
-    <string name="word_RT_39">ice cream</string>
-    <string name="word_RT_40">to drink</string>
+    <string name="word_RT_21">la ciudad</string>
+    <string name="word_RT_22">la hora</string>
+    <string name="word_RT_23">el humano</string>
+    <string name="word_RT_24">el mar</string>
+    <string name="word_RT_25">mucho</string>
+    <string name="word_RT_26">comer</string>
+    <string name="word_RT_27">mañana</string>
+    <string name="word_RT_28">ayer</string>
+    <string name="word_RT_29">repostar</string>
+    <string name="word_RT_30">¿Donde?</string>
+    <string name="word_RT_31">vivir</string>
+    <string name="word_RT_32">el café</string>
+    <string name="word_RT_33">el plato</string>
+    <string name="word_RT_34">comer</string>
+    <string name="word_RT_35">la bebida</string>
+    <string name="word_RT_36">la botella</string>
+    <string name="word_RT_37">el desayuno</string>
+    <string name="word_RT_38">el cuchillo</string>
+    <string name="word_RT_39">el helado</string>
+    <string name="word_RT_40">beber</string>
     <!-- END -->
 
     <!-- WORD_LB -->
-    <string name="word_LB_21">house</string>
-    <string name="word_LB_22">mountain</string>
-    <string name="word_LB_23">cupboard</string>
-    <string name="word_LB_24">ticket</string>
-    <string name="word_LB_25">little</string>
-    <string name="word_LB_26">to drink</string>
-    <string name="word_LB_27">today</string>
-    <string name="word_LB_28">always</string>
-    <string name="word_LB_29">to think</string>
-    <string name="word_LB_30">When?</string>
-    <string name="word_LB_31">to wash</string>
-    <string name="word_LB_32">sugar</string>
-    <string name="word_LB_33">fork</string>
-    <string name="word_LB_34">to pour</string>
-    <string name="word_LB_35">sea</string>
-    <string name="word_LB_36">fish</string>
-    <string name="word_LB_37">banquet</string>
-    <string name="word_LB_38">table</string>
-    <string name="word_LB_39">oil</string>
-    <string name="word_LB_40">to learn</string>
+    <string name="word_LB_21">la casa</string>
+    <string name="word_LB_22">la montaña</string>
+    <string name="word_LB_23">el armario</string>
+    <string name="word_LB_24">el billete</string>
+    <string name="word_LB_25">poco</string>
+    <string name="word_LB_26">beber</string>
+    <string name="word_LB_27">hoy</string>
+    <string name="word_LB_28">siempre</string>
+    <string name="word_LB_29">pensar</string>
+    <string name="word_LB_30">¿Cuándo?</string>
+    <string name="word_LB_31">lavar</string>
+    <string name="word_LB_32">el azúcar</string>
+    <string name="word_LB_33">el tenedor</string>
+    <string name="word_LB_34">verter</string>
+    <string name="word_LB_35">el mar</string>
+    <string name="word_LB_36">el pez</string>
+    <string name="word_LB_37">el banquete</string>
+    <string name="word_LB_38">la mesa</string>
+    <string name="word_LB_39">el aceite</string>
+    <string name="word_LB_40">aprender</string>
     <!-- END -->
 
     <!-- WORD_RB -->
-    <string name="word_RB_21">time</string>
-    <string name="word_RB_22">city</string>
-    <string name="word_RB_23">clock</string>
-    <string name="word_RB_24">food</string>
-    <string name="word_RB_25">nobody</string>
-    <string name="word_RB_26">to live</string>
-    <string name="word_RB_27">never</string>
-    <string name="word_RB_28">tomorrow</string>
-    <string name="word_RB_29">to work</string>
-    <string name="word_RB_30">Why?</string>
-    <string name="word_RB_31">to sing</string>
-    <string name="word_RB_32">juice</string>
-    <string name="word_RB_33">knife</string>
-    <string name="word_RB_34">to drive</string>
-    <string name="word_RB_35">water</string>
-    <string name="word_RB_36">bread</string>
-    <string name="word_RB_37">lunch</string>
-    <string name="word_RB_38">cheese</string>
-    <string name="word_RB_39">spoon</string>
-    <string name="word_RB_40">to drive</string>
+    <string name="word_RB_21">el tiempo</string>
+    <string name="word_RB_22">la ciudad</string>
+    <string name="word_RB_23">el reloj</string>
+    <string name="word_RB_24">la comida</string>
+    <string name="word_RB_25">nadie</string>
+    <string name="word_RB_26">vivir</string>
+    <string name="word_RB_27">nunca</string>
+    <string name="word_RB_28">mañana</string>
+    <string name="word_RB_29">trabajar</string>
+    <string name="word_RB_30">¿Por qué?</string>
+    <string name="word_RB_31">cantar</string>
+    <string name="word_RB_32">el jugo</string>
+    <string name="word_RB_33">el cuchillo</string>
+    <string name="word_RB_34">conducir</string>
+    <string name="word_RB_35">el agua</string>
+    <string name="word_RB_36">el pan</string>
+    <string name="word_RB_37">el almuerzo</string>
+    <string name="word_RB_38">el queso</string>
+    <string name="word_RB_39">la cuchara</string>
+    <string name="word_RB_40">conducir</string>
     <!-- END -->
 </resources>

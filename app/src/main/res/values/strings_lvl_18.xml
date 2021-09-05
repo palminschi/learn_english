@@ -1,201 +1,201 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- TITLE -->
-    <string name="word_title_341" translatable="false">el hermano</string>
-    <string name="word_title_342" translatable="false">los gemelos</string>
-    <string name="word_title_343" translatable="false">la hermana</string>
-    <string name="word_title_344" translatable="false">la hija</string>
-    <string name="word_title_345" translatable="false">el hijo</string>
-    <string name="word_title_346" translatable="false">el abuelo</string>
-    <string name="word_title_347" translatable="false">la abuela</string>
-    <string name="word_title_348" translatable="false">ayudar</string>
-    <string name="word_title_349" translatable="false">los antepasados</string>
-    <string name="word_title_350" translatable="false">el nieto</string>
-    <string name="word_title_351" translatable="false">bromear</string>
-    <string name="word_title_352" translatable="false">el padrastro</string>
-    <string name="word_title_353" translatable="false">la boda</string>
-    <string name="word_title_354" translatable="false">descansar</string>
-    <string name="word_title_355" translatable="false">preguntar</string>
-    <string name="word_title_356" translatable="false">la nieta</string>
-    <string name="word_title_357" translatable="false">La esposa</string>
-    <string name="word_title_358" translatable="false">el esposo</string>
-    <string name="word_title_359" translatable="false">sonreír</string>
-    <string name="word_title_360" translatable="false">reír</string>
+    <string name="word_title_341" translatable="false">brother</string>
+    <string name="word_title_342" translatable="false">twins</string>
+    <string name="word_title_343" translatable="false">sister</string>
+    <string name="word_title_344" translatable="false">daughter</string>
+    <string name="word_title_345" translatable="false">son</string>
+    <string name="word_title_346" translatable="false">grandfather</string>
+    <string name="word_title_347" translatable="false">grandmother</string>
+    <string name="word_title_348" translatable="false">to help</string>
+    <string name="word_title_349" translatable="false">ancestors</string>
+    <string name="word_title_350" translatable="false">grandson</string>
+    <string name="word_title_351" translatable="false">to joke</string>
+    <string name="word_title_352" translatable="false">stepfather</string>
+    <string name="word_title_353" translatable="false">wedding</string>
+    <string name="word_title_354" translatable="false">to rest</string>
+    <string name="word_title_355" translatable="false">to ask</string>
+    <string name="word_title_356" translatable="false">granddaughter</string>
+    <string name="word_title_357" translatable="false">wife</string>
+    <string name="word_title_358" translatable="false">husband</string>
+    <string name="word_title_359" translatable="false">to smile</string>
+    <string name="word_title_360" translatable="false">to laugh</string>
 
-    <string name="word_translate_341">brother</string>
-    <string name="word_translate_342">twins</string>
-    <string name="word_translate_343">sister</string>
-    <string name="word_translate_344">daughter</string>
-    <string name="word_translate_345">son</string>
-    <string name="word_translate_346">grandfather</string>
-    <string name="word_translate_347">grandmother</string>
-    <string name="word_translate_348">to help</string>
-    <string name="word_translate_349">ancestors</string>
-    <string name="word_translate_350">grandson</string>
-    <string name="word_translate_351">to joke</string>
-    <string name="word_translate_352">stepfather</string>
-    <string name="word_translate_353">wedding</string>
-    <string name="word_translate_354">to rest</string>
-    <string name="word_translate_355">to ask</string>
-    <string name="word_translate_356">granddaughter</string>
-    <string name="word_translate_357">wife</string>
-    <string name="word_translate_358">husband</string>
-    <string name="word_translate_359">to smile</string>
-    <string name="word_translate_360">to laugh</string>
+    <string name="word_translate_341">el hermano</string>
+    <string name="word_translate_342">los gemelos</string>
+    <string name="word_translate_343">la hermana</string>
+    <string name="word_translate_344">la hija</string>
+    <string name="word_translate_345">el hijo</string>
+    <string name="word_translate_346">el abuelo</string>
+    <string name="word_translate_347">la abuela</string>
+    <string name="word_translate_348">ayudar</string>
+    <string name="word_translate_349">los antepasados</string>
+    <string name="word_translate_350">el nieto</string>
+    <string name="word_translate_351">bromear</string>
+    <string name="word_translate_352">el padrastro</string>
+    <string name="word_translate_353">la boda</string>
+    <string name="word_translate_354">descansar</string>
+    <string name="word_translate_355">preguntar</string>
+    <string name="word_translate_356">la nieta</string>
+    <string name="word_translate_357">La esposa</string>
+    <string name="word_translate_358">el esposo</string>
+    <string name="word_translate_359">sonreír</string>
+    <string name="word_translate_360">reír</string>
     <!-- END -->
 
     <!-- PHRASE + TRANSLATE -->
-    <string name="phrase_341" translatable="false">Es como un hermano para mí.</string>
-    <string name="phrase_translate_341">He is like a brother to me.</string>
+    <string name="phrase_341" translatable="false">He is like a brother to me.</string>
+    <string name="phrase_translate_341">Es como un hermano para mí.</string>
 
-    <string name="phrase_342" translatable="false">Los gemelos usan algo de ropa.</string>
-    <string name="phrase_translate_342">The twins wear the some clothes.</string>
+    <string name="phrase_342" translatable="false">The twins wear the some clothes.</string>
+    <string name="phrase_translate_342">Los gemelos usan algo de ropa.</string>
 
-    <string name="phrase_343" translatable="false">Ella es mi hermana.</string>
-    <string name="phrase_translate_343">She is my sister.</string>
+    <string name="phrase_343" translatable="false">She is my sister.</string>
+    <string name="phrase_translate_343">Ella es mi hermana.</string>
 
-    <string name="phrase_344" translatable="false">Tienen hijas.</string>
-    <string name="phrase_translate_344">They have to daughters.</string>
+    <string name="phrase_344" translatable="false">They have to daughters.</string>
+    <string name="phrase_translate_344">Tienen hijas.</string>
 
-    <string name="phrase_345" translatable="false">Mi hijo fue a la escuela.</string>
-    <string name="phrase_translate_345">My son went to school.</string>
+    <string name="phrase_345" translatable="false">My son went to school.</string>
+    <string name="phrase_translate_345">Mi hijo fue a la escuela.</string>
 
-    <string name="phrase_346" translatable="false">Mi abuelo es mayor.</string>
-    <string name="phrase_translate_346">My grandfather is old.</string>
+    <string name="phrase_346" translatable="false">My grandfather is old.</string>
+    <string name="phrase_translate_346">Mi abuelo es mayor.</string>
 
-    <string name="phrase_347" translatable="false">La abuela está jugando con su nieta.</string>
-    <string name="phrase_translate_347">The grandmother is playing with her granddaughter.</string>
+    <string name="phrase_347" translatable="false">The grandmother is playing with her granddaughter.</string>
+    <string name="phrase_translate_347">La abuela está jugando con su nieta.</string>
 
-    <string name="phrase_348" translatable="false">Tengo que ayudar a mi abuela.</string>
-    <string name="phrase_translate_348">I have to help my grandmother.</string>
+    <string name="phrase_348" translatable="false">I have to help my grandmother.</string>
+    <string name="phrase_translate_348">Tengo que ayudar a mi abuela.</string>
 
-    <string name="phrase_349" translatable="false">Tienen los mismos antepasados.</string>
-    <string name="phrase_translate_349">They have the same ancestors.</string>
+    <string name="phrase_349" translatable="false">They have the same ancestors.</string>
+    <string name="phrase_translate_349">Tienen los mismos antepasados.</string>
 
-    <string name="phrase_350" translatable="false">El nieto se acercó a su abuelo.</string>
-    <string name="phrase_translate_350">The grandson came to his grandfather.</string>
+    <string name="phrase_350" translatable="false">The grandson came to his grandfather.</string>
+    <string name="phrase_translate_350">El nieto se acercó a su abuelo.</string>
 
-    <string name="phrase_351" translatable="false">Estoy bromeando.</string>
-    <string name="phrase_translate_351">I\'m joking.</string>
+    <string name="phrase_351" translatable="false">I\'m joking.</string>
+    <string name="phrase_translate_351">Estoy bromeando.</string>
 
-    <string name="phrase_352" translatable="false">Mi padrastro trabaja hoy.</string>
-    <string name="phrase_translate_352">My stepfather works today.</string>
+    <string name="phrase_352" translatable="false">My stepfather works today.</string>
+    <string name="phrase_translate_352">Mi padrastro trabaja hoy.</string>
 
-    <string name="phrase_353" translatable="false">Tienen una boda pronto.</string>
-    <string name="phrase_translate_353">They have a wedding soon.</string>
+    <string name="phrase_353" translatable="false">They have a wedding soon.</string>
+    <string name="phrase_translate_353">Tienen una boda pronto.</string>
 
-    <string name="phrase_354" translatable="false">Descansaré mañana.</string>
-    <string name="phrase_translate_354">I will rest tomorrow.</string>
+    <string name="phrase_354" translatable="false">I will rest tomorrow.</string>
+    <string name="phrase_translate_354">Descansaré mañana.</string>
 
-    <string name="phrase_355" translatable="false">Le pido ayuda.</string>
-    <string name="phrase_translate_355">I ask him for help.</string>
+    <string name="phrase_355" translatable="false">I ask him for help.</string>
+    <string name="phrase_translate_355">Le pido ayuda.</string>
 
-    <string name="phrase_356" translatable="false">La nieta va con su abuela.</string>
-    <string name="phrase_translate_356">The granddaughter goes to her grandmother.</string>
+    <string name="phrase_356" translatable="false">The granddaughter goes to her grandmother.</string>
+    <string name="phrase_translate_356">La nieta va con su abuela.</string>
 
-    <string name="phrase_357" translatable="false">Mi esposa estudia.</string>
-    <string name="phrase_translate_357">My wife studies.</string>
+    <string name="phrase_357" translatable="false">My wife studies.</string>
+    <string name="phrase_translate_357">Mi esposa estudia.</string>
 
-    <string name="phrase_358" translatable="false">Mi esposo trabaja como médico.</string>
-    <string name="phrase_translate_358">My husband works as a doctor.</string>
+    <string name="phrase_358" translatable="false">My husband works as a doctor.</string>
+    <string name="phrase_translate_358">Mi esposo trabaja como médico.</string>
 
-    <string name="phrase_359" translatable="false">Ella esta sonriendo.</string>
-    <string name="phrase_translate_359">She is smiling.</string>
+    <string name="phrase_359" translatable="false">She is smiling.</string>
+    <string name="phrase_translate_359">Ella esta sonriendo.</string>
 
-    <string name="phrase_360" translatable="false">Todos se ríen.</string>
-    <string name="phrase_translate_360">They\'re all laughing.</string>
+    <string name="phrase_360" translatable="false">They\'re all laughing.</string>
+    <string name="phrase_translate_360">Todos se ríen.</string>
     <!-- END -->
 
 
     <!-- WORD_LT -->
-    <string name="word_LT_341">brother</string>
-    <string name="word_LT_342">flower</string>
-    <string name="word_LT_343">grandmother</string>
-    <string name="word_LT_344">daughter</string>
-    <string name="word_LT_345">brother</string>
-    <string name="word_LT_346">grandmother</string>
-    <string name="word_LT_347">wedding</string>
-    <string name="word_LT_348">to laugh</string>
-    <string name="word_LT_349">work</string>
-    <string name="word_LT_350">grandson</string>
-    <string name="word_LT_351">to sing</string>
-    <string name="word_LT_352">waiter</string>
-    <string name="word_LT_353">time</string>
-    <string name="word_LT_354">to steal</string>
-    <string name="word_LT_355">to ask</string>
-    <string name="word_LT_356">grandfather</string>
-    <string name="word_LT_357">wedding</string>
-    <string name="word_LT_358">wife</string>
-    <string name="word_LT_359">to smile</string>
-    <string name="word_LT_360">to play</string>
+    <string name="word_LT_341">el hermano</string>
+    <string name="word_LT_342">la flor</string>
+    <string name="word_LT_343">la abuela</string>
+    <string name="word_LT_344">la hija</string>
+    <string name="word_LT_345">el hermano</string>
+    <string name="word_LT_346">la abuela</string>
+    <string name="word_LT_347">la boda</string>
+    <string name="word_LT_348">reír</string>
+    <string name="word_LT_349">la obra</string>
+    <string name="word_LT_350">el nieto</string>
+    <string name="word_LT_351">cantar</string>
+    <string name="word_LT_352">El camarero</string>
+    <string name="word_LT_353">el tiempo</string>
+    <string name="word_LT_354">robar</string>
+    <string name="word_LT_355">preguntar</string>
+    <string name="word_LT_356">el abuelo</string>
+    <string name="word_LT_357">la boda</string>
+    <string name="word_LT_358">La esposa</string>
+    <string name="word_LT_359">sonreír</string>
+    <string name="word_LT_360">jugar</string>
     <!-- END -->
 
     <!-- WORD_RT -->
-    <string name="word_RT_341">bread</string>
-    <string name="word_RT_342">sister</string>
-    <string name="word_RT_343">city</string>
-    <string name="word_RT_344">cold</string>
-    <string name="word_RT_345">son</string>
-    <string name="word_RT_346">friend</string>
-    <string name="word_RT_347">pensioner</string>
-    <string name="word_RT_348">to help</string>
-    <string name="word_RT_349">bird</string>
-    <string name="word_RT_350">friend</string>
-    <string name="word_RT_351">to wash</string>
-    <string name="word_RT_352">stepfather</string>
-    <string name="word_RT_353">newspaper</string>
-    <string name="word_RT_354">to fall</string>
-    <string name="word_RT_355">to play</string>
-    <string name="word_RT_356">grandson</string>
-    <string name="word_RT_357">wife</string>
-    <string name="word_RT_358">park</string>
-    <string name="word_RT_359">to sing</string>
-    <string name="word_RT_360">to laugh</string>
+    <string name="word_RT_341">el pan</string>
+    <string name="word_RT_342">la hermana</string>
+    <string name="word_RT_343">la ciudad</string>
+    <string name="word_RT_344">el frío</string>
+    <string name="word_RT_345">el hijo</string>
+    <string name="word_RT_346">el amigo</string>
+    <string name="word_RT_347">el pensionista</string>
+    <string name="word_RT_348">ayudar</string>
+    <string name="word_RT_349">el pájaro</string>
+    <string name="word_RT_350">el amigo</string>
+    <string name="word_RT_351">lavar</string>
+    <string name="word_RT_352">el padrastro</string>
+    <string name="word_RT_353">el periódico</string>
+    <string name="word_RT_354">caer</string>
+    <string name="word_RT_355">jugar</string>
+    <string name="word_RT_356">el nieto</string>
+    <string name="word_RT_357">La esposa</string>
+    <string name="word_RT_358">el parque</string>
+    <string name="word_RT_359">cantar</string>
+    <string name="word_RT_360">reír</string>
     <!-- END -->
 
     <!-- WORD_LB -->
-    <string name="word_LB_341">sister</string>
-    <string name="word_LB_342">twins</string>
-    <string name="word_LB_343">pension</string>
-    <string name="word_LB_344">son</string>
-    <string name="word_LB_345">summer</string>
-    <string name="word_LB_346">grandfather</string>
-    <string name="word_LB_347">wood</string>
-    <string name="word_LB_348">to rest</string>
-    <string name="word_LB_349">ancestors</string>
-    <string name="word_LB_350">brother</string>
-    <string name="word_LB_351">to laugh</string>
-    <string name="word_LB_352">father</string>
-    <string name="word_LB_353">wedding</string>
-    <string name="word_LB_354">to ask</string>
-    <string name="word_LB_355">to sing</string>
-    <string name="word_LB_356">granddaughter</string>
-    <string name="word_LB_357">teacher</string>
-    <string name="word_LB_358">doctor</string>
-    <string name="word_LB_359">to ask</string>
-    <string name="word_LB_360">to sing</string>
+    <string name="word_LB_341">la hermana</string>
+    <string name="word_LB_342">los gemelos</string>
+    <string name="word_LB_343">la pension</string>
+    <string name="word_LB_344">el hijo</string>
+    <string name="word_LB_345">el verano</string>
+    <string name="word_LB_346">el abuelo</string>
+    <string name="word_LB_347">la madera</string>
+    <string name="word_LB_348">descansar</string>
+    <string name="word_LB_349">los antepasados</string>
+    <string name="word_LB_350">el hermano</string>
+    <string name="word_LB_351">reír</string>
+    <string name="word_LB_352">el padre</string>
+    <string name="word_LB_353">la boda</string>
+    <string name="word_LB_354">preguntar</string>
+    <string name="word_LB_355">cantar</string>
+    <string name="word_LB_356">la nieta</string>
+    <string name="word_LB_357">el maestro</string>
+    <string name="word_LB_358">el doctor</string>
+    <string name="word_LB_359">preguntar</string>
+    <string name="word_LB_360">cantar</string>
     <!-- END -->
 
     <!-- WORD_RB -->
-    <string name="word_RB_341">father</string>
-    <string name="word_RB_342">castle</string>
-    <string name="word_RB_343">sister</string>
-    <string name="word_RB_344">grandfather</string>
-    <string name="word_RB_345">sun</string>
-    <string name="word_RB_346">money</string>
-    <string name="word_RB_347">grandmother</string>
-    <string name="word_RB_348">to sing</string>
-    <string name="word_RB_349">bridge</string>
-    <string name="word_RB_350">summer</string>
-    <string name="word_RB_351">to joke</string>
-    <string name="word_RB_352">water</string>
-    <string name="word_RB_353">park</string>
-    <string name="word_RB_354">to rest</string>
-    <string name="word_RB_355">to smile</string>
-    <string name="word_RB_356">grandmother</string>
-    <string name="word_RB_357">clothing</string>
-    <string name="word_RB_358">husband</string>
-    <string name="word_RB_359">to play</string>
-    <string name="word_RB_360">to rest</string>
+    <string name="word_RB_341">el padre</string>
+    <string name="word_RB_342">el castillo</string>
+    <string name="word_RB_343">la hermana</string>
+    <string name="word_RB_344">el abuelo</string>
+    <string name="word_RB_345">el sol</string>
+    <string name="word_RB_346">el dinero</string>
+    <string name="word_RB_347">la abuela</string>
+    <string name="word_RB_348">cantar</string>
+    <string name="word_RB_349">el puente</string>
+    <string name="word_RB_350">el verano</string>
+    <string name="word_RB_351">bromear</string>
+    <string name="word_RB_352">el agua</string>
+    <string name="word_RB_353">el parque</string>
+    <string name="word_RB_354">descansar</string>
+    <string name="word_RB_355">sonreír</string>
+    <string name="word_RB_356">la abuela</string>
+    <string name="word_RB_357">el atuendo</string>
+    <string name="word_RB_358">el esposo</string>
+    <string name="word_RB_359">jugar</string>
+    <string name="word_RB_360">descansar</string>
     <!-- END -->
 </resources>

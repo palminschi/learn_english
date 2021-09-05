@@ -1,201 +1,201 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- TITLE -->
-    <string name="word_title_161" translatable="false">el camarero</string>
-    <string name="word_title_162" translatable="false">la propina</string>
-    <string name="word_title_163" translatable="false">la factura</string>
-    <string name="word_title_164" translatable="false">el descuento</string>
-    <string name="word_title_165" translatable="false">el efectivo</string>
-    <string name="word_title_166" translatable="false">el precio</string>
-    <string name="word_title_167" translatable="false">la comida</string>
-    <string name="word_title_168" translatable="false">la cena</string>
-    <string name="word_title_169" translatable="false">el almuerzo</string>
-    <string name="word_title_170" translatable="false">La servilleta</string>
-    <string name="word_title_171" translatable="false">el cuchillo</string>
-    <string name="word_title_172" translatable="false">el plato</string>
-    <string name="word_title_173" translatable="false">la cuchara</string>
-    <string name="word_title_174" translatable="false">la botella</string>
-    <string name="word_title_175" translatable="false">el vino</string>
-    <string name="word_title_176" translatable="false">La tetera</string>
-    <string name="word_title_177" translatable="false">el tamaño</string>
-    <string name="word_title_178" translatable="false">pequeño</string>
-    <string name="word_title_179" translatable="false">grande</string>
-    <string name="word_title_180" translatable="false">la fuerza</string>
+    <string name="word_title_161" translatable="false">waiter</string>
+    <string name="word_title_162" translatable="false">tip</string>
+    <string name="word_title_163" translatable="false">bill</string>
+    <string name="word_title_164" translatable="false">discount</string>
+    <string name="word_title_165" translatable="false">cash</string>
+    <string name="word_title_166" translatable="false">price</string>
+    <string name="word_title_167" translatable="false">meal</string>
+    <string name="word_title_168" translatable="false">dinner</string>
+    <string name="word_title_169" translatable="false">lunch</string>
+    <string name="word_title_170" translatable="false">napkin</string>
+    <string name="word_title_171" translatable="false">knife</string>
+    <string name="word_title_172" translatable="false">plate</string>
+    <string name="word_title_173" translatable="false">spoon</string>
+    <string name="word_title_174" translatable="false">bottle</string>
+    <string name="word_title_175" translatable="false">wine</string>
+    <string name="word_title_176" translatable="false">kettle</string>
+    <string name="word_title_177" translatable="false">size</string>
+    <string name="word_title_178" translatable="false">little</string>
+    <string name="word_title_179" translatable="false">big</string>
+    <string name="word_title_180" translatable="false">strength</string>
 
-    <string name="word_translate_161">waiter</string>
-    <string name="word_translate_162">tip</string>
-    <string name="word_translate_163">bill</string>
-    <string name="word_translate_164">discount</string>
-    <string name="word_translate_165">cash</string>
-    <string name="word_translate_166">price</string>
-    <string name="word_translate_167">meal</string>
-    <string name="word_translate_168">dinner</string>
-    <string name="word_translate_169">lunch</string>
-    <string name="word_translate_170">napkin</string>
-    <string name="word_translate_171">knife</string>
-    <string name="word_translate_172">plate</string>
-    <string name="word_translate_173">spoon</string>
-    <string name="word_translate_174">bottle</string>
-    <string name="word_translate_175">wine</string>
-    <string name="word_translate_176">kettle</string>
-    <string name="word_translate_177">size</string>
-    <string name="word_translate_178">little</string>
-    <string name="word_translate_179">big</string>
-    <string name="word_translate_180">strength</string>
+    <string name="word_translate_161">el camarero</string>
+    <string name="word_translate_162">la propina</string>
+    <string name="word_translate_163">la factura</string>
+    <string name="word_translate_164">el descuento</string>
+    <string name="word_translate_165">el efectivo</string>
+    <string name="word_translate_166">el precio</string>
+    <string name="word_translate_167">la comida</string>
+    <string name="word_translate_168">la cena</string>
+    <string name="word_translate_169">el almuerzo</string>
+    <string name="word_translate_170">La servilleta</string>
+    <string name="word_translate_171">el cuchillo</string>
+    <string name="word_translate_172">el plato</string>
+    <string name="word_translate_173">la cuchara</string>
+    <string name="word_translate_174">la botella</string>
+    <string name="word_translate_175">el vino</string>
+    <string name="word_translate_176">La tetera</string>
+    <string name="word_translate_177">el tamaño</string>
+    <string name="word_translate_178">pequeño</string>
+    <string name="word_translate_179">grande</string>
+    <string name="word_translate_180">la fuerza</string>
     <!-- END -->
 
     <!-- PHRASE + TRANSLATE -->
-    <string name="phrase_161" translatable="false">Yo trabajo como camarero.</string>
-    <string name="phrase_translate_161">I work as a waiter.</string>
+    <string name="phrase_161" translatable="false">I work as a waiter.</string>
+    <string name="phrase_translate_161">Yo trabajo como camarero.</string>
 
-    <string name="phrase_162" translatable="false">Ha dejado una propina.</string>
-    <string name="phrase_translate_162">He left some tip.</string>
+    <string name="phrase_162" translatable="false">He left some tip.</string>
+    <string name="phrase_translate_162">Ha dejado una propina.</string>
 
-    <string name="phrase_163" translatable="false">¡La cuenta, por favor!</string>
-    <string name="phrase_translate_163">The bill, please!</string>
+    <string name="phrase_163" translatable="false">The bill, please!</string>
+    <string name="phrase_translate_163">¡La cuenta, por favor!</string>
 
-    <string name="phrase_164" translatable="false">Muchos descuentos hoy.</string>
-    <string name="phrase_translate_164">Lots of discounts today.</string>
+    <string name="phrase_164" translatable="false">Lots of discounts today.</string>
+    <string name="phrase_translate_164">Muchos descuentos hoy.</string>
 
-    <string name="phrase_165" translatable="false">Solo tengo efectivo.</string>
-    <string name="phrase_translate_165">I only have cash.</string>
+    <string name="phrase_165" translatable="false">I only have cash.</string>
+    <string name="phrase_translate_165">Solo tengo efectivo.</string>
 
-    <string name="phrase_166" translatable="false">El precio es muy alto.</string>
-    <string name="phrase_translate_166">The price is too high.</string>
+    <string name="phrase_166" translatable="false">The price is too high.</string>
+    <string name="phrase_translate_166">El precio es muy alto.</string>
 
-    <string name="phrase_167" translatable="false">¡Disfrute de su comida!</string>
-    <string name="phrase_translate_167">Enjoy your meal!</string>
+    <string name="phrase_167" translatable="false">Enjoy your meal!</string>
+    <string name="phrase_translate_167">¡Disfrute de su comida!</string>
 
-    <string name="phrase_168" translatable="false">Cena en el restaurante</string>
-    <string name="phrase_translate_168">Dinner in the restaurant</string>
+    <string name="phrase_168" translatable="false">Dinner in the restaurant</string>
+    <string name="phrase_translate_168">Cena en el restaurante</string>
 
-    <string name="phrase_169" translatable="false">El almuerzo esta listo.</string>
-    <string name="phrase_translate_169">Lunch is ready.</string>
+    <string name="phrase_169" translatable="false">Lunch is ready.</string>
+    <string name="phrase_translate_169">El almuerzo esta listo.</string>
 
-    <string name="phrase_170" translatable="false">¿Puedo conseguir otra servilleta?</string>
-    <string name="phrase_translate_170">Could I get another napkin?</string>
+    <string name="phrase_170" translatable="false">Could I get another napkin?</string>
+    <string name="phrase_translate_170">¿Puedo conseguir otra servilleta?</string>
 
-    <string name="phrase_171" translatable="false">El cuchillo no corta.</string>
-    <string name="phrase_translate_171">The knife doesn\'t cut.</string>
+    <string name="phrase_171" translatable="false">The knife doesn\'t cut.</string>
+    <string name="phrase_translate_171">El cuchillo no corta.</string>
 
-    <string name="phrase_172" translatable="false">Trae el plato, por favor.</string>
-    <string name="phrase_translate_172">Bring the plate, please.</string>
+    <string name="phrase_172" translatable="false">Bring the plate, please.</string>
+    <string name="phrase_translate_172">Trae el plato, por favor.</string>
 
-    <string name="phrase_173" translatable="false">Me lo como con una cuchara.</string>
-    <string name="phrase_translate_173">I eat that with a spoon.</string>
+    <string name="phrase_173" translatable="false">I eat that with a spoon.</string>
+    <string name="phrase_translate_173">Me lo como con una cuchara.</string>
 
-    <string name="phrase_174" translatable="false">Una botella de leche.</string>
-    <string name="phrase_translate_174">A bottle of milk.</string>
+    <string name="phrase_174" translatable="false">A bottle of milk.</string>
+    <string name="phrase_translate_174">Una botella de leche.</string>
 
-    <string name="phrase_175" translatable="false">Beberemos vino.</string>
-    <string name="phrase_translate_175">We will drink wine.</string>
+    <string name="phrase_175" translatable="false">We will drink wine.</string>
+    <string name="phrase_translate_175">Beberemos vino.</string>
 
-    <string name="phrase_176" translatable="false">La tetera está hirviendo.</string>
-    <string name="phrase_translate_176">The kettle is boiling.</string>
+    <string name="phrase_176" translatable="false">The kettle is boiling.</string>
+    <string name="phrase_translate_176">La tetera está hirviendo.</string>
 
-    <string name="phrase_177" translatable="false">¿Qué talla de zapato tienes?</string>
-    <string name="phrase_translate_177">Which shoe size do you have?</string>
+    <string name="phrase_177" translatable="false">Which shoe size do you have?</string>
+    <string name="phrase_translate_177">¿Qué talla de zapato tienes?</string>
 
-    <string name="phrase_178" translatable="false">Todavía es pequeño.</string>
-    <string name="phrase_translate_178">He is still little.</string>
+    <string name="phrase_178" translatable="false">He is still little.</string>
+    <string name="phrase_translate_178">Todavía es pequeño.</string>
 
-    <string name="phrase_179" translatable="false">Los pantalones me quedan demasiado grandes.</string>
-    <string name="phrase_translate_179">The pants are too big for me.</string>
+    <string name="phrase_179" translatable="false">The pants are too big for me.</string>
+    <string name="phrase_translate_179">Los pantalones me quedan demasiado grandes.</string>
 
-    <string name="phrase_180" translatable="false">Él es muy fuerte.</string>
-    <string name="phrase_translate_180">He is very strong.</string>
+    <string name="phrase_180" translatable="false">He is very strong.</string>
+    <string name="phrase_translate_180">Él es muy fuerte.</string>
     <!-- END -->
 
 
     <!-- WORD_LT -->
-    <string name="word_LT_161">basement</string>
-    <string name="word_LT_162">water</string>
-    <string name="word_LT_163">train</string>
-    <string name="word_LT_164">napkin</string>
-    <string name="word_LT_165">cash</string>
-    <string name="word_LT_166">food</string>
-    <string name="word_LT_167">napkin</string>
-    <string name="word_LT_168">dinner</string>
-    <string name="word_LT_169">breakfast</string>
-    <string name="word_LT_170">food</string>
-    <string name="word_LT_171">knife</string>
-    <string name="word_LT_172">waiter</string>
-    <string name="word_LT_173">spoon</string>
-    <string name="word_LT_174">flower</string>
-    <string name="word_LT_175">restaurant</string>
-    <string name="word_LT_176">money</string>
-    <string name="word_LT_177">house</string>
-    <string name="word_LT_178">little</string>
-    <string name="word_LT_179">strong</string>
-    <string name="word_LT_180">star</string>
+    <string name="word_LT_161">el sótano</string>
+    <string name="word_LT_162">el agua</string>
+    <string name="word_LT_163">el tren</string>
+    <string name="word_LT_164">La servilleta</string>
+    <string name="word_LT_165">el efectivo</string>
+    <string name="word_LT_166">los alimentos</string>
+    <string name="word_LT_167">La servilleta</string>
+    <string name="word_LT_168">la cena</string>
+    <string name="word_LT_169">el desayuno</string>
+    <string name="word_LT_170">los alimentos</string>
+    <string name="word_LT_171">el cuchillo</string>
+    <string name="word_LT_172">El camarero</string>
+    <string name="word_LT_173">la cuchara</string>
+    <string name="word_LT_174">la flor</string>
+    <string name="word_LT_175">el restaurante</string>
+    <string name="word_LT_176">el dinero</string>
+    <string name="word_LT_177">la casa</string>
+    <string name="word_LT_178">pequeño</string>
+    <string name="word_LT_179">fuerte</string>
+    <string name="word_LT_180">la estrella</string>
     <!-- END -->
 
     <!-- WORD_RT -->
-    <string name="word_RT_161">waiter</string>
-    <string name="word_RT_162">tip</string>
-    <string name="word_RT_163">kettle</string>
-    <string name="word_RT_164">bottle</string>
-    <string name="word_RT_165">music</string>
-    <string name="word_RT_166">price</string>
-    <string name="word_RT_167">plate</string>
-    <string name="word_RT_168">lunch</string>
-    <string name="word_RT_169">knife</string>
-    <string name="word_RT_170">napkin</string>
-    <string name="word_RT_171">mouth</string>
-    <string name="word_RT_172">spoon</string>
-    <string name="word_RT_173">fork</string>
-    <string name="word_RT_174">bottle</string>
-    <string name="word_RT_175">basement</string>
-    <string name="word_RT_176">waiter</string>
-    <string name="word_RT_177">money</string>
-    <string name="word_RT_178">big</string>
-    <string name="word_RT_179">weak</string>
-    <string name="word_RT_180">tip</string>
+    <string name="word_RT_161">el camarero</string>
+    <string name="word_RT_162">la propina</string>
+    <string name="word_RT_163">La tetera</string>
+    <string name="word_RT_164">la botella</string>
+    <string name="word_RT_165">la música</string>
+    <string name="word_RT_166">el precio</string>
+    <string name="word_RT_167">el plato</string>
+    <string name="word_RT_168">el almuerzo</string>
+    <string name="word_RT_169">el cuchillo</string>
+    <string name="word_RT_170">La servilleta</string>
+    <string name="word_RT_171">la boca</string>
+    <string name="word_RT_172">la cuchara</string>
+    <string name="word_RT_173">El tenedor</string>
+    <string name="word_RT_174">la botella</string>
+    <string name="word_RT_175">el sótano</string>
+    <string name="word_RT_176">El camarero</string>
+    <string name="word_RT_177">el dinero</string>
+    <string name="word_RT_178">grande</string>
+    <string name="word_RT_179">débil</string>
+    <string name="word_RT_180">la punta</string>
     <!-- END -->
 
     <!-- WORD_LB -->
-    <string name="word_LB_161">music</string>
-    <string name="word_LB_162">drink</string>
-    <string name="word_LB_163">bill</string>
-    <string name="word_LB_164">spoon</string>
-    <string name="word_LB_165">money</string>
-    <string name="word_LB_166">bill</string>
-    <string name="word_LB_167">meal</string>
-    <string name="word_LB_168">evening</string>
-    <string name="word_LB_169">teapot</string>
-    <string name="word_LB_170">knife</string>
-    <string name="word_LB_171">garbage</string>
-    <string name="word_LB_172">fork</string>
-    <string name="word_LB_173">shop</string>
-    <string name="word_LB_174">plane</string>
-    <string name="word_LB_175">wine</string>
-    <string name="word_LB_176">flower</string>
-    <string name="word_LB_177">size</string>
-    <string name="word_LB_178">fast</string>
-    <string name="word_LB_179">big</string>
-    <string name="word_LB_180">strength</string>
+    <string name="word_LB_161">la música</string>
+    <string name="word_LB_162">la bebida</string>
+    <string name="word_LB_163">la factura</string>
+    <string name="word_LB_164">la cuchara</string>
+    <string name="word_LB_165">el dinero</string>
+    <string name="word_LB_166">la factura</string>
+    <string name="word_LB_167">la comida</string>
+    <string name="word_LB_168">la noche</string>
+    <string name="word_LB_169">la tetera</string>
+    <string name="word_LB_170">el cuchillo</string>
+    <string name="word_LB_171">la basura</string>
+    <string name="word_LB_172">El tenedor</string>
+    <string name="word_LB_173">la tienda</string>
+    <string name="word_LB_174">el avión</string>
+    <string name="word_LB_175">el vino</string>
+    <string name="word_LB_176">la flor</string>
+    <string name="word_LB_177">el tamaño</string>
+    <string name="word_LB_178">rápido</string>
+    <string name="word_LB_179">grande</string>
+    <string name="word_LB_180">la fuerza</string>
     <!-- END -->
 
     <!-- WORD_RB -->
-    <string name="word_RB_161">plane</string>
-    <string name="word_RB_162">tea</string>
-    <string name="word_RB_163">clothing</string>
-    <string name="word_RB_164">discount</string>
-    <string name="word_RB_165">bottle</string>
-    <string name="word_RB_166">discount</string>
-    <string name="word_RB_167">spoon</string>
-    <string name="word_RB_168">breakfast</string>
-    <string name="word_RB_169">lunch</string>
-    <string name="word_RB_170">kettle</string>
-    <string name="word_RB_171">spoon</string>
-    <string name="word_RB_172">plate</string>
-    <string name="word_RB_173">stairs</string>
-    <string name="word_RB_174">photo</string>
-    <string name="word_RB_175">money</string>
-    <string name="word_RB_176">kettle</string>
-    <string name="word_RB_177">people</string>
-    <string name="word_RB_178">far</string>
-    <string name="word_RB_179">slow</string>
-    <string name="word_RB_180">discount</string>
+    <string name="word_RB_161">el avión</string>
+    <string name="word_RB_162">el té</string>
+    <string name="word_RB_163">el atuendo</string>
+    <string name="word_RB_164">el descuento</string>
+    <string name="word_RB_165">la botella</string>
+    <string name="word_RB_166">el descuento</string>
+    <string name="word_RB_167">la cuchara</string>
+    <string name="word_RB_168">el desayuno</string>
+    <string name="word_RB_169">el almuerzo</string>
+    <string name="word_RB_170">La tetera</string>
+    <string name="word_RB_171">la cuchara</string>
+    <string name="word_RB_172">el plato</string>
+    <string name="word_RB_173">las escaleras</string>
+    <string name="word_RB_174">la foto</string>
+    <string name="word_RB_175">el dinero</string>
+    <string name="word_RB_176">La tetera</string>
+    <string name="word_RB_177">la gente</string>
+    <string name="word_RB_178">lejos</string>
+    <string name="word_RB_179">lento</string>
+    <string name="word_RB_180">el descuento</string>
     <!-- END -->
 </resources>

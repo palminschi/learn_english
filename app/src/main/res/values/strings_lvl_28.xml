@@ -1,201 +1,201 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- TITLE -->
-    <string name="word_title_541" translatable="false">encontrar</string>
-    <string name="word_title_542" translatable="false">el tesoro</string>
-    <string name="word_title_543" translatable="false">buscar</string>
-    <string name="word_title_544" translatable="false">la búsqueda</string>
-    <string name="word_title_545" translatable="false">La prisión</string>
-    <string name="word_title_546" translatable="false">el criminal</string>
-    <string name="word_title_547" translatable="false">el arma</string>
-    <string name="word_title_548" translatable="false">matar</string>
-    <string name="word_title_549" translatable="false">romper</string>
-    <string name="word_title_550" translatable="false">la multa</string>
-    <string name="word_title_551" translatable="false">castigar</string>
-    <string name="word_title_552" translatable="false">el miedo</string>
-    <string name="word_title_553" translatable="false">la diversión</string>
-    <string name="word_title_554" translatable="false">ahorrar</string>
-    <string name="word_title_555" translatable="false">la rueda</string>
-    <string name="word_title_556" translatable="false">el neumático</string>
-    <string name="word_title_557" translatable="false">la rueda</string>
-    <string name="word_title_558" translatable="false">la batería</string>
-    <string name="word_title_559" translatable="false">el baúl</string>
-    <string name="word_title_560" translatable="false">el atasco</string>
+    <string name="word_title_541" translatable="false">to find</string>
+    <string name="word_title_542" translatable="false">treasure</string>
+    <string name="word_title_543" translatable="false">to search</string>
+    <string name="word_title_544" translatable="false">search</string>
+    <string name="word_title_545" translatable="false">prison</string>
+    <string name="word_title_546" translatable="false">criminal</string>
+    <string name="word_title_547" translatable="false">gun</string>
+    <string name="word_title_548" translatable="false">to kill</string>
+    <string name="word_title_549" translatable="false">to break</string>
+    <string name="word_title_550" translatable="false">fine</string>
+    <string name="word_title_551" translatable="false">to punish</string>
+    <string name="word_title_552" translatable="false">fear</string>
+    <string name="word_title_553" translatable="false">fun</string>
+    <string name="word_title_554" translatable="false">to save</string>
+    <string name="word_title_555" translatable="false">wheel</string>
+    <string name="word_title_556" translatable="false">tire</string>
+    <string name="word_title_557" translatable="false">wheel</string>
+    <string name="word_title_558" translatable="false">battery</string>
+    <string name="word_title_559" translatable="false">trunk</string>
+    <string name="word_title_560" translatable="false">traffic jam</string>
 
-    <string name="word_translate_541">to find</string>
-    <string name="word_translate_542">treasure</string>
-    <string name="word_translate_543">to search</string>
-    <string name="word_translate_544">search</string>
-    <string name="word_translate_545">prison</string>
-    <string name="word_translate_546">criminal</string>
-    <string name="word_translate_547">gun</string>
-    <string name="word_translate_548">to kill</string>
-    <string name="word_translate_549">to break</string>
-    <string name="word_translate_550">fine</string>
-    <string name="word_translate_551">to punish</string>
-    <string name="word_translate_552">fear</string>
-    <string name="word_translate_553">fun</string>
-    <string name="word_translate_554">to save</string>
-    <string name="word_translate_555">wheel</string>
-    <string name="word_translate_556">tire</string>
-    <string name="word_translate_557">wheel</string>
-    <string name="word_translate_558">battery</string>
-    <string name="word_translate_559">trunk</string>
-    <string name="word_translate_560">traffic jam</string>
+    <string name="word_translate_541">encontrar</string>
+    <string name="word_translate_542">el tesoro</string>
+    <string name="word_translate_543">buscar</string>
+    <string name="word_translate_544">la búsqueda</string>
+    <string name="word_translate_545">La prisión</string>
+    <string name="word_translate_546">el criminal</string>
+    <string name="word_translate_547">el arma</string>
+    <string name="word_translate_548">matar</string>
+    <string name="word_translate_549">romper</string>
+    <string name="word_translate_550">la multa</string>
+    <string name="word_translate_551">castigar</string>
+    <string name="word_translate_552">el miedo</string>
+    <string name="word_translate_553">la diversión</string>
+    <string name="word_translate_554">ahorrar</string>
+    <string name="word_translate_555">la rueda</string>
+    <string name="word_translate_556">el neumático</string>
+    <string name="word_translate_557">la rueda</string>
+    <string name="word_translate_558">la batería</string>
+    <string name="word_translate_559">el baúl</string>
+    <string name="word_translate_560">el atasco</string>
     <!-- END -->
 
     <!-- PHRASE + TRANSLATE -->
-    <string name="phrase_541" translatable="false">No puedo encontrarte.</string>
-    <string name="phrase_translate_541">I can not find you.</string>
+    <string name="phrase_541" translatable="false">I can not find you.</string>
+    <string name="phrase_translate_541">No puedo encontrarte.</string>
 
-    <string name="phrase_542" translatable="false">Encontraste el tesoro.</string>
-    <string name="phrase_translate_542">You found the treasure.</string>
+    <string name="phrase_542" translatable="false">You found the treasure.</string>
+    <string name="phrase_translate_542">Encontraste el tesoro.</string>
 
-    <string name="phrase_543" translatable="false">Busca trabajo.</string>
-    <string name="phrase_translate_543">He\'s looking for a job.</string>
+    <string name="phrase_543" translatable="false">He\'s looking for a job.</string>
+    <string name="phrase_translate_543">Busca trabajo.</string>
 
-    <string name="phrase_544" translatable="false">Busca la felicidad.</string>
-    <string name="phrase_translate_544">He is looking for happiness.</string>
+    <string name="phrase_544" translatable="false">He is looking for happiness.</string>
+    <string name="phrase_translate_544">Busca la felicidad.</string>
 
-    <string name="phrase_545" translatable="false">Está en la cárcel.</string>
-    <string name="phrase_translate_545">He is in prison.</string>
+    <string name="phrase_545" translatable="false">He is in prison.</string>
+    <string name="phrase_translate_545">Está en la cárcel.</string>
 
-    <string name="phrase_546" translatable="false">La policía busca al criminal.</string>
-    <string name="phrase_translate_546">The police are looking for the criminal.</string>
+    <string name="phrase_546" translatable="false">The police are looking for the criminal.</string>
+    <string name="phrase_translate_546">La policía busca al criminal.</string>
 
-    <string name="phrase_547" translatable="false">Tiene un arma.</string>
-    <string name="phrase_translate_547">He\'s got a gun.</string>
+    <string name="phrase_547" translatable="false">He\'s got a gun.</string>
+    <string name="phrase_translate_547">Tiene un arma.</string>
 
-    <string name="phrase_548" translatable="false">No mató a nadie.</string>
-    <string name="phrase_translate_548">He didn\'t kill anyone.</string>
+    <string name="phrase_548" translatable="false">He didn\'t kill anyone.</string>
+    <string name="phrase_translate_548">No mató a nadie.</string>
 
-    <string name="phrase_549" translatable="false">El conductor rompió las reglas.</string>
-    <string name="phrase_translate_549">The driver broke the rules.</string>
+    <string name="phrase_549" translatable="false">The driver broke the rules.</string>
+    <string name="phrase_translate_549">El conductor rompió las reglas.</string>
 
-    <string name="phrase_550" translatable="false">Ella consiguió una multa.</string>
-    <string name="phrase_translate_550">She got a fine.</string>
+    <string name="phrase_550" translatable="false">She got a fine.</string>
+    <string name="phrase_translate_550">Ella consiguió una multa.</string>
 
-    <string name="phrase_551" translatable="false">Lo castigan con una multa</string>
-    <string name="phrase_translate_551">They punish him with a fine</string>
+    <string name="phrase_551" translatable="false">They punish him with a fine</string>
+    <string name="phrase_translate_551">Lo castigan con una multa</string>
 
-    <string name="phrase_552" translatable="false">Él esta asustado.</string>
-    <string name="phrase_translate_552">He is afraid.</string>
+    <string name="phrase_552" translatable="false">He is afraid.</string>
+    <string name="phrase_translate_552">Él esta asustado.</string>
 
-    <string name="phrase_553" translatable="false">¡Que te diviertas!</string>
-    <string name="phrase_translate_553">Have fun!</string>
+    <string name="phrase_553" translatable="false">Have fun!</string>
+    <string name="phrase_translate_553">¡Que te diviertas!</string>
 
-    <string name="phrase_554" translatable="false">Yo lo salvé.</string>
-    <string name="phrase_translate_554">I saved him.</string>
+    <string name="phrase_554" translatable="false">I saved him.</string>
+    <string name="phrase_translate_554">Yo lo salvé.</string>
 
-    <string name="phrase_555" translatable="false">El coche tiene cuatro ruedas.</string>
-    <string name="phrase_translate_555">The car has four wheels.</string>
+    <string name="phrase_555" translatable="false">The car has four wheels.</string>
+    <string name="phrase_translate_555">El coche tiene cuatro ruedas.</string>
 
-    <string name="phrase_556" translatable="false">Compré neumáticos de invierno.</string>
-    <string name="phrase_translate_556">I bought winter tires.</string>
+    <string name="phrase_556" translatable="false">I bought winter tires.</string>
+    <string name="phrase_translate_556">Compré neumáticos de invierno.</string>
 
-    <string name="phrase_557" translatable="false">Sostengo el volante.</string>
-    <string name="phrase_translate_557">I hold the steering wheel.</string>
+    <string name="phrase_557" translatable="false">I hold the steering wheel.</string>
+    <string name="phrase_translate_557">Sostengo el volante.</string>
 
-    <string name="phrase_558" translatable="false">La batería está descargada.</string>
-    <string name="phrase_translate_558">The battery is empty.</string>
+    <string name="phrase_558" translatable="false">The battery is empty.</string>
+    <string name="phrase_translate_558">La batería está descargada.</string>
 
-    <string name="phrase_559" translatable="false">Pon la bolsa en el maletero.</string>
-    <string name="phrase_translate_559">Put the bag in the trunk.</string>
+    <string name="phrase_559" translatable="false">Put the bag in the trunk.</string>
+    <string name="phrase_translate_559">Pon la bolsa en el maletero.</string>
 
-    <string name="phrase_560" translatable="false">Hay un atasco de tráfico.</string>
-    <string name="phrase_translate_560">There is a traffic jam.</string>
+    <string name="phrase_560" translatable="false">There is a traffic jam.</string>
+    <string name="phrase_translate_560">Hay un atasco de tráfico.</string>
     <!-- END -->
 
 
     <!-- WORD_LT -->
-    <string name="word_LT_541">to wait</string>
-    <string name="word_LT_542">treasure</string>
-    <string name="word_LT_543">to live</string>
-    <string name="word_LT_544">care</string>
-    <string name="word_LT_545">running</string>
-    <string name="word_LT_546">police officer</string>
-    <string name="word_LT_547">gun</string>
-    <string name="word_LT_548">to forget</string>
-    <string name="word_LT_549">to break</string>
-    <string name="word_LT_550">think</string>
-    <string name="word_LT_551">to break</string>
-    <string name="word_LT_552">fear</string>
-    <string name="word_LT_553">fun</string>
-    <string name="word_LT_554">to give</string>
-    <string name="word_LT_555">train</string>
-    <string name="word_LT_556">apartment</string>
-    <string name="word_LT_557">earth</string>
-    <string name="word_LT_558">park</string>
-    <string name="word_LT_559">island</string>
-    <string name="word_LT_560">traffic jam</string>
+    <string name="word_LT_541">esperar</string>
+    <string name="word_LT_542">el tesoro</string>
+    <string name="word_LT_543">vivir</string>
+    <string name="word_LT_544">el cuidado</string>
+    <string name="word_LT_545">el funcionamiento</string>
+    <string name="word_LT_546">el policía</string>
+    <string name="word_LT_547">el arma</string>
+    <string name="word_LT_548">olvidar</string>
+    <string name="word_LT_549">romper</string>
+    <string name="word_LT_550">el pensar</string>
+    <string name="word_LT_551">romper</string>
+    <string name="word_LT_552">el miedo</string>
+    <string name="word_LT_553">la diversión</string>
+    <string name="word_LT_554">dar</string>
+    <string name="word_LT_555">el tren</string>
+    <string name="word_LT_556">el apartamento</string>
+    <string name="word_LT_557">la tierra</string>
+    <string name="word_LT_558">el parque</string>
+    <string name="word_LT_559">la isla</string>
+    <string name="word_LT_560">el atasco</string>
     <!-- END -->
 
     <!-- WORD_RT -->
-    <string name="word_RT_541">to forget</string>
-    <string name="word_RT_542">hair</string>
-    <string name="word_RT_543">to search</string>
-    <string name="word_RT_544">help</string>
-    <string name="word_RT_545">bathroom</string>
-    <string name="word_RT_546">producer</string>
-    <string name="word_RT_547">kettle</string>
-    <string name="word_RT_548">to search</string>
-    <string name="word_RT_549">to eat</string>
-    <string name="word_RT_550">piece</string>
-    <string name="word_RT_551">to test</string>
-    <string name="word_RT_552">happiness</string>
-    <string name="word_RT_553">music</string>
-    <string name="word_RT_554">to play</string>
-    <string name="word_RT_555">wheel</string>
-    <string name="word_RT_556">tire</string>
-    <string name="word_RT_557">bicycle</string>
-    <string name="word_RT_558">train</string>
-    <string name="word_RT_559">trunk</string>
-    <string name="word_RT_560">training</string>
+    <string name="word_RT_541">olvidar</string>
+    <string name="word_RT_542">el pelo</string>
+    <string name="word_RT_543">buscar</string>
+    <string name="word_RT_544">la ayuda</string>
+    <string name="word_RT_545">el cuarto de baño</string>
+    <string name="word_RT_546">el productor</string>
+    <string name="word_RT_547">La tetera</string>
+    <string name="word_RT_548">buscar</string>
+    <string name="word_RT_549">comer</string>
+    <string name="word_RT_550">la pieza</string>
+    <string name="word_RT_551">Probar</string>
+    <string name="word_RT_552">la felicidad</string>
+    <string name="word_RT_553">la música</string>
+    <string name="word_RT_554">jugar</string>
+    <string name="word_RT_555">la rueda</string>
+    <string name="word_RT_556">el neumático</string>
+    <string name="word_RT_557">la bicicleta</string>
+    <string name="word_RT_558">el tren</string>
+    <string name="word_RT_559">el baúl</string>
+    <string name="word_RT_560">el entrenamiento</string>
     <!-- END -->
 
     <!-- WORD_LB -->
-    <string name="word_LB_541">to control</string>
-    <string name="word_LB_542">cap</string>
-    <string name="word_LB_543">to go</string>
-    <string name="word_LB_544">case</string>
-    <string name="word_LB_545">dog</string>
-    <string name="word_LB_546">actor</string>
-    <string name="word_LB_547">hunting</string>
-    <string name="word_LB_548">to know</string>
-    <string name="word_LB_549">to cross</string>
-    <string name="word_LB_550">fine</string>
-    <string name="word_LB_551">to heal</string>
-    <string name="word_LB_552">toy</string>
-    <string name="word_LB_553">restaurant</string>
-    <string name="word_LB_554">to congratulate</string>
-    <string name="word_LB_555">plane</string>
-    <string name="word_LB_556">tractor</string>
-    <string name="word_LB_557">highway</string>
-    <string name="word_LB_558">battery</string>
-    <string name="word_LB_559">holiday</string>
-    <string name="word_LB_560">highway</string>
+    <string name="word_LB_541">control</string>
+    <string name="word_LB_542">la tapa</string>
+    <string name="word_LB_543">ir</string>
+    <string name="word_LB_544">el caso</string>
+    <string name="word_LB_545">el perro</string>
+    <string name="word_LB_546">el actor</string>
+    <string name="word_LB_547">la caza</string>
+    <string name="word_LB_548">saber</string>
+    <string name="word_LB_549">para cruzar</string>
+    <string name="word_LB_550">la multa</string>
+    <string name="word_LB_551">para sanar</string>
+    <string name="word_LB_552">el juguete</string>
+    <string name="word_LB_553">el restaurante</string>
+    <string name="word_LB_554">felicitar</string>
+    <string name="word_LB_555">el avión</string>
+    <string name="word_LB_556">el tractor</string>
+    <string name="word_LB_557">la autopista</string>
+    <string name="word_LB_558">la batería</string>
+    <string name="word_LB_559">las vacaciones</string>
+    <string name="word_LB_560">la autopista</string>
     <!-- END -->
 
     <!-- WORD_RB -->
-    <string name="word_RB_541">to find</string>
-    <string name="word_RB_542">list</string>
-    <string name="word_RB_543">to love</string>
-    <string name="word_RB_544">search</string>
-    <string name="word_RB_545">prison</string>
-    <string name="word_RB_546">criminal</string>
-    <string name="word_RB_547">clothing</string>
-    <string name="word_RB_548">to kill</string>
-    <string name="word_RB_549">to travel</string>
-    <string name="word_RB_550">soul</string>
-    <string name="word_RB_551">to punish</string>
-    <string name="word_RB_552">shop</string>
-    <string name="word_RB_553">butterfly</string>
-    <string name="word_RB_554">to save</string>
-    <string name="word_RB_555">stairs</string>
-    <string name="word_RB_556">filling station</string>
-    <string name="word_RB_557">wheel</string>
-    <string name="word_RB_558">music</string>
-    <string name="word_RB_559">sea</string>
-    <string name="word_RB_560">filling station</string>
+    <string name="word_RB_541">encontrar</string>
+    <string name="word_RB_542">la lista</string>
+    <string name="word_RB_543">amar</string>
+    <string name="word_RB_544">la búsqueda</string>
+    <string name="word_RB_545">La prisión</string>
+    <string name="word_RB_546">el criminal</string>
+    <string name="word_RB_547">el atuendo</string>
+    <string name="word_RB_548">matar</string>
+    <string name="word_RB_549">viajar</string>
+    <string name="word_RB_550">el alma</string>
+    <string name="word_RB_551">castigar</string>
+    <string name="word_RB_552">la tienda</string>
+    <string name="word_RB_553">la mariposa</string>
+    <string name="word_RB_554">ahorrar</string>
+    <string name="word_RB_555">las escaleras</string>
+    <string name="word_RB_556">la estación de servicio</string>
+    <string name="word_RB_557">la rueda</string>
+    <string name="word_RB_558">la música</string>
+    <string name="word_RB_559">el mar</string>
+    <string name="word_RB_560">la gasolinera</string>
     <!-- END -->
 </resources>

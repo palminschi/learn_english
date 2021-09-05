@@ -1,201 +1,201 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- TITLE -->
-    <string name="word_title_521" translatable="false">la pieza</string>
-    <string name="word_title_522" translatable="false">un poco</string>
-    <string name="word_title_523" translatable="false">la lista</string>
-    <string name="word_title_524" translatable="false">el desarrollo</string>
-    <string name="word_title_525" translatable="false">El desarrollador</string>
-    <string name="word_title_526" translatable="false">el programador</string>
-    <string name="word_title_527" translatable="false">desarrollar</string>
-    <string name="word_title_528" translatable="false">la solución</string>
-    <string name="word_title_529" translatable="false">el Consejo</string>
-    <string name="word_title_530" translatable="false">aconsejar</string>
-    <string name="word_title_531" translatable="false">la disputa</string>
-    <string name="word_title_532" translatable="false">argumentar</string>
-    <string name="word_title_533" translatable="false">la ayuda</string>
-    <string name="word_title_534" translatable="false">ayudar</string>
-    <string name="word_title_535" translatable="false">preocuparse</string>
-    <string name="word_title_536" translatable="false">el cuidado</string>
-    <string name="word_title_537" translatable="false">la prueba</string>
-    <string name="word_title_538" translatable="false">Probar</string>
-    <string name="word_title_539" translatable="false">verificar</string>
-    <string name="word_title_540" translatable="false">ahorrar</string>
+    <string name="word_title_521" translatable="false">piece</string>
+    <string name="word_title_522" translatable="false">a little</string>
+    <string name="word_title_523" translatable="false">list</string>
+    <string name="word_title_524" translatable="false">development</string>
+    <string name="word_title_525" translatable="false">developer</string>
+    <string name="word_title_526" translatable="false">programmer</string>
+    <string name="word_title_527" translatable="false">to develop</string>
+    <string name="word_title_528" translatable="false">solution</string>
+    <string name="word_title_529" translatable="false">advice</string>
+    <string name="word_title_530" translatable="false">to advise</string>
+    <string name="word_title_531" translatable="false">dispute</string>
+    <string name="word_title_532" translatable="false">to argue</string>
+    <string name="word_title_533" translatable="false">help</string>
+    <string name="word_title_534" translatable="false">to help</string>
+    <string name="word_title_535" translatable="false">to worry</string>
+    <string name="word_title_536" translatable="false">care</string>
+    <string name="word_title_537" translatable="false">test</string>
+    <string name="word_title_538" translatable="false">to test</string>
+    <string name="word_title_539" translatable="false">to check</string>
+    <string name="word_title_540" translatable="false">to save</string>
 
-    <string name="word_translate_521">piece</string>
-    <string name="word_translate_522">a little</string>
-    <string name="word_translate_523">list</string>
-    <string name="word_translate_524">development</string>
-    <string name="word_translate_525">developer</string>
-    <string name="word_translate_526">programmer</string>
-    <string name="word_translate_527">to develop</string>
-    <string name="word_translate_528">solution</string>
-    <string name="word_translate_529">advice</string>
-    <string name="word_translate_530">to advise</string>
-    <string name="word_translate_531">dispute</string>
-    <string name="word_translate_532">to argue</string>
-    <string name="word_translate_533">help</string>
-    <string name="word_translate_534">to help</string>
-    <string name="word_translate_535">to worry</string>
-    <string name="word_translate_536">care</string>
-    <string name="word_translate_537">test</string>
-    <string name="word_translate_538">to test</string>
-    <string name="word_translate_539">to check</string>
-    <string name="word_translate_540">to save</string>
+    <string name="word_translate_521">la pieza</string>
+    <string name="word_translate_522">un poco</string>
+    <string name="word_translate_523">la lista</string>
+    <string name="word_translate_524">el desarrollo</string>
+    <string name="word_translate_525">El desarrollador</string>
+    <string name="word_translate_526">el programador</string>
+    <string name="word_translate_527">desarrollar</string>
+    <string name="word_translate_528">la solución</string>
+    <string name="word_translate_529">el Consejo</string>
+    <string name="word_translate_530">aconsejar</string>
+    <string name="word_translate_531">la disputa</string>
+    <string name="word_translate_532">argumentar</string>
+    <string name="word_translate_533">la ayuda</string>
+    <string name="word_translate_534">ayudar</string>
+    <string name="word_translate_535">preocuparse</string>
+    <string name="word_translate_536">el cuidado</string>
+    <string name="word_translate_537">la prueba</string>
+    <string name="word_translate_538">Probar</string>
+    <string name="word_translate_539">verificar</string>
+    <string name="word_translate_540">ahorrar</string>
     <!-- END -->
 
     <!-- PHRASE + TRANSLATE -->
-    <string name="phrase_521" translatable="false">Dame dos piezas, por favor.</string>
-    <string name="phrase_translate_521">Give me two pieces, please.</string>
+    <string name="phrase_521" translatable="false">Give me two pieces, please.</string>
+    <string name="phrase_translate_521">Dame dos piezas, por favor.</string>
 
-    <string name="phrase_522" translatable="false">Hablo un poco de alemán.</string>
-    <string name="phrase_translate_522">I speak a little German.</string>
+    <string name="phrase_522" translatable="false">I speak a little German.</string>
+    <string name="phrase_translate_522">Hablo un poco de alemán.</string>
 
-    <string name="phrase_523" translatable="false">Tengo una lista de tareas pendientes.</string>
-    <string name="phrase_translate_523">I have a to-do list.</string>
+    <string name="phrase_523" translatable="false">I have a to-do list.</string>
+    <string name="phrase_translate_523">Tengo una lista de tareas pendientes.</string>
 
-    <string name="phrase_524" translatable="false">Desarrollo de la empresa.</string>
-    <string name="phrase_translate_524">Development of the company.</string>
+    <string name="phrase_524" translatable="false">Development of the company.</string>
+    <string name="phrase_translate_524">Desarrollo de la empresa.</string>
 
-    <string name="phrase_525" translatable="false">Trabaja como desarrollador.</string>
-    <string name="phrase_translate_525">He works as a developer.</string>
+    <string name="phrase_525" translatable="false">He works as a developer.</string>
+    <string name="phrase_translate_525">Trabaja como desarrollador.</string>
 
-    <string name="phrase_526" translatable="false">Un programador me hace un sitio web.</string>
-    <string name="phrase_translate_526">A programmer makes me a website.</string>
+    <string name="phrase_526" translatable="false">A programmer makes me a website.</string>
+    <string name="phrase_translate_526">Un programador me hace un sitio web.</string>
 
-    <string name="phrase_527" translatable="false">Hemos desarrollado un nuevo programa</string>
-    <string name="phrase_translate_527">We have developed a new program</string>
+    <string name="phrase_527" translatable="false">We have developed a new program</string>
+    <string name="phrase_translate_527">Hemos desarrollado un nuevo programa</string>
 
-    <string name="phrase_528" translatable="false">No encuentro una solución.</string>
-    <string name="phrase_translate_528">I cannot find a solution.</string>
+    <string name="phrase_528" translatable="false">I cannot find a solution.</string>
+    <string name="phrase_translate_528">No encuentro una solución.</string>
 
-    <string name="phrase_529" translatable="false">Necesito un consejo.</string>
-    <string name="phrase_translate_529">I need some advice.</string>
+    <string name="phrase_529" translatable="false">I need some advice.</string>
+    <string name="phrase_translate_529">Necesito un consejo.</string>
 
-    <string name="phrase_530" translatable="false">Te aconsejo que hagas esto.</string>
-    <string name="phrase_translate_530">I advise you to do this.</string>
+    <string name="phrase_530" translatable="false">I advise you to do this.</string>
+    <string name="phrase_translate_530">Te aconsejo que hagas esto.</string>
 
-    <string name="phrase_531" translatable="false">Ha surgido una disputa</string>
-    <string name="phrase_translate_531">A dispute has arisen</string>
+    <string name="phrase_531" translatable="false">A dispute has arisen</string>
+    <string name="phrase_translate_531">Ha surgido una disputa</string>
 
-    <string name="phrase_532" translatable="false">Discuten con nosotros.</string>
-    <string name="phrase_translate_532">They argue with us.</string>
+    <string name="phrase_532" translatable="false">They argue with us.</string>
+    <string name="phrase_translate_532">Discuten con nosotros.</string>
 
-    <string name="phrase_533" translatable="false">Él necesita ayuda.</string>
-    <string name="phrase_translate_533">He needs help.</string>
+    <string name="phrase_533" translatable="false">He needs help.</string>
+    <string name="phrase_translate_533">Él necesita ayuda.</string>
 
-    <string name="phrase_534" translatable="false">Tengo que ayudar a mi abuela.</string>
-    <string name="phrase_translate_534">I have to help my grandma.</string>
+    <string name="phrase_534" translatable="false">I have to help my grandma.</string>
+    <string name="phrase_translate_534">Tengo que ayudar a mi abuela.</string>
 
-    <string name="phrase_535" translatable="false">Me preocupo por él.</string>
-    <string name="phrase_translate_535">I worry about him.</string>
+    <string name="phrase_535" translatable="false">I worry about him.</string>
+    <string name="phrase_translate_535">Me preocupo por él.</string>
 
-    <string name="phrase_536" translatable="false">El perro necesita cuidados.</string>
-    <string name="phrase_translate_536">The dog needs care.</string>
+    <string name="phrase_536" translatable="false">The dog needs care.</string>
+    <string name="phrase_translate_536">El perro necesita cuidados.</string>
 
-    <string name="phrase_537" translatable="false">He hecho una prueba.</string>
-    <string name="phrase_translate_537">I have made a test.</string>
+    <string name="phrase_537" translatable="false">I have made a test.</string>
+    <string name="phrase_translate_537">He hecho una prueba.</string>
 
-    <string name="phrase_538" translatable="false">Probaré el auto.</string>
-    <string name="phrase_translate_538">I will test the car.</string>
+    <string name="phrase_538" translatable="false">I will test the car.</string>
+    <string name="phrase_translate_538">Probaré el auto.</string>
 
-    <string name="phrase_539" translatable="false">El profesor comprueba cómo escribimos.</string>
-    <string name="phrase_translate_539">The teacher checks how we write.</string>
+    <string name="phrase_539" translatable="false">The teacher checks how we write.</string>
+    <string name="phrase_translate_539">El profesor comprueba cómo escribimos.</string>
 
-    <string name="phrase_540" translatable="false">Yo ahorro dinero.</string>
-    <string name="phrase_translate_540">I save money.</string>
+    <string name="phrase_540" translatable="false">I save money.</string>
+    <string name="phrase_translate_540">Yo ahorro dinero.</string>
     <!-- END -->
 
 
     <!-- WORD_LT -->
-    <string name="word_LT_521">think</string>
-    <string name="word_LT_522">nothing</string>
-    <string name="word_LT_523">pants</string>
-    <string name="word_LT_524">document</string>
-    <string name="word_LT_525">police officer</string>
-    <string name="word_LT_526">actor</string>
-    <string name="word_LT_527">to develop</string>
-    <string name="word_LT_528">thinl</string>
-    <string name="word_LT_529">village</string>
-    <string name="word_LT_530">to forget</string>
-    <string name="word_LT_531">advice</string>
-    <string name="word_LT_532">to steal</string>
-    <string name="word_LT_533">care</string>
-    <string name="word_LT_534">to laugh</string>
-    <string name="word_LT_535">to worry</string>
-    <string name="word_LT_536">memory</string>
-    <string name="word_LT_537">exit</string>
-    <string name="word_LT_538">to break</string>
-    <string name="word_LT_539">to wait</string>
-    <string name="word_LT_540">to control</string>
+    <string name="word_LT_521">el pensar</string>
+    <string name="word_LT_522">nada</string>
+    <string name="word_LT_523">los pantalones</string>
+    <string name="word_LT_524">el documento</string>
+    <string name="word_LT_525">el policía</string>
+    <string name="word_LT_526">el actor</string>
+    <string name="word_LT_527">desarrollar</string>
+    <string name="word_LT_528">el pensar</string>
+    <string name="word_LT_529">La aldea</string>
+    <string name="word_LT_530">olvidar</string>
+    <string name="word_LT_531">el Consejo</string>
+    <string name="word_LT_532">robar</string>
+    <string name="word_LT_533">el cuidado</string>
+    <string name="word_LT_534">reír</string>
+    <string name="word_LT_535">preocuparse</string>
+    <string name="word_LT_536">la memoria</string>
+    <string name="word_LT_537">la salida</string>
+    <string name="word_LT_538">romper</string>
+    <string name="word_LT_539">esperar</string>
+    <string name="word_LT_540">al control</string>
     <!-- END -->
 
     <!-- WORD_RT -->
-    <string name="word_RT_521">piece</string>
-    <string name="word_RT_522">back</string>
-    <string name="word_RT_523">hair</string>
-    <string name="word_RT_524">development</string>
-    <string name="word_RT_525">producer</string>
-    <string name="word_RT_526">programmer</string>
-    <string name="word_RT_527">to eat</string>
-    <string name="word_RT_528">premium</string>
-    <string name="word_RT_529">experience</string>
-    <string name="word_RT_530">to search</string>
-    <string name="word_RT_531">development</string>
-    <string name="word_RT_532">to argue</string>
-    <string name="word_RT_533">help</string>
-    <string name="word_RT_534">to help</string>
-    <string name="word_RT_535">to collect</string>
-    <string name="word_RT_536">care</string>
-    <string name="word_RT_537">training</string>
-    <string name="word_RT_538">to test</string>
-    <string name="word_RT_539">to forget</string>
-    <string name="word_RT_540">to sing</string>
+    <string name="word_RT_521">la pieza</string>
+    <string name="word_RT_522">espalda</string>
+    <string name="word_RT_523">el pelo</string>
+    <string name="word_RT_524">el desarrollo</string>
+    <string name="word_RT_525">el productor</string>
+    <string name="word_RT_526">el programador</string>
+    <string name="word_RT_527">comer</string>
+    <string name="word_RT_528">la prima</string>
+    <string name="word_RT_529">la experiencia</string>
+    <string name="word_RT_530">buscar</string>
+    <string name="word_RT_531">el desarrollo</string>
+    <string name="word_RT_532">argumentar</string>
+    <string name="word_RT_533">la ayuda</string>
+    <string name="word_RT_534">ayudar</string>
+    <string name="word_RT_535">coleccionar</string>
+    <string name="word_RT_536">el cuidado</string>
+    <string name="word_RT_537">el entrenamiento</string>
+    <string name="word_RT_538">Probar</string>
+    <string name="word_RT_539">olvidar</string>
+    <string name="word_RT_540">cantar</string>
     <!-- END -->
 
     <!-- WORD_LB -->
-    <string name="word_LB_521">pair</string>
-    <string name="word_LB_522">much</string>
-    <string name="word_LB_523">cap</string>
-    <string name="word_LB_524">benefit</string>
-    <string name="word_LB_525">actor</string>
-    <string name="word_LB_526">police officer</string>
-    <string name="word_LB_527">to cross</string>
-    <string name="word_LB_528">solution</string>
-    <string name="word_LB_529">pension</string>
-    <string name="word_LB_530">to know</string>
-    <string name="word_LB_531">decision</string>
-    <string name="word_LB_532">to fall</string>
-    <string name="word_LB_533">case</string>
-    <string name="word_LB_534">to rest</string>
-    <string name="word_LB_535">to water</string>
-    <string name="word_LB_536">profit</string>
-    <string name="word_LB_537">exam</string>
-    <string name="word_LB_538">to heal</string>
-    <string name="word_LB_539">to check</string>
-    <string name="word_LB_540">to jump</string>
+    <string name="word_LB_521">el par</string>
+    <string name="word_LB_522">mucho</string>
+    <string name="word_LB_523">la tapa</string>
+    <string name="word_LB_524">el beneficio</string>
+    <string name="word_LB_525">el actor</string>
+    <string name="word_LB_526">el policía</string>
+    <string name="word_LB_527">cruzar</string>
+    <string name="word_LB_528">la solución</string>
+    <string name="word_LB_529">la pension</string>
+    <string name="word_LB_530">saber</string>
+    <string name="word_LB_531">la decisión</string>
+    <string name="word_LB_532">caer</string>
+    <string name="word_LB_533">el caso</string>
+    <string name="word_LB_534">descansar</string>
+    <string name="word_LB_535">regar</string>
+    <string name="word_LB_536">la ganancia</string>
+    <string name="word_LB_537">el examen</string>
+    <string name="word_LB_538">sanar</string>
+    <string name="word_LB_539">verificar</string>
+    <string name="word_LB_540">saltar</string>
     <!-- END -->
 
     <!-- WORD_RB -->
-    <string name="word_RB_521">soul</string>
-    <string name="word_RB_522">a little</string>
-    <string name="word_RB_523">list</string>
-    <string name="word_RB_524">rest</string>
-    <string name="word_RB_525">developer</string>
-    <string name="word_RB_526">producer</string>
-    <string name="word_RB_527">to travel</string>
-    <string name="word_RB_528">soul</string>
-    <string name="word_RB_529">advice</string>
-    <string name="word_RB_530">to advise</string>
-    <string name="word_RB_531">dispute</string>
-    <string name="word_RB_532">to smoke</string>
-    <string name="word_RB_533">transfer</string>
-    <string name="word_RB_534">to sing</string>
-    <string name="word_RB_535">to jump</string>
-    <string name="word_RB_536">game</string>
-    <string name="word_RB_537">test</string>
-    <string name="word_RB_538">to fall</string>
-    <string name="word_RB_539">to stand</string>
-    <string name="word_RB_540">to save</string>
+    <string name="word_RB_521">el alma</string>
+    <string name="word_RB_522">un poco</string>
+    <string name="word_RB_523">la lista</string>
+    <string name="word_RB_524">el resto</string>
+    <string name="word_RB_525">El desarrollador</string>
+    <string name="word_RB_526">el productor</string>
+    <string name="word_RB_527">viajar</string>
+    <string name="word_RB_528">el alma</string>
+    <string name="word_RB_529">el Consejo</string>
+    <string name="word_RB_530">aconsejar</string>
+    <string name="word_RB_531">la disputa</string>
+    <string name="word_RB_532">fumar</string>
+    <string name="word_RB_533">la transferencia</string>
+    <string name="word_RB_534">cantar</string>
+    <string name="word_RB_535">saltar</string>
+    <string name="word_RB_536">el juego</string>
+    <string name="word_RB_537">la prueba</string>
+    <string name="word_RB_538">caer</string>
+    <string name="word_RB_539">estar de pie</string>
+    <string name="word_RB_540">ahorrar</string>
     <!-- END -->
 </resources>

@@ -1,201 +1,201 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- TITLE -->
-    <string name="word_title_361" translatable="false">el armario</string>
-    <string name="word_title_362" translatable="false">La cocina</string>
-    <string name="word_title_363" translatable="false">la nevera</string>
-    <string name="word_title_364" translatable="false">el estante</string>
-    <string name="word_title_365" translatable="false">la cacerola</string>
-    <string name="word_title_366" translatable="false">limpiar</string>
-    <string name="word_title_367" translatable="false">los guisantes</string>
-    <string name="word_title_368" translatable="false">los frijoles</string>
-    <string name="word_title_369" translatable="false">la papa</string>
-    <string name="word_title_370" translatable="false">freir</string>
-    <string name="word_title_371" translatable="false">El ajo</string>
-    <string name="word_title_372" translatable="false">delicioso</string>
-    <string name="word_title_373" translatable="false">la cebolla</string>
-    <string name="word_title_374" translatable="false">los vegetales</string>
-    <string name="word_title_375" translatable="false">el limón</string>
-    <string name="word_title_376" translatable="false">el helado</string>
-    <string name="word_title_377" translatable="false">La crema</string>
-    <string name="word_title_378" translatable="false">la pera</string>
-    <string name="word_title_379" translatable="false">el fruto</string>
-    <string name="word_title_380" translatable="false">la buena suerte</string>
+    <string name="word_title_361" translatable="false">closet</string>
+    <string name="word_title_362" translatable="false">kitchen</string>
+    <string name="word_title_363" translatable="false">fridge</string>
+    <string name="word_title_364" translatable="false">shelf</string>
+    <string name="word_title_365" translatable="false">saucepan</string>
+    <string name="word_title_366" translatable="false">to clean</string>
+    <string name="word_title_367" translatable="false">peas</string>
+    <string name="word_title_368" translatable="false">beans</string>
+    <string name="word_title_369" translatable="false">potato</string>
+    <string name="word_title_370" translatable="false">to fry</string>
+    <string name="word_title_371" translatable="false">garlic</string>
+    <string name="word_title_372" translatable="false">delicious</string>
+    <string name="word_title_373" translatable="false">onion</string>
+    <string name="word_title_374" translatable="false">vegetables</string>
+    <string name="word_title_375" translatable="false">lemon</string>
+    <string name="word_title_376" translatable="false">ice cream</string>
+    <string name="word_title_377" translatable="false">cream</string>
+    <string name="word_title_378" translatable="false">pear</string>
+    <string name="word_title_379" translatable="false">fruit</string>
+    <string name="word_title_380" translatable="false">good luck</string>
 
-    <string name="word_translate_361">closet</string>
-    <string name="word_translate_362">kitchen</string>
-    <string name="word_translate_363">fridge</string>
-    <string name="word_translate_364">shelf</string>
-    <string name="word_translate_365">saucepan</string>
-    <string name="word_translate_366">to clean</string>
-    <string name="word_translate_367">peas</string>
-    <string name="word_translate_368">beans</string>
-    <string name="word_translate_369">potato</string>
-    <string name="word_translate_370">to fry</string>
-    <string name="word_translate_371">garlic</string>
-    <string name="word_translate_372">delicious</string>
-    <string name="word_translate_373">onion</string>
-    <string name="word_translate_374">vegetables</string>
-    <string name="word_translate_375">lemon</string>
-    <string name="word_translate_376">ice cream</string>
-    <string name="word_translate_377">cream</string>
-    <string name="word_translate_378">pear</string>
-    <string name="word_translate_379">fruit</string>
-    <string name="word_translate_380">good luck</string>
+    <string name="word_translate_361">el armario</string>
+    <string name="word_translate_362">La cocina</string>
+    <string name="word_translate_363">la nevera</string>
+    <string name="word_translate_364">el estante</string>
+    <string name="word_translate_365">la cacerola</string>
+    <string name="word_translate_366">limpiar</string>
+    <string name="word_translate_367">los guisantes</string>
+    <string name="word_translate_368">los frijoles</string>
+    <string name="word_translate_369">la papa</string>
+    <string name="word_translate_370">freir</string>
+    <string name="word_translate_371">El ajo</string>
+    <string name="word_translate_372">delicioso</string>
+    <string name="word_translate_373">la cebolla</string>
+    <string name="word_translate_374">los vegetales</string>
+    <string name="word_translate_375">el limón</string>
+    <string name="word_translate_376">el helado</string>
+    <string name="word_translate_377">La crema</string>
+    <string name="word_translate_378">la pera</string>
+    <string name="word_translate_379">el fruto</string>
+    <string name="word_translate_380">la buena suerte</string>
     <!-- END -->
 
     <!-- PHRASE + TRANSLATE -->
-    <string name="phrase_361" translatable="false">Compré un armario nuevo.</string>
-    <string name="phrase_translate_361">I bought a new closet.</string>
+    <string name="phrase_361" translatable="false">I bought a new closet.</string>
+    <string name="phrase_translate_361">Compré un armario nuevo.</string>
 
-    <string name="phrase_362" translatable="false">Ella está trabajando en la cocina.</string>
-    <string name="phrase_translate_362">She is working in the kitchen.</string>
+    <string name="phrase_362" translatable="false">She is working in the kitchen.</string>
+    <string name="phrase_translate_362">Ella está trabajando en la cocina.</string>
 
-    <string name="phrase_363" translatable="false">La comida está en el frigorífico.</string>
-    <string name="phrase_translate_363">The food is in the fridge.</string>
+    <string name="phrase_363" translatable="false">The food is in the fridge.</string>
+    <string name="phrase_translate_363">La comida está en el frigorífico.</string>
 
-    <string name="phrase_364" translatable="false">Hay 3 estantes en el armario.</string>
-    <string name="phrase_translate_364">There are 3 shelves in the closet.</string>
+    <string name="phrase_364" translatable="false">There are 3 shelves in the closet.</string>
+    <string name="phrase_translate_364">Hay 3 estantes en el armario.</string>
 
-    <string name="phrase_365" translatable="false">La sopa se hierve en una cacerola.</string>
-    <string name="phrase_translate_365">The soup is boiled in a saucepan.</string>
+    <string name="phrase_365" translatable="false">The soup is boiled in a saucepan.</string>
+    <string name="phrase_translate_365">La sopa se hierve en una cacerola.</string>
 
-    <string name="phrase_366" translatable="false">Estoy limpiando el piso.</string>
-    <string name="phrase_translate_366">I am cleaning the flat.</string>
+    <string name="phrase_366" translatable="false">I am cleaning the flat.</string>
+    <string name="phrase_translate_366">Estoy limpiando el piso.</string>
 
-    <string name="phrase_367" translatable="false">No como guisantes.</string>
-    <string name="phrase_translate_367">I don\'t eat peas.</string>
+    <string name="phrase_367" translatable="false">I don\'t eat peas.</string>
+    <string name="phrase_translate_367">No como guisantes.</string>
 
-    <string name="phrase_368" translatable="false">Ella cocina algo con frijoles.</string>
-    <string name="phrase_translate_368">She cooks something with beans.</string>
+    <string name="phrase_368" translatable="false">She cooks something with beans.</string>
+    <string name="phrase_translate_368">Ella cocina algo con frijoles.</string>
 
-    <string name="phrase_369" translatable="false">Comeré patatas y carne.</string>
-    <string name="phrase_translate_369">I will eat potatoes and meat.</string>
+    <string name="phrase_369" translatable="false">I will eat potatoes and meat.</string>
+    <string name="phrase_translate_369">Comeré patatas y carne.</string>
 
-    <string name="phrase_370" translatable="false">Estoy friendo carne.</string>
-    <string name="phrase_translate_370">I\'m frying meat.</string>
+    <string name="phrase_370" translatable="false">I\'m frying meat.</string>
+    <string name="phrase_translate_370">Estoy friendo carne.</string>
 
-    <string name="phrase_371" translatable="false">Yo no como ajo.</string>
-    <string name="phrase_translate_371">I don\'t eat garlic.</string>
+    <string name="phrase_371" translatable="false">I don\'t eat garlic.</string>
+    <string name="phrase_translate_371">Yo no como ajo.</string>
 
-    <string name="phrase_372" translatable="false">La sopa es muy deliciosa.</string>
-    <string name="phrase_translate_372">The soup is very delicious.</string>
+    <string name="phrase_372" translatable="false">The soup is very delicious.</string>
+    <string name="phrase_translate_372">La sopa es muy deliciosa.</string>
 
-    <string name="phrase_373" translatable="false">Olvidé comprar cebollas.</string>
-    <string name="phrase_translate_373">I forgot to buy onions.</string>
+    <string name="phrase_373" translatable="false">I forgot to buy onions.</string>
+    <string name="phrase_translate_373">Olvidé comprar cebollas.</string>
 
-    <string name="phrase_374" translatable="false">Las verduras son saludables.</string>
-    <string name="phrase_translate_374">Vegetables are healthy.</string>
+    <string name="phrase_374" translatable="false">Vegetables are healthy.</string>
+    <string name="phrase_translate_374">Las verduras son saludables.</string>
 
-    <string name="phrase_375" translatable="false">Té con limón.</string>
-    <string name="phrase_translate_375">Tea with lemon.</string>
+    <string name="phrase_375" translatable="false">Tea with lemon.</string>
+    <string name="phrase_translate_375">Té con limón.</string>
 
-    <string name="phrase_376" translatable="false">El niño está comiendo helado.</string>
-    <string name="phrase_translate_376">The kid is eating ice cream.</string>
+    <string name="phrase_376" translatable="false">The kid is eating ice cream.</string>
+    <string name="phrase_translate_376">El niño está comiendo helado.</string>
 
-    <string name="phrase_377" translatable="false">Me gusta el café con crema.</string>
-    <string name="phrase_translate_377">I like coffee with cream.</string>
+    <string name="phrase_377" translatable="false">I like coffee with cream.</string>
+    <string name="phrase_translate_377">Me gusta el café con crema.</string>
 
-    <string name="phrase_378" translatable="false">Bebo jugo de pera.</string>
-    <string name="phrase_translate_378">I drink pear juice.</string>
+    <string name="phrase_378" translatable="false">I drink pear juice.</string>
+    <string name="phrase_translate_378">Bebo jugo de pera.</string>
 
-    <string name="phrase_379" translatable="false">Come muchas frutas.</string>
-    <string name="phrase_translate_379">She eats a lot of fruits.</string>
+    <string name="phrase_379" translatable="false">She eats a lot of fruits.</string>
+    <string name="phrase_translate_379">Come muchas frutas.</string>
 
-    <string name="phrase_380" translatable="false">Les deseo buena suerte.</string>
-    <string name="phrase_translate_380">I wish you good luck.</string>
+    <string name="phrase_380" translatable="false">I wish you good luck.</string>
+    <string name="phrase_translate_380">Les deseo buena suerte.</string>
     <!-- END -->
 
 
     <!-- WORD_LT -->
-    <string name="word_LT_361">closet</string>
-    <string name="word_LT_362">kitchen</string>
-    <string name="word_LT_363">soup</string>
-    <string name="word_LT_364">shelf</string>
-    <string name="word_LT_365">shop</string>
-    <string name="word_LT_366">to clean</string>
-    <string name="word_LT_367">napkin</string>
-    <string name="word_LT_368">dinner</string>
-    <string name="word_LT_369">breakfast</string>
-    <string name="word_LT_370">to give</string>
-    <string name="word_LT_371">knife</string>
-    <string name="word_LT_372">little</string>
-    <string name="word_LT_373">spoon</string>
-    <string name="word_LT_374">mushroom</string>
-    <string name="word_LT_375">restaurant</string>
-    <string name="word_LT_376">ice cream</string>
-    <string name="word_LT_377">house</string>
-    <string name="word_LT_378">pear</string>
-    <string name="word_LT_379">food</string>
-    <string name="word_LT_380">star</string>
+    <string name="word_LT_361">el armario</string>
+    <string name="word_LT_362">La cocina</string>
+    <string name="word_LT_363">la sopa</string>
+    <string name="word_LT_364">el estante</string>
+    <string name="word_LT_365">la tienda</string>
+    <string name="word_LT_366">limpiar</string>
+    <string name="word_LT_367">La servilleta</string>
+    <string name="word_LT_368">la cena</string>
+    <string name="word_LT_369">el desayuno</string>
+    <string name="word_LT_370">dar</string>
+    <string name="word_LT_371">el cuchillo</string>
+    <string name="word_LT_372">pequeño</string>
+    <string name="word_LT_373">la cuchara</string>
+    <string name="word_LT_374">el hongo</string>
+    <string name="word_LT_375">el restaurante</string>
+    <string name="word_LT_376">el helado</string>
+    <string name="word_LT_377">la casa</string>
+    <string name="word_LT_378">la pera</string>
+    <string name="word_LT_379">los alimentos</string>
+    <string name="word_LT_380">la estrella</string>
     <!-- END -->
 
     <!-- WORD_RT -->
-    <string name="word_RT_361">waiter</string>
-    <string name="word_RT_362">noodles</string>
-    <string name="word_RT_363">kettle</string>
-    <string name="word_RT_364">bottle</string>
-    <string name="word_RT_365">noodles</string>
-    <string name="word_RT_366">to sing</string>
-    <string name="word_RT_367">peas</string>
-    <string name="word_RT_368">lunch</string>
-    <string name="word_RT_369">potato</string>
-    <string name="word_RT_370">to clean</string>
-    <string name="word_RT_371">garlic</string>
-    <string name="word_RT_372">big</string>
-    <string name="word_RT_373">fork</string>
-    <string name="word_RT_374">bottle</string>
-    <string name="word_RT_375">basement</string>
-    <string name="word_RT_376">waiter</string>
-    <string name="word_RT_377">cream</string>
-    <string name="word_RT_378">sausage</string>
-    <string name="word_RT_379">napkin</string>
-    <string name="word_RT_380">good luck</string>
+    <string name="word_RT_361">El camarero</string>
+    <string name="word_RT_362">Los fideos</string>
+    <string name="word_RT_363">La tetera</string>
+    <string name="word_RT_364">la botella</string>
+    <string name="word_RT_365">Los fideos</string>
+    <string name="word_RT_366">cantar</string>
+    <string name="word_RT_367">los guisantes</string>
+    <string name="word_RT_368">el almuerzo</string>
+    <string name="word_RT_369">la papa</string>
+    <string name="word_RT_370">limpiar</string>
+    <string name="word_RT_371">El ajo</string>
+    <string name="word_RT_372">grande</string>
+    <string name="word_RT_373">El tenedor</string>
+    <string name="word_RT_374">la botella</string>
+    <string name="word_RT_375">el sótano</string>
+    <string name="word_RT_376">El camarero</string>
+    <string name="word_RT_377">La crema</string>
+    <string name="word_RT_378">la salchicha</string>
+    <string name="word_RT_379">La servilleta</string>
+    <string name="word_RT_380">la buena suerte</string>
     <!-- END -->
 
     <!-- WORD_LB -->
-    <string name="word_LB_361">music</string>
-    <string name="word_LB_362">drink</string>
-    <string name="word_LB_363">bill</string>
-    <string name="word_LB_364">spoon</string>
-    <string name="word_LB_365">soup</string>
-    <string name="word_LB_366">to cook</string>
-    <string name="word_LB_367">food</string>
-    <string name="word_LB_368">beans</string>
-    <string name="word_LB_369">kettle</string>
-    <string name="word_LB_370">to fry</string>
-    <string name="word_LB_371">sweets</string>
-    <string name="word_LB_372">delicious</string>
-    <string name="word_LB_373">shop</string>
-    <string name="word_LB_374">plane</string>
-    <string name="word_LB_375">porridge</string>
-    <string name="word_LB_376">flower</string>
-    <string name="word_LB_377">carrot</string>
-    <string name="word_LB_378">fork</string>
-    <string name="word_LB_379">knife</string>
-    <string name="word_LB_380">strength</string>
+    <string name="word_LB_361">la música</string>
+    <string name="word_LB_362">la bebida</string>
+    <string name="word_LB_363">la factura</string>
+    <string name="word_LB_364">la cuchara</string>
+    <string name="word_LB_365">la sopa</string>
+    <string name="word_LB_366">cocinar</string>
+    <string name="word_LB_367">los alimentos</string>
+    <string name="word_LB_368">los frijoles</string>
+    <string name="word_LB_369">La tetera</string>
+    <string name="word_LB_370">freir</string>
+    <string name="word_LB_371">los dulces</string>
+    <string name="word_LB_372">delicioso</string>
+    <string name="word_LB_373">la tienda</string>
+    <string name="word_LB_374">el avión</string>
+    <string name="word_LB_375">la papilla</string>
+    <string name="word_LB_376">la flor</string>
+    <string name="word_LB_377">la zanahoria</string>
+    <string name="word_LB_378">El tenedor</string>
+    <string name="word_LB_379">el cuchillo</string>
+    <string name="word_LB_380">la fuerza</string>
     <!-- END -->
 
     <!-- WORD_RB -->
-    <string name="word_RB_361">plane</string>
-    <string name="word_RB_362">tea</string>
-    <string name="word_RB_363">fridge</string>
-    <string name="word_RB_364">flour</string>
-    <string name="word_RB_365">saucepan</string>
-    <string name="word_RB_366">to give</string>
-    <string name="word_RB_367">taste</string>
-    <string name="word_RB_368">diet</string>
-    <string name="word_RB_369">lunch</string>
-    <string name="word_RB_370">to cook</string>
-    <string name="word_RB_371">spoon</string>
-    <string name="word_RB_372">sweet</string>
-    <string name="word_RB_373">onion</string>
-    <string name="word_RB_374">vegetables</string>
-    <string name="word_RB_375">lemon</string>
-    <string name="word_RB_376">kettle</string>
-    <string name="word_RB_377">people</string>
-    <string name="word_RB_378">plate</string>
-    <string name="word_RB_379">fruit</string>
-    <string name="word_RB_380">pepper</string>
+    <string name="word_RB_361">el avión</string>
+    <string name="word_RB_362">el té</string>
+    <string name="word_RB_363">la nevera</string>
+    <string name="word_RB_364">la harina</string>
+    <string name="word_RB_365">la cacerola</string>
+    <string name="word_RB_366">dar</string>
+    <string name="word_RB_367">el sabor</string>
+    <string name="word_RB_368">la dieta</string>
+    <string name="word_RB_369">el almuerzo</string>
+    <string name="word_RB_370">cocinar</string>
+    <string name="word_RB_371">la cuchara</string>
+    <string name="word_RB_372">dulce</string>
+    <string name="word_RB_373">la cebolla</string>
+    <string name="word_RB_374">los vegetales</string>
+    <string name="word_RB_375">el limón</string>
+    <string name="word_RB_376">La tetera</string>
+    <string name="word_RB_377">la gente</string>
+    <string name="word_RB_378">el plato</string>
+    <string name="word_RB_379">el fruto</string>
+    <string name="word_RB_380">el chile</string>
     <!-- END -->
 </resources>

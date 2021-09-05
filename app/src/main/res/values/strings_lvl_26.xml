@@ -1,200 +1,200 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- TITLE -->
-    <string name="word_title_501" translatable="false">la entrega</string>
-    <string name="word_title_502" translatable="false">entregar</string>
-    <string name="word_title_503" translatable="false">el paquete</string>
-    <string name="word_title_504" translatable="false">espalda</string>
-    <string name="word_title_505" translatable="false">mirar</string>
-    <string name="word_title_506" translatable="false">el actor</string>
-    <string name="word_title_507" translatable="false">el teatro</string>
-    <string name="word_title_508" translatable="false">el circo</string>
-    <string name="word_title_509" translatable="false">la película</string>
-    <string name="word_title_510" translatable="false">filmar</string>
-    <string name="word_title_511" translatable="false">las series</string>
-    <string name="word_title_512" translatable="false">el director</string>
-    <string name="word_title_513" translatable="false">el logro</string>
-    <string name="word_title_514" translatable="false">anotar</string>
-    <string name="word_title_515" translatable="false">el deber</string>
-    <string name="word_title_516" translatable="false">visitar</string>
-    <string name="word_title_517" translatable="false">el orden</string>
-    <string name="word_title_518" translatable="false">limpio</string>
-    <string name="word_title_519" translatable="false">el par</string>
-    <string name="word_title_520" translatable="false">el paso</string>
+    <string name="word_title_501" translatable="false">delivery</string>
+    <string name="word_title_502" translatable="false">to deliver</string>
+    <string name="word_title_503" translatable="false">package</string>
+    <string name="word_title_504" translatable="false">back</string>
+    <string name="word_title_505" translatable="false">to look</string>
+    <string name="word_title_506" translatable="false">actor</string>
+    <string name="word_title_507" translatable="false">theater</string>
+    <string name="word_title_508" translatable="false">circus</string>
+    <string name="word_title_509" translatable="false">film</string>
+    <string name="word_title_510" translatable="false">to film</string>
+    <string name="word_title_511" translatable="false">series</string>
+    <string name="word_title_512" translatable="false">director</string>
+    <string name="word_title_513" translatable="false">achievement</string>
+    <string name="word_title_514" translatable="false">to score</string>
+    <string name="word_title_515" translatable="false">duty</string>
+    <string name="word_title_516" translatable="false">to visit</string>
+    <string name="word_title_517" translatable="false">order</string>
+    <string name="word_title_518" translatable="false">clean</string>
+    <string name="word_title_519" translatable="false">pair</string>
+    <string name="word_title_520" translatable="false">step</string>
     <!-- END -->
-    <string name="word_translate_501">delivery</string>
-    <string name="word_translate_502">to deliver</string>
-    <string name="word_translate_503">package</string>
-    <string name="word_translate_504">back</string>
-    <string name="word_translate_505">to look</string>
-    <string name="word_translate_506">actor</string>
-    <string name="word_translate_507">theater</string>
-    <string name="word_translate_508">circus</string>
-    <string name="word_translate_509">film</string>
-    <string name="word_translate_510">to film</string>
-    <string name="word_translate_511">series</string>
-    <string name="word_translate_512">director</string>
-    <string name="word_translate_513">achievement</string>
-    <string name="word_translate_514">to score</string>
-    <string name="word_translate_515">duty</string>
-    <string name="word_translate_516">to visit</string>
-    <string name="word_translate_517">order</string>
-    <string name="word_translate_518">clean</string>
-    <string name="word_translate_519">pair</string>
-    <string name="word_translate_520">step</string>
+    <string name="word_translate_501">la entrega</string>
+    <string name="word_translate_502">entregar</string>
+    <string name="word_translate_503">el paquete</string>
+    <string name="word_translate_504">espalda</string>
+    <string name="word_translate_505">mirar</string>
+    <string name="word_translate_506">el actor</string>
+    <string name="word_translate_507">el teatro</string>
+    <string name="word_translate_508">el circo</string>
+    <string name="word_translate_509">la película</string>
+    <string name="word_translate_510">filmar</string>
+    <string name="word_translate_511">las series</string>
+    <string name="word_translate_512">el director</string>
+    <string name="word_translate_513">el logro</string>
+    <string name="word_translate_514">anotar</string>
+    <string name="word_translate_515">el deber</string>
+    <string name="word_translate_516">visitar</string>
+    <string name="word_translate_517">el orden</string>
+    <string name="word_translate_518">limpio</string>
+    <string name="word_translate_519">el par</string>
+    <string name="word_translate_520">el paso</string>
 
     <!-- PHRASE + TRANSLATE -->
-    <string name="phrase_501" translatable="false">Ha llegado tu entrega.</string>
-    <string name="phrase_translate_501">Your delivery has arrived.</string>
+    <string name="phrase_501" translatable="false">Your delivery has arrived.</string>
+    <string name="phrase_translate_501">Ha llegado tu entrega.</string>
 
-    <string name="phrase_502" translatable="false">Entrega correo.</string>
-    <string name="phrase_translate_502">He delivers mail.</string>
+    <string name="phrase_502" translatable="false">He delivers mail.</string>
+    <string name="phrase_translate_502">Entrega correo.</string>
 
-    <string name="phrase_503" translatable="false">Tengo un paquete.</string>
-    <string name="phrase_translate_503">I have a package.</string>
+    <string name="phrase_503" translatable="false">I have a package.</string>
+    <string name="phrase_translate_503">Tengo un paquete.</string>
 
-    <string name="phrase_504" translatable="false">Voy a volver a casa.</string>
-    <string name="phrase_translate_504">I\'m going back home.</string>
+    <string name="phrase_504" translatable="false">I\'m going back home.</string>
+    <string name="phrase_translate_504">Voy a volver a casa.</string>
 
-    <string name="phrase_505" translatable="false">Te estoy mirando</string>
-    <string name="phrase_translate_505">I am looking at you.</string>
+    <string name="phrase_505" translatable="false">I am looking at you.</string>
+    <string name="phrase_translate_505">Te estoy mirando</string>
 
-    <string name="phrase_506" translatable="false">Quiero ser un actor.</string>
-    <string name="phrase_translate_506">I want to be an actor.</string>
+    <string name="phrase_506" translatable="false">I want to be an actor.</string>
+    <string name="phrase_translate_506">Quiero ser un actor.</string>
 
-    <string name="phrase_507" translatable="false">El sábado voy al teatro.</string>
-    <string name="phrase_translate_507">On Saturday I\'m going to the theater.</string>
+    <string name="phrase_507" translatable="false">On Saturday I\'m going to the theater.</string>
+    <string name="phrase_translate_507">El sábado voy al teatro.</string>
 
-    <string name="phrase_508" translatable="false">El circo fue divertido.</string>
-    <string name="phrase_translate_508">The circus was fun.</string>
+    <string name="phrase_508" translatable="false">The circus was fun.</string>
+    <string name="phrase_translate_508">El circo fue divertido.</string>
 
-    <string name="phrase_509" translatable="false">Película muy interesante.</string>
-    <string name="phrase_translate_509">Very interesting film.</string>
+    <string name="phrase_509" translatable="false">Very interesting film.</string>
+    <string name="phrase_translate_509">Película muy interesante.</string>
 
-    <string name="phrase_510" translatable="false">Estoy filmando un video.</string>
-    <string name="phrase_translate_510">I am filming a video.</string>
+    <string name="phrase_510" translatable="false">I am filming a video.</string>
+    <string name="phrase_translate_510">Estoy filmando un video.</string>
 
-    <string name="phrase_511" translatable="false">Esta serie tiene muchos episodios.</string>
-    <string name="phrase_translate_511">This series has many episodes.</string>
+    <string name="phrase_511" translatable="false">This series has many episodes.</string>
+    <string name="phrase_translate_511">Esta serie tiene muchos episodios.</string>
 
-    <string name="phrase_512" translatable="false">Su profesión de director</string>
-    <string name="phrase_translate_512">His profession as a director</string>
+    <string name="phrase_512" translatable="false">His profession as a director</string>
+    <string name="phrase_translate_512">Su profesión de director</string>
 
-    <string name="phrase_513" translatable="false">Este es un gran logro.</string>
-    <string name="phrase_translate_513">This is a great achievement.</string>
+    <string name="phrase_513" translatable="false">This is a great achievement.</string>
+    <string name="phrase_translate_513">Este es un gran logro.</string>
 
-    <string name="phrase_514" translatable="false">Lo anotó él mismo.</string>
-    <string name="phrase_translate_514">He scored it himself.</string>
+    <string name="phrase_514" translatable="false">He scored it himself.</string>
+    <string name="phrase_translate_514">Lo anotó él mismo.</string>
 
-    <string name="phrase_515" translatable="false">Este es mi deber.</string>
-    <string name="phrase_translate_515">This is my duty.</string>
+    <string name="phrase_515" translatable="false">This is my duty.</string>
+    <string name="phrase_translate_515">Este es mi deber.</string>
 
-    <string name="phrase_516" translatable="false">Visitamos el museo.</string>
-    <string name="phrase_translate_516">We visited the museum.</string>
+    <string name="phrase_516" translatable="false">We visited the museum.</string>
+    <string name="phrase_translate_516">Visitamos el museo.</string>
 
-    <string name="phrase_517" translatable="false">Necesito poner mi casa en orden.</string>
-    <string name="phrase_translate_517">I need to get my house in order.</string>
+    <string name="phrase_517" translatable="false">I need to get my house in order.</string>
+    <string name="phrase_translate_517">Necesito poner mi casa en orden.</string>
 
-    <string name="phrase_518" translatable="false">Yo limpio el apartamento.</string>
-    <string name="phrase_translate_518">I clean the apartment.</string>
+    <string name="phrase_518" translatable="false">I clean the apartment.</string>
+    <string name="phrase_translate_518">Yo limpio el apartamento.</string>
 
-    <string name="phrase_519" translatable="false">Unos días más tarde</string>
-    <string name="phrase_translate_519">a few days later</string>
+    <string name="phrase_519" translatable="false">a few days later</string>
+    <string name="phrase_translate_519">Unos días más tarde</string>
 
-    <string name="phrase_520" translatable="false">Da un paso atrás.</string>
-    <string name="phrase_translate_520">Take one step back.</string>
+    <string name="phrase_520" translatable="false">Take one step back.</string>
+    <string name="phrase_translate_520">Da un paso atrás.</string>
     <!-- END -->
 
 
     <!-- WORD_LT -->
-    <string name="word_LT_501">rain</string>
-    <string name="word_LT_502">to deliver</string>
-    <string name="word_LT_503">team</string>
-    <string name="word_LT_504">nothing</string>
-    <string name="word_LT_505">to put on</string>
-    <string name="word_LT_506">police officer</string>
-    <string name="word_LT_507">village</string>
-    <string name="word_LT_508">wallet</string>
-    <string name="word_LT_509">village</string>
-    <string name="word_LT_510">to order</string>
-    <string name="word_LT_511">tree</string>
-    <string name="word_LT_512">police officer</string>
-    <string name="word_LT_513">experience</string>
-    <string name="word_LT_514">to score</string>
-    <string name="word_LT_515">insurance</string>
-    <string name="word_LT_516">to throw</string>
-    <string name="word_LT_517">order</string>
-    <string name="word_LT_518">clean</string>
-    <string name="word_LT_519">think</string>
-    <string name="word_LT_520">step</string>
+    <string name="word_LT_501">la lluvia</string>
+    <string name="word_LT_502">entregar</string>
+    <string name="word_LT_503">el equipo</string>
+    <string name="word_LT_504">nada</string>
+    <string name="word_LT_505">para poner en</string>
+    <string name="word_LT_506">el oficial de policía</string>
+    <string name="word_LT_507">La aldea</string>
+    <string name="word_LT_508">la cartera</string>
+    <string name="word_LT_509">La aldea</string>
+    <string name="word_LT_510">ordenar</string>
+    <string name="word_LT_511">el árbol</string>
+    <string name="word_LT_512">el oficial de policía</string>
+    <string name="word_LT_513">la experiencia</string>
+    <string name="word_LT_514">anotar</string>
+    <string name="word_LT_515">el seguro</string>
+    <string name="word_LT_516">tirar</string>
+    <string name="word_LT_517">el orden</string>
+    <string name="word_LT_518">limpio</string>
+    <string name="word_LT_519">el pensar</string>
+    <string name="word_LT_520">el paso</string>
     <!-- END -->
 
     <!-- WORD_RT -->
-    <string name="word_RT_501">rules</string>
-    <string name="word_RT_502">to put on</string>
-    <string name="word_RT_503">delivery</string>
-    <string name="word_RT_504">back</string>
-    <string name="word_RT_505">to laugh</string>
-    <string name="word_RT_506">producer</string>
-    <string name="word_RT_507">theater</string>
-    <string name="word_RT_508">circus</string>
-    <string name="word_RT_509">bedroom</string>
-    <string name="word_RT_510">to film</string>
-    <string name="word_RT_511">animal</string>
-    <string name="word_RT_512">director</string>
-    <string name="word_RT_513">memory</string>
-    <string name="word_RT_514">to search</string>
-    <string name="word_RT_515">invoice</string>
-    <string name="word_RT_516">to collect</string>
-    <string name="word_RT_517">benefit</string>
-    <string name="word_RT_518">silent</string>
-    <string name="word_RT_519">bonus</string>
-    <string name="word_RT_520">transfer</string>
+    <string name="word_RT_501">las normas</string>
+    <string name="word_RT_502">para poner en</string>
+    <string name="word_RT_503">la entrega</string>
+    <string name="word_RT_504">espalda</string>
+    <string name="word_RT_505">reír</string>
+    <string name="word_RT_506">el productor</string>
+    <string name="word_RT_507">el teatro</string>
+    <string name="word_RT_508">el circo</string>
+    <string name="word_RT_509">el dormitorio</string>
+    <string name="word_RT_510">filmar</string>
+    <string name="word_RT_511">el animal</string>
+    <string name="word_RT_512">el director</string>
+    <string name="word_RT_513">la memoria</string>
+    <string name="word_RT_514">buscar</string>
+    <string name="word_RT_515">la factura</string>
+    <string name="word_RT_516">coleccionar</string>
+    <string name="word_RT_517">el beneficio</string>
+    <string name="word_RT_518">silencio</string>
+    <string name="word_RT_519">el bono</string>
+    <string name="word_RT_520">la transferencia</string>
     <!-- END -->
 
     <!-- WORD_LB -->
-    <string name="word_LB_501">delivery</string>
-    <string name="word_LB_502">to undress</string>
-    <string name="word_LB_503">cap</string>
-    <string name="word_LB_504">much</string>
-    <string name="word_LB_505">to look</string>
-    <string name="word_LB_506">actor</string>
-    <string name="word_LB_507">mountain</string>
-    <string name="word_LB_508">cupboard</string>
-    <string name="word_LB_509">film</string>
-    <string name="word_LB_510">to sell</string>
-    <string name="word_LB_511">holiday</string>
-    <string name="word_LB_512">teacher</string>
-    <string name="word_LB_513">memories</string>
-    <string name="word_LB_514">to know</string>
-    <string name="word_LB_515">duty</string>
-    <string name="word_LB_516">to visit</string>
-    <string name="word_LB_517">soul</string>
-    <string name="word_LB_518">last</string>
-    <string name="word_LB_519">pair</string>
-    <string name="word_LB_520">case</string>
+    <string name="word_LB_501">la entrega</string>
+    <string name="word_LB_502">a desnudarse</string>
+    <string name="word_LB_503">la tapa</string>
+    <string name="word_LB_504">mucho</string>
+    <string name="word_LB_505">mirar</string>
+    <string name="word_LB_506">el actor</string>
+    <string name="word_LB_507">la montaña</string>
+    <string name="word_LB_508">el armario</string>
+    <string name="word_LB_509">la película</string>
+    <string name="word_LB_510">vender</string>
+    <string name="word_LB_511">las vacaciones</string>
+    <string name="word_LB_512">el maestro</string>
+    <string name="word_LB_513">las memorias</string>
+    <string name="word_LB_514">saber</string>
+    <string name="word_LB_515">el deber</string>
+    <string name="word_LB_516">visitar</string>
+    <string name="word_LB_517">el alma</string>
+    <string name="word_LB_518">último</string>
+    <string name="word_LB_519">el par</string>
+    <string name="word_LB_520">el caso</string>
     <!-- END -->
 
     <!-- WORD_RB -->
-    <string name="word_RB_501">weather</string>
-    <string name="word_RB_502">to ask</string>
-    <string name="word_RB_503">package</string>
-    <string name="word_RB_504">enough</string>
-    <string name="word_RB_505">to rest</string>
-    <string name="word_RB_506">builder</string>
-    <string name="word_RB_507">window</string>
-    <string name="word_RB_508">church</string>
-    <string name="word_RB_509">tree</string>
-    <string name="word_RB_510">to pay</string>
-    <string name="word_RB_511">series</string>
-    <string name="word_RB_512">builder</string>
-    <string name="word_RB_513">achievement</string>
-    <string name="word_RB_514">to love</string>
-    <string name="word_RB_515">advantage</string>
-    <string name="word_RB_516">to jump</string>
-    <string name="word_RB_517">tax</string>
-    <string name="word_RB_518">broken</string>
-    <string name="word_RB_519">soul</string>
-    <string name="word_RB_520">pension</string>
+    <string name="word_RB_501">el tiempo</string>
+    <string name="word_RB_502">preguntar</string>
+    <string name="word_RB_503">el paquete</string>
+    <string name="word_RB_504">suficiente</string>
+    <string name="word_RB_505">descansar</string>
+    <string name="word_RB_506">el constructor</string>
+    <string name="word_RB_507">la ventana</string>
+    <string name="word_RB_508">la Iglesia</string>
+    <string name="word_RB_509">el árbol</string>
+    <string name="word_RB_510">pagar</string>
+    <string name="word_RB_511">las series</string>
+    <string name="word_RB_512">el constructor</string>
+    <string name="word_RB_513">el logro</string>
+    <string name="word_RB_514">amar</string>
+    <string name="word_RB_515">la ventaja</string>
+    <string name="word_RB_516">saltar</string>
+    <string name="word_RB_517">el impuesto</string>
+    <string name="word_RB_518">roto</string>
+    <string name="word_RB_519">el alma</string>
+    <string name="word_RB_520">la pension</string>
     <!-- END -->
 </resources>

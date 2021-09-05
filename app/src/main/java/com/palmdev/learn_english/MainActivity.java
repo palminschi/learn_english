@@ -133,6 +133,15 @@ public class MainActivity extends AppCompatActivity {
             }
         }
 
+        boolean firstOpen = save.getBoolean("firstOpen",true);
+        if (firstOpen){
+            editor.putBoolean("firstOpen", false);
+            editor.apply();
+            Intent intent = new Intent(MainActivity.this, SelectLang.class);
+            startActivity(intent);
+            finish();
+        }
+
     }
 
     public void loadInterstitialAd() {

@@ -1,201 +1,201 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- TITLE -->
-    <string name="word_title_461" translatable="false">la experiencia</string>
-    <string name="word_title_462" translatable="false">la memoria</string>
-    <string name="word_title_463" translatable="false">la memoria</string>
-    <string name="word_title_464" translatable="false">olvidar</string>
-    <string name="word_title_465" translatable="false">el beneficio</string>
-    <string name="word_title_466" translatable="false">la ventaja</string>
-    <string name="word_title_467" translatable="false">el conocimiento</string>
-    <string name="word_title_468" translatable="false">el alma</string>
-    <string name="word_title_469" translatable="false">el habito</string>
-    <string name="word_title_470" translatable="false">los significados</string>
-    <string name="word_title_471" translatable="false">el milagro</string>
-    <string name="word_title_472" translatable="false">preguntarse</string>
-    <string name="word_title_473" translatable="false">el fuego</string>
-    <string name="word_title_474" translatable="false">cuerpo de bomberos</string>
-    <string name="word_title_475" translatable="false">el encendedor</string>
-    <string name="word_title_476" translatable="false">fumar</string>
-    <string name="word_title_477" translatable="false">el caso</string>
-    <string name="word_title_478" translatable="false">el pensamiento</string>
-    <string name="word_title_479" translatable="false">la elección</string>
-    <string name="word_title_480" translatable="false">elegir</string>
+    <string name="word_title_461" translatable="false">experience</string>
+    <string name="word_title_462" translatable="false">memory</string>
+    <string name="word_title_463" translatable="false">memory</string>
+    <string name="word_title_464" translatable="false">to forget</string>
+    <string name="word_title_465" translatable="false">benefit</string>
+    <string name="word_title_466" translatable="false">advantage</string>
+    <string name="word_title_467" translatable="false">knowledge</string>
+    <string name="word_title_468" translatable="false">soul</string>
+    <string name="word_title_469" translatable="false">habit</string>
+    <string name="word_title_470" translatable="false">means</string>
+    <string name="word_title_471" translatable="false">miracle</string>
+    <string name="word_title_472" translatable="false">to wonder</string>
+    <string name="word_title_473" translatable="false">fire</string>
+    <string name="word_title_474" translatable="false">fire department</string>
+    <string name="word_title_475" translatable="false">lighter</string>
+    <string name="word_title_476" translatable="false">to smoke</string>
+    <string name="word_title_477" translatable="false">case</string>
+    <string name="word_title_478" translatable="false">thought</string>
+    <string name="word_title_479" translatable="false">choice</string>
+    <string name="word_title_480" translatable="false">to choose</string>
 
-    <string name="word_translate_461">experience</string>
-    <string name="word_translate_462">memory</string>
-    <string name="word_translate_463">memory</string>
-    <string name="word_translate_464">to forget</string>
-    <string name="word_translate_465">benefit</string>
-    <string name="word_translate_466">advantage</string>
-    <string name="word_translate_467">knowledge</string>
-    <string name="word_translate_468">soul</string>
-    <string name="word_translate_469">habit</string>
-    <string name="word_translate_470">means</string>
-    <string name="word_translate_471">miracle</string>
-    <string name="word_translate_472">to wonder</string>
-    <string name="word_translate_473">fire</string>
-    <string name="word_translate_474">fire department</string>
-    <string name="word_translate_475">lighter</string>
-    <string name="word_translate_476">to smoke</string>
-    <string name="word_translate_477">case</string>
-    <string name="word_translate_478">thought</string>
-    <string name="word_translate_479">choice</string>
-    <string name="word_translate_480">to choose</string>
+    <string name="word_translate_461">la experiencia</string>
+    <string name="word_translate_462">la memoria</string>
+    <string name="word_translate_463">la memoria</string>
+    <string name="word_translate_464">olvidar</string>
+    <string name="word_translate_465">el beneficio</string>
+    <string name="word_translate_466">la ventaja</string>
+    <string name="word_translate_467">el conocimiento</string>
+    <string name="word_translate_468">el alma</string>
+    <string name="word_translate_469">el habito</string>
+    <string name="word_translate_470">los significados</string>
+    <string name="word_translate_471">el milagro</string>
+    <string name="word_translate_472">preguntarse</string>
+    <string name="word_translate_473">el fuego</string>
+    <string name="word_translate_474">cuerpo de bomberos</string>
+    <string name="word_translate_475">el encendedor</string>
+    <string name="word_translate_476">fumar</string>
+    <string name="word_translate_477">el caso</string>
+    <string name="word_translate_478">el pensamiento</string>
+    <string name="word_translate_479">la elección</string>
+    <string name="word_translate_480">elegir</string>
     <!-- END -->
 
     <!-- PHRASE + TRANSLATE -->
-    <string name="phrase_461" translatable="false">Entonces tengo mucha experiencia.</string>
-    <string name="phrase_translate_461">So I get a lot of experience.</string>
+    <string name="phrase_461" translatable="false">So I get a lot of experience.</string>
+    <string name="phrase_translate_461">Entonces tengo mucha experiencia.</string>
 
-    <string name="phrase_462" translatable="false">Ha perdido la memoria.</string>
-    <string name="phrase_translate_462">He has lost his memory.</string>
+    <string name="phrase_462" translatable="false">He has lost his memory.</string>
+    <string name="phrase_translate_462">Ha perdido la memoria.</string>
 
-    <string name="phrase_463" translatable="false">Tengo muchos recuerdos aquí.</string>
-    <string name="phrase_translate_463">I have many memories here.</string>
+    <string name="phrase_463" translatable="false">I have many memories here.</string>
+    <string name="phrase_translate_463">Tengo muchos recuerdos aquí.</string>
 
-    <string name="phrase_464" translatable="false">Olvidé mi mochila.</string>
-    <string name="phrase_translate_464">I forgot my backpack.</string>
+    <string name="phrase_464" translatable="false">I forgot my backpack.</string>
+    <string name="phrase_translate_464">Olvidé mi mochila.</string>
 
-    <string name="phrase_465" translatable="false">El deporte trae beneficios</string>
-    <string name="phrase_translate_465">Sport brings benefits</string>
+    <string name="phrase_465" translatable="false">Sport brings benefits</string>
+    <string name="phrase_translate_465">El deporte trae beneficios</string>
 
-    <string name="phrase_466" translatable="false">El primer equipo tiene la ventaja.</string>
-    <string name="phrase_translate_466">The first team has the advantage.</string>
+    <string name="phrase_466" translatable="false">The first team has the advantage.</string>
+    <string name="phrase_translate_466">El primer equipo tiene la ventaja.</string>
 
-    <string name="phrase_467" translatable="false">El conocimiento es poder.</string>
-    <string name="phrase_translate_467">Knowledge is power.</string>
+    <string name="phrase_467" translatable="false">Knowledge is power.</string>
+    <string name="phrase_translate_467">El conocimiento es poder.</string>
 
-    <string name="phrase_468" translatable="false">Tiene buen alma.</string>
-    <string name="phrase_translate_468">He has a good soul.</string>
+    <string name="phrase_468" translatable="false">He has a good soul.</string>
+    <string name="phrase_translate_468">Tiene buen alma.</string>
 
-    <string name="phrase_469" translatable="false">Este es un hábito mío.</string>
-    <string name="phrase_translate_469">This is a habit of mine.</string>
+    <string name="phrase_469" translatable="false">This is a habit of mine.</string>
+    <string name="phrase_translate_469">Este es un hábito mío.</string>
 
-    <string name="phrase_470" translatable="false">el detergente</string>
-    <string name="phrase_translate_470">the detergent</string>
+    <string name="phrase_470" translatable="false">the detergent</string>
+    <string name="phrase_translate_470">el detergente</string>
 
-    <string name="phrase_471" translatable="false">No creo en milagros.</string>
-    <string name="phrase_translate_471">I do not believe in miracles.</string>
+    <string name="phrase_471" translatable="false">I do not believe in miracles.</string>
+    <string name="phrase_translate_471">No creo en milagros.</string>
 
-    <string name="phrase_472" translatable="false">Me sorprende.</string>
-    <string name="phrase_translate_472">He wonders me.</string>
+    <string name="phrase_472" translatable="false">He wonders me.</string>
+    <string name="phrase_translate_472">Me sorprende.</string>
 
-    <string name="phrase_473" translatable="false">Encendí un fuego.</string>
-    <string name="phrase_translate_473">I built a fire.</string>
+    <string name="phrase_473" translatable="false">I built a fire.</string>
+    <string name="phrase_translate_473">Encendí un fuego.</string>
 
-    <string name="phrase_474" translatable="false">Necesitamos llamar al departamento de bomberos.</string>
-    <string name="phrase_translate_474">We need to call the fire department.</string>
+    <string name="phrase_474" translatable="false">We need to call the fire department.</string>
+    <string name="phrase_translate_474">Necesitamos llamar al departamento de bomberos.</string>
 
-    <string name="phrase_475" translatable="false">¿Tienes un encendedor?</string>
-    <string name="phrase_translate_475">Do you have a lighter?</string>
+    <string name="phrase_475" translatable="false">Do you have a lighter?</string>
+    <string name="phrase_translate_475">¿Tienes un encendedor?</string>
 
-    <string name="phrase_476" translatable="false">Yo no fumo.</string>
-    <string name="phrase_translate_476">I do not smoke.</string>
+    <string name="phrase_476" translatable="false">I do not smoke.</string>
+    <string name="phrase_translate_476">Yo no fumo.</string>
 
-    <string name="phrase_477" translatable="false">En todo caso</string>
-    <string name="phrase_translate_477">in any case</string>
+    <string name="phrase_477" translatable="false">in any case</string>
+    <string name="phrase_translate_477">En todo caso</string>
 
-    <string name="phrase_478" translatable="false">Tuve un pensamiento</string>
-    <string name="phrase_translate_478">I had a thought</string>
+    <string name="phrase_478" translatable="false">I had a thought</string>
+    <string name="phrase_translate_478">Tuve un pensamiento</string>
 
-    <string name="phrase_479" translatable="false">Tenemos que tomar una decisión.</string>
-    <string name="phrase_translate_479">We have to make a choice.</string>
+    <string name="phrase_479" translatable="false">We have to make a choice.</string>
+    <string name="phrase_translate_479">Tenemos que tomar una decisión.</string>
 
-    <string name="phrase_480" translatable="false">Elijo la segunda variante.</string>
-    <string name="phrase_translate_480">I choose the second variant.</string>
+    <string name="phrase_480" translatable="false">I choose the second variant.</string>
+    <string name="phrase_translate_480">Elijo la segunda variante.</string>
     <!-- END -->
 
 
     <!-- WORD_LT -->
-    <string name="word_LT_461">village</string>
-    <string name="word_LT_462">memory</string>
-    <string name="word_LT_463">pensioner</string>
-    <string name="word_LT_464">to forget</string>
-    <string name="word_LT_465">document</string>
-    <string name="word_LT_466">insurance</string>
-    <string name="word_LT_467">experience</string>
-    <string name="word_LT_468">month</string>
-    <string name="word_LT_469">contract</string>
-    <string name="word_LT_470">means</string>
-    <string name="word_LT_471">city hall</string>
-    <string name="word_LT_472">to give</string>
-    <string name="word_LT_473">summer</string>
-    <string name="word_LT_474">fire department</string>
-    <string name="word_LT_475">time</string>
-    <string name="word_LT_476">to steal</string>
-    <string name="word_LT_477">village</string>
-    <string name="word_LT_478">thought</string>
-    <string name="word_LT_479">pants</string>
-    <string name="word_LT_480">to order</string>
+    <string name="word_LT_461">La aldea</string>
+    <string name="word_LT_462">la memoria</string>
+    <string name="word_LT_463">el pensionista</string>
+    <string name="word_LT_464">olvidar</string>
+    <string name="word_LT_465">el documento</string>
+    <string name="word_LT_466">el seguro</string>
+    <string name="word_LT_467">la experiencia</string>
+    <string name="word_LT_468">el mes</string>
+    <string name="word_LT_469">el contrato</string>
+    <string name="word_LT_470">los significados</string>
+    <string name="word_LT_471">Ayuntamiento</string>
+    <string name="word_LT_472">dar</string>
+    <string name="word_LT_473">el verano</string>
+    <string name="word_LT_474">cuerpo de bomberos</string>
+    <string name="word_LT_475">el tiempo</string>
+    <string name="word_LT_476">robar</string>
+    <string name="word_LT_477">La aldea</string>
+    <string name="word_LT_478">el pensamiento</string>
+    <string name="word_LT_479">los pantalones</string>
+    <string name="word_LT_480">ordenar</string>
     <!-- END -->
 
     <!-- WORD_RT -->
-    <string name="word_RT_461">experience</string>
-    <string name="word_RT_462">horse</string>
-    <string name="word_RT_463">memory</string>
-    <string name="word_RT_464">to search</string>
-    <string name="word_RT_465">animal</string>
-    <string name="word_RT_466">invoice</string>
-    <string name="word_RT_467">memory</string>
-    <string name="word_RT_468">benefit</string>
-    <string name="word_RT_469">shop</string>
-    <string name="word_RT_470">fork</string>
-    <string name="word_RT_471">stadium</string>
-    <string name="word_RT_472">to celebrate</string>
-    <string name="word_RT_473">saturday</string>
-    <string name="word_RT_474">winter</string>
-    <string name="word_RT_475">lighter</string>
-    <string name="word_RT_476">to sign</string>
-    <string name="word_RT_477">transfer</string>
-    <string name="word_RT_478">bonus</string>
-    <string name="word_RT_479">glasses</string>
-    <string name="word_RT_480">to choose</string>
+    <string name="word_RT_461">la experiencia</string>
+    <string name="word_RT_462">el caballo</string>
+    <string name="word_RT_463">la memoria</string>
+    <string name="word_RT_464">buscar</string>
+    <string name="word_RT_465">el animal</string>
+    <string name="word_RT_466">la factura</string>
+    <string name="word_RT_467">la memoria</string>
+    <string name="word_RT_468">el beneficio</string>
+    <string name="word_RT_469">la tienda</string>
+    <string name="word_RT_470">El tenedor</string>
+    <string name="word_RT_471">el estadio</string>
+    <string name="word_RT_472">celebrar</string>
+    <string name="word_RT_473">el sábado</string>
+    <string name="word_RT_474">el invierno</string>
+    <string name="word_RT_475">el encendedor</string>
+    <string name="word_RT_476">firmar</string>
+    <string name="word_RT_477">la transferencia</string>
+    <string name="word_RT_478">el bono</string>
+    <string name="word_RT_479">los lentes</string>
+    <string name="word_RT_480">elegir</string>
     <!-- END -->
 
     <!-- WORD_LB -->
-    <string name="word_LB_461">pension</string>
-    <string name="word_LB_462">profit</string>
-    <string name="word_LB_463">night</string>
-    <string name="word_LB_464">to know</string>
-    <string name="word_LB_465">benefit</string>
-    <string name="word_LB_466">ball</string>
-    <string name="word_LB_467">memories</string>
-    <string name="word_LB_468">soul</string>
-    <string name="word_LB_469">cold</string>
-    <string name="word_LB_470">stove</string>
-    <string name="word_LB_471">miracle</string>
-    <string name="word_LB_472">to wonder</string>
-    <string name="word_LB_473">fire</string>
-    <string name="word_LB_474">glass</string>
-    <string name="word_LB_475">sand</string>
-    <string name="word_LB_476">to fall</string>
-    <string name="word_LB_477">case</string>
-    <string name="word_LB_478">money</string>
-    <string name="word_LB_479">choice</string>
-    <string name="word_LB_480">to sell</string>
+    <string name="word_LB_461">la pension</string>
+    <string name="word_LB_462">la ganancia</string>
+    <string name="word_LB_463">la noche</string>
+    <string name="word_LB_464">saber</string>
+    <string name="word_LB_465">el beneficio</string>
+    <string name="word_LB_466">la pelota</string>
+    <string name="word_LB_467">las memorias</string>
+    <string name="word_LB_468">el alma</string>
+    <string name="word_LB_469">el frío</string>
+    <string name="word_LB_470">la estufa</string>
+    <string name="word_LB_471">el milagro</string>
+    <string name="word_LB_472">preguntarse</string>
+    <string name="word_LB_473">el fuego</string>
+    <string name="word_LB_474">el cristal</string>
+    <string name="word_LB_475">la arena</string>
+    <string name="word_LB_476">caer</string>
+    <string name="word_LB_477">el caso</string>
+    <string name="word_LB_478">el dinero</string>
+    <string name="word_LB_479">la elección</string>
+    <string name="word_LB_480">vender</string>
     <!-- END -->
 
     <!-- WORD_RB -->
-    <string name="word_RB_461">tree</string>
-    <string name="word_RB_462">game</string>
-    <string name="word_RB_463">pension</string>
-    <string name="word_RB_464">to love</string>
-    <string name="word_RB_465">change</string>
-    <string name="word_RB_466">advantage</string>
-    <string name="word_RB_467">knowledge</string>
-    <string name="word_RB_468">tax</string>
-    <string name="word_RB_469">habit</string>
-    <string name="word_RB_470">onion</string>
-    <string name="word_RB_471">knowledge</string>
-    <string name="word_RB_472">to play</string>
-    <string name="word_RB_473">winter</string>
-    <string name="word_RB_474">autumn</string>
-    <string name="word_RB_475">snow</string>
-    <string name="word_RB_476">to smoke</string>
-    <string name="word_RB_477">pension</string>
-    <string name="word_RB_478">soul</string>
-    <string name="word_RB_479">game</string>
-    <string name="word_RB_480">to pay</string>
+    <string name="word_RB_461">el árbol</string>
+    <string name="word_RB_462">el juego</string>
+    <string name="word_RB_463">la pension</string>
+    <string name="word_RB_464">amar</string>
+    <string name="word_RB_465">el cambio</string>
+    <string name="word_RB_466">la ventaja</string>
+    <string name="word_RB_467">el conocimiento</string>
+    <string name="word_RB_468">el impuesto</string>
+    <string name="word_RB_469">el habito</string>
+    <string name="word_RB_470">la cebolla</string>
+    <string name="word_RB_471">el conocimiento</string>
+    <string name="word_RB_472">jugar</string>
+    <string name="word_RB_473">el invierno</string>
+    <string name="word_RB_474">el otoño</string>
+    <string name="word_RB_475">la nieve</string>
+    <string name="word_RB_476">fumar</string>
+    <string name="word_RB_477">la pension</string>
+    <string name="word_RB_478">el alma</string>
+    <string name="word_RB_479">el juego</string>
+    <string name="word_RB_480">pagar</string>
     <!-- END -->
 </resources>

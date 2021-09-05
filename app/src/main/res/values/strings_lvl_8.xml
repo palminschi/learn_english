@@ -1,201 +1,201 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- TITLE -->
-    <string name="word_title_141" translatable="false">sano</string>
-    <string name="word_title_142" translatable="false">enfermo</string>
-    <string name="word_title_143" translatable="false">el frío</string>
-    <string name="word_title_144" translatable="false">la fiebre</string>
-    <string name="word_title_145" translatable="false">la tos</string>
-    <string name="word_title_146" translatable="false">el corazón</string>
-    <string name="word_title_147" translatable="false">la barriga</string>
-    <string name="word_title_148" translatable="false">el pecho</string>
-    <string name="word_title_149" translatable="false">el diente</string>
-    <string name="word_title_150" translatable="false">el dentista</string>
-    <string name="word_title_151" translatable="false">la barba</string>
-    <string name="word_title_152" translatable="false">cortar</string>
-    <string name="word_title_153" translatable="false">el ojo</string>
-    <string name="word_title_154" translatable="false">los lentes</string>
-    <string name="word_title_155" translatable="false">ver</string>
-    <string name="word_title_156" translatable="false">la imagen</string>
-    <string name="word_title_157" translatable="false">la publicidad</string>
-    <string name="word_title_158" translatable="false">la música</string>
-    <string name="word_title_159" translatable="false">escuchar</string>
-    <string name="word_title_160" translatable="false">bailar</string>
+    <string name="word_title_141" translatable="false">healthy</string>
+    <string name="word_title_142" translatable="false">sick</string>
+    <string name="word_title_143" translatable="false">cold</string>
+    <string name="word_title_144" translatable="false">fever</string>
+    <string name="word_title_145" translatable="false">cough</string>
+    <string name="word_title_146" translatable="false">heart</string>
+    <string name="word_title_147" translatable="false">tummy</string>
+    <string name="word_title_148" translatable="false">chest</string>
+    <string name="word_title_149" translatable="false">tooth</string>
+    <string name="word_title_150" translatable="false">dentist</string>
+    <string name="word_title_151" translatable="false">beard</string>
+    <string name="word_title_152" translatable="false">to cut</string>
+    <string name="word_title_153" translatable="false">eye</string>
+    <string name="word_title_154" translatable="false">glasses</string>
+    <string name="word_title_155" translatable="false">to see</string>
+    <string name="word_title_156" translatable="false">picture</string>
+    <string name="word_title_157" translatable="false">advertising</string>
+    <string name="word_title_158" translatable="false">music</string>
+    <string name="word_title_159" translatable="false">to listen</string>
+    <string name="word_title_160" translatable="false">to dance</string>
 
-    <string name="word_translate_141">healthy</string>
-    <string name="word_translate_142">sick</string>
-    <string name="word_translate_143">cold</string>
-    <string name="word_translate_144">fever</string>
-    <string name="word_translate_145">cough</string>
-    <string name="word_translate_146">heart</string>
-    <string name="word_translate_147">tummy</string>
-    <string name="word_translate_148">chest</string>
-    <string name="word_translate_149">tooth</string>
-    <string name="word_translate_150">dentist</string>
-    <string name="word_translate_151">beard</string>
-    <string name="word_translate_152">to cut</string>
-    <string name="word_translate_153">eye</string>
-    <string name="word_translate_154">glasses</string>
-    <string name="word_translate_155">to see</string>
-    <string name="word_translate_156">picture</string>
-    <string name="word_translate_157">advertising</string>
-    <string name="word_translate_158">music</string>
-    <string name="word_translate_159">to listen</string>
-    <string name="word_translate_160">to dance</string>
+    <string name="word_translate_141">sano</string>
+    <string name="word_translate_142">enfermo</string>
+    <string name="word_translate_143">el frío</string>
+    <string name="word_translate_144">la fiebre</string>
+    <string name="word_translate_145">la tos</string>
+    <string name="word_translate_146">el corazón</string>
+    <string name="word_translate_147">la barriga</string>
+    <string name="word_translate_148">el pecho</string>
+    <string name="word_translate_149">el diente</string>
+    <string name="word_translate_150">el dentista</string>
+    <string name="word_translate_151">la barba</string>
+    <string name="word_translate_152">cortar</string>
+    <string name="word_translate_153">el ojo</string>
+    <string name="word_translate_154">los lentes</string>
+    <string name="word_translate_155">ver</string>
+    <string name="word_translate_156">la imagen</string>
+    <string name="word_translate_157">la publicidad</string>
+    <string name="word_translate_158">la música</string>
+    <string name="word_translate_159">escuchar</string>
+    <string name="word_translate_160">bailar</string>
     <!-- END -->
 
     <!-- PHRASE + TRANSLATE -->
-    <string name="phrase_141" translatable="false">¡Mantenerse sano!</string>
-    <string name="phrase_translate_141">Stay healthy!</string>
+    <string name="phrase_141" translatable="false">Stay healthy!</string>
+    <string name="phrase_translate_141">¡Mantenerse sano!</string>
 
-    <string name="phrase_142" translatable="false">Estoy enfermado.</string>
-    <string name="phrase_translate_142">I\'m sick.</string>
+    <string name="phrase_142" translatable="false">I\'m sick.</string>
+    <string name="phrase_translate_142">Estoy enfermado.</string>
 
-    <string name="phrase_143" translatable="false">Él está resfriado.</string>
-    <string name="phrase_translate_143">He has a cold.</string>
+    <string name="phrase_143" translatable="false">He has a cold.</string>
+    <string name="phrase_translate_143">Él está resfriado.</string>
 
-    <string name="phrase_144" translatable="false">Ella tiene fiebre.</string>
-    <string name="phrase_translate_144">She has fever.</string>
+    <string name="phrase_144" translatable="false">She has fever.</string>
+    <string name="phrase_translate_144">Ella tiene fiebre.</string>
 
-    <string name="phrase_145" translatable="false">Un remedio para la tos</string>
-    <string name="phrase_translate_145">A cough remedy</string>
+    <string name="phrase_145" translatable="false">A cough remedy</string>
+    <string name="phrase_translate_145">Un remedio para la tos</string>
 
-    <string name="phrase_146" translatable="false">Me duele el corazón.</string>
-    <string name="phrase_translate_146">My heart aches.</string>
+    <string name="phrase_146" translatable="false">My heart aches.</string>
+    <string name="phrase_translate_146">Me duele el corazón.</string>
 
-    <string name="phrase_147" translatable="false">Tengo una gran barriga.</string>
-    <string name="phrase_translate_147">I have a big tummy.</string>
+    <string name="phrase_147" translatable="false">I have a big tummy.</string>
+    <string name="phrase_translate_147">Tengo una gran barriga.</string>
 
-    <string name="phrase_148" translatable="false">Brazos cruzados sobre el pecho</string>
-    <string name="phrase_translate_148">Arms folded over the chest</string>
+    <string name="phrase_148" translatable="false">Arms folded over the chest</string>
+    <string name="phrase_translate_148">Brazos cruzados sobre el pecho</string>
 
-    <string name="phrase_149" translatable="false">Me duele el diente.</string>
-    <string name="phrase_translate_149">My tooth is aching.</string>
+    <string name="phrase_149" translatable="false">My tooth is aching.</string>
+    <string name="phrase_translate_149">Me duele el diente.</string>
 
-    <string name="phrase_150" translatable="false">Voy al dentista.</string>
-    <string name="phrase_translate_150">I\'m going to the dentist.</string>
+    <string name="phrase_150" translatable="false">I\'m going to the dentist.</string>
+    <string name="phrase_translate_150">Voy al dentista.</string>
 
-    <string name="phrase_151" translatable="false">Una barba larga.</string>
-    <string name="phrase_translate_151">A long beard.</string>
+    <string name="phrase_151" translatable="false">A long beard.</string>
+    <string name="phrase_translate_151">Una barba larga.</string>
 
-    <string name="phrase_152" translatable="false">Cortar pelo</string>
-    <string name="phrase_translate_152">to cut hair</string>
+    <string name="phrase_152" translatable="false">to cut hair</string>
+    <string name="phrase_translate_152">Cortar pelo</string>
 
-    <string name="phrase_153" translatable="false">Ella tiene unos hermosos ojos.</string>
-    <string name="phrase_translate_153">She has beautiful eyes.</string>
+    <string name="phrase_153" translatable="false">She has beautiful eyes.</string>
+    <string name="phrase_translate_153">Ella tiene unos hermosos ojos.</string>
 
-    <string name="phrase_154" translatable="false">Perdí mis lentes.</string>
-    <string name="phrase_translate_154">I have lost my glasses.</string>
+    <string name="phrase_154" translatable="false">I have lost my glasses.</string>
+    <string name="phrase_translate_154">Perdí mis lentes.</string>
 
-    <string name="phrase_155" translatable="false">No te veo.</string>
-    <string name="phrase_translate_155">I don\'t see you.</string>
+    <string name="phrase_155" translatable="false">I don\'t see you.</string>
+    <string name="phrase_translate_155">No te veo.</string>
 
-    <string name="phrase_156" translatable="false">La imagen se puso hermosa.</string>
-    <string name="phrase_translate_156">The picture got beautiful.</string>
+    <string name="phrase_156" translatable="false">The picture got beautiful.</string>
+    <string name="phrase_translate_156">La imagen se puso hermosa.</string>
 
-    <string name="phrase_157" translatable="false">Estoy viendo un anuncio.</string>
-    <string name="phrase_translate_157">I\'m watching an advertisement.</string>
+    <string name="phrase_157" translatable="false">I\'m watching an advertisement.</string>
+    <string name="phrase_translate_157">Estoy viendo un anuncio.</string>
 
-    <string name="phrase_158" translatable="false">¡Buena música!</string>
-    <string name="phrase_translate_158">Good music!</string>
+    <string name="phrase_158" translatable="false">Good music!</string>
+    <string name="phrase_translate_158">¡Buena música!</string>
 
-    <string name="phrase_159" translatable="false">Estoy escuchando música.</string>
-    <string name="phrase_translate_159">I\'m listening to music.</string>
+    <string name="phrase_159" translatable="false">I\'m listening to music.</string>
+    <string name="phrase_translate_159">Estoy escuchando música.</string>
 
-    <string name="phrase_160" translatable="false">No puedo bailar muy bien.</string>
-    <string name="phrase_translate_160">I can\'t dance very well.</string>
+    <string name="phrase_160" translatable="false">I can\'t dance very well.</string>
+    <string name="phrase_translate_160">No puedo bailar muy bien.</string>
     <!-- END -->
 
 
     <!-- WORD_LT -->
-    <string name="word_LT_141">healthy</string>
-    <string name="word_LT_142">fast</string>
-    <string name="word_LT_143">shoes</string>
-    <string name="word_LT_144">heart</string>
-    <string name="word_LT_145">cough</string>
-    <string name="word_LT_146">heart</string>
-    <string name="word_LT_147">chest</string>
-    <string name="word_LT_148">fence</string>
-    <string name="word_LT_149">cold</string>
-    <string name="word_LT_150">dentist</string>
-    <string name="word_LT_151">beard</string>
-    <string name="word_LT_152">to break</string>
-    <string name="word_LT_153">body</string>
-    <string name="word_LT_154">clothing</string>
-    <string name="word_LT_155">to wait</string>
-    <string name="word_LT_156">beard</string>
-    <string name="word_LT_157">advertising</string>
-    <string name="word_LT_158">concert</string>
-    <string name="word_LT_159">to dance</string>
-    <string name="word_LT_160">to sing</string>
+    <string name="word_LT_141">sano</string>
+    <string name="word_LT_142">rápido</string>
+    <string name="word_LT_143">los zapatos</string>
+    <string name="word_LT_144">el corazón</string>
+    <string name="word_LT_145">la tos</string>
+    <string name="word_LT_146">corazón</string>
+    <string name="word_LT_147">el pecho</string>
+    <string name="word_LT_148">la cerca</string>
+    <string name="word_LT_149">el frío</string>
+    <string name="word_LT_150">el dentista</string>
+    <string name="word_LT_151">la barba</string>
+    <string name="word_LT_152">romper</string>
+    <string name="word_LT_153">el cuerpo</string>
+    <string name="word_LT_154">el atuendo</string>
+    <string name="word_LT_155">esperar</string>
+    <string name="word_LT_156">la barba</string>
+    <string name="word_LT_157">la publicidad</string>
+    <string name="word_LT_158">el concierto</string>
+    <string name="word_LT_159">bailar</string>
+    <string name="word_LT_160">cantar</string>
     <!-- END -->
 
     <!-- WORD_RT -->
-    <string name="word_RT_141">sick</string>
-    <string name="word_RT_142">cold</string>
-    <string name="word_RT_143">clothing</string>
-    <string name="word_RT_144">fever</string>
-    <string name="word_RT_145">horse</string>
-    <string name="word_RT_146">music</string>
-    <string name="word_RT_147">beard</string>
-    <string name="word_RT_148">hill</string>
-    <string name="word_RT_149">tooth</string>
-    <string name="word_RT_150">doctor</string>
-    <string name="word_RT_151">tummy</string>
-    <string name="word_RT_152">to cut</string>
-    <string name="word_RT_153">hand</string>
-    <string name="word_RT_154">shoes</string>
-    <string name="word_RT_155">to forget</string>
-    <string name="word_RT_156">picture</string>
-    <string name="word_RT_157">shop</string>
-    <string name="word_RT_158">music</string>
-    <string name="word_RT_159">to cry</string>
-    <string name="word_RT_160">to play</string>
+    <string name="word_RT_141">enfermo</string>
+    <string name="word_RT_142">frío</string>
+    <string name="word_RT_143">el atuendo</string>
+    <string name="word_RT_144">la fiebre</string>
+    <string name="word_RT_145">el caballo</string>
+    <string name="word_RT_146">la música</string>
+    <string name="word_RT_147">la barba</string>
+    <string name="word_RT_148">la colina</string>
+    <string name="word_RT_149">el diente</string>
+    <string name="word_RT_150">el doctor</string>
+    <string name="word_RT_151">la barriga</string>
+    <string name="word_RT_152">cortar</string>
+    <string name="word_RT_153">la mano</string>
+    <string name="word_RT_154">los zapatos</string>
+    <string name="word_RT_155">olvidar</string>
+    <string name="word_RT_156">la imagen</string>
+    <string name="word_RT_157">la tienda</string>
+    <string name="word_RT_158">la música</string>
+    <string name="word_RT_159">llorar</string>
+    <string name="word_RT_160">jugar</string>
     <!-- END -->
 
     <!-- WORD_LB -->
-    <string name="word_LB_141">yellow</string>
-    <string name="word_LB_142">yellow</string>
-    <string name="word_LB_143">cold</string>
-    <string name="word_LB_144">cold</string>
-    <string name="word_LB_145">tooth</string>
-    <string name="word_LB_146">fence</string>
-    <string name="word_LB_147">photo</string>
-    <string name="word_LB_148">chest</string>
-    <string name="word_LB_149">dentist</string>
-    <string name="word_LB_150">clothing</string>
-    <string name="word_LB_151">hair</string>
-    <string name="word_LB_152">to heal</string>
-    <string name="word_LB_153">eye</string>
-    <string name="word_LB_154">leg</string>
-    <string name="word_LB_155">to see</string>
-    <string name="word_LB_156">music</string>
-    <string name="word_LB_157">work</string>
-    <string name="word_LB_158">plane</string>
-    <string name="word_LB_159">to listen</string>
-    <string name="word_LB_160">to live</string>
+    <string name="word_LB_141">amarillo</string>
+    <string name="word_LB_142">amarillo</string>
+    <string name="word_LB_143">el frío</string>
+    <string name="word_LB_144">el frío</string>
+    <string name="word_LB_145">el diente</string>
+    <string name="word_LB_146">la cerca</string>
+    <string name="word_LB_147">la foto</string>
+    <string name="word_LB_148">el pecho</string>
+    <string name="word_LB_149">el dentista</string>
+    <string name="word_LB_150">el atuendo</string>
+    <string name="word_LB_151">el pelo</string>
+    <string name="word_LB_152">para sanar</string>
+    <string name="word_LB_153">el ojo</string>
+    <string name="word_LB_154">la pierna</string>
+    <string name="word_LB_155">ver</string>
+    <string name="word_LB_156">la música</string>
+    <string name="word_LB_157">la obra</string>
+    <string name="word_LB_158">el avión</string>
+    <string name="word_LB_159">escuchar</string>
+    <string name="word_LB_160">vivir</string>
     <!-- END -->
 
     <!-- WORD_RB -->
-    <string name="word_RB_141">cold</string>
-    <string name="word_RB_142">sick</string>
-    <string name="word_RB_143">cough</string>
-    <string name="word_RB_144">hair</string>
-    <string name="word_RB_145">glasses</string>
-    <string name="word_RB_146">cap</string>
-    <string name="word_RB_147">tummy</string>
-    <string name="word_RB_148">leg</string>
-    <string name="word_RB_149">doctor</string>
-    <string name="word_RB_150">glasses</string>
-    <string name="word_RB_151">head</string>
-    <string name="word_RB_152">to fall</string>
-    <string name="word_RB_153">mouth</string>
-    <string name="word_RB_154">glasses</string>
-    <string name="word_RB_155">to stand</string>
-    <string name="word_RB_156">tree</string>
-    <string name="word_RB_157">market</string>
-    <string name="word_RB_158">stairs</string>
-    <string name="word_RB_159">to sing</string>
-    <string name="word_RB_160">to dance</string>
+    <string name="word_RB_141">frío</string>
+    <string name="word_RB_142">enfermo</string>
+    <string name="word_RB_143">la tos</string>
+    <string name="word_RB_144">el pelo</string>
+    <string name="word_RB_145">los lentes</string>
+    <string name="word_RB_146">la tapa</string>
+    <string name="word_RB_147">la barriga</string>
+    <string name="word_RB_148">la pierna</string>
+    <string name="word_RB_149">el doctor</string>
+    <string name="word_RB_150">los lentes</string>
+    <string name="word_RB_151">la cabeza</string>
+    <string name="word_RB_152">caer</string>
+    <string name="word_RB_153">la boca</string>
+    <string name="word_RB_154">los lentes</string>
+    <string name="word_RB_155">estar de pie</string>
+    <string name="word_RB_156">el árbol</string>
+    <string name="word_RB_157">El mercado</string>
+    <string name="word_RB_158">las escaleras</string>
+    <string name="word_RB_159">cantar</string>
+    <string name="word_RB_160">bailar</string>
     <!-- END -->
 </resources>

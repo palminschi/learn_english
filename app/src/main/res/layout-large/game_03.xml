@@ -1231,6 +1231,7 @@
                 android:weightSum="80">
 
                 <TextView
+                    android:visibility="gone"
                     android:onClick="onClick_NN"
                     android:id="@+id/let_NN"
                     android:layout_width="0dp"

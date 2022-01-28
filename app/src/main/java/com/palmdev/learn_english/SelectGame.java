@@ -3,6 +3,7 @@ package com.palmdev.learn_english;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
@@ -220,6 +221,6 @@ public class SelectGame extends AppCompatActivity {
     }
 
     public void onClickMore(View view) {
-        Toast.makeText(this,getString(R.string.more_onclick),Toast.LENGTH_SHORT).show();
+        startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://play.google.com/store/apps/details?id=com.palmdev.expressenglish")));
     }
 }

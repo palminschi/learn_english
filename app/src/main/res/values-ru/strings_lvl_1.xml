@@ -14,7 +14,7 @@
     <string name="word_translate_11">новый</string>
     <string name="word_translate_12">Автомобиль</string>
     <string name="word_translate_13">купить</string>
-    <string name="word_translate_14">ездить</string>
+    <string name="word_translate_14">водить</string>
     <string name="word_translate_15">Велосипед</string>
     <string name="word_translate_16">продавать</string>
     <string name="word_translate_17">Деньги</string>
@@ -36,7 +36,7 @@
     <string name="phrase_translate_11">Он тут <b>новый</b>.</string>
     <string name="phrase_translate_12"><b>Машина</b> сломана.</string>
     <string name="phrase_translate_13">Я <b>покупаю</b> билет.</string>
-    <string name="phrase_translate_14">Куда Вы <b>едете</b>?</string>
+    <string name="phrase_translate_14">водительские права</string>
     <string name="phrase_translate_15">Где я могу поставить <b>велосипед</b>?</string>
     <string name="phrase_translate_16">Вы <b>продаете</b> свою машину?</string>
     <string name="phrase_translate_17">У меня нет <b>денег</b>.</string>
@@ -83,7 +83,7 @@
     <string name="word_RT_11">девять</string>
     <string name="word_RT_12">Дерево</string>
     <string name="word_RT_13">бегать</string>
-    <string name="word_RT_14">ездить</string>
+    <string name="word_RT_14">водить</string>
     <string name="word_RT_15">Автошкола</string>
     <string name="word_RT_16">искать</string>
     <string name="word_RT_17">Город</string>

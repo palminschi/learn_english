@@ -3,6 +3,7 @@ package com.palmdev.learn_english;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.net.Uri;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
@@ -236,6 +237,10 @@ public class MainActivity extends AppCompatActivity {
 
         wordsNum.setText(wordsToString);
 
+    }
+
+    public void onClickButtonAd(View view) {
+        startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://play.google.com/store/apps/details?id=com.palmdev.expressenglish")));
     }
 
     public void onClickButtonOne(View view) {

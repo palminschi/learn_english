@@ -87,8 +87,8 @@
     <string name="phrase_13" translatable="false">I <b>buy</b> a ticket.</string>
     <string name="phrase_translate_13">Yo <b>compro</b> un billete.</string>
 
-    <string name="phrase_14" translatable="false">Where do you <b>drive</b>?</string>
-    <string name="phrase_translate_14">¿Dónde conduces?</string>
+    <string name="phrase_14" translatable="false"><b>driving</b> license</string>
+    <string name="phrase_translate_14">permiso de <b>conducir</b></string>
 
     <string name="phrase_15" translatable="false">Where can I stop the <b>bicycle</b>?</string>
     <string name="phrase_translate_15">¿Dónde puedo aparcar <b>la bicicleta</b>?</string>

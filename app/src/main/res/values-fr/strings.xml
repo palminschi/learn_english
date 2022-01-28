@@ -77,6 +77,8 @@
     <string name="game03_text_help">Écoutez, puis entrez le mot\n que vous avez entendu</string>
     <!-- Games -->
 
+    <string name="expressEnglishSubTitle">Lisez des livres et mémorisez des mots!</string>
+
     <!-- Lang -->
     <string name="languages">Langues</string>
     <string name="word_translate_301">le château</string>

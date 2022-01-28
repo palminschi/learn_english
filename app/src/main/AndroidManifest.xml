@@ -39,7 +39,8 @@
 
         <activity
             android:name="com.palmdev.learn_english.MainActivity"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -48,77 +49,88 @@
         </activity>
         <activity
             android:name="com.palmdev.learn_english.SelectDayActivity"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Repeat"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Shop"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Settings"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.PromoCode"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.SelectGame"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Games.Game_01"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Games.Game_01_End"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Games.Game_02"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Games.Game_03"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.SelectLang"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
@@ -128,14 +140,16 @@
 
         <activity
             android:name="com.palmdev.learn_english.Levels.Level1"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels_Start.Level1_Start"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
@@ -143,406 +157,464 @@
 
         <activity
             android:name="com.palmdev.learn_english.Levels.Level2"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels_Start.Level2_Start"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels.Level3"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels_Start.Level3_Start"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels.Level4"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels_Start.Level4_Start"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels.Level5"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels_Start.Level5_Start"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels.Level6"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels_Start.Level6_Start"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels.Level7"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels_Start.Level7_Start"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels.Level8"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels_Start.Level8_Start"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels.Level9"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels_Start.Level9_Start"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels.Level10"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels_Start.Level10_Start"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels.Level11"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels_Start.Level11_Start"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels.Level12"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels_Start.Level12_Start"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels.Level13"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels_Start.Level13_Start"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels.Level14"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels_Start.Level14_Start"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels.Level15"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels_Start.Level15_Start"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels.Level16"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels_Start.Level16_Start"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels.Level17"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels_Start.Level17_Start"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels.Level18"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels_Start.Level18_Start"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels.Level19"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels_Start.Level19_Start"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels.Level20"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels_Start.Level20_Start"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels.Level21"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels_Start.Level21_Start"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels.Level22"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels_Start.Level22_Start"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels.Level23"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels_Start.Level23_Start"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels.Level24"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels_Start.Level24_Start"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels.Level25"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels_Start.Level25_Start"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels.Level26"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels_Start.Level26_Start"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels.Level27"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels_Start.Level27_Start"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels.Level28"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels_Start.Level28_Start"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels.Level29"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels_Start.Level29_Start"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels.Level30"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
             android:name="com.palmdev.learn_english.Levels_Start.Level30_Start"
-            android:screenOrientation="portrait">
+            android:screenOrientation="portrait"
+            android:exported="false">
             <intent-filter>
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>

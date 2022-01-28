@@ -77,6 +77,9 @@
     <string name="game03_text_help">Escuche, luego ingrese\n la palabra que escuchó</string>
     <!-- Games -->
 
+    <string name="expressEnglish" translatable="false">Express English</string>
+    <string name="expressEnglishSubTitle">Lea libros y memorice palabras</string>
+    <string name="newApp" translatable="false">New App!</string>
     <!-- Lang -->
     <string name="languages">Languages</string>
     <string name="sub_title" translatable="false">Select your language:</string>

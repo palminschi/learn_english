@@ -14,7 +14,7 @@
     <string name="word_translate_11">nou</string>
     <string name="word_translate_12">Automobil</string>
     <string name="word_translate_13">a cumpăra</string>
-    <string name="word_translate_14">a merge</string>
+    <string name="word_translate_14">a conduce</string>
     <string name="word_translate_15">Bicicletă</string>
     <string name="word_translate_16">a vinde</string>
     <string name="word_translate_17">Bani</string>
@@ -36,7 +36,7 @@
     <string name="phrase_translate_11">El este <b>nou</b> aici.</string>
     <string name="phrase_translate_12"><b>Automobilul</b>este stricat.</string>
     <string name="phrase_translate_13">Eu <b>cumpăr</b> bilet.</string>
-    <string name="phrase_translate_14">Unde <b>mergeţi</b> Dumneavoastră?</string>
+    <string name="phrase_translate_14">permis de <b>conducere</b></string>
     <string name="phrase_translate_15">Unde eu pot să las <b>bicicleta</b>?</string>
     <string name="phrase_translate_16">Dumneavoastră <b>vindeţi</b> maşina?</string>
     <string name="phrase_translate_17">Eu nu am <b>bani</b>.</string>
@@ -83,7 +83,7 @@
     <string name="word_RT_11">nouă</string>
     <string name="word_RT_12">Copac</string>
     <string name="word_RT_13">a alerga</string>
-    <string name="word_RT_14">a merge</string>
+    <string name="word_RT_14">a conduce</string>
     <string name="word_RT_15">Scoală-Auto</string>
     <string name="word_RT_16">a căuta</string>
     <string name="word_RT_17">Oraş</string>
